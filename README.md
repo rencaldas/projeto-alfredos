@@ -2,8 +2,6 @@
 
 O **Projeto Alfredos** é um ecossistema de assistentes virtuais automatizados e hospedados em infraestrutura própria (*self-hosted*). O objetivo principal é centralizar e otimizar o consumo de dados diários, enviando notificações filtradas em tempo real diretamente para canais e bots do Telegram.
 
-*(Curiosidade: a ideia original era chamar o projeto de "Alfred", inspirado no mordomo do Batman. Como o nome já estava em uso no Telegram, a solução foi adotar a versão brasileira: **Alfredo**!).*
-
 ---
 
 ## Funcionalidades Atuais
