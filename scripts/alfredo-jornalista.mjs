@@ -4,19 +4,25 @@ const DEFAULT_FEED_URL = 'https://tecnoblog.net/feed/';
 const DEFAULT_LOOKBACK_MINUTES = 20;
 const DEFAULT_MAX_ITEMS = 5;
 
-const botToken = optionalEnv('TELEGRAM_NEWS_BOT_TOKEN', process.env.TELEGRAM_BOT_TOKEN);
-const chatId = optionalEnv('TELEGRAM_NEWS_CHAT_ID', process.env.TELEGRAM_CHAT_ID);
+const botToken = optionalEnv(
+  'ALFREDO_NEWS_BOT_TOKEN',
+  optionalEnv('TELEGRAM_NEWS_BOT_TOKEN', process.env.TELEGRAM_BOT_TOKEN)
+);
+const chatId = optionalEnv(
+  'ALFREDO_NEWS_BOT_CHAT_ID',
+  optionalEnv('TELEGRAM_NEWS_CHAT_ID', process.env.TELEGRAM_CHAT_ID)
+);
 const feedUrl = optionalEnv('RSS_FEED_URL', DEFAULT_FEED_URL);
 const lookbackMinutes = Number(optionalEnv('NEWS_LOOKBACK_MINUTES', String(DEFAULT_LOOKBACK_MINUTES)));
 const maxItems = Number(optionalEnv('NEWS_MAX_ITEMS', String(DEFAULT_MAX_ITEMS)));
 const forceLatest = optionalEnv('FORCE_SEND_LATEST', 'false').toLowerCase() === 'true';
 
 if (!botToken) {
-  requireEnv('TELEGRAM_BOT_TOKEN');
+  requireEnv('ALFREDO_NEWS_BOT_TOKEN');
 }
 
 if (!chatId) {
-  requireEnv('TELEGRAM_CHAT_ID');
+  requireEnv('ALFREDO_NEWS_BOT_CHAT_ID');
 }
 
 const response = await fetch(feedUrl, {

@@ -26,25 +26,16 @@ No repositorio do GitHub, acesse **Settings > Secrets and variables > Actions**.
 
 ### Secrets obrigatorios
 
-Use estes secrets se os dois fluxos usam o mesmo bot e chat:
-
-| Nome | Exemplo | Uso |
-| --- | --- | --- |
-| `TELEGRAM_BOT_TOKEN` | `123456:ABC...` | Token criado no BotFather |
-| `TELEGRAM_CHAT_ID` | `7829764630` | Chat, grupo ou canal que recebera as mensagens |
-
-### Secrets opcionais por fluxo
-
-Use estes secrets se cada automacao tiver um bot ou destino diferente:
+Crie estes quatro Repository Secrets:
 
 | Nome | Uso |
 | --- | --- |
-| `TELEGRAM_NEWS_BOT_TOKEN` | Token especifico do Alfredo Jornalista |
-| `TELEGRAM_NEWS_CHAT_ID` | Chat especifico do Alfredo Jornalista |
-| `TELEGRAM_GAMER_BOT_TOKEN` | Token especifico do Alfredo Gamer |
-| `TELEGRAM_GAMER_CHAT_ID` | Chat especifico do Alfredo Gamer |
+| `ALFREDO_NEWS_BOT_TOKEN` | Token do bot Alfredo Jornalista |
+| `ALFREDO_NEWS_BOT_CHAT_ID` | Chat do Alfredo Jornalista |
+| `ALFREDO_GAMER_BOT_TOKEN` | Token do bot Alfredo Gamer |
+| `ALFREDO_GAMER_BOT_CHAT_ID` | Chat do Alfredo Gamer |
 
-Quando os secrets especificos nao existem, os scripts usam `TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID`.
+Os nomes `TELEGRAM_*` antigos continuam aceitos como fallback, mas os workflows usam `ALFREDO_*` como padrao.
 
 ## Variaveis opcionais
 
@@ -87,15 +78,15 @@ npm run alfredo:gamer
 Antes de rodar localmente, exporte as variaveis de ambiente:
 
 ```bash
-export TELEGRAM_BOT_TOKEN="seu-token"
-export TELEGRAM_CHAT_ID="seu-chat-id"
+export ALFREDO_NEWS_BOT_TOKEN="seu-token"
+export ALFREDO_NEWS_BOT_CHAT_ID="seu-chat-id"
 ```
 
 No PowerShell:
 
 ```powershell
-$env:TELEGRAM_BOT_TOKEN="seu-token"
-$env:TELEGRAM_CHAT_ID="seu-chat-id"
+$env:ALFREDO_NEWS_BOT_TOKEN="seu-token"
+$env:ALFREDO_NEWS_BOT_CHAT_ID="seu-chat-id"
 ```
 
 Voce tambem pode usar `.env.example` como referencia para preencher as mesmas variaveis no seu terminal ou no GitHub Actions.

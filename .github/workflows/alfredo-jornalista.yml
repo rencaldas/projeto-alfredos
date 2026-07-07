@@ -38,16 +38,18 @@ jobs:
 
       - name: Validar configuracao
         run: |
-          if [ -z "${TELEGRAM_NEWS_BOT_TOKEN:-$TELEGRAM_BOT_TOKEN}" ]; then
-            echo "::error::Configure TELEGRAM_NEWS_BOT_TOKEN ou TELEGRAM_BOT_TOKEN em Settings > Secrets and variables > Actions."
+          if [ -z "${ALFREDO_NEWS_BOT_TOKEN:-${TELEGRAM_NEWS_BOT_TOKEN:-$TELEGRAM_BOT_TOKEN}}" ]; then
+            echo "::error::Configure ALFREDO_NEWS_BOT_TOKEN em Settings > Secrets and variables > Actions."
             exit 1
           fi
 
-          if [ -z "${TELEGRAM_NEWS_CHAT_ID:-$TELEGRAM_CHAT_ID}" ]; then
-            echo "::error::Configure TELEGRAM_NEWS_CHAT_ID ou TELEGRAM_CHAT_ID em Settings > Secrets and variables > Actions."
+          if [ -z "${ALFREDO_NEWS_BOT_CHAT_ID:-${TELEGRAM_NEWS_CHAT_ID:-$TELEGRAM_CHAT_ID}}" ]; then
+            echo "::error::Configure ALFREDO_NEWS_BOT_CHAT_ID em Settings > Secrets and variables > Actions."
             exit 1
           fi
         env:
+          ALFREDO_NEWS_BOT_TOKEN: ${{ secrets.ALFREDO_NEWS_BOT_TOKEN }}
+          ALFREDO_NEWS_BOT_CHAT_ID: ${{ secrets.ALFREDO_NEWS_BOT_CHAT_ID }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_NEWS_BOT_TOKEN: ${{ secrets.TELEGRAM_NEWS_BOT_TOKEN }}
@@ -56,6 +58,8 @@ jobs:
       - name: Executar Alfredo Jornalista
         run: npm run alfredo:jornalista
         env:
+          ALFREDO_NEWS_BOT_TOKEN: ${{ secrets.ALFREDO_NEWS_BOT_TOKEN }}
+          ALFREDO_NEWS_BOT_CHAT_ID: ${{ secrets.ALFREDO_NEWS_BOT_CHAT_ID }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_NEWS_BOT_TOKEN: ${{ secrets.TELEGRAM_NEWS_BOT_TOKEN }}

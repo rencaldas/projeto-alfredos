@@ -3,17 +3,23 @@ import { optionalEnv, requireEnv, sendTelegramPhoto } from './telegram.mjs';
 const DEFAULT_GAMERPOWER_URL = 'https://www.gamerpower.com/api/giveaways?platform=epic-games-store&type=game';
 const DEFAULT_MAX_ITEMS = 10;
 
-const botToken = optionalEnv('TELEGRAM_GAMER_BOT_TOKEN', process.env.TELEGRAM_BOT_TOKEN);
-const chatId = optionalEnv('TELEGRAM_GAMER_CHAT_ID', process.env.TELEGRAM_CHAT_ID);
+const botToken = optionalEnv(
+  'ALFREDO_GAMER_BOT_TOKEN',
+  optionalEnv('TELEGRAM_GAMER_BOT_TOKEN', process.env.TELEGRAM_BOT_TOKEN)
+);
+const chatId = optionalEnv(
+  'ALFREDO_GAMER_BOT_CHAT_ID',
+  optionalEnv('TELEGRAM_GAMER_CHAT_ID', process.env.TELEGRAM_CHAT_ID)
+);
 const gamerPowerUrl = optionalEnv('GAMERPOWER_URL', DEFAULT_GAMERPOWER_URL);
 const maxItems = Number(optionalEnv('GAMES_MAX_ITEMS', String(DEFAULT_MAX_ITEMS)));
 
 if (!botToken) {
-  requireEnv('TELEGRAM_BOT_TOKEN');
+  requireEnv('ALFREDO_GAMER_BOT_TOKEN');
 }
 
 if (!chatId) {
-  requireEnv('TELEGRAM_CHAT_ID');
+  requireEnv('ALFREDO_GAMER_BOT_CHAT_ID');
 }
 
 const response = await fetch(gamerPowerUrl, {
