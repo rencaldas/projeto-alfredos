@@ -1,6 +1,6 @@
-# Projeto Alfredo
+# Projeto Alfredos
 
-Automacoes para enviar noticias de tecnologia e jogos gratis ao Telegram. O projeto nasceu em n8n self-hosted com Docker e agora roda em GitHub Actions, sem servidor proprio ligado 24/7.
+Automacoes para enviar noticias de tecnologia e jogos gratis ao Telegram. O projeto nasceu em n8n self-hosted com Docker e foi migrado para GitHub Actions, sem servidor proprio ligado 24/7.
 
 ## O que roda hoje
 
@@ -17,6 +17,7 @@ scripts/alfredo-gamer.mjs
 scripts/telegram.mjs
 package.json
 .env.example
+imgs/
 ```
 
 ## Como configurar no GitHub
@@ -106,10 +107,8 @@ Voce tambem pode usar `.env.example` como referencia para preencher as mesmas va
 - Os tokens ficam em GitHub Actions Secrets, nao no JSON exportado do n8n.
 - O Alfredo Jornalista usa uma janela de tempo para reduzir repostagens, ja que o GitHub Actions nao mantem estado persistente entre execucoes como uma instancia self-hosted poderia manter.
 
-## Proximos passos recomendados
+## Seguranca
 
-- Inicializar este diretorio como repositorio Git, caso ainda nao tenha sido feito.
-- Publicar no GitHub.
-- Configurar os secrets e variables.
-- Rodar os dois workflows manualmente uma vez pela aba **Actions**.
-- Depois de validar, remover o container antigo do n8n se ele nao for mais usado.
+Tokens de bot nunca devem ser commitados no repositorio. Configure-os apenas como GitHub Actions Secrets.
+
+Se algum token for exposto fora do GitHub Secrets, gere um novo token no BotFather e atualize o secret correspondente.
