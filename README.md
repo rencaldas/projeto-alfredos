@@ -4,6 +4,7 @@ Automacoes para enviar noticias de tecnologia e jogos gratis ao Telegram. O proj
 
 ## O que roda hoje
 
+[![Alfredo Jornalista](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-jornalista.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-jornalista.yml)
 1. **Alfredo Jornalista**: consulta o feed RSS do Tecnoblog a cada 15 minutos e envia as noticias recentes ao Telegram.
 2. **Alfredo Gamer**: consulta diariamente a API da GamerPower para jogos gratuitos da Epic Games Store e envia imagem, link de resgate e detalhes ao Telegram.
 
