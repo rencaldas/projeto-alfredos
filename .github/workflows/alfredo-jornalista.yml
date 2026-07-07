@@ -1,0 +1,49 @@
+name: Alfredo Jornalista
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      force_latest:
+        description: 'Enviar as noticias mais recentes mesmo fora da janela de tempo'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: alfredo-jornalista
+  cancel-in-progress: true
+
+jobs:
+  enviar-noticias:
+    name: Enviar noticias ao Telegram
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Executar Alfredo Jornalista
+        run: npm run alfredo:jornalista
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_NEWS_BOT_TOKEN: ${{ secrets.TELEGRAM_NEWS_BOT_TOKEN }}
+          TELEGRAM_NEWS_CHAT_ID: ${{ secrets.TELEGRAM_NEWS_CHAT_ID }}
+          RSS_FEED_URL: ${{ vars.RSS_FEED_URL }}
+          NEWS_LOOKBACK_MINUTES: ${{ vars.NEWS_LOOKBACK_MINUTES }}
+          NEWS_MAX_ITEMS: ${{ vars.NEWS_MAX_ITEMS }}
+          FORCE_SEND_LATEST: ${{ inputs.force_latest || 'false' }}

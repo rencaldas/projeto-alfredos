@@ -1,0 +1,39 @@
+name: Alfredo Gamer
+
+on:
+  schedule:
+    # 02:00 UTC equivale a 23:00 em America/Sao_Paulo.
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: alfredo-gamer
+  cancel-in-progress: true
+
+jobs:
+  enviar-jogos-gratis:
+    name: Enviar jogos gratis ao Telegram
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Executar Alfredo Gamer
+        run: npm run alfredo:gamer
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_GAMER_BOT_TOKEN: ${{ secrets.TELEGRAM_GAMER_BOT_TOKEN }}
+          TELEGRAM_GAMER_CHAT_ID: ${{ secrets.TELEGRAM_GAMER_CHAT_ID }}
+          GAMERPOWER_URL: ${{ vars.GAMERPOWER_URL }}
+          GAMES_MAX_ITEMS: ${{ vars.GAMES_MAX_ITEMS }}
