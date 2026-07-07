@@ -9,6 +9,6 @@
     "alfredo:gamer": "node scripts/alfredo-gamer.mjs"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=24"
   }
 }
