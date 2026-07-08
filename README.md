@@ -12,8 +12,11 @@ Automacoes para enviar noticias de tecnologia e jogos gratis ao Telegram. O proj
 ```text
 .github/workflows/alfredo-jornalista.yml
 .github/workflows/alfredo-gamer.yml
+.github/state/news-history.json
+.github/state/games-history.json
 scripts/alfredo-jornalista.mjs
 scripts/alfredo-gamer.mjs
+scripts/history.mjs
 scripts/telegram.mjs
 package.json
 .env.example
@@ -44,10 +47,9 @@ Tambem em **Settings > Secrets and variables > Actions**, aba **Variables**, voc
 | Nome | Padrao | Uso |
 | --- | --- | --- |
 | `RSS_FEED_URL` | `https://tecnoblog.net/feed/` | Feed RSS do Alfredo Jornalista |
-| `NEWS_LOOKBACK_MINUTES` | `20` | Janela usada para evitar repostar noticias antigas |
-| `NEWS_MAX_ITEMS` | `5` | Maximo de noticias por execucao |
+| `NEWS_MAX_ITEMS` | `5` | Maximo de noticias ineditas por execucao |
 | `GAMERPOWER_URL` | API da GamerPower para Epic Games Store | Endpoint do Alfredo Gamer |
-| `GAMES_MAX_ITEMS` | `10` | Maximo de jogos por execucao |
+| `GAMES_MAX_ITEMS` | `10` | Maximo de jogos ineditos por execucao |
 
 ## Agendamentos
 
@@ -64,7 +66,7 @@ Observacao: workflows agendados no GitHub Actions podem atrasar alguns minutos e
 
 No GitHub, acesse **Actions**, escolha o workflow e clique em **Run workflow**.
 
-Para o **Alfredo Jornalista**, a opcao `force_latest=true` envia as noticias mais recentes mesmo que estejam fora da janela configurada. Ela e util para validar o bot logo depois de configurar os secrets.
+Os bots registram automaticamente o que ja foi enviado em `.github/state/news-history.json` e `.github/state/games-history.json`. Em execucoes manuais, eles continuam enviando somente itens ineditos.
 
 ## Como testar localmente
 
@@ -96,7 +98,7 @@ Voce tambem pode usar `.env.example` como referencia para preencher as mesmas va
 - Nao ha container Docker nem painel do n8n para manter.
 - Os workflows ficam versionados junto com o codigo.
 - Os tokens ficam em GitHub Actions Secrets, nao no JSON exportado do n8n.
-- O Alfredo Jornalista usa uma janela de tempo para reduzir repostagens, ja que o GitHub Actions nao mantem estado persistente entre execucoes como uma instancia self-hosted poderia manter.
+- Os Alfredos usam arquivos de historico versionados para evitar repostagens mesmo em execucoes efemeras do GitHub Actions.
 
 ## Seguranca
 

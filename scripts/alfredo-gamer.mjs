@@ -1,7 +1,9 @@
+import { loadHistory, markSent, saveHistory, uniqueUnsent } from './history.mjs';
 import { optionalEnv, requireEnv, sendTelegramPhoto } from './telegram.mjs';
 
 const DEFAULT_GAMERPOWER_URL = 'https://www.gamerpower.com/api/giveaways?platform=epic-games-store&type=game';
 const DEFAULT_MAX_ITEMS = 10;
+const HISTORY_PATH = '.github/state/games-history.json';
 
 const botToken = optionalEnv(
   'ALFREDO_GAMER_BOT_TOKEN',
@@ -34,14 +36,23 @@ if (!response.ok) {
 }
 
 const payload = await response.json();
+const history = await loadHistory(HISTORY_PATH);
 const giveaways = Array.isArray(payload) ? payload : [];
-const activeGiveaways = giveaways
-  .filter((game) => game.title && game.thumbnail && game.open_giveaway)
+const sortedActiveGiveaways = giveaways
+  .map((game) => ({
+    ...game,
+    historyId: getGiveawayId(game),
+    publishedAt: parseGiveawayDate(game.published_date)
+  }))
+  .filter((game) => game.historyId && game.title && game.thumbnail && game.open_giveaway)
   .filter((game) => !game.status || String(game.status).toLowerCase() === 'active')
-  .slice(0, maxItems);
+  .sort((a, b) => a.publishedAt - b.publishedAt);
+
+const activeGiveaways = uniqueUnsent(sortedActiveGiveaways, history, (game) => game.historyId).slice(0, maxItems);
 
 if (activeGiveaways.length === 0) {
-  console.log('Nenhum jogo gratuito ativo encontrado na GamerPower.');
+  await saveHistory(history);
+  console.log('Nenhum jogo gratuito inedito encontrado na GamerPower.');
   process.exit(0);
 }
 
@@ -64,5 +75,20 @@ Termina em: ${game.end_date || 'Nao informado'}`;
     caption
   });
 
+  markSent(history, game.historyId);
+  await saveHistory(history);
   console.log(`Jogo enviado: ${game.title}`);
+}
+
+function getGiveawayId(game) {
+  if (game.id !== undefined && game.id !== null && String(game.id).trim() !== '') {
+    return String(game.id).trim();
+  }
+
+  return typeof game.open_giveaway === 'string' ? game.open_giveaway.trim() : '';
+}
+
+function parseGiveawayDate(value) {
+  const date = value ? new Date(value) : null;
+  return date && !Number.isNaN(date.valueOf()) ? date : new Date(0);
 }

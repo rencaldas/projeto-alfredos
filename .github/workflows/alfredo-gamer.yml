@@ -4,10 +4,10 @@ on:
   schedule:
     # 02:00 UTC equivale a 23:00 em America/Sao_Paulo.
     - cron: '0 2 * * *'
-  workflow_dispatch:
+  workflow_dispatch: {}
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: alfredo-gamer
@@ -58,3 +58,18 @@ jobs:
           TELEGRAM_GAMER_CHAT_ID: ${{ secrets.TELEGRAM_GAMER_CHAT_ID }}
           GAMERPOWER_URL: ${{ vars.GAMERPOWER_URL }}
           GAMES_MAX_ITEMS: ${{ vars.GAMES_MAX_ITEMS }}
+
+      - name: Versionar historico
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/state/games-history.json
+
+          if git diff --cached --quiet; then
+            echo "Historico sem alteracoes."
+            exit 0
+          fi
+
+          git commit -m "Atualiza historico do Alfredo Gamer"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin HEAD:"$GITHUB_REF_NAME"

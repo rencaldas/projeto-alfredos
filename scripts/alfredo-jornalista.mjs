@@ -1,8 +1,9 @@
+import { loadHistory, markSent, saveHistory, uniqueUnsent } from './history.mjs';
 import { optionalEnv, requireEnv, sendTelegramMessage } from './telegram.mjs';
 
 const DEFAULT_FEED_URL = 'https://tecnoblog.net/feed/';
-const DEFAULT_LOOKBACK_MINUTES = 20;
 const DEFAULT_MAX_ITEMS = 5;
+const HISTORY_PATH = '.github/state/news-history.json';
 
 const botToken = optionalEnv(
   'ALFREDO_NEWS_BOT_TOKEN',
@@ -13,9 +14,7 @@ const chatId = optionalEnv(
   optionalEnv('TELEGRAM_NEWS_CHAT_ID', process.env.TELEGRAM_CHAT_ID)
 );
 const feedUrl = optionalEnv('RSS_FEED_URL', DEFAULT_FEED_URL);
-const lookbackMinutes = Number(optionalEnv('NEWS_LOOKBACK_MINUTES', String(DEFAULT_LOOKBACK_MINUTES)));
 const maxItems = Number(optionalEnv('NEWS_MAX_ITEMS', String(DEFAULT_MAX_ITEMS)));
-const forceLatest = optionalEnv('FORCE_SEND_LATEST', 'false').toLowerCase() === 'true';
 
 if (!botToken) {
   requireEnv('ALFREDO_NEWS_BOT_TOKEN');
@@ -36,19 +35,20 @@ if (!response.ok) {
 }
 
 const xml = await response.text();
+const history = await loadHistory(HISTORY_PATH);
 const items = parseRssItems(xml)
   .map((item) => ({
     ...item,
     publishedAt: item.pubDate ? new Date(item.pubDate) : null
   }))
-  .filter((item) => item.title && item.link && item.publishedAt && !Number.isNaN(item.publishedAt.valueOf()))
+  .filter((item) => item.id && item.title && item.link && item.publishedAt && !Number.isNaN(item.publishedAt.valueOf()))
   .sort((a, b) => a.publishedAt - b.publishedAt);
 
-const cutoff = Date.now() - lookbackMinutes * 60 * 1000;
-const selectedItems = (forceLatest ? items.slice(-maxItems) : items.filter((item) => item.publishedAt.valueOf() >= cutoff).slice(-maxItems));
+const selectedItems = uniqueUnsent(items, history, (item) => item.id).slice(0, maxItems);
 
 if (selectedItems.length === 0) {
-  console.log(`Nenhuma noticia nova encontrada nos ultimos ${lookbackMinutes} minutos.`);
+  await saveHistory(history);
+  console.log('Nenhuma noticia inedita encontrada no RSS.');
   process.exit(0);
 }
 
@@ -72,6 +72,8 @@ ${item.link}`;
     text
   });
 
+  markSent(history, item.id);
+  await saveHistory(history);
   console.log(`Noticia enviada: ${item.title}`);
 }
 
@@ -79,9 +81,11 @@ function parseRssItems(xmlText) {
   return collectBlocks(xmlText, 'item').map((block) => ({
     title: cleanText(readTag(block, 'title')),
     link: cleanText(readTag(block, 'link')),
+    guid: cleanText(readTag(block, 'guid')),
     pubDate: cleanText(readTag(block, 'pubDate')),
     categories: readTags(block, 'category').map(cleanText).filter(Boolean),
-    contentSnippet: summarizeHtml(readTag(block, 'description') || readTag(block, 'content:encoded'))
+    contentSnippet: summarizeHtml(readTag(block, 'description') || readTag(block, 'content:encoded')),
+    id: cleanText(readTag(block, 'guid')) || cleanText(readTag(block, 'link'))
   }));
 }
 
