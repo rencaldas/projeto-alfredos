@@ -6,7 +6,8 @@
   "description": "Automacoes do Projeto Alfredo migradas do n8n para GitHub Actions.",
   "scripts": {
     "alfredo:jornalista": "node scripts/alfredo-jornalista.mjs",
-    "alfredo:gamer": "node scripts/alfredo-gamer.mjs"
+    "alfredo:gamer": "node scripts/alfredo-gamer.mjs",
+    "alfredo:sentinela": "node scripts/alfredo-sentinela.mjs"
   },
   "engines": {
     "node": ">=24"
