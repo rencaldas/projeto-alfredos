@@ -52,7 +52,7 @@ for (const repo of selectedRepositories) {
     const audit = await auditRepository(repo);
     audits.push(audit);
     allDependencies.push(...audit.dependencies);
-    console.log(`${repo.full_name}: ${audit.dependencies.length} dependencias detectadas.`);
+    console.log(`${repo.full_name}: ${audit.dependencies.length} dependências detectadas.`);
   } catch (error) {
     audits.push({
       repo,
@@ -113,7 +113,7 @@ for (const alert of unsentAlerts) {
 }
 
 await saveHistory(history);
-console.log(`Relatorio enviado. Repositorios: ${selectedRepositories.length}. Alertas novos: ${unsentAlerts.length}.`);
+console.log(`Relatório enviado. Repositórios: ${selectedRepositories.length}. Alertas novos: ${unsentAlerts.length}.`);
 
 async function discoverRepositories(targets) {
   if (targets.length === 0) {
@@ -145,7 +145,7 @@ async function auditRepository(repo) {
   const selectedFiles = selectDependencyFiles(byPath);
   const dependencies = [];
   const ecosystems = new Set();
-  const errors = tree.truncated ? ['A arvore de arquivos veio truncada pela API do GitHub; alguns manifestos podem nao ter sido analisados.'] : [];
+  const errors = tree.truncated ? ['A árvore de arquivos veio truncada pela API do GitHub; alguns manifestos podem não ter sido analisados.'] : [];
 
   for (const selected of selectedFiles) {
     const content = await readRepositoryFile(repo.full_name, selected.path, branch);
@@ -208,7 +208,7 @@ function isIgnoredPath(path) {
 async function readRepositoryFile(fullName, path, ref) {
   const file = await githubJson(`/repos/${fullName}/contents/${encodePath(path)}?ref=${encodeURIComponent(ref)}`);
   if (file.encoding !== 'base64' || !file.content) {
-    throw new Error(`Nao foi possivel ler ${path}.`);
+    throw new Error(`Nao foi possível ler ${path}.`);
   }
 
   return Buffer.from(file.content, 'base64').toString('utf8');
@@ -386,7 +386,7 @@ async function annotateLatestVersions(dependencies) {
       const latest = await latestVersion(item);
       if (latest) cache.set(`${item.ecosystem}:${item.name}`, latest);
     } catch (error) {
-      console.warn(`Nao foi possivel consultar versao recente de ${item.ecosystem}:${item.name}: ${error.message}`);
+      console.warn(`Nao foi possível consultar versão recente de ${item.ecosystem}:${item.name}: ${error.message}`);
     }
   }
 
@@ -460,30 +460,30 @@ function buildSummary({ audits, allDependencies, vulnerableAlerts, outdatedAlert
 
 function buildTelegramReport(summary, alerts) {
   const lines = [
-    'Alfredo Sentinela - relatorio de seguranca',
+    'Alfredo Sentinela - relatório de segurança',
     '',
-    `Repositorios analisados: ${summary.repositories}`,
-    `Dependencias verificadas: ${summary.dependencies}`,
+    `Repositórios analisados: ${summary.repositories}`,
+    `Dependências verificadas: ${summary.dependencies}`,
     `Ecossistemas detectados: ${summary.ecosystems.join(', ') || 'nenhum'}`,
-    `Projetos com vulnerabilidades criticas: ${summary.criticalProjects}`,
+    `Projetos com vulnerabilidades críticas: ${summary.criticalProjects}`,
     `Projetos com vulnerabilidades: ${summary.vulnerableProjects}`,
-    `Projetos com atualizacoes disponiveis: ${summary.outdatedProjects}`,
-    `Vulnerabilidades encontradas: ${summary.vulnerabilities} (${summary.criticalVulnerabilities} criticas ou exploradas)`,
-    `Atualizacoes relevantes: ${summary.updates}`,
+    `Projetos com atualizações disponiveis: ${summary.outdatedProjects}`,
+    `Vulnerabilidades encontradas: ${summary.vulnerabilities} (${summary.criticalVulnerabilities} críticas ou exploradas)`,
+    `Atualizações relevantes: ${summary.updates}`,
     ''
   ];
 
   if (alerts.length === 0) {
-    lines.push('Nenhum alerta inedito para enviar nesta execucao.');
+    lines.push('Nenhum alerta inédito para enviar nesta execução.');
   } else {
-    lines.push('Alertas ineditos:');
+    lines.push('Alertas inéditos:');
     for (const alert of alerts) {
       lines.push('', formatAlert(alert));
     }
   }
 
   if (summary.errors.length > 0) {
-    lines.push('', 'Repositorios com erro de auditoria:');
+    lines.push('', 'Repositórios com erro de auditoria:');
     for (const error of summary.errors.slice(0, 5)) {
       lines.push(`- ${error}`);
     }
@@ -501,24 +501,24 @@ function formatAlert(alert) {
     const aliases = [vulnerability.id, ...(vulnerability.aliases || [])].filter(Boolean).join(', ');
     return [
       `- [${severity}] ${alert.repo.full_name}`,
-      `  Dependencia: ${dep.name} (${dep.ecosystem})`,
-      `  Versao instalada: ${dep.version}`,
-      `  Versao que corrige: ${fixed || 'verificar advisory'}`,
+      `  Dependência: ${dep.name} (${dep.ecosystem})`,
+      `  Versão instalada: ${dep.version}`,
+      `  Versão que corrige: ${fixed || 'verificar advisory'}`,
       `  Vulnerabilidade: ${aliases}`,
       `  Arquivo: ${dep.file}`,
-      `  Recomendacao: atualizar ${dep.name}${fixed ? ` para ${fixed} ou superior` : ' para a versao segura indicada pelo mantenedor'}.`
+      `  Recomendação: atualizar ${dep.name}${fixed ? ` para ${fixed} ou superior` : ' para a versão segura indicada pelo mantenedor'}.`
     ].join('\n');
   }
 
   const dep = alert.dependency;
   return [
     `- [UPDATE] ${alert.repo.full_name}`,
-    `  Dependencia: ${dep.name} (${dep.ecosystem})`,
-    `  Versao instalada: ${dep.version}`,
-    `  Versao mais recente: ${dep.latestVersion}`,
+    `  Dependência: ${dep.name} (${dep.ecosystem})`,
+    `  Versão instalada: ${dep.version}`,
+    `  Versão mais recente: ${dep.latestVersion}`,
     `  Tipo: ${alert.update.kind}`,
     `  Arquivo: ${dep.file}`,
-    `  Recomendacao: planejar atualizacao e validar testes do projeto.`
+    `  Recomendação: planejar atualizacao e validar testes do projeto.`
   ].join('\n');
 }
 
