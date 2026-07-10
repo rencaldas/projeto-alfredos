@@ -1,6 +1,6 @@
 # Projeto Alfredos
 
-Automacoes para enviar noticias de tecnologia, jogos gratis e alertas de seguranca ao Telegram. O projeto nasceu em n8n self-hosted com Docker e foi migrado para GitHub Actions, sem servidor proprio ligado 24/7.
+Automações para enviar notícias de tecnologia, jogos grátis e alertas de segurança ao Telegram. O projeto nasceu em n8n self-hosted com Docker e foi migrado para GitHub Actions, sem servidor próprio ligado 24/7.
 
 ## O que roda hoje
 
@@ -8,9 +8,9 @@ Automacoes para enviar noticias de tecnologia, jogos gratis e alertas de seguran
 [![Alfredo Gamer](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-gamer.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-gamer.yml)
 [![Alfredo Sentinela](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-sentinela.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-sentinela.yml)
 
-1. **Alfredo Jornalista**: consulta o feed RSS do Tecnoblog a cada 15 minutos e envia as noticias ineditas ao Telegram.
-2. **Alfredo Gamer**: consulta diariamente a API da GamerPower para jogos gratuitos ineditos da Epic Games Store e envia imagem, link de resgate e detalhes ao Telegram.
-3. **Alfredo Sentinela**: audita periodicamente os repositorios do GitHub, detecta dependencias por lockfiles/manifestos, consulta vulnerabilidades publicas e avisa sobre riscos ou atualizacoes relevantes.
+1. **Alfredo Jornalista**: consulta o feed RSS do Tecnoblog a cada 15 minutos e envia as notícias inéditas ao Telegram.
+2. **Alfredo Gamer**: consulta diariamente a API da GamerPower para jogos gratuitos inéditos da Epic Games Store e envia imagem, link de resgate e detalhes ao Telegram.
+3. **Alfredo Sentinela**: audita periodicamente os repositórios do GitHub, detecta dependências por lockfiles/manifestos, consulta vulnerabilidades públicas e avisa sobre riscos ou atualizações relevantes.
 
 ## Estrutura
 
@@ -33,9 +33,9 @@ imgs/
 
 ## Alfredo Sentinela
 
-O Sentinela funciona como um auditor de seguranca sem servidor. Ele usa um token do GitHub para listar repositorios, ler a arvore de arquivos e baixar apenas os arquivos de dependencias necessarios. Quando existem locks, eles sao priorizados porque representam as versoes efetivamente instaladas.
+O Sentinela funciona como um auditor de segurança sem servidor. Ele usa um token do GitHub para listar repositórios, ler a árvore de arquivos e baixar apenas os arquivos de dependências necessários. Quando existem locks, eles são priorizados porque representam as versões efetivamente instaladas.
 
-Ecossistemas detectados nesta versao:
+Ecossistemas detectados nesta versão:
 
 - Node.js: `package-lock.json`, `pnpm-lock.yaml`, `yarn.lock`
 - PHP/Composer: `composer.lock`
@@ -46,25 +46,25 @@ Ecossistemas detectados nesta versao:
 - Rust: `Cargo.lock`
 - Docker: `Dockerfile`, `*.Dockerfile`
 
-As vulnerabilidades sao consultadas na OSV quando o ecossistema e suportado. Versoes mais recentes sao consultadas nos registros publicos de cada ecossistema quando possivel: npm, PyPI, Packagist, Go proxy, Maven Central, NuGet e crates.io.
+As vulnerabilidades são consultadas na OSV quando o ecossistema é suportado. Versões mais recentes são consultadas nos registros públicos de cada ecossistema quando possível: npm, PyPI, Packagist, Go proxy, Maven Central, NuGet e crates.io.
 
-O relatorio enviado ao Telegram inclui:
+O relatório enviado ao Telegram inclui:
 
-- quantidade de repositorios analisados;
-- quantidade de dependencias verificadas;
+- quantidade de repositórios analisados;
+- quantidade de dependências verificadas;
 - ecossistemas detectados;
-- projetos com vulnerabilidades criticas;
+- projetos com vulnerabilidades críticas;
 - projetos com vulnerabilidades;
-- projetos com atualizacoes disponiveis;
-- dependencias afetadas, versao instalada, versao de correcao quando disponivel e recomendacao.
+- projetos com atualizações disponíveis;
+- dependências afetadas, versão instalada, versão de correção quando disponível e recomendação.
 
-Alertas ja enviados ficam registrados em `.github/state/sentinela-history.json`, evitando notificacoes duplicadas para a mesma dependencia, versao e vulnerabilidade.
+Alertas já enviados ficam registrados em `.github/state/sentinela-history.json`, evitando notificações duplicadas para a mesma dependência, versão e vulnerabilidade.
 
 ## Como configurar no GitHub
 
-No repositorio do GitHub, acesse **Settings > Secrets and variables > Actions**.
+No repositório do GitHub, acesse **Settings > Secrets and variables > Actions**.
 
-### Secrets obrigatorios
+### Secrets obrigatórios
 
 Crie estes Repository Secrets:
 
@@ -76,28 +76,28 @@ Crie estes Repository Secrets:
 | `ALFREDO_GAMER_BOT_CHAT_ID` | Chat do Alfredo Gamer |
 | `ALFREDO_SENTINELA_BOT_TOKEN` | Token do bot Alfredo Sentinela |
 | `ALFREDO_SENTINELA_BOT_CHAT_ID` | Chat do Alfredo Sentinela |
-| `ALFREDO_SENTINELA_GITHUB_TOKEN` | Personal Access Token para ler os repositorios auditados |
+| `ALFREDO_SENTINELA_GITHUB_TOKEN` | Personal Access Token para ler os repositórios auditados |
 
-Para repositorios privados, use um Personal Access Token com permissao de leitura nos repositorios que serao auditados. Em tokens fine-grained, conceda acesso aos repositorios desejados com permissao **Contents: Read**. Para auditar organizacoes, o token tambem precisa ter acesso aos repositorios da organizacao.
+Para repositórios privados, use um Personal Access Token com permissão de leitura nos repositórios que serão auditados. Em tokens fine-grained, conceda acesso aos repositórios desejados com permissão **Contents: Read**. Para auditar organizações, o token também precisa ter acesso aos repositórios da organização.
 
 Os nomes `TELEGRAM_*` antigos continuam aceitos como fallback para os bots do Telegram.
 
-## Variaveis opcionais
+## Variáveis opcionais
 
-Tambem em **Settings > Secrets and variables > Actions**, aba **Variables**, voce pode ajustar:
+Também em **Settings > Secrets and variables > Actions**, aba **Variables**, você pode ajustar:
 
-| Nome | Padrao | Uso |
+| Nome | Padrão | Uso |
 | --- | --- | --- |
 | `RSS_FEED_URL` | `https://tecnoblog.net/feed/` | Feed RSS do Alfredo Jornalista |
-| `NEWS_MAX_ITEMS` | `5` | Maximo de noticias ineditas por execucao |
+| `NEWS_MAX_ITEMS` | `5` | Máximo de notícias inéditas por execução |
 | `GAMERPOWER_URL` | API da GamerPower para Epic Games Store | Endpoint do Alfredo Gamer |
-| `GAMES_MAX_ITEMS` | `10` | Maximo de jogos ineditos por execucao |
-| `SENTINELA_TARGETS` | vazio | Alvos do Sentinela. Vazio lista repositorios acessiveis pelo token. Aceita `org:minha-org`, `user:meu-user` ou `owner/repo`, separados por virgula |
-| `SENTINELA_MAX_REPOS` | `100` | Limite de repositorios por execucao |
-| `SENTINELA_MAX_ALERTS` | `25` | Limite de alertas ineditos detalhados no Telegram |
-| `SENTINELA_MAX_DEPENDENCIES_PER_REPO` | `800` | Limite de dependencias analisadas por repositorio |
-| `SENTINELA_INCLUDE_ARCHIVED` | `false` | Inclui repositorios arquivados na auditoria |
-| `SENTINELA_UPDATE_MAJOR_GAP` | `1` | Quantos majors de diferenca tornam uma atualizacao relevante |
+| `GAMES_MAX_ITEMS` | `10` | Máximo de jogos inéditos por execução |
+| `SENTINELA_TARGETS` | vazio | Alvos do Sentinela. Vazio lista repositórios acessíveis pelo token. Aceita `org:minha-org`, `user:meu-user` ou `owner/repo`, separados por vírgula |
+| `SENTINELA_MAX_REPOS` | `100` | Limite de repositórios por execução |
+| `SENTINELA_MAX_ALERTS` | `25` | Limite de alertas inéditos detalhados no Telegram |
+| `SENTINELA_MAX_DEPENDENCIES_PER_REPO` | `800` | Limite de dependências analisadas por repositório |
+| `SENTINELA_INCLUDE_ARCHIVED` | `false` | Inclui repositórios arquivados na auditoria |
+| `SENTINELA_UPDATE_MAJOR_GAP` | `1` | Quantos majors de diferença tornam uma atualização relevante |
 
 Exemplo de `SENTINELA_TARGETS`:
 
@@ -105,9 +105,9 @@ Exemplo de `SENTINELA_TARGETS`:
 org:minha-empresa,rencaldas/projeto-alfredos,user:rencaldas
 ```
 
-## Persistencia
+## Persistência
 
-Os bots registram automaticamente o que ja foi enviado em arquivos versionados:
+Os bots registram automaticamente o que já foi enviado em arquivos versionados:
 
 ```text
 .github/state/news-history.json
@@ -115,25 +115,25 @@ Os bots registram automaticamente o que ja foi enviado em arquivos versionados:
 .github/state/sentinela-history.json
 ```
 
-Nas proximas execucoes, itens ja registrados nao sao reenviados. Os workflows fazem commit e push desses arquivos somente quando houver alteracao.
+Nas próximas execuções, itens já registrados não são reenviados. Os workflows fazem commit e push desses arquivos somente quando houver alteração.
 
 ## Agendamentos
 
-| Workflow | Arquivo | Cron | Horario esperado |
+| Workflow | Arquivo | Cron | Horário esperado |
 | --- | --- | --- | --- |
 | Alfredo Jornalista | `.github/workflows/alfredo-jornalista.yml` | `*/15 * * * *` | A cada 15 minutos |
 | Alfredo Gamer | `.github/workflows/alfredo-gamer.yml` | `0 2 * * *` | 23:00 em America/Sao_Paulo |
 | Alfredo Sentinela | `.github/workflows/alfredo-sentinela.yml` | `0 9 * * *` | 06:00 em America/Sao_Paulo |
 
-O cron do GitHub Actions usa UTC. Como Brasilia esta em UTC-3, `0 9 * * *` dispara as 06:00 no horario de Brasilia.
+O cron do GitHub Actions usa UTC. Como Brasília está em UTC-3, `0 9 * * *` dispara às 06:00 no horário de Brasília.
 
-Observacao: workflows agendados no GitHub Actions podem atrasar alguns minutos em horarios de alta demanda. Isso e normal da plataforma.
+Observação: workflows agendados no GitHub Actions podem atrasar alguns minutos em horários de alta demanda. Isso é normal da plataforma.
 
 ## Como executar manualmente
 
 No GitHub, acesse **Actions**, escolha o workflow e clique em **Run workflow**.
 
-Mesmo em execucoes manuais, os bots continuam enviando somente itens ineditos quando usam historico.
+Mesmo em execuções manuais, os bots continuam enviando somente itens inéditos quando usam histórico.
 
 ## Como testar localmente
 
@@ -145,7 +145,7 @@ npm run alfredo:gamer
 npm run alfredo:sentinela
 ```
 
-Antes de rodar localmente, exporte as variaveis de ambiente do bot desejado:
+Antes de rodar localmente, exporte as variáveis de ambiente do bot desejado:
 
 ```bash
 export ALFREDO_SENTINELA_GITHUB_TOKEN="seu-token-github"
@@ -161,17 +161,17 @@ $env:ALFREDO_SENTINELA_BOT_TOKEN="seu-token-telegram"
 $env:ALFREDO_SENTINELA_BOT_CHAT_ID="seu-chat-id"
 ```
 
-Voce tambem pode usar `.env.example` como referencia para preencher as mesmas variaveis no seu terminal ou no GitHub Actions.
+Você também pode usar `.env.example` como referência para preencher as mesmas variáveis no seu terminal ou no GitHub Actions.
 
-## Diferencas em relacao ao n8n
+## Diferenças em relação ao n8n
 
-- Nao ha container Docker nem painel do n8n para manter.
-- Os workflows ficam versionados junto com o codigo.
-- Os tokens ficam em GitHub Actions Secrets, nao no JSON exportado do n8n.
-- Os Alfredos usam arquivos de historico versionados para evitar repostagens mesmo em execucoes efemeras do GitHub Actions.
+- Não há container Docker nem painel do n8n para manter.
+- Os workflows ficam versionados junto com o código.
+- Os tokens ficam em GitHub Actions Secrets, não no JSON exportado do n8n.
+- Os Alfredos usam arquivos de histórico versionados para evitar repostagens mesmo em execuções efêmeras do GitHub Actions.
 
-## Seguranca
+## Segurança
 
-Tokens de bot e Personal Access Tokens nunca devem ser commitados no repositorio. Configure-os apenas como GitHub Actions Secrets.
+Tokens de bot e Personal Access Tokens nunca devem ser commitados no repositório. Configure-os apenas como GitHub Actions Secrets.
 
 Se algum token for exposto fora do GitHub Secrets, gere um novo token no BotFather ou no GitHub e atualize o secret correspondente.
