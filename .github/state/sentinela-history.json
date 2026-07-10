@@ -1,3 +1,29 @@
 {
-  "sent": []
+  "sent": [
+    "update|rencaldas/seslock-holmes|npm|@asamuzakjp/css-color|3.2.0|6.0.4",
+    "update|rencaldas/seslock-holmes|npm|lru-cache|10.4.3|11.5.2",
+    "update|rencaldas/seslock-holmes|npm|@babel/code-frame|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/compat-data|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/core|7.29.7|8.0.1",
+    "update|rencaldas/seslock-holmes|npm|@babel/generator|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/helper-compilation-targets|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/helper-globals|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/helper-module-imports|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/helper-module-transforms|7.29.7|8.0.1",
+    "update|rencaldas/seslock-holmes|npm|@babel/helper-plugin-utils|7.29.7|8.0.1",
+    "update|rencaldas/seslock-holmes|npm|@babel/helper-string-parser|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/helper-validator-identifier|7.29.7|8.0.4",
+    "update|rencaldas/seslock-holmes|npm|@babel/helper-validator-option|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/helpers|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/parser|7.29.7|8.0.4",
+    "update|rencaldas/seslock-holmes|npm|@babel/runtime|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/template|7.29.7|8.0.0",
+    "update|rencaldas/seslock-holmes|npm|@babel/traverse|7.29.7|8.0.4",
+    "update|rencaldas/seslock-holmes|npm|@babel/types|7.29.7|8.0.4",
+    "update|rencaldas/seslock-holmes|npm|@csstools/color-helpers|5.1.0|6.1.0",
+    "update|rencaldas/seslock-holmes|npm|@csstools/css-calc|2.1.4|3.2.1",
+    "update|rencaldas/seslock-holmes|npm|@csstools/css-color-parser|3.1.0|4.1.9",
+    "update|rencaldas/seslock-holmes|npm|@csstools/css-parser-algorithms|3.0.5|4.0.0",
+    "update|rencaldas/seslock-holmes|npm|@csstools/css-tokenizer|3.0.4|4.0.0"
+  ]
 }
