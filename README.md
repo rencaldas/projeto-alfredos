@@ -31,38 +31,6 @@ package.json
 imgs/
 ```
 
-## Alfredo Sentinela
-
-O Sentinela funciona como um auditor de segurança sem servidor. Ele usa um token do GitHub para listar repositórios, ler a árvore de arquivos e baixar apenas os arquivos de dependências necessários. Quando existem locks, eles são priorizados porque representam as versões efetivamente instaladas.
-
-Ecossistemas detectados nesta versão:
-
-- Node.js: `package-lock.json`, `pnpm-lock.yaml`, `yarn.lock`
-- PHP/Composer: `composer.lock`
-- Go: `go.sum`
-- Python: `poetry.lock`, `Pipfile.lock`, `requirements.txt`
-- Java: `pom.xml`, `build.gradle`, `build.gradle.kts`
-- .NET: `packages.lock.json`, `*.csproj`
-- Rust: `Cargo.lock`
-- Docker: `Dockerfile`, `*.Dockerfile`
-
-As vulnerabilidades são consultadas na OSV quando o ecossistema é suportado. Versões mais recentes são consultadas nos registros públicos de cada ecossistema quando possível: npm, PyPI, Packagist, Go proxy, Maven Central, NuGet e crates.io.
-
-O relatório enviado ao Telegram inclui:
-
-- quantidade de repositórios analisados;
-- quantidade de dependências verificadas;
-- ecossistemas detectados;
-- projetos com vulnerabilidades críticas;
-- projetos com vulnerabilidades;
-- projetos com atualizações disponíveis;
-- link direto para o repositório afetado;
-- dependências afetadas, versão instalada, versão mais recente ou versão de correção quando disponível e recomendação.
-
-As mensagens utilizam formatação HTML do Telegram (negrito, links e código) e são divididas automaticamente quando ultrapassam o limite de caracteres da plataforma, preservando todos os alertas.
-Alertas já enviados ficam registrados em `.github/state/sentinela-history.json`, evitando notificações duplicadas para a mesma dependência, versão e vulnerabilidade.
--Um alerta só é reenviado quando houver uma alteração relevante, como uma nova vulnerabilidade, uma nova versão disponível ou uma mudança na versão instalada da dependência.
-
 ## Como configurar no GitHub
 
 No repositório do GitHub, acesse **Settings > Secrets and variables > Actions**.
