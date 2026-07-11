@@ -512,14 +512,15 @@ function formatAlert(alert) {
 
   const dep = alert.dependency;
   return [
-    `- [UPDATE] ${alert.repo.full_name}`,
-    `  Repositório: ${alert.repo.html_url}`,
-    `  Dependência: ${dep.name} (${dep.ecosystem})`,
-    `  Versão instalada: ${dep.version}`,
-    `  Versão mais recente: ${dep.latestVersion}`,
-    `  Tipo: ${alert.update.kind}`,
-    `  Arquivo: ${dep.file}`,
-    `  Recomendação: planejar atualizacao e validar testes do projeto.`
+    `🚨 <b>[UPDATE]</b> ${alert.repo.full_name}`,
+    `🔗 <a href="${alert.repo.html_url}">Abrir repositório</a>`,
+    ``,
+    `📦 <b>Dependência:</b> ${dep.name} (${dep.ecosystem})`,
+    `📌 <b>Versão instalada:</b> <code>${dep.version}</code>`,
+    `🆕 <b>Última versão:</b> <code>${dep.latestVersion}</code>`,
+    `📈 <b>Tipo:</b> <b>${alert.update.kind.toUpperCase()}</b>`,
+    `📄 <b>Arquivo:</b> <code>${dep.file}</code>`,
+    `💡 <b>Recomendação:</b> Planejar atualização e validar testes do projeto.`
   ].join('\n');
 }
 
