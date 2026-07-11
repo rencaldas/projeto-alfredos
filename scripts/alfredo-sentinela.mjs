@@ -513,6 +513,7 @@ function formatAlert(alert) {
   const dep = alert.dependency;
   return [
     `- [UPDATE] ${alert.repo.full_name}`,
+    `  Repositório: ${alert.repo.html_url}`,
     `  Dependência: ${dep.name} (${dep.ecosystem})`,
     `  Versão instalada: ${dep.version}`,
     `  Versão mais recente: ${dep.latestVersion}`,
