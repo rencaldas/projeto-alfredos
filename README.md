@@ -56,9 +56,12 @@ O relatório enviado ao Telegram inclui:
 - projetos com vulnerabilidades críticas;
 - projetos com vulnerabilidades;
 - projetos com atualizações disponíveis;
-- dependências afetadas, versão instalada, versão de correção quando disponível e recomendação.
+- link direto para o repositório afetado;
+- dependências afetadas, versão instalada, versão mais recente ou versão de correção quando disponível e recomendação.
 
+As mensagens utilizam formatação HTML do Telegram (negrito, links e código) e são divididas automaticamente quando ultrapassam o limite de caracteres da plataforma, preservando todos os alertas.
 Alertas já enviados ficam registrados em `.github/state/sentinela-history.json`, evitando notificações duplicadas para a mesma dependência, versão e vulnerabilidade.
+-Um alerta só é reenviado quando houver uma alteração relevante, como uma nova vulnerabilidade, uma nova versão disponível ou uma mudança na versão instalada da dependência.
 
 ## Como configurar no GitHub
 
