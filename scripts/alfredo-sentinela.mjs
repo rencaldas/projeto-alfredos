@@ -460,16 +460,17 @@ function buildSummary({ audits, allDependencies, vulnerableAlerts, outdatedAlert
 
 function buildTelegramReport(summary, alerts) {
   const lines = [
-    'Alfredo Sentinela - relatório de segurança',
+    '🛡️ <b>Alfredo Sentinela</b>',
+    '<i>Relatório de Segurança</i>',
     '',
-    `Repositórios analisados: ${summary.repositories}`,
-    `Dependências verificadas: ${summary.dependencies}`,
-    `Ecossistemas detectados: ${summary.ecosystems.join(', ') || 'nenhum'}`,
-    `Projetos com vulnerabilidades críticas: ${summary.criticalProjects}`,
-    `Projetos com vulnerabilidades: ${summary.vulnerableProjects}`,
-    `Projetos com atualizações disponiveis: ${summary.outdatedProjects}`,
-    `Vulnerabilidades encontradas: ${summary.vulnerabilities} (${summary.criticalVulnerabilities} críticas ou exploradas)`,
-    `Atualizações relevantes: ${summary.updates}`,
+    `📂 <b>Repositórios analisados:</b> ${summary.repositories}`,
+    `📦 <b>Dependências verificadas:</b> ${summary.dependencies}`,
+    `🌐 <b>Ecossistemas detectados:</b> ${summary.ecosystems.join(', ') || 'nenhum'}`,
+    `🚨 <b>Projetos com vulnerabilidades críticas:</b> ${summary.criticalProjects}`,
+    `⚠️ <b>Projetos com vulnerabilidades:</b> ${summary.vulnerableProjects}`,
+    `⬆️ <b>Projetos com atualizações:</b> ${summary.outdatedProjects}`,
+    `🛑 <b>Vulnerabilidades encontradas:</b> ${summary.vulnerabilities} (${summary.criticalVulnerabilities} críticas ou exploradas)`,
+    `🔄 <b>Atualizações relevantes:</b> ${summary.updates}`,
     ''
   ];
 
