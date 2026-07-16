@@ -1,10 +1,11 @@
 import { loadHistory, markSent, saveHistory, uniqueUnsent } from './history.mjs';
-import { optionalEnv, requireEnv, sendTelegramPhoto } from './telegram.mjs';
+import { optionalEnv, requireEnv, sendTelegramMessage, sendTelegramPhoto } from './telegram.mjs';
 
 const DEFAULT_EPIC_URL = 'https://www.gamerpower.com/api/giveaways?platform=epic-games-store&type=game';
 const DEFAULT_STEAM_URL = 'https://www.gamerpower.com/api/giveaways?platform=steam&type=game';
 const DEFAULT_MAX_ITEMS = 10;
 const HISTORY_PATH = '.github/state/games-history.json';
+const TIMEZONE = 'America/Sao_Paulo';
 
 const SOURCES = [
   {
@@ -37,31 +38,38 @@ if (!chatId) {
   requireEnv('ALFREDO_GAMER_BOT_CHAT_ID');
 }
 
-const fetchedGiveaways = (
-  await Promise.all(SOURCES.map((source) => fetchGiveaways(source)))
-).flat();
+await main().catch(async (error) => {
+  console.error('Alfredo Gamer falhou:', error);
+  await notifyFailure(error);
+  process.exitCode = 1;
+});
 
-const history = await loadHistory(HISTORY_PATH);
-const sortedActiveGiveaways = fetchedGiveaways
-  .map((game) => ({
-    ...game,
-    historyId: getGiveawayId(game),
-    publishedAt: parseGiveawayDate(game.published_date)
-  }))
-  .filter((game) => game.historyId && game.title && game.thumbnail && game.open_giveaway)
-  .filter((game) => !game.status || String(game.status).toLowerCase() === 'active')
-  .sort((a, b) => a.publishedAt - b.publishedAt);
+async function main() {
+  const fetchedGiveaways = (
+    await Promise.all(SOURCES.map((source) => fetchGiveaways(source)))
+  ).flat();
 
-const activeGiveaways = uniqueUnsent(sortedActiveGiveaways, history, (game) => game.historyId).slice(0, maxItems);
+  const history = await loadHistory(HISTORY_PATH);
+  const sortedActiveGiveaways = fetchedGiveaways
+    .map((game) => ({
+      ...game,
+      historyId: getGiveawayId(game),
+      publishedAt: parseGiveawayDate(game.published_date)
+    }))
+    .filter((game) => game.historyId && game.title && game.thumbnail && game.open_giveaway)
+    .filter((game) => !game.status || String(game.status).toLowerCase() === 'active')
+    .sort((a, b) => a.publishedAt - b.publishedAt);
 
-if (activeGiveaways.length === 0) {
-  await saveHistory(history);
-  console.log('Nenhum jogo gratuito inedito encontrado na GamerPower.');
-  process.exit(0);
-}
+  const activeGiveaways = uniqueUnsent(sortedActiveGiveaways, history, (game) => game.historyId).slice(0, maxItems);
 
-for (const game of activeGiveaways) {
-  const caption = `Resgatar jogo GRATUITO na ${game.sourceLabel}
+  if (activeGiveaways.length === 0) {
+    await saveHistory(history);
+    console.log('Nenhum jogo gratuito inedito encontrado na GamerPower.');
+    return;
+  }
+
+  for (const game of activeGiveaways) {
+    const caption = `Resgatar jogo GRATUITO na ${game.sourceLabel}
 ${game.title}
 
 Resgatar: ${game.open_giveaway}
@@ -69,19 +77,31 @@ Resgatar: ${game.open_giveaway}
 Plataformas: ${game.platforms || 'Nao informado'}
 Status: ${game.status || 'Nao informado'}!
 
-Data de envio: ${game.published_date || 'Nao informado'}
-Termina em: ${game.end_date || 'Nao informado'}`;
+Data de envio: ${formatDateForDisplay(game.published_date)}
+Termina em: ${formatDateForDisplay(game.end_date)}`;
 
-  await sendTelegramPhoto({
-    botToken,
-    chatId,
-    photoUrl: game.thumbnail,
-    caption
-  });
+    await sendTelegramPhoto({
+      botToken,
+      chatId,
+      photoUrl: game.thumbnail,
+      caption
+    });
 
-  markSent(history, game.historyId);
-  await saveHistory(history);
-  console.log(`Jogo enviado (${game.sourceLabel}): ${game.title}`);
+    markSent(history, game.historyId);
+    await saveHistory(history);
+    console.log(`Jogo enviado (${game.sourceLabel}): ${game.title}`);
+  }
+}
+
+async function notifyFailure(error) {
+  const message = error && error.message ? error.message : String(error);
+  const text = `Alfredo Gamer falhou nesta execucao.\n\nErro: ${message}\n\nVerifique os logs em Actions para mais detalhes.`;
+
+  try {
+    await sendTelegramMessage({ botToken, chatId, text });
+  } catch (alertError) {
+    console.error('Nao foi possivel enviar o alerta de falha ao Telegram:', alertError);
+  }
 }
 
 async function fetchGiveaways(source) {
@@ -130,4 +150,28 @@ function getGiveawayId(game) {
 function parseGiveawayDate(value) {
   const date = value ? new Date(value) : null;
   return date && !Number.isNaN(date.valueOf()) ? date : new Date(0);
+}
+
+function formatDateForDisplay(value) {
+  if (!value) {
+    return 'Nao informado';
+  }
+
+  const date = new Date(value);
+
+  if (Number.isNaN(date.valueOf())) {
+    return String(value);
+  }
+
+  const formatted = new Intl.DateTimeFormat('pt-BR', {
+    timeZone: TIMEZONE,
+    day: '2-digit',
+    month: '2-digit',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    hourCycle: 'h23'
+  }).format(date);
+
+  return `${formatted} (horario de Brasilia)`;
 }
