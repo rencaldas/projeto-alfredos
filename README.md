@@ -25,7 +25,7 @@ Clique em qualquer badge para ver o histórico de execuções direto na aba **Ac
 Consulta o feed RSS do Tecnoblog e envia ao Telegram só as notícias que ainda não foram mandadas.
 
 ### 🎮 Alfredo Gamer
-Consulta diariamente a API da GamerPower atrás de jogos grátis inéditos da Epic Games Store e manda imagem, link de resgate e detalhes no Telegram.
+Consulta diariamente a API da GamerPower atrás de jogos grátis inéditos da **Epic Games Store** e da **Steam** e manda imagem, link de resgate e detalhes no Telegram, identificando de qual plataforma veio cada oferta.
 
 ### 🛡️ Alfredo Sentinela
 Audita periodicamente seus repositórios do GitHub, detecta dependências via lockfiles/manifestos, cruza com vulnerabilidades públicas e avisa sobre riscos ou atualizações relevantes.
@@ -96,8 +96,9 @@ Para auditar repositórios privados, use um token fine-grained com permissão **
 |---|---|---|
 | `RSS_FEED_URL` | `https://tecnoblog.net/feed/` | Feed do Alfredo Jornalista |
 | `NEWS_MAX_ITEMS` | `5` | Máximo de notícias inéditas por execução |
-| `GAMERPOWER_URL` | API da GamerPower (Epic Games Store) | Endpoint do Alfredo Gamer |
-| `GAMES_MAX_ITEMS` | `10` | Máximo de jogos inéditos por execução |
+| `GAMERPOWER_URL` | API da GamerPower (Epic Games Store) | Endpoint de jogos da Epic no Alfredo Gamer |
+| `GAMERPOWER_STEAM_URL` | API da GamerPower (Steam) | Endpoint de jogos da Steam no Alfredo Gamer |
+| `GAMES_MAX_ITEMS` | `10` | Máximo de jogos inéditos por execução, somando as duas fontes |
 | `SENTINELA_TARGETS` | vazio (lista tudo que o token acessa) | Aceita `org:minha-org`, `user:meu-user` ou `owner/repo`, separados por vírgula |
 | `SENTINELA_MAX_REPOS` | `100` | Limite de repositórios por execução |
 | `SENTINELA_MAX_ALERTS` | `25` | Limite de alertas detalhados enviados ao Telegram |
