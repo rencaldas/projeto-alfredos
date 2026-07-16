@@ -1,9 +1,23 @@
 import { loadHistory, markSent, saveHistory, uniqueUnsent } from './history.mjs';
 import { optionalEnv, requireEnv, sendTelegramPhoto } from './telegram.mjs';
 
-const DEFAULT_GAMERPOWER_URL = 'https://www.gamerpower.com/api/giveaways?platform=epic-games-store&type=game';
+const DEFAULT_EPIC_URL = 'https://www.gamerpower.com/api/giveaways?platform=epic-games-store&type=game';
+const DEFAULT_STEAM_URL = 'https://www.gamerpower.com/api/giveaways?platform=steam&type=game';
 const DEFAULT_MAX_ITEMS = 10;
 const HISTORY_PATH = '.github/state/games-history.json';
+
+const SOURCES = [
+  {
+    key: 'epic',
+    label: 'Epic Games',
+    url: optionalEnv('GAMERPOWER_URL', DEFAULT_EPIC_URL)
+  },
+  {
+    key: 'steam',
+    label: 'Steam',
+    url: optionalEnv('GAMERPOWER_STEAM_URL', DEFAULT_STEAM_URL)
+  }
+];
 
 const botToken = optionalEnv(
   'ALFREDO_GAMER_BOT_TOKEN',
@@ -13,7 +27,6 @@ const chatId = optionalEnv(
   'ALFREDO_GAMER_BOT_CHAT_ID',
   optionalEnv('TELEGRAM_GAMER_CHAT_ID', process.env.TELEGRAM_CHAT_ID)
 );
-const gamerPowerUrl = optionalEnv('GAMERPOWER_URL', DEFAULT_GAMERPOWER_URL);
 const maxItems = Number(optionalEnv('GAMES_MAX_ITEMS', String(DEFAULT_MAX_ITEMS)));
 
 if (!botToken) {
@@ -24,21 +37,12 @@ if (!chatId) {
   requireEnv('ALFREDO_GAMER_BOT_CHAT_ID');
 }
 
-const response = await fetch(gamerPowerUrl, {
-  headers: {
-    'user-agent': 'Projeto Alfredo GitHub Actions Gamer Bot'
-  },
-  signal: AbortSignal.timeout(60000)
-});
+const fetchedGiveaways = (
+  await Promise.all(SOURCES.map((source) => fetchGiveaways(source)))
+).flat();
 
-if (!response.ok) {
-  throw new Error(`Falha ao buscar GamerPower (${response.status}): ${response.statusText}`);
-}
-
-const payload = await response.json();
 const history = await loadHistory(HISTORY_PATH);
-const giveaways = Array.isArray(payload) ? payload : [];
-const sortedActiveGiveaways = giveaways
+const sortedActiveGiveaways = fetchedGiveaways
   .map((game) => ({
     ...game,
     historyId: getGiveawayId(game),
@@ -57,7 +61,7 @@ if (activeGiveaways.length === 0) {
 }
 
 for (const game of activeGiveaways) {
-  const caption = `Resgatar jogo GRATUITO na Epic Games
+  const caption = `Resgatar jogo GRATUITO na ${game.sourceLabel}
 ${game.title}
 
 Resgatar: ${game.open_giveaway}
@@ -77,15 +81,50 @@ Termina em: ${game.end_date || 'Nao informado'}`;
 
   markSent(history, game.historyId);
   await saveHistory(history);
-  console.log(`Jogo enviado: ${game.title}`);
+  console.log(`Jogo enviado (${game.sourceLabel}): ${game.title}`);
+}
+
+async function fetchGiveaways(source) {
+  try {
+    const response = await fetch(source.url, {
+      headers: {
+        'user-agent': 'Projeto Alfredo GitHub Actions Gamer Bot'
+      },
+      signal: AbortSignal.timeout(60000)
+    });
+
+    if (!response.ok) {
+      console.warn(`Falha ao buscar GamerPower (${source.label}, ${response.status}): ${response.statusText}`);
+      return [];
+    }
+
+    const payload = await response.json();
+    const giveaways = Array.isArray(payload) ? payload : [];
+
+    return giveaways.map((game) => ({
+      ...game,
+      sourceKey: source.key,
+      sourceLabel: source.label
+    }));
+  } catch (error) {
+    console.warn(`Erro ao buscar GamerPower (${source.label}): ${error.message}`);
+    return [];
+  }
 }
 
 function getGiveawayId(game) {
-  if (game.id !== undefined && game.id !== null && String(game.id).trim() !== '') {
-    return String(game.id).trim();
+  const rawId = game.id !== undefined && game.id !== null && String(game.id).trim() !== ''
+    ? String(game.id).trim()
+    : (typeof game.open_giveaway === 'string' ? game.open_giveaway.trim() : '');
+
+  if (!rawId) {
+    return '';
   }
 
-  return typeof game.open_giveaway === 'string' ? game.open_giveaway.trim() : '';
+  // Mantem compatibilidade com o historico existente: IDs da Epic continuam
+  // sem prefixo (a GamerPower ja usa um ID global unico por giveaway).
+  // Steam ganha namespace so por seguranca extra contra colisao futura.
+  return game.sourceKey === 'epic' ? rawId : `${game.sourceKey}:${rawId}`;
 }
 
 function parseGiveawayDate(value) {
