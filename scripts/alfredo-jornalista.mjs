@@ -59,8 +59,7 @@ for (const item of selectedItems) {
 ${item.contentSnippet}
 
 ${publishedDate}
-Link para saber mais:
-${item.link}`;
+Link: ${item.link}`;
 
   await sendTelegramMessage({
     botToken,
