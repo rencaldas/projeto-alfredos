@@ -6,6 +6,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated-success?logo=github-actions&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram&logoColor=white)
 ![Runtime](https://img.shields.io/badge/Runtime-ESM%20(.mjs)-yellow?logo=javascript&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Status das automações agora
 
@@ -67,6 +68,7 @@ projeto-alfredos/
 |   `-- telegram.mjs
 |-- imgs/
 |-- package.json
+|-- LICENSE
 `-- .env.example
 ```
 
@@ -164,3 +166,9 @@ Use o `.env.example` como referência para preencher as mesmas variáveis.
 ## Segurança
 
 Tokens de bot e Personal Access Tokens nunca são commitados no repositório — ficam só em GitHub Actions Secrets. Se algum token vazar, gere um novo no BotFather ou no GitHub e atualize o secret correspondente.
+
+---
+
+## Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](./LICENSE).
