@@ -53,16 +53,12 @@ if (selectedItems.length === 0) {
 }
 
 for (const item of selectedItems) {
-  const categories = item.categories.length > 0 ? item.categories.join(', ') : 'Sem categoria';
   const publishedDate = formatBrazilDateTime(item.publishedAt);
-  const text = `${publishedDate}
-
-Categoria: ${categories}
-
-${item.title}
+  const text = `${item.title}
 
 ${item.contentSnippet}
 
+${publishedDate}
 Link para saber mais:
 ${item.link}`;
 
