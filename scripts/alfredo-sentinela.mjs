@@ -1,8 +1,11 @@
 import { Buffer } from 'node:buffer';
 import { loadHistory, markSent, saveHistory, uniqueUnsent } from './history.mjs';
+import { loadDailyLog, recordActivity, saveDailyLog } from './daily-log.mjs';
 import { optionalEnv, requireEnv, sendTelegramMessage } from './telegram.mjs';
 
 const HISTORY_PATH = '.github/state/sentinela-history.json';
+const DAILY_LOG_PATH = '.github/state/daily-log.json';
+const AGENT_NAME = 'Alfredo Sentinela';
 const DEFAULT_MAX_REPOS = 100;
 const DEFAULT_MAX_ALERTS = 25;
 const DEFAULT_MAX_DEPENDENCIES_PER_REPO = 800;
@@ -38,6 +41,7 @@ if (!githubToken) {
 }
 
 const history = await loadHistory(HISTORY_PATH);
+const dailyLog = await loadDailyLog(DAILY_LOG_PATH);
 const targets = parseTargets(optionalEnv('SENTINELA_TARGETS', ''));
 const repositories = await discoverRepositories(targets);
 const selectedRepositories = repositories
@@ -110,10 +114,37 @@ await sendTelegramMessage({ botToken, chatId, text: message });
 
 for (const alert of unsentAlerts) {
   markSent(history, alertHistoryId(alert));
+  recordActivity(dailyLog, buildDailyLogEntry(alert));
 }
 
 await saveHistory(history);
+await saveDailyLog(dailyLog);
 console.log(`Relatório enviado. Repositórios: ${selectedRepositories.length}. Alertas novos: ${unsentAlerts.length}.`);
+
+function buildDailyLogEntry(alert) {
+  if (alert.vulnerability) {
+    const dep = alert.dependency;
+    const severity = highestSeverity(alert.vulnerability);
+    const aliases = [alert.vulnerability.id, ...(alert.vulnerability.aliases || [])].filter(Boolean).join(', ');
+
+    return {
+      agent: AGENT_NAME,
+      title: `[${severity}] Vulnerabilidade em ${dep.name} (${alert.repo.full_name})`,
+      summary: `Dependência ${dep.name}@${dep.version} (${dep.ecosystem}) no arquivo ${dep.file}. Vulnerabilidade: ${aliases || 'sem identificador'}.`,
+      link: alert.repo.html_url,
+      meta: { tipo: 'vulnerabilidade', severidade: severity, repositorio: alert.repo.full_name }
+    };
+  }
+
+  const dep = alert.dependency;
+  return {
+    agent: AGENT_NAME,
+    title: `Atualização ${alert.update.kind} disponível: ${dep.name} (${alert.repo.full_name})`,
+    summary: `Versão instalada ${dep.version} → versão mais recente ${dep.latestVersion} (${dep.ecosystem}).`,
+    link: alert.repo.html_url,
+    meta: { tipo: 'atualizacao', tipoAtualizacao: alert.update.kind, repositorio: alert.repo.full_name }
+  };
+}
 
 async function discoverRepositories(targets) {
   if (targets.length === 0) {

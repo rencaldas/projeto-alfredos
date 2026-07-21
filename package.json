@@ -7,9 +7,13 @@
   "scripts": {
     "alfredo:jornalista": "node scripts/alfredo-jornalista.mjs",
     "alfredo:gamer": "node scripts/alfredo-gamer.mjs",
-    "alfredo:sentinela": "node scripts/alfredo-sentinela.mjs"
+    "alfredo:sentinela": "node scripts/alfredo-sentinela.mjs",
+    "alfredo:secretario": "node scripts/alfredo-secretario.mjs"
   },
   "engines": {
     "node": ">=24"
+  },
+  "dependencies": {
+    "nodemailer": "^9.0.3"
   }
 }

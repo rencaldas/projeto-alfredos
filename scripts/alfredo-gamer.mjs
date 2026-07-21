@@ -1,24 +1,12 @@
 import { loadHistory, markSent, saveHistory, uniqueUnsent } from './history.mjs';
-import { optionalEnv, requireEnv, sendTelegramMessage, sendTelegramPhoto } from './telegram.mjs';
+import { loadDailyLog, recordActivity, saveDailyLog } from './daily-log.mjs';
+import { optionalEnv, requireEnv, sendTelegramPhoto } from './telegram.mjs';
 
-const DEFAULT_EPIC_URL = 'https://www.gamerpower.com/api/giveaways?platform=epic-games-store&type=game';
-const DEFAULT_STEAM_URL = 'https://www.gamerpower.com/api/giveaways?platform=steam&type=game';
+const DEFAULT_GAMERPOWER_URL = 'https://www.gamerpower.com/api/giveaways?platform=epic-games-store&type=game';
 const DEFAULT_MAX_ITEMS = 10;
 const HISTORY_PATH = '.github/state/games-history.json';
-const TIMEZONE = 'America/Sao_Paulo';
-
-const SOURCES = [
-  {
-    key: 'epic',
-    label: 'Epic Games',
-    url: optionalEnv('GAMERPOWER_URL', DEFAULT_EPIC_URL)
-  },
-  {
-    key: 'steam',
-    label: 'Steam',
-    url: optionalEnv('GAMERPOWER_STEAM_URL', DEFAULT_STEAM_URL)
-  }
-];
+const DAILY_LOG_PATH = '.github/state/daily-log.json';
+const AGENT_NAME = 'Alfredo Gamer';
 
 const botToken = optionalEnv(
   'ALFREDO_GAMER_BOT_TOKEN',
@@ -28,6 +16,7 @@ const chatId = optionalEnv(
   'ALFREDO_GAMER_BOT_CHAT_ID',
   optionalEnv('TELEGRAM_GAMER_CHAT_ID', process.env.TELEGRAM_CHAT_ID)
 );
+const gamerPowerUrl = optionalEnv('GAMERPOWER_URL', DEFAULT_GAMERPOWER_URL);
 const maxItems = Number(optionalEnv('GAMES_MAX_ITEMS', String(DEFAULT_MAX_ITEMS)));
 
 if (!botToken) {
@@ -38,38 +27,42 @@ if (!chatId) {
   requireEnv('ALFREDO_GAMER_BOT_CHAT_ID');
 }
 
-await main().catch(async (error) => {
-  console.error('Alfredo Gamer falhou:', error);
-  await notifyFailure(error);
-  process.exitCode = 1;
+const response = await fetch(gamerPowerUrl, {
+  headers: {
+    'user-agent': 'Projeto Alfredo GitHub Actions Gamer Bot'
+  },
+  signal: AbortSignal.timeout(60000)
 });
 
-async function main() {
-  const fetchedGiveaways = (
-    await Promise.all(SOURCES.map((source) => fetchGiveaways(source)))
-  ).flat();
+if (!response.ok) {
+  throw new Error(`Falha ao buscar GamerPower (${response.status}): ${response.statusText}`);
+}
 
-  const history = await loadHistory(HISTORY_PATH);
-  const sortedActiveGiveaways = fetchedGiveaways
-    .map((game) => ({
-      ...game,
-      historyId: getGiveawayId(game),
-      publishedAt: parseGiveawayDate(game.published_date)
-    }))
-    .filter((game) => game.historyId && game.title && game.thumbnail && game.open_giveaway)
-    .filter((game) => !game.status || String(game.status).toLowerCase() === 'active')
-    .sort((a, b) => a.publishedAt - b.publishedAt);
+const payload = await response.json();
+const history = await loadHistory(HISTORY_PATH);
+const dailyLog = await loadDailyLog(DAILY_LOG_PATH);
+const giveaways = Array.isArray(payload) ? payload : [];
+const sortedActiveGiveaways = giveaways
+  .map((game) => ({
+    ...game,
+    historyId: getGiveawayId(game),
+    publishedAt: parseGiveawayDate(game.published_date)
+  }))
+  .filter((game) => game.historyId && game.title && game.thumbnail && game.open_giveaway)
+  .filter((game) => !game.status || String(game.status).toLowerCase() === 'active')
+  .sort((a, b) => a.publishedAt - b.publishedAt);
 
-  const activeGiveaways = uniqueUnsent(sortedActiveGiveaways, history, (game) => game.historyId).slice(0, maxItems);
+const activeGiveaways = uniqueUnsent(sortedActiveGiveaways, history, (game) => game.historyId).slice(0, maxItems);
 
-  if (activeGiveaways.length === 0) {
-    await saveHistory(history);
-    console.log('Nenhum jogo gratuito inedito encontrado na GamerPower.');
-    return;
-  }
+if (activeGiveaways.length === 0) {
+  await saveHistory(history);
+  await saveDailyLog(dailyLog);
+  console.log('Nenhum jogo gratuito inedito encontrado na GamerPower.');
+  process.exit(0);
+}
 
-  for (const game of activeGiveaways) {
-    const caption = `Resgatar jogo GRATUITO na ${game.sourceLabel}
+for (const game of activeGiveaways) {
+  const caption = `Resgatar jogo GRATUITO na Epic Games
 ${game.title}
 
 Resgatar: ${game.open_giveaway}
@@ -77,101 +70,40 @@ Resgatar: ${game.open_giveaway}
 Plataformas: ${game.platforms || 'Nao informado'}
 Status: ${game.status || 'Nao informado'}!
 
-Data de envio: ${formatDateForDisplay(game.published_date)}
-Termina em: ${formatDateForDisplay(game.end_date)}`;
+Data de envio: ${game.published_date || 'Nao informado'}
+Termina em: ${game.end_date || 'Nao informado'}`;
 
-    await sendTelegramPhoto({
-      botToken,
-      chatId,
-      photoUrl: game.thumbnail,
-      caption
-    });
+  await sendTelegramPhoto({
+    botToken,
+    chatId,
+    photoUrl: game.thumbnail,
+    caption
+  });
 
-    markSent(history, game.historyId);
-    await saveHistory(history);
-    console.log(`Jogo enviado (${game.sourceLabel}): ${game.title}`);
-  }
-}
+  markSent(history, game.historyId);
+  await saveHistory(history);
 
-async function notifyFailure(error) {
-  const message = error && error.message ? error.message : String(error);
-  const text = `Alfredo Gamer falhou nesta execucao.\n\nErro: ${message}\n\nVerifique os logs em Actions para mais detalhes.`;
+  recordActivity(dailyLog, {
+    agent: AGENT_NAME,
+    title: game.title,
+    summary: `Plataformas: ${game.platforms || 'Nao informado'}. Termina em: ${game.end_date || 'Nao informado'}.`,
+    link: game.open_giveaway,
+    meta: { status: game.status, thumbnail: game.thumbnail }
+  });
+  await saveDailyLog(dailyLog);
 
-  try {
-    await sendTelegramMessage({ botToken, chatId, text });
-  } catch (alertError) {
-    console.error('Nao foi possivel enviar o alerta de falha ao Telegram:', alertError);
-  }
-}
-
-async function fetchGiveaways(source) {
-  try {
-    const response = await fetch(source.url, {
-      headers: {
-        'user-agent': 'Projeto Alfredo GitHub Actions Gamer Bot'
-      },
-      signal: AbortSignal.timeout(60000)
-    });
-
-    if (!response.ok) {
-      console.warn(`Falha ao buscar GamerPower (${source.label}, ${response.status}): ${response.statusText}`);
-      return [];
-    }
-
-    const payload = await response.json();
-    const giveaways = Array.isArray(payload) ? payload : [];
-
-    return giveaways.map((game) => ({
-      ...game,
-      sourceKey: source.key,
-      sourceLabel: source.label
-    }));
-  } catch (error) {
-    console.warn(`Erro ao buscar GamerPower (${source.label}): ${error.message}`);
-    return [];
-  }
+  console.log(`Jogo enviado: ${game.title}`);
 }
 
 function getGiveawayId(game) {
-  const rawId = game.id !== undefined && game.id !== null && String(game.id).trim() !== ''
-    ? String(game.id).trim()
-    : (typeof game.open_giveaway === 'string' ? game.open_giveaway.trim() : '');
-
-  if (!rawId) {
-    return '';
+  if (game.id !== undefined && game.id !== null && String(game.id).trim() !== '') {
+    return String(game.id).trim();
   }
 
-  // Mantem compatibilidade com o historico existente: IDs da Epic continuam
-  // sem prefixo (a GamerPower ja usa um ID global unico por giveaway).
-  // Steam ganha namespace so por seguranca extra contra colisao futura.
-  return game.sourceKey === 'epic' ? rawId : `${game.sourceKey}:${rawId}`;
+  return typeof game.open_giveaway === 'string' ? game.open_giveaway.trim() : '';
 }
 
 function parseGiveawayDate(value) {
   const date = value ? new Date(value) : null;
   return date && !Number.isNaN(date.valueOf()) ? date : new Date(0);
-}
-
-function formatDateForDisplay(value) {
-  if (!value) {
-    return 'Nao informado';
-  }
-
-  const date = new Date(value);
-
-  if (Number.isNaN(date.valueOf())) {
-    return String(value);
-  }
-
-  const formatted = new Intl.DateTimeFormat('pt-BR', {
-    timeZone: TIMEZONE,
-    day: '2-digit',
-    month: '2-digit',
-    year: 'numeric',
-    hour: '2-digit',
-    minute: '2-digit',
-    hourCycle: 'h23'
-  }).format(date);
-
-  return `${formatted} (horario de Brasilia)`;
 }
