@@ -40,6 +40,7 @@
     "update|rencaldas/seslock-holmes|npm|commander|4.1.1|15.0.0",
     "update|rencaldas/seslock-holmes|npm|cookie|1.1.1|2.0.1",
     "update|rencaldas/seslock-holmes|npm|cssstyle|4.6.0|6.2.0",
-    "update|rencaldas/seslock-holmes|npm|@asamuzakjp/css-color|3.2.0|6.0.5"
+    "update|rencaldas/seslock-holmes|npm|@asamuzakjp/css-color|3.2.0|6.0.5",
+    "update|rencaldas/seslock-holmes|npm|@testing-library/jest-dom|6.9.1|7.0.0"
   ]
 }
