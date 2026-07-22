@@ -216,6 +216,54 @@
         ]
       },
       "timestamp": "2026-07-22T17:52:30.419Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "EUA ameaçam sancionar empresas chinesas por causa de modelos de IA",
+      "summary": "Secretário do Tesouro diz que governo vai investigar se tecnologias chinesas foram treinadas usando IA de companhias americanas. EUA ameaçam sancionar empresas chinesas por causa de modelos de IA",
+      "link": "https://tecnoblog.net/noticias/eua-ameacam-sancionar-empresas-chinesas-por-causa-de-modelos-de-ia/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "China",
+          "Departamento do Tesouro dos Estados Unidos",
+          "Estados Unidos (EUA)",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-07-22T18:54:37.298Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Ministério Público processa World ID por coleta de íris de brasileiros",
+      "summary": "MPSP cobra R$ 240 milhões de indenização. Ação aponta práticas abusivas na captura de biometria de 400 mil pessoas em troca de dinheiro. Ministério Público processa World ID por coleta de íris de brasileiros",
+      "link": "https://tecnoblog.net/noticias/ministerio-publico-processa-world-id-por-coleta-de-iris-de-brasileiros/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Amazon Web Services (AWS)",
+          "Ministério Público do Estado de São Paulo",
+          "Tools for Humanity",
+          "World ID"
+        ]
+      },
+      "timestamp": "2026-07-22T18:54:37.554Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "AMD fecha acordo bilionário com a Anthropic para fornecer GPUs de IA",
+      "summary": "Parceria prevê até 2 gigawatts de capacidade computacional e investimento de US$ 5 bilhões para otimizar o Claude. AMD fecha acordo bilionário com a Anthropic para fornecer GPUs de IA",
+      "link": "https://tecnoblog.net/noticias/amd-fecha-acordo-bilionario-com-a-anthropic-para-fornecer-gpus-de-ia/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "AMD",
+          "Anthropic",
+          "Claude",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-07-22T18:54:37.815Z"
     }
   ]
 }
