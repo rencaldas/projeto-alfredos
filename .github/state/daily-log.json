@@ -1,3 +1,86 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Z Fold 8: Samsung revela seu primeiro celular “passaporte” e mais aparelhos",
+      "summary": "O Galaxy Z Fold 8 exibe imagens em proporção 4:3. Empresa apresenta ainda Galaxy Z Fold 8 Ultra e Galaxy Z Flip 8, além dos wearables Galaxy Watch 9 e Galaxy Watch Ultra 2. Z Fold 8: Samsung revela seu primeiro celular “passaporte” e mais aparelhos",
+      "link": "https://tecnoblog.net/noticias/lancamento-galaxy-z-fold-8-flip-8-watch-9/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Android 17",
+          "Galaxy Fold",
+          "Galaxy Z Flip 8",
+          "Galaxy Z Fold 8",
+          "Galaxy Z Fold 8 Ultra",
+          "One UI",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-07-22T15:02:05.563Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Watch 9 e Watch Ultra 2 são apresentados pela Samsung",
+      "summary": "Relógios inteligentes estão mais leves e com maior autonomia de bateria. Galaxy Watch 9 e Watch Ultra 2 são apresentados pela Samsung",
+      "link": "https://tecnoblog.net/noticias/galaxy-watch-9-e-watch-ultra-2-sao-apresentados-pela-samsung/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Galaxy",
+          "Galaxy Watch 9",
+          "Galaxy Watch Ultra 2",
+          "Inglaterra",
+          "Londres",
+          "Samsung",
+          "Samsung Galaxy Watch"
+        ]
+      },
+      "timestamp": "2026-07-22T15:02:05.822Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lei que bane rede sociais para menores de 15 anos é aprovada na França",
+      "summary": "Parlamento francês aprovou projeto de lei que proíbe menores de 15 anos de acessar redes sociais como Instagram e TikTok a partir de 2027. Lei que bane rede sociais para menores de 15 anos é aprovada na França",
+      "link": "https://tecnoblog.net/noticias/lei-que-bane-rede-sociais-para-menores-de-15-anos-e-aprovada-na-franca/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "França",
+          "Instagram",
+          "TikTok"
+        ]
+      },
+      "timestamp": "2026-07-22T15:02:06.088Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Figma começa a hospedar dados de clientes no Brasil",
+      "summary": "Plataforma aposta em servidores locais para ampliar presença em grandes empresas no país. Figma terá novo escritório em São Paulo. Figma começa a hospedar dados de clientes no Brasil",
+      "link": "https://tecnoblog.net/noticias/figma-comeca-a-hospedar-dados-de-clientes-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Brasil",
+          "Figma",
+          "São Paulo"
+        ]
+      },
+      "timestamp": "2026-07-22T15:02:06.357Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como criar um convite virtual interativo: 6 opções com lista de convidados",
+      "summary": "Convite virtual interativo é uma página que centraliza as informações de um evento, permitindo gerenciar a lista de convidados e automatizar a confirmação de presença Como criar um convite virtual interativo: 6 opções com lista de convidados",
+      "link": "https://tecnoblog.net/guias/como-criar-um-convite-virtual-interativo-6-opcoes-com-lista-de-convidados/",
+      "meta": {
+        "categorias": [
+          "Produtividade",
+          "Browser (navegador)",
+          "RSVP"
+        ]
+      },
+      "timestamp": "2026-07-22T15:02:06.635Z"
+    }
+  ]
 }
