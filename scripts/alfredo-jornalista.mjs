@@ -138,10 +138,16 @@ function escapeRegex(value) {
 }
 
 function formatBrazilDateTime(date) {
-  return new Intl.DateTimeFormat('pt-BR', {
+  const datePart = new Intl.DateTimeFormat('pt-BR', {
     dateStyle: 'short',
+    timeZone: 'America/Sao_Paulo'
+  }).format(date);
+
+  const timePart = new Intl.DateTimeFormat('pt-BR', {
     timeStyle: 'short',
     timeZone: 'America/Sao_Paulo',
     hour12: false
   }).format(date);
+
+  return `${datePart} às ${timePart}`;
 }
