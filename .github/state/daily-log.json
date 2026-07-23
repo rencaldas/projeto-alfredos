@@ -335,6 +335,30 @@
         ]
       },
       "timestamp": "2026-07-22T21:20:16.074Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/css-calc (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 2.1.4 → versão mais recente 3.3.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-23T10:55:58.383Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 3.1.0 → versão mais recente 4.1.10 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-23T10:55:58.383Z"
     }
   ]
 }
