@@ -7,7 +7,7 @@ import { withRetry } from './retry.mjs';
 
 const DAILY_LOG_PATH = '.github/state/daily-log.json';
 const SECRETARIO_HISTORY_PATH = '.github/state/secretario-history.json';
-const DEFAULT_GEMINI_MODEL = 'gemini-2.5-flash';
+const DEFAULT_GEMINI_MODEL = 'gemini-3.5-flash';
 const DEFAULT_EMAIL_TO = 'renato.deacaldas@gmail.com';
 const MAX_ITEMS_PER_AGENT_IN_PROMPT = 40;
 const TIMEZONE = 'America/Sao_Paulo';
