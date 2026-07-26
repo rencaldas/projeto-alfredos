@@ -3,6 +3,7 @@ import { dirname } from 'node:path';
 
 const DEFAULT_RETENTION_DAYS = 30;
 const TIMEZONE = 'America/Sao_Paulo';
+const ONE_DAY_MS = 24 * 60 * 60 * 1000;
 
 /**
  * Registra, de forma leve e versionada, o que cada Alfredo efetivamente enviou.
@@ -68,6 +69,20 @@ export async function saveDailyLog(dailyLog, retentionDays = DEFAULT_RETENTION_D
 /** Retorna a data (America/Sao_Paulo) no formato YYYY-MM-DD. */
 export function todayKey(date = new Date()) {
   return dateKeyInTimezone(date);
+}
+
+/**
+ * Retorna a data (America/Sao_Paulo) de "ontem" em relacao ao instante informado.
+ *
+ * Usado pelo Alfredo Secretario para resumir o dia que acabou de terminar, em vez
+ * de "hoje". Isso torna o relatorio resiliente a atrasos de agendamento do GitHub
+ * Actions: mesmo que o job rode alguns minutos apos a meia-noite de Brasilia
+ * (comportamento normal da plataforma em horarios de alta demanda), o dia
+ * correto continua sendo resumido, pois so viraria "anteontem" apos um atraso
+ * de quase 24 horas.
+ */
+export function yesterdayKey(date = new Date()) {
+  return dateKeyInTimezone(new Date(date.getTime() - ONE_DAY_MS));
 }
 
 export function selectEntriesForDate(dailyLog, dateKey) {
