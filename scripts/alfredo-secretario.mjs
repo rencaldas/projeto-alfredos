@@ -1,5 +1,5 @@
 import { loadHistory, markSent, saveHistory, wasSent } from './history.mjs';
-import { loadDailyLog, selectEntriesForDate, todayKey } from './daily-log.mjs';
+import { loadDailyLog, selectEntriesForDate, yesterdayKey } from './daily-log.mjs';
 import { optionalEnv, requireEnv, sendTelegramMessage } from './telegram.mjs';
 import { generateStructuredReport } from './gemini.mjs';
 import { sendReportEmail } from './mailer.mjs';
@@ -34,7 +34,13 @@ if (!gmailAppPassword) requireEnv('ALFREDO_SECRETARIO_GMAIL_APP_PASSWORD');
 console.log(`[Alfredo Secretário] Iniciando execução. Modelo Gemini: ${geminiModel}. Destinatário: ${emailTo}.`);
 
 const secretarioHistory = await loadHistory(SECRETARIO_HISTORY_PATH);
-const reportDateKey = todayKey();
+
+// Resume o dia que ACABOU DE TERMINAR ("ontem" em relação ao instante da execução),
+// e não "hoje". O job roda pouco depois da meia-noite de Brasília (ver cron do
+// workflow); usar "ontem" torna o relatório resiliente a atrasos de agendamento
+// do GitHub Actions, que só quebrariam essa lógica se o atraso chegasse perto de
+// 24 horas — o que não acontece na prática.
+const reportDateKey = yesterdayKey();
 
 if (!forceResend && wasSent(secretarioHistory, reportDateKey)) {
   console.log(`[Alfredo Secretário] Relatório de ${reportDateKey} já foi enviado anteriormente nesta data. Encerrando sem reenviar.`);
