@@ -1,9 +1,12 @@
 import { loadHistory, markSent, saveHistory, uniqueUnsent } from './history.mjs';
+import { loadDailyLog, recordActivity, saveDailyLog } from './daily-log.mjs';
 import { optionalEnv, requireEnv, sendTelegramMessage } from './telegram.mjs';
 
 const DEFAULT_FEED_URL = 'https://tecnoblog.net/feed/';
 const DEFAULT_MAX_ITEMS = 5;
 const HISTORY_PATH = '.github/state/news-history.json';
+const DAILY_LOG_PATH = '.github/state/daily-log.json';
+const AGENT_NAME = 'Alfredo Jornalista';
 
 const botToken = optionalEnv(
   'ALFREDO_NEWS_BOT_TOKEN',
@@ -36,6 +39,7 @@ if (!response.ok) {
 
 const xml = await response.text();
 const history = await loadHistory(HISTORY_PATH);
+const dailyLog = await loadDailyLog(DAILY_LOG_PATH);
 const items = parseRssItems(xml)
   .map((item) => ({
     ...item,
@@ -48,6 +52,7 @@ const selectedItems = uniqueUnsent(items, history, (item) => item.id).slice(0, m
 
 if (selectedItems.length === 0) {
   await saveHistory(history);
+  await saveDailyLog(dailyLog);
   console.log('Nenhuma noticia inedita encontrada no RSS.');
   process.exit(0);
 }
@@ -70,6 +75,16 @@ ${item.link}`;
 
   markSent(history, item.id);
   await saveHistory(history);
+
+  recordActivity(dailyLog, {
+    agent: AGENT_NAME,
+    title: item.title,
+    summary: item.contentSnippet,
+    link: item.link,
+    meta: { categorias: item.categories }
+  });
+  await saveDailyLog(dailyLog);
+
   console.log(`Noticia enviada: ${item.title}`);
 }
 
