@@ -607,6 +607,73 @@
         ]
       },
       "timestamp": "2026-07-27T18:11:29.880Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "O que é mAh no power bank e celular? Entenda a medida usada para baterias",
+      "summary": "mAh é um indicador que revela a capacidade de armazenamento de energia da bateria de um dispositivo, sinalizando a autonomia estimada de uso entre as recargas O que é mAh no power bank e celular? Entenda a medida usada para baterias",
+      "link": "https://tecnoblog.net/responde/o-que-e-mah-no-power-bank-e-celular-entenda-a-medida-usada-para-baterias/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Temperatura",
+          "Wi-Fi"
+        ]
+      },
+      "timestamp": "2026-07-27T19:52:28.691Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Aliança de IA fica sem os maiores laboratórios dos EUA",
+      "summary": "OpenAI, Google e Anthropic estão fora da lista. Iniciativa liderada pela Nvidia aposta no código aberto para combater ameaças cibernéticas. Aliança de IA fica sem os maiores laboratórios dos EUA",
+      "link": "https://tecnoblog.net/noticias/alianca-de-ia-fica-sem-os-maiores-laboratorios-dos-eua/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Anthropic",
+          "Estados Unidos (EUA)",
+          "Google",
+          "IBM",
+          "Inteligência Artificial (IA)",
+          "Microsoft",
+          "Nvidia",
+          "OpenAI",
+          "Segurança",
+          "SpaceX"
+        ]
+      },
+      "timestamp": "2026-07-27T19:52:28.980Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft reconhece apps famintos por RAM no Windows 11 e promete solução",
+      "summary": "Microsoft pretende otimizar WinUI para reduzir consumo de memória RAM, o que beneficiará o desempenho dos aplicativos baseados nessa biblioteca. Microsoft reconhece apps famintos por RAM no Windows 11 e promete solução",
+      "link": "https://tecnoblog.net/noticias/microsoft-reconhece-apps-famintos-por-ram-no-windows-11-e-promete-solucao/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Microsoft",
+          "Windows 11",
+          "Windows UI Library"
+        ]
+      },
+      "timestamp": "2026-07-27T19:52:29.270Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple deve adiar óculos smart por causa da privacidade",
+      "summary": "Empresa quer evitar problemas enfrentados pela Meta com câmeras integradas. Modelos devem ser apresentados apenas em 2027. Apple deve adiar óculos smart por causa da privacidade",
+      "link": "https://tecnoblog.net/noticias/apple-deve-adiar-oculos-smart-por-causa-da-privacidade/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Apple",
+          "Meta",
+          "óculos inteligentes",
+          "Óculos smart"
+        ]
+      },
+      "timestamp": "2026-07-27T19:52:29.559Z"
     }
   ]
 }
