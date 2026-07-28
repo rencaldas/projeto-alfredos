@@ -1028,6 +1028,56 @@
         ]
       },
       "timestamp": "2026-07-28T18:41:30.857Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung pode lançar nova geração do Galaxy TriFold em 2027",
+      "summary": "Segunda geração do celular com três dobras já estaria em desenvolvimento. Modelo pode aposentar o Galaxy Z Flip. Samsung pode lançar nova geração do Galaxy TriFold em 2027",
+      "link": "https://tecnoblog.net/noticias/samsung-pode-lancar-nova-geracao-do-galaxy-trifold-em-2027/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy",
+          "Galaxy Fold",
+          "Galaxy Z Flip",
+          "Galaxy Z TriFold",
+          "rumor",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-07-28T20:05:39.888Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lenovo Idea Tab (256 GB) está em promoção com o menor preço desde maio",
+      "summary": "Opção de presente de Dia dos Pais, o Idea Tab com tela de 2.5K, caneta Tab Pen e ampla bateria fica mais barato com cupom exclusivo do app Magalu Lenovo Idea Tab (256 GB) está em promoção com o menor preço desde maio",
+      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-256-gb-esta-em-promocao-com-o-menor-preco-desde-maio/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Dia dos Pais",
+          "Lenovo",
+          "Lenovo IdeaPad tablets"
+        ]
+      },
+      "timestamp": "2026-07-28T20:05:40.211Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Claude expôs conversas de usuários na busca do Google",
+      "summary": "Chats compartilhados por link foram indexados pelo buscador e ficaram acessíveis publicamente. Anthropic e Google removeram os resultados. Claude expôs conversas de usuários na busca do Google",
+      "link": "https://tecnoblog.net/noticias/claude-expos-conversas-de-usuarios-na-busca-do-google/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Anthropic",
+          "Claude",
+          "Google",
+          "Inteligência Artificial (IA)",
+          "Privacidade"
+        ]
+      },
+      "timestamp": "2026-07-28T20:05:40.507Z"
     }
   ]
 }
