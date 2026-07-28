@@ -757,6 +757,30 @@
         ]
       },
       "timestamp": "2026-07-28T04:23:56.560Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @emnapi/wasi-threads (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 1.2.2 → versão mais recente 2.0.1 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-28T11:07:21.970Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @types/node (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 24.13.3 → versão mais recente 26.1.2 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-28T11:07:21.970Z"
     }
   ]
 }
