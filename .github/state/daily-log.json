@@ -1112,6 +1112,50 @@
         ]
       },
       "timestamp": "2026-07-28T22:30:32.491Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Vivo quer desligar a rede 2G “o quanto antes”",
+      "summary": "Aposentadoria do 2G é prioridade para o CEO Christian Gebara, mas burocracia ainda trava o desligamento. Vivo quer desligar a rede 2G “o quanto antes”",
+      "link": "https://tecnoblog.net/noticias/vivo-quer-desligar-a-rede-2g-o-quanto-antes/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "2G",
+          "Internet das Coisas (IoT)",
+          "TIM",
+          "Vivo"
+        ]
+      },
+      "timestamp": "2026-07-28T23:36:27.482Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung vai ampliar produção de DRAM para frear chips chineses",
+      "summary": "Empresa vai centralizar etapas de fabricação para atender clientes pressionados pela alta de preços das memórias. Samsung vai ampliar produção de DRAM para frear chips chineses",
+      "link": "https://tecnoblog.net/noticias/samsung-vai-ampliar-producao-de-dram-para-frear-chips-chineses/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Hwaseong",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-07-28T23:36:27.726Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Sistema do governo federal fica fora do ar e impede registro profissional",
+      "summary": "Sirpweb mostra aviso de manutenção há mais de duas semanas. Ministério do Trabalho não publicou mais informações sobre o assunto. Sistema do governo federal fica fora do ar e impede registro profissional",
+      "link": "https://tecnoblog.net/noticias/sistema-do-governo-federal-fica-fora-do-ar-e-impede-registro-profissional/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Ministério do Trabalho e Emprego",
+          "Sirpweb"
+        ]
+      },
+      "timestamp": "2026-07-28T23:36:27.981Z"
     }
   ]
 }
