@@ -1243,6 +1243,71 @@
         ]
       },
       "timestamp": "2026-07-29T14:37:03.788Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "A curiosa origem do nome “Windows NT” (tem a ver com a Intel)",
+      "summary": "Microsoft descreve a sigla NT como \"New Technology\". No entanto, os bastidores do desenvolvimento do Windows NT revelam uma referência a um processador Intel. A curiosa origem do nome “Windows NT” (tem a ver com a Intel)",
+      "link": "https://tecnoblog.net/noticias/a-curiosa-origem-do-nome-windows-nt-tem-a-ver-com-a-intel/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Intel",
+          "Microsoft",
+          "Windows 95",
+          "Windows 98",
+          "Windows NT",
+          "Windows NT 3.1"
+        ]
+      },
+      "timestamp": "2026-07-29T16:07:19.205Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
+      "summary": "Sistema explorou credenciais expostas e um servidor vulnerável para ampliar o ataque, alcançando serviços além da Hugging Face. IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
+      "link": "https://tecnoblog.net/noticias/ia-da-openai-invadiu-servidor-de-outra-empresa-apos-fugir-de-teste/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Hugging Face",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-07-29T16:07:19.482Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor celular Oppo em 2026: 6 modelos para comprar no Brasil",
+      "summary": "Guia reúne melhores smartphones da chinesa Oppo; avaliamos prós e contras dos principais celulares em termos de câmera, bateria, desempenho e mais recursos Melhor celular Oppo em 2026: 6 modelos para comprar no Brasil",
+      "link": "https://tecnoblog.net/guias/melhor-celular-oppo/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Brasil",
+          "Oppo"
+        ]
+      },
+      "timestamp": "2026-07-29T16:07:19.733Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Dia dos Pais 2026: Motorola Signature fica 40% mais barato no Mercado Livre",
+      "summary": "Motorola Signature (512 GB) tem tela AMOLED de 165 Hz e câmeras de 50 MP; celular ultra premium recebe desconto de 40% no Pix com cupom em oferta do Dia dos Pais 2026 Dia dos Pais 2026: Motorola Signature fica 40% mais barato no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-motorola-signature-fica-40-mais-barato-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Dia dos Pais",
+          "Dia dos Pais 2026",
+          "Mercado Livre",
+          "Motorola Signature",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-07-29T16:07:19.986Z"
     }
   ]
 }
