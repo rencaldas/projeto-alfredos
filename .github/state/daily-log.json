@@ -1156,6 +1156,18 @@
         ]
       },
       "timestamp": "2026-07-28T23:36:27.981Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @types/use-sync-external-store (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 0.0.6 → versão mais recente 1.5.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-29T11:12:09.300Z"
     }
   ]
 }
