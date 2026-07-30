@@ -1778,6 +1778,33 @@
         ]
       },
       "timestamp": "2026-07-30T19:48:19.828Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como testar a tela touchscreen do celular para identificar problemas",
+      "summary": "Testar o touch do smartphone é essencial para verificar a resposta aos comandos e identificar pontos cegos que influenciam no uso diário do aparelho Como testar a tela touchscreen do celular para identificar problemas",
+      "link": "https://tecnoblog.net/responde/como-testar-a-tela-touchscreen-do-celular-para-identificar-problemas/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "iPhone"
+        ]
+      },
+      "timestamp": "2026-07-30T20:53:31.988Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google quer atualizar Chrome sem reiniciar navegador (mas é por segurança)",
+      "summary": "Google testa método para instalar atualizações no Chrome sem reiniciar o navegador (ou quase isso). Medida visa acelerar a aplicação de correções. Google quer atualizar Chrome sem reiniciar navegador (mas é por segurança)",
+      "link": "https://tecnoblog.net/noticias/google-quer-atualizar-chrome-sem-reiniciar-navegador-mas-e-por-seguranca/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Google",
+          "Google Chrome"
+        ]
+      },
+      "timestamp": "2026-07-30T20:53:32.237Z"
     }
   ]
 }
