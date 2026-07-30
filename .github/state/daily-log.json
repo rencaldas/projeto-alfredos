@@ -1567,6 +1567,51 @@
         ]
       },
       "timestamp": "2026-07-30T13:12:40.964Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft 365 irrita usuários com botão de atualizar plano que não some",
+      "summary": "Botão \"Atualize seu plano\" aparece no topo de ferramentas como Word e Excel, e não pode ser removido facilmente. Microsoft 365 irrita usuários com botão de atualizar plano que não some",
+      "link": "https://tecnoblog.net/noticias/microsoft-365-irrita-usuarios-com-botao-de-atualizar-plano-que-nao-some/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Microsoft",
+          "Microsoft 365",
+          "Microsoft Excel",
+          "Word"
+        ]
+      },
+      "timestamp": "2026-07-30T15:22:37.640Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lenovo pode lançar tablet estilo “Surface” no Brasil",
+      "summary": "ThinkPad X13 Detachable Gen 1 oferece especificações e design similares ao modelo da Microsoft, mas cobra bastante por isso Lenovo pode lançar tablet estilo “Surface” no Brasil",
+      "link": "https://tecnoblog.net/noticias/lenovo-pode-lancar-tablet-estilo-surface-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Brasil",
+          "Exclusivo",
+          "Lenovo",
+          "Microsoft Surface"
+        ]
+      },
+      "timestamp": "2026-07-30T15:22:37.927Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como recuperar fotos e vídeos de uma unidade externa (as melhores soluções)",
+      "summary": "Os arquivos sumiram do seu HD ou SSD externo? Não se preocupe: com a ferramenta certa, é possível recuperar os dados. Veja como a seguir. Como recuperar fotos e vídeos de uma unidade externa (as melhores soluções)",
+      "link": "https://tecnoblog.net/publieditoriais/como-recuperar-fotos-e-videos-de-uma-unidade-externa-as-melhores-solucoes/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "SSD"
+        ]
+      },
+      "timestamp": "2026-07-30T15:22:38.274Z"
     }
   ]
 }
