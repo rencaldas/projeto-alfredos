@@ -1718,6 +1718,66 @@
         ]
       },
       "timestamp": "2026-07-30T18:10:37.121Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "LinkedIn cria botão para denunciar posts feitos por inteligência artificial",
+      "summary": "Recurso permite marcar publicações que parecem “lixo de IA”, termo usado para conteúdos genéricos ou de baixa qualidade. LinkedIn cria botão para denunciar posts feitos por inteligência artificial",
+      "link": "https://tecnoblog.net/noticias/linkedin-cria-botao-para-denunciar-posts-feitos-por-ia/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Inteligência Artificial (IA)",
+          "LinkedIn"
+        ]
+      },
+      "timestamp": "2026-07-30T19:48:19.073Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Erro em nome de usuário faz homem passar 18 meses preso",
+      "summary": "Um canadense foi mantido preso por 18 meses devido a um erro da polícia, que confundiu seu username no aplicativo Kik com o de um criminoso. Erro em nome de usuário faz homem passar 18 meses preso",
+      "link": "https://tecnoblog.net/noticias/erro-em-nome-de-usuario-faz-homem-passar-18-meses-preso/",
+      "meta": {
+        "categorias": [
+          "Sem categoria",
+          "Canadá",
+          "Kik Messenger"
+        ]
+      },
+      "timestamp": "2026-07-30T19:48:19.333Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google Earth agora cria versões em IA de lugares reais",
+      "summary": "Ferramenta foi integrada ao Nano Banana 2 para gerar renderizações e infográficos a partir de imagens de satélite. Google Earth agora cria versões em IA de lugares reais",
+      "link": "https://tecnoblog.net/noticias/google-earth-ganha-ia-para-modificar-lugares-reais/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Google",
+          "Google Earth",
+          "Google Maps",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-07-30T19:48:19.588Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung sofre prejuízo com celulares pela primeira vez",
+      "summary": "Custo dos chips de memória puxou a lucratividade do setor de smartphones para o vermelho. Em contrapartida, fabricante lucrou com semicondutores. Samsung sofre prejuízo com celulares pela primeira vez",
+      "link": "https://tecnoblog.net/noticias/samsung-sofre-prejuizo-com-celulares-pela-primeira-vez/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Celular",
+          "Resultado financeiro",
+          "Samsung",
+          "Smartphone"
+        ]
+      },
+      "timestamp": "2026-07-30T19:48:19.828Z"
     }
   ]
 }
