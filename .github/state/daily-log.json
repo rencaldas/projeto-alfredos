@@ -2270,6 +2270,56 @@
         ]
       },
       "timestamp": "2026-07-31T20:07:23.614Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google remove IA para criar imagens no Earth um dia após lançamento",
+      "summary": "Ferramenta usava Nano Banana 2 e imagens de satélite nas criações. Recurso foi criticado por facilitar disseminação de informações falsas. Google remove IA para criar imagens no Earth um dia após lançamento",
+      "link": "https://tecnoblog.net/noticias/google-remove-ia-para-criar-imagens-no-earth-um-dia-apos-lancamento/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Google",
+          "Google Earth",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-07-31T21:18:00.752Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "10 gerenciadores de senhas: os prós e contras de cada serviço",
+      "summary": "Um gerenciador de senhas facilita a navegação ao salvar credenciais e preencher acessos automaticamente enquanto acessa sites e aplicativos 10 gerenciadores de senhas: os prós e contras de cada serviço",
+      "link": "https://tecnoblog.net/guias/10-gerenciadores-de-senhas-os-pros-e-contras-de-cada-servico/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "1Password",
+          "Bitwarden",
+          "Dashlane",
+          "Gerenciador de senhas",
+          "LastPass"
+        ]
+      },
+      "timestamp": "2026-07-31T21:18:01.049Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Robotáxi da Amazon recebe aval para cobrar por corridas sem motorista",
+      "summary": "Zoox é a primeira empresa autorizada nos EUA a operar comercialmente um veículo sem volante. Startup foi comprada pela Amazon em 2020. Robotáxi da Amazon recebe aval para cobrar por corridas sem motorista",
+      "link": "https://tecnoblog.net/noticias/robotaxi-da-amazon-recebe-aval-para-cobrar-por-corridas-sem-motorista/",
+      "meta": {
+        "categorias": [
+          "Mobilidade",
+          "Amazon",
+          "Estados Unidos (EUA)",
+          "Las Vegas",
+          "Robotaxi",
+          "robotaxis",
+          "Zoox"
+        ]
+      },
+      "timestamp": "2026-07-31T21:18:01.350Z"
     }
   ]
 }
