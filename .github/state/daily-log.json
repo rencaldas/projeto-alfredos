@@ -2173,6 +2173,59 @@
         ]
       },
       "timestamp": "2026-07-31T17:09:53.437Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Bom e barato: Galaxy A36 fica por menos da metade do preço em oferta",
+      "summary": "Galaxy A36 (128 GB) possui tela, bateria e câmeras do Galaxy A37; celular acessível da Samsung atinge o menor preço que já vimos em oferta no Pix Bom e barato: Galaxy A36 fica por menos da metade do preço em oferta",
+      "link": "https://tecnoblog.net/achados/bom-e-barato-galaxy-a36-fica-por-menos-da-metade-do-preco-em-oferta/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy A36",
+          "Mercado Livre",
+          "Pix",
+          "Samsung",
+          "Samsung Galaxy A37 5G"
+        ]
+      },
+      "timestamp": "2026-07-31T18:42:34.319Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Após OpenAI, Anthropic revela invasões de IA durante testes",
+      "summary": "Empresa analisou 141 mil testes e encontrou três situações em que modelos Claude acessaram sistemas externos. Após OpenAI, Anthropic revela invasões de IA durante testes",
+      "link": "https://tecnoblog.net/noticias/apos-openai-anthropic-revela-invasoes-de-ia-durante-testes/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "Claude Mythos",
+          "Claude Mythos 5",
+          "Inteligência Artificial (IA)",
+          "OpenAI",
+          "Opus"
+        ]
+      },
+      "timestamp": "2026-07-31T18:42:34.602Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Claro desativa Alexa em dispositivo de streaming",
+      "summary": "Novos dispositivos do Claro TV+ Box perderam a assistente em maio. Agora, prestadora divulga prazo final para desativá-la. Claro desativa Alexa em dispositivo de streaming",
+      "link": "https://tecnoblog.net/noticias/claro-desativa-alexa-em-dispositivo-de-streaming/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "Amazon",
+          "Amazon Alexa",
+          "Claro",
+          "Claro TV+",
+          "Exclusivo",
+          "Marcio Carvalho"
+        ]
+      },
+      "timestamp": "2026-07-31T18:42:34.892Z"
     }
   ]
 }
