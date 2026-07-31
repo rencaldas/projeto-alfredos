@@ -2052,6 +2052,76 @@
         ]
       },
       "timestamp": "2026-07-31T11:38:30.954Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Epic Games Store chega ao iPhone no Brasil com opção de cashback",
+      "summary": "Após acordo com o Cade, dona do Fortnite retorna ao iOS com cashback de 20% sobre o valor das compras. Epic criticou o processo de instalação exigido pela Apple. Epic Games Store chega ao iPhone no Brasil com opção de cashback",
+      "link": "https://tecnoblog.net/noticias/epic-games-store-chega-ao-iphone-no-brasil-com-opcao-de-cashback/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Apple",
+          "Brasil",
+          "Cade",
+          "Epic Games",
+          "Epic Games Store",
+          "Fortnite",
+          "iOS",
+          "iPhone"
+        ]
+      },
+      "timestamp": "2026-07-31T15:33:56.000Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Sony reconhece críticas, mas mantém fim da mídia física",
+      "summary": "Sony confirmou que, apesar das queixas, planeja descontinuar a mídia física no PlayStation a partir de 2028, acompanhando tendência global de digitalização. Sony reconhece críticas, mas mantém fim da mídia física",
+      "link": "https://tecnoblog.net/noticias/sony-reconhece-criticas-mas-mantem-fim-da-midia-fisica/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Playstation",
+          "PlayStation 5 (PS5)",
+          "PS",
+          "Sony"
+        ]
+      },
+      "timestamp": "2026-07-31T15:33:56.231Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Histórico: Galaxy S25 nunca esteve tão barato como agora pelo app Magalu",
+      "summary": "Galaxy S25 (256 GB) com câmera de 50 MP e tela AMOLED de 120 Hz atinge o menor histórico ao combinar pagamento no Pix com cupom pelo aplicativo do Magazine Luiza Histórico: Galaxy S25 nunca esteve tão barato como agora pelo app Magalu",
+      "link": "https://tecnoblog.net/achados/historico-galaxy-s25-nunca-esteve-tao-barato-como-agora-pelo-app-magalu/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy",
+          "Galaxy S25",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-07-31T15:33:56.465Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Aproveite: Notebook Acer Nitro V15 com RTX 4050 sai por até 12x sem juros",
+      "summary": "Acer Nitro V15 traz GPU Nvidia RTX 4050 e chip Intel Core i7; notebook que é opção acessível para trabalho, estudo e games está disponível em até 12x sem juros na Amazon Aproveite: Notebook Acer Nitro V15 com RTX 4050 sai por até 12x sem juros",
+      "link": "https://tecnoblog.net/achados/aproveite-notebook-acer-nitro-v15-com-rtx-4050-sai-por-ate-12x-sem-juros/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Acer",
+          "Acer Nitro V15",
+          "Intel",
+          "Nvidia",
+          "Nvidia RTX"
+        ]
+      },
+      "timestamp": "2026-07-31T15:33:56.696Z"
     }
   ]
 }
