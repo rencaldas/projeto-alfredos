@@ -2122,6 +2122,57 @@
         ]
       },
       "timestamp": "2026-07-31T15:33:56.696Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "IA do Google que roda 24 horas por dia chega ao Brasil",
+      "summary": "Gemini Spark pode operar de modo automatizado, em segundo plano, para organizar informações, ler e-mails e realizar pesquisas. IA do Google que roda 24 horas por dia chega ao Brasil",
+      "link": "https://tecnoblog.net/noticias/ia-do-google-que-roda-24-horas-por-dia-chega-ao-brasil/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Brasil",
+          "Gemini Spark",
+          "Gmail",
+          "Google",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-07-31T17:09:52.905Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Satya Nadella reafirma promessa da Microsoft para melhorar o Windows 11",
+      "summary": "CEO da Microsoft acenou com melhorias nos \"fundamentos\" do Windows 11 ao comentar resultados financeiros da companhia. De fato, sistema vem recebendo aprimoramentos. Satya Nadella reafirma promessa da Microsoft para melhorar o Windows 11",
+      "link": "https://tecnoblog.net/noticias/satya-nadella-reafirma-promessa-da-microsoft-para-melhorar-o-windows-11/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "CEO",
+          "Microsoft",
+          "Satya Nadella",
+          "Windows",
+          "Windows 11",
+          "Windows 95"
+        ]
+      },
+      "timestamp": "2026-07-31T17:09:53.175Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Só hoje: Edge 60 Neo (256 GB) atinge 52% OFF com cupom no Mercado Livre",
+      "summary": "Edge 60 Neo (512 GB) com câmera Sony de 50 MP e tela POLED de 120 Hz alcança o 2.º menor preço histórico, com desconto de 52% no Pix com cupom que acaba em breve Só hoje: Edge 60 Neo (256 GB) atinge 52% OFF com cupom no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/so-hoje-edge-60-neo-256-gb-atinge-52-off-com-cupom-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Motorola Edge 60 Neo",
+          "Pix",
+          "Sony"
+        ]
+      },
+      "timestamp": "2026-07-31T17:09:53.437Z"
     }
   ]
 }
