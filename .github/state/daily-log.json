@@ -1926,6 +1926,114 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6a6b67cd147d2.jpg"
       },
       "timestamp": "2026-07-31T05:21:16.694Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @edge-runtime/format (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 2.2.1 → versão mais recente 4.0.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-31T11:15:10.781Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @edge-runtime/node-utils (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 2.3.0 → versão mais recente 4.0.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-31T11:15:10.782Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @edge-runtime/ponyfill (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 2.4.2 → versão mais recente 4.0.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-31T11:15:10.782Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @edge-runtime/primitives (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 4.1.0 → versão mais recente 6.0.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-31T11:15:10.782Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @edge-runtime/vm (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 3.2.0 → versão mais recente 5.0.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-31T11:15:10.782Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @fastify/busboy (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 2.1.1 → versão mais recente 3.2.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-31T11:15:10.782Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @renovatebot/pep440 (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 4.2.1 → versão mais recente 5.0.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-31T11:15:10.782Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: estree-walker (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 2.0.2 → versão mais recente 3.0.3 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-31T11:15:10.782Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: minimatch (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 3.1.5 → versão mais recente 10.2.6 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-07-31T11:15:10.782Z"
     }
   ]
 }
