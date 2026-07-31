@@ -2226,6 +2226,50 @@
         ]
       },
       "timestamp": "2026-07-31T18:42:34.892Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhores celulares em 2026: 11 smartphones para comprar no Brasil",
+      "summary": "Confira a seleção dos melhores celulares para comprar em diversas faixas de preço; lista inclui prós e contras de smartphones Samsung, Motorola, Xiaomi e Apple Melhores celulares em 2026: 11 smartphones para comprar no Brasil",
+      "link": "https://tecnoblog.net/guias/melhores-celulares/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Brasil",
+          "Motorola"
+        ]
+      },
+      "timestamp": "2026-07-31T20:07:23.068Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "É oficial: Receita Federal já emite CNPJ com letras e números",
+      "summary": "Primeiro CNPJ alfanumérico foi emitido pela Receita Federal para filial do Banco do Brasil. CNPJs no formato anterior continuam válidos. É oficial: Receita Federal já emite CNPJ com letras e números",
+      "link": "https://tecnoblog.net/noticias/e-oficial-receita-federal-ja-emite-cnpj-com-letras-e-numeros/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Banco do Brasil",
+          "CNPJ",
+          "Receita Federal"
+        ]
+      },
+      "timestamp": "2026-07-31T20:07:23.362Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "WhatsApp testa função de gravar áudios sem abrir a conversa",
+      "summary": "Atalho para Android permite iniciar uma nota de voz pela tela inicial e escolher um ou mais destinatários apenas depois da gravação. WhatsApp testa função de gravar áudios sem abrir a conversa",
+      "link": "https://tecnoblog.net/noticias/whatsapp-testa-funcao-de-gravar-audios-sem-abrir-uma-conversa/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "Android",
+          "WhatsApp",
+          "Widget"
+        ]
+      },
+      "timestamp": "2026-07-31T20:07:23.614Z"
     }
   ]
 }
