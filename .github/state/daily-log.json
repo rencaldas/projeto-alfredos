@@ -2363,6 +2363,45 @@
         ]
       },
       "timestamp": "2026-07-31T23:30:47.199Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Marca chinesa quer lançar smartphone de 8.000 mAh no Brasil",
+      "summary": "Pova Curve 2 5G recebeu certificação da Anatel e combina bateria gigante com painel curvo AMOLED. Lançamento oficial ainda não foi confirmado. Marca chinesa quer lançar smartphone de 8.000 mAh no Brasil",
+      "link": "https://tecnoblog.net/noticias/empresa-chinesa-quer-lancar-smartphone-de-8-000-mah-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Anatel",
+          "Brasil",
+          "Exclusivo",
+          "Tecno",
+          "Tecno Pova Curve 2"
+        ]
+      },
+      "timestamp": "2026-08-01T14:20:14.120Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Por que as empresas de IAs estão “devorando” livros impressos?",
+      "summary": "Livros lançados antes do boom dos LLMs são os mais procurados por fornecerem conteúdo “mais limpo”. Por que as empresas de IAs estão “devorando” livros impressos?",
+      "link": "https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "AI slop",
+          "ChatGPT",
+          "Clalude",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "ISBNdb",
+          "LLMs",
+          "Modelo de linguagem grande",
+          "Reddit",
+          "Workslop"
+        ]
+      },
+      "timestamp": "2026-08-01T14:20:14.418Z"
     }
   ]
 }
