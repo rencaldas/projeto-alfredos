@@ -2549,6 +2549,57 @@
         ]
       },
       "timestamp": "2026-08-03T16:39:35.125Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows 11 vai rodar bem com 8 GB de RAM, promete Microsoft",
+      "summary": "Aparentemente, atual cenário de escassez de memória fez Microsoft reconhecer que Windows 11 precisa ser otimizado para demandar menos RAM. Windows 11 vai rodar bem com 8 GB de RAM, promete Microsoft",
+      "link": "https://tecnoblog.net/noticias/windows-11-vai-rodar-bem-com-8-gb-de-ram-promete-microsoft/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Memória RAM",
+          "Microsoft",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-03T18:23:56.639Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Últimas unidades: Galaxy Buds 4 com ANC tem desconto histórico de 44%",
+      "summary": "Galaxy Buds 4 com recurso de “qualidade ultra-alta” e Galaxy AI tem amplo desconto com pagamento no Pix e cupom do Mercado Livre Últimas unidades: Galaxy Buds 4 com ANC tem desconto histórico de 44%",
+      "link": "https://tecnoblog.net/achados/ultimas-unidades-galaxy-buds-4-com-anc-tem-desconto-historico-de-44/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "Controle ativo de ruído",
+          "Galaxy",
+          "Galaxy AI",
+          "Galaxy Buds",
+          "Galaxy Buds 4",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-08-03T18:23:56.865Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy A37 (256 GB) nunca esteve tão barato como nesta promoção na Amazon",
+      "summary": "Galaxy A37 tem promoção histórica com 50% de desconto na Amazon. Smartphone intermediário traz tela Super AMOLED com 120 Hz e câmera traseira principal de 50 MP com OIS Galaxy A37 (256 GB) nunca esteve tão barato como nesta promoção na Amazon",
+      "link": "https://tecnoblog.net/achados/galaxy-a37-256-gb-nunca-esteve-tao-barato-como-nesta-promocao-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "AMOLED",
+          "Samsung Galaxy A37 5G"
+        ]
+      },
+      "timestamp": "2026-08-03T18:23:57.123Z"
     }
   ]
 }
