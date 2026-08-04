@@ -2975,6 +2975,53 @@
         ]
       },
       "timestamp": "2026-08-04T21:02:19.604Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Linux rouba espaço do Windows na América do Norte, mas por um motivo curioso",
+      "summary": "Dados do StatCounter indicaram salto do pinguim sobre o sistema da Microsoft, mas a verdadeira explicação envolve a atividade de bots de IA. Linux rouba espaço do Windows na América do Norte, mas por um motivo curioso",
+      "link": "https://tecnoblog.net/noticias/linux-rouba-espaco-do-windows-na-america-do-norte-mas-por-um-motivo-curioso/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Estados Unidos",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Linux",
+          "Microsoft",
+          "StatCounter",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-08-04T22:20:06.823Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows 11 “espiona” seu PC a cada 15 minutos? Microsoft nega",
+      "summary": "Executou da Microsoft desmentiu publicação nas redes sociais que afirma que serviço \"whesvc\" do Windows 11 envia dados do PC à companhia silenciosamente. Windows 11 “espiona” seu PC a cada 15 minutos? Microsoft nega",
+      "link": "https://tecnoblog.net/noticias/windows-11-espiona-seu-pc-a-cada-15-minutos-microsoft-nega/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Microsoft",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-04T22:20:07.157Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple sofre com ritmo da IA e limita programa que paga por bug descoberto",
+      "summary": "Fabricante restringe quantidade de notificações após ser inundada por avisos gerados por máquinas (e cheios de alucinações). Apple sofre com ritmo da IA e limita programa que paga por bug descoberto",
+      "link": "https://tecnoblog.net/noticias/apple-sofre-com-ritmo-da-ia-e-limita-programa-que-paga-por-bug-descoberto/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Apple",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-08-04T22:20:07.474Z"
     }
   ]
 }
