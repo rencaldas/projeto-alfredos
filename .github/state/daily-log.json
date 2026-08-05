@@ -3199,6 +3199,53 @@
         ]
       },
       "timestamp": "2026-08-05T17:07:53.793Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Esqueceu o PIN do celular? Saiba como descobrir a senha do chip da Vivo, Claro ou TIM",
+      "summary": "O PIN do chip protege a linha telefônica de usos indevidos, exigindo validação sempre que o aparelho é reiniciado ou o chip inserido em outro dispositivo Esqueceu o PIN do celular? Saiba como descobrir a senha do chip da Vivo, Claro ou TIM",
+      "link": "https://tecnoblog.net/responde/esqueceu-o-pin-do-celular-saiba-como-descobrir-a-senha-do-chip-da-vivo-claro-ou-tim/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Número de identificação pessoal (PIN)",
+          "PUK",
+          "SIM card"
+        ]
+      },
+      "timestamp": "2026-08-05T18:46:31.679Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google decreta fim definitivo do Google Assistente",
+      "summary": "Substituição pelo Gemini começa em 4 de setembro e será aplicada de forma gradual. Google decreta fim definitivo do Google Assistente",
+      "link": "https://tecnoblog.net/noticias/google-decreta-fim-definitivo-do-google-assistente/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Android",
+          "Gemini",
+          "Google",
+          "Google Assistente",
+          "Google Nest",
+          "Google TV"
+        ]
+      },
+      "timestamp": "2026-08-05T18:46:31.979Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft apaga páginas que recomendavam 32 GB de RAM no Windows 11",
+      "summary": "Sem alarde, Microsoft removeu publicações oficiais que recomendavam 32 GB de RAM no Windows 11 para jogos pesados. Decisão pode estar atrelada à crise das memórias. Microsoft apaga páginas que recomendavam 32 GB de RAM no Windows 11",
+      "link": "https://tecnoblog.net/noticias/microsoft-apaga-paginas-que-recomendavam-32-gb-de-ram-no-windows-11/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Microsoft",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-05T18:46:32.280Z"
     }
   ]
 }
