@@ -3406,6 +3406,27 @@
         ]
       },
       "timestamp": "2026-08-05T22:39:58.382Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Em teste, Claude mente e cria contas falsas para forçar ataque hacker",
+      "summary": "Sem prompt específico, Mythos 5 decide enganar desenvolvedor humano para inserir código malicioso no GitHub. Em teste, Claude mente e cria contas falsas para forçar ataque hacker",
+      "link": "https://tecnoblog.net/noticias/claude-ai-mente-e-cria-contas-falsas-para-forcar-ataque-hacker-em-teste/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "AISI",
+          "Anthropic",
+          "Claude",
+          "Claude Fable 5",
+          "Claude Mythos 5",
+          "GitHub",
+          "GPT-5.6",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-08-06T13:37:51.595Z"
     }
   ]
 }
