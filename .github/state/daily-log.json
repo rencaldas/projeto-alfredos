@@ -3766,6 +3766,52 @@
         ]
       },
       "timestamp": "2026-08-07T11:29:33.877Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "ANPD manda Paraná suspender reconhecimento facial em escolas públicas",
+      "summary": "Agência considerou excessivo o uso de biometria facial para chamada de alunos e apontou falhas de transparênci. ANPD manda Paraná suspender reconhecimento facial em escolas públicas",
+      "link": "https://tecnoblog.net/noticias/anpd-manda-parana-suspender-reconhecimento-facial-em-escolas-publicas/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Autoridade Nacional de Proteção de Dados (ANPD)",
+          "Paraná"
+        ]
+      },
+      "timestamp": "2026-08-07T14:37:14.830Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft conta por que é difícil remover recursos antigos do Windows 11",
+      "summary": "Marcus Ash, da Microsoft, explicou que companhia prioriza a compatibilidade com recursos legados, razão pela qual a modernização é feita com muito cuidado. Microsoft conta por que é difícil remover recursos antigos do Windows 11",
+      "link": "https://tecnoblog.net/noticias/microsoft-conta-por-que-e-dificil-remover-recursos-antigos-do-windows-11/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Microsoft",
+          "Painel de Controle",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-07T14:37:15.088Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nintendo Switch 2 fica mais caro no Brasil; veja novo preço",
+      "summary": "Aumento de 2,2% reflete condições de mercado, explica fabricante. Data centers para IA são os vilões da crise da RAM e da escalada dos preços. Nintendo Switch 2 fica mais caro no Brasil; veja novo preço",
+      "link": "https://tecnoblog.net/noticias/nintendo-switch-2-fica-mais-caro-no-brasil-veja-novo-preco/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Brasil",
+          "Inteligência Artificial (IA)",
+          "Memória RAM",
+          "Nintendo",
+          "Nintendo Switch 2"
+        ]
+      },
+      "timestamp": "2026-08-07T14:37:15.377Z"
     }
   ]
 }
