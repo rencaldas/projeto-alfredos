@@ -3629,6 +3629,85 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6a74a6d662f14.jpg"
       },
       "timestamp": "2026-08-07T04:16:33.540Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "ChatGPT libera mensagens ilimitadas no plano gratuito",
+      "summary": "Atualização remove limites de interação mesmo para não-assinantes e troca o GPT-5.5 pelo GPT-5.6 Luna. ChatGPT libera mensagens ilimitadas no plano gratuito",
+      "link": "https://tecnoblog.net/noticias/chatgpt-libera-mensagens-ilimitadas-no-plano-gratuito/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "ChatGPT",
+          "GPT-5.5",
+          "GPT-5.6",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-08-07T05:21:16.491Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Watch Ultra tem menor preço desde maio em oferta exclusiva Prime",
+      "summary": "Galaxy Watch Ultra com caixa de titânio, GPS integrado e longa bateria recebe desconto significativo com pagamento via Pix na Amazon Galaxy Watch Ultra tem menor preço desde maio em oferta exclusiva Prime",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-tem-menor-preco-desde-maio-em-oferta-exclusiva-prime/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Amazon",
+          "AMOLED",
+          "Galaxy",
+          "Galaxy AI",
+          "Galaxy Watch Ultra",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-08-07T05:21:16.807Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Fim do “Enviar como”: Gmail deixará de disparar e-mails de outras contas",
+      "summary": "Google marcou fim do recurso \"Enviar como\" no Gmail para contas externas para janeiro de 2027. Gmailify e busca de e-mails via POP também serão encerrados. Fim do “Enviar como”: Gmail deixará de disparar e-mails de outras contas",
+      "link": "https://tecnoblog.net/noticias/fim-do-enviar-como-gmail-deixara-de-disparar-e-mails-de-outras-contas/",
+      "meta": {
+        "categorias": [
+          "Internet",
+          "Gmail",
+          "Google"
+        ]
+      },
+      "timestamp": "2026-08-07T05:21:17.160Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta diz que sua IA também invadiu sistemas de outra empresa durante teste",
+      "summary": "Incidente se soma a episódios revelados por OpenAI e Anthropic. Especialistas questionam capacidade de empresas para criar ambientes controlados. Meta diz que sua IA também invadiu sistemas de outra empresa durante teste",
+      "link": "https://tecnoblog.net/noticias/meta-diz-que-sua-ia-tambem-invadiu-sistemas-de-outra-empresa-durante-teste/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "Meta",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-08-07T05:21:17.473Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Ar-condicionado LG Inverter Voice 12.000 BTUs cai de preço no Mercado Livre",
+      "summary": "Ar-condicionado da LG está com desconto de 28% ao combinar pagamento via Pix e cupom no Mercado Livre; modelo S3-Q12JA31E traz IA integrada, conectividade Wi-Fi e função de para níveis de consumo Ar-condicionado LG Inverter Voice 12.000 BTUs cai de preço no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/ar-condicionado-lg-inverter-voice-12-000-btus-cai-de-preco-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Casa Conectada e IoT",
+          "LG",
+          "Mercado Livre"
+        ]
+      },
+      "timestamp": "2026-08-07T05:21:17.795Z"
     }
   ]
 }
