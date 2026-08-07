@@ -3959,6 +3959,55 @@
         ]
       },
       "timestamp": "2026-08-07T17:30:08.905Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Kimi K3 também foge de ambiente de testes",
+      "summary": "Modelo Kimi K3 explorou brecha para buscar respostas no GitHub, mas poupou servidores de terceiros de ataques. Kimi K3 também foge de ambiente de testes",
+      "link": "https://tecnoblog.net/noticias/kimi-k3-tambem-foge-de-ambiente-de-testes/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "GitHub",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Kimi",
+          "Kimi K3",
+          "Moonshot AI"
+        ]
+      },
+      "timestamp": "2026-08-07T19:26:44.519Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Após Chrome, Edge também perderá o uBlock Origin e outras extensões MV2",
+      "summary": "Depois do Chrome, Microsoft Edge deixará de suportar extensões no padrão MV2. Mudança afetará principalmente bloqueadores de anúncios como o uBlock Origin. Após Chrome, Edge também perderá o uBlock Origin e outras extensões MV2",
+      "link": "https://tecnoblog.net/noticias/apos-chrome-edge-tambem-perdera-o-ublock-origin-e-outras-extensoes-mv2/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Google Chrome",
+          "Microsoft Edge",
+          "uBlock Origin"
+        ]
+      },
+      "timestamp": "2026-08-07T19:26:44.784Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "“Asimov estava certo” sobre regras para IA, diz ex-diretor de cibersegurança dos EUA",
+      "summary": "Chris Inglis critica falta de limites éticos em modelos autônomos após casos de invasões não autorizadas. “Asimov estava certo” sobre regras para IA, diz ex-diretor de cibersegurança dos EUA",
+      "link": "https://tecnoblog.net/noticias/asimov-estava-certo-sobre-regras-para-ia-diz-ex-diretor-de-ciberseguranca-dos-eua/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Estados Unidos (EUA)",
+          "Inteligência Artificial (IA)",
+          "Isaac Asimov",
+          "John C. Inglis"
+        ]
+      },
+      "timestamp": "2026-08-07T19:26:45.055Z"
     }
   ]
 }
