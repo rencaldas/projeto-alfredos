@@ -3514,6 +3514,88 @@
         ]
       },
       "timestamp": "2026-08-07T00:35:16.361Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Toda a memória prevista para 2027 já esgotou (e a culpa é da IA)",
+      "summary": "Impulsionada pelo boom da inteligência artificial, a produção de gigantes como Samsung e Micron atingiu o limite, ameaçando a oferta e encarecendo componentes para PCs e celulares. Toda a memória prevista para 2027 já esgotou (e a culpa é da IA)",
+      "link": "https://tecnoblog.net/noticias/toda-a-memoria-de-2027-ja-esgotou-e-a-culpa-e-da-ia/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Chips",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Memória",
+          "Micron",
+          "NAND",
+          "Samsung",
+          "Semicondutores",
+          "SK Hynix"
+        ]
+      },
+      "timestamp": "2026-08-07T03:36:48.398Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Huawei Watch GT 6 Pro despenca de preço em promoção na Amazon",
+      "summary": "Huawei Watch GT 6 Pro com corpo de titânio e suporte a +100 atividades esportivas atinge o 2.º menor preço que já vimos, com desconto de 41% no Pix Huawei Watch GT 6 Pro despenca de preço em promoção na Amazon",
+      "link": "https://tecnoblog.net/achados/huawei-watch-gt-6-pro-despenca-de-preco-em-promocao-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Amazon",
+          "Huawei",
+          "Huawei Watch GT 6 Pro",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-07T03:36:48.653Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "OpenAI diz que agentes de IA discutiram como fugir de ambiente controlado",
+      "summary": "Em palestra sobre cibersegurança, empresa apresenta linha do tempo da invasão do Hugging Face. Repositório foi usado para troca de informações entre modelos. OpenAI diz que agentes de IA discutiram como fugir de ambiente controlado",
+      "link": "https://tecnoblog.net/noticias/openai-diz-que-agentes-de-ia-discutiram-como-fugir-de-ambiente-controlado/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-08-07T03:36:48.909Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google expande Pergunte ao Maps e já permite até pedir comida pelo app",
+      "summary": "Google Maps expandiu recurso Pergunte ao Maps para permitir pedidos de refeições, busca de quartos em hotel, entre outras ações. Google expande Pergunte ao Maps e já permite até pedir comida pelo app",
+      "link": "https://tecnoblog.net/noticias/google-expande-pergunte-ao-maps-e-ja-permite-ate-pedir-comida-pelo-app/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Brasil",
+          "Google",
+          "Google Maps",
+          "Inteligência Artificial (IA)",
+          "Mapa"
+        ]
+      },
+      "timestamp": "2026-08-07T03:36:49.217Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como mudar a senha do Gmail: 4 métodos para alterar a palavra-passe do login",
+      "summary": "Trocar a senha do Gmail periodicamente mantém a Conta Google protegida e encerra automaticamente sessões ativas em outros dispositivos para impedir acessos não autorizados Como mudar a senha do Gmail: 4 métodos para alterar a palavra-passe do login",
+      "link": "https://tecnoblog.net/responde/como-mudar-a-senha-do-gmail-4-metodos-para-alterar-a-palavra-passe-do-login/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Gmail",
+          "Google"
+        ]
+      },
+      "timestamp": "2026-08-07T03:36:49.465Z"
     }
   ]
 }
