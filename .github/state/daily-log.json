@@ -4068,6 +4068,30 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6a7603857de41.jpg"
       },
       "timestamp": "2026-08-08T03:14:36.899Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @asamuzakjp/css-color (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 3.2.0 → versão mais recente 6.0.7 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-08-08T09:24:44.760Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @types/node (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 24.13.3 → versão mais recente 26.2.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-08-08T09:24:44.760Z"
     }
   ]
 }
