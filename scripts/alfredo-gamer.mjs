@@ -16,6 +16,10 @@ const chatId = optionalEnv(
   'ALFREDO_GAMER_BOT_CHAT_ID',
   optionalEnv('TELEGRAM_GAMER_CHAT_ID', process.env.TELEGRAM_CHAT_ID)
 );
+const extraChatIds = (optionalEnv('ALFREDO_GAMER_BOT_EXTRA_CHAT_IDS', '') || '')
+  .split(',')
+  .map((id) => id.trim())
+  .filter(Boolean);
 const gamerPowerUrl = optionalEnv('GAMERPOWER_URL', DEFAULT_GAMERPOWER_URL);
 const maxItems = Number(optionalEnv('GAMES_MAX_ITEMS', String(DEFAULT_MAX_ITEMS)));
 
@@ -26,6 +30,8 @@ if (!botToken) {
 if (!chatId) {
   requireEnv('ALFREDO_GAMER_BOT_CHAT_ID');
 }
+
+const chatIds = [...new Set([chatId, ...extraChatIds])];
 
 const response = await fetch(gamerPowerUrl, {
   headers: {
@@ -73,12 +79,14 @@ Status: ${game.status || 'Nao informado'}!
 Data de envio: ${game.published_date || 'Nao informado'}
 Termina em: ${game.end_date || 'Nao informado'}`;
 
-  await sendTelegramPhoto({
-    botToken,
-    chatId,
-    photoUrl: game.thumbnail,
-    caption
-  });
+  for (const recipientChatId of chatIds) {
+    await sendTelegramPhoto({
+      botToken,
+      chatId: recipientChatId,
+      photoUrl: game.thumbnail,
+      caption
+    });
+  }
 
   markSent(history, game.historyId);
   await saveHistory(history);
