@@ -4182,6 +4182,39 @@
         ]
       },
       "timestamp": "2026-08-10T14:50:36.085Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Linus Torvalds: encontrar bugs usando IA é o “novo normal” no Linux",
+      "summary": "O Linux 7.2 está prestes a ser lançado. Um tanto resignado, Linus Torvalds destacou o alto volume de correções via IA que a nova versão trará. Linus Torvalds: encontrar bugs usando IA é o “novo normal” no Linux",
+      "link": "https://tecnoblog.net/noticias/linus-torvalds-encontrar-bugs-usando-ia-e-o-novo-normal-no-linux/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Inteligência Artificial (IA)",
+          "Linus Torvalds",
+          "Linux"
+        ]
+      },
+      "timestamp": "2026-08-10T16:40:47.856Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lançamento: Smart TV LG NANO 50” recebe 42% de desconto no Mercado Livre",
+      "summary": "LG NANO NU850 tem painel 4K NanoCell de 50\", recursos de IA e webOS 26; Smart TV recebe desconto de 42% sobre preço original no Pix no cupom Lançamento: Smart TV LG NANO 50” recebe 42% de desconto no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/lancamento-smart-tv-lg-nano-50-recebe-42-de-desconto-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "Inteligência Artificial (IA)",
+          "Mercado Livre",
+          "Pix",
+          "Smart TV",
+          "Smart TV LG NANO UHD NU850",
+          "webOS"
+        ]
+      },
+      "timestamp": "2026-08-10T16:40:48.186Z"
     }
   ]
 }
