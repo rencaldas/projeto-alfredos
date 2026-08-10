@@ -4103,6 +4103,18 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6a787392bb2f0.jpg"
       },
       "timestamp": "2026-08-10T03:59:13.656Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @testing-library/jest-dom (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 6.9.1 → versão mais recente 7.0.1 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-08-10T10:06:25.603Z"
     }
   ]
 }
