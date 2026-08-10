@@ -4311,6 +4311,45 @@
         ]
       },
       "timestamp": "2026-08-10T18:30:16.335Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Últimas horas: Galaxy A37 atinge menor preço histórico com cupom no Magalu",
+      "summary": "Galaxy A37 de 128 GB com tela AMOLED e câmeras que filmam em 4K tem o preço reduzido ao combinar pagamento via Pix e cupom válido até hoje (10/08) Últimas horas: Galaxy A37 atinge menor preço histórico com cupom no Magalu",
+      "link": "https://tecnoblog.net/achados/ultimas-horas-galaxy-a37-atinge-menor-preco-historico-com-cupom-no-magalu/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy A37",
+          "Galaxy AI",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-08-10T19:38:41.400Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "OpenAI freia nova IA por risco de ciberataques autônomos",
+      "summary": "Após incidente com a Hugging Face, dona do ChatGPT suspende testes e reforça protocolos de segurança por temer que novo sistema vire ameaça. OpenAI freia nova IA por risco de ciberataques autônomos",
+      "link": "https://tecnoblog.net/noticias/openai-freia-nova-ia-por-risco-de-ciberataques-autonomos/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "ChatGPT",
+          "Claude",
+          "GPT-5.6",
+          "Hugging Face",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Moonshot AI",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-08-10T19:38:41.692Z"
     }
   ]
 }
