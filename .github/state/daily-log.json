@@ -4115,6 +4115,41 @@
         "repositorio": "rencaldas/seslock-holmes"
       },
       "timestamp": "2026-08-10T10:06:25.603Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 (256 GB) tem desconto agressivo de 54% com cupom na Amazon",
+      "summary": "Galaxy S25 (256 GB) tem câmera de 50 MP, chip Snapdragon 8 Elite e tela AMOLED de 120 Hz; celular da Samsung sai por menos da metade do preço no Pix com cupom Galaxy S25 (256 GB) tem desconto agressivo de 54% com cupom na Amazon",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-desconto-agressivo-de-54-com-cupom-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "AMOLED",
+          "Galaxy S25",
+          "Pix",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-08-10T13:56:06.828Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Previsão do tempo do Windows usa 5 vezes mais RAM que no Mac",
+      "summary": "Aplicativo Clima do Windows 11 pode consumir mais de 1 GB de RAM. Por ser basedado no Webview2 (motor de navegador), a sua otimização não é tão fácil. Previsão do tempo do Windows usa 5 vezes mais RAM que no Mac",
+      "link": "https://tecnoblog.net/noticias/previsao-do-tempo-do-windows-usa-5-vezes-mais-ram-que-no-mac/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "clima",
+          "macOS",
+          "Memória RAM",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-10T13:56:07.096Z"
     }
   ]
 }
