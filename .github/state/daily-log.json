@@ -4752,6 +4752,30 @@
         ]
       },
       "timestamp": "2026-08-12T00:40:31.433Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Governo Federal inicia migração de dados do SUS para nuvem nacional",
+      "summary": "Projeto tem custo inicial de R$ 18 milhões. Serpro vai receber e realizar o processamento dos dados. Governo Federal inicia migração de dados do SUS para nuvem nacional",
+      "link": "https://tecnoblog.net/noticias/governo-federal-inicia-migracao-de-dados-do-sus-para-nuvem-nacional/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Alexandre Padilha",
+          "Amazon Web Services (AWS)",
+          "Anthropic",
+          "CadSUS",
+          "LGPD",
+          "Ministério da Saúde",
+          "Nuvem Soberana do SUS",
+          "OpenAI",
+          "RNDS",
+          "Serpro",
+          "Sistema Único de Saúde",
+          "SUS Digital"
+        ]
+      },
+      "timestamp": "2026-08-12T11:08:41.161Z"
     }
   ]
 }
