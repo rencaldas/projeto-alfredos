@@ -5351,6 +5351,71 @@
         ]
       },
       "timestamp": "2026-08-13T20:18:32.864Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft 365 não terá mais novos recursos no Windows 10",
+      "summary": "Depois de agosto de 2026, softwares do Microsoft 365 (Office) receberão apenas atualizações de segurança no Windows 10. Novos recursos exigirão o Windows 11. Microsoft 365 não terá mais novos recursos no Windows 10",
+      "link": "https://tecnoblog.net/noticias/microsoft-365-nao-tera-mais-novos-recursos-no-windows-10/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Microsoft",
+          "Microsoft 365",
+          "Microsoft Excel",
+          "PowerPoint",
+          "Windows",
+          "Windows 10",
+          "Windows 11",
+          "Word"
+        ]
+      },
+      "timestamp": "2026-08-13T21:10:07.699Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
+      "summary": "Modelo leve da IA do Google ganha atualização que custa metade do preço para concorrer com serviços chineses. Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
+      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-3-7-flash-apenas-tres-semanas-apos-versao-anterior/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini 3.7 Flash",
+          "Google"
+        ]
+      },
+      "timestamp": "2026-08-13T21:10:07.956Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Custo-benefício: iPhone 15 (256 GB) tem desconto no Mercado Livre",
+      "summary": "iPhone 15 com painel OLED, câmera de 48 MP e corpo em alumínio fica com um preço convidativo com pagamento via Pix no Meli Custo-benefício: iPhone 15 (256 GB) tem desconto no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/custo-beneficio-iphone-15-256-gb-tem-desconto-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "Dynamic Island",
+          "iPhone",
+          "iPhone 15",
+          "Mercado Livre",
+          "OLED",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-13T21:10:08.320Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "LG inaugura fábrica de R$ 1,5 bilhão e mira na competição com Brastemp e Electrolux",
+      "summary": "O Tecnoblog visitou os 770 mil m² da fábrica; objetivo da empresa é trazer diferenciais tecnológicos, preço mais baixo e menor tempo de entrega LG inaugura fábrica de R$ 1,5 bilhão e mira na competição com Brastemp e Electrolux",
+      "link": "https://tecnoblog.net/noticias/lg-inaugura-fabrica-de-r-15-bilhao-e-mira-na-competicao-com-brastemp-e-electrolux/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado"
+        ]
+      },
+      "timestamp": "2026-08-13T21:10:08.579Z"
     }
   ]
 }
