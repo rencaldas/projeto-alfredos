@@ -5306,6 +5306,22 @@
         ]
       },
       "timestamp": "2026-08-13T18:33:52.895Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "VLC culpa Microsoft Defender por demora para abrir no Windows 11",
+      "summary": "Após usuário reclamar de lentidão do VLC para abrir um arquivo MP3, VideoLAN respondeu que a causa é o Microsoft Defender do Windows 11. VLC culpa Microsoft Defender por demora para abrir no Windows 11",
+      "link": "https://tecnoblog.net/noticias/vlc-culpa-microsoft-defender-por-demora-para-abrir-no-windows-11/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Microsoft Defender",
+          "MP3",
+          "VLC",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-13T19:41:26.635Z"
     }
   ]
 }
