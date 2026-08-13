@@ -5149,6 +5149,76 @@
         ]
       },
       "timestamp": "2026-08-13T13:41:40.995Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google Chrome ganha “blindagem” contra roubo de contas",
+      "summary": "Novo recurso de segurança do Chrome vincula cookies de sessão ao computador do usuário para gerar uma proteção única. Entenda como funciona. Google Chrome ganha “blindagem” contra roubo de contas",
+      "link": "https://tecnoblog.net/noticias/google-chrome-ganha-blindagem-contra-roubo-de-contas/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Google",
+          "Google Chrome"
+        ]
+      },
+      "timestamp": "2026-08-13T15:37:10.518Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 Edge (512 GB) com câmera de 200 MP despenca de preço no Magalu",
+      "summary": "Galaxy S25 Edge (512 GB) tem câmera de 200 MP e chip Snapdragon 8 Elite; celular fininho da Samsung sai com valor 59% menor no Pix com cupom ao preço original Galaxy S25 Edge (512 GB) com câmera de 200 MP despenca de preço no Magalu",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-edge-512-gb-com-camera-de-200-mp-despenca-de-preco-no-magalu/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy AI",
+          "Galaxy S25 Edge",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-08-13T15:37:10.828Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Brasileiros trocaram de operadora 3,8 milhões de vezes no 1º semestre",
+      "summary": "Dados obtidos com exclusividade pelo Tecnoblog revelam cenário de estabilidade no setor de telecomunicações. Brasileiros trocaram de operadora 3,8 milhões de vezes no 1º semestre",
+      "link": "https://tecnoblog.net/noticias/brasileiros-trocaram-de-operadora-38-milhoes-de-vezes-no-1o-semestre/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "ABR Telecom",
+          "Brasileiros",
+          "Operadoras",
+          "Portabilidade",
+          "Portabilidade numérica",
+          "telecomunicações",
+          "Telefonia fixa",
+          "Telefonia móvel"
+        ]
+      },
+      "timestamp": "2026-08-13T15:37:11.130Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Ele só queria ver O Senhor dos Anéis, mas o Google havia sumido com os filmes",
+      "summary": "Cliente adquiriu a edição estendida da trilogia \"O Senhor dos Anéis\" em 2022, mas conteúdo desapareceu no Google TV. Ele só queria ver O Senhor dos Anéis, mas o Google havia sumido com os filmes",
+      "link": "https://tecnoblog.net/noticias/ele-so-queria-ver-o-senhor-dos-aneis-mas-o-google-havia-sumido-com-os-filmes/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Bug",
+          "Filmes",
+          "Google",
+          "Google TV",
+          "O Senhor dos Anéis",
+          "YouTube"
+        ]
+      },
+      "timestamp": "2026-08-13T15:37:11.440Z"
     }
   ]
 }
