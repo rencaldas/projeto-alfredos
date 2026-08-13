@@ -5258,6 +5258,36 @@
         ]
       },
       "timestamp": "2026-08-13T16:31:45.964Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Adblock desiste da briga contra os anúncios no Facebook",
+      "summary": "Desenvolvedores da extensão uBlock Origin acusam a Meta de alterar constantemente o código da rede social. Adblock desiste da briga contra os anúncios no Facebook",
+      "link": "https://tecnoblog.net/noticias/adblock-desiste-da-briga-contra-os-anuncios-no-facebook/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Facebook",
+          "Meta",
+          "uBlock Origin"
+        ]
+      },
+      "timestamp": "2026-08-13T17:37:55.286Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Edição especial: Edge 70 Fusion (256 GB) cai de preço com cupom no Mercado Livre",
+      "summary": "Edição Especial do Edge 70 Fusion (256 GB) tem acabamento em ouro 24K; celular da Motorola com tela de 144 Hz recebe desconto de 34% no Pix com cupom Edição especial: Edge 70 Fusion (256 GB) cai de preço com cupom no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/edicao-especial-edge-70-fusion-256-gb-cai-de-preco-com-cupom-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Motorola Edge 70 Fusion",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-13T17:37:55.549Z"
     }
   ]
 }
