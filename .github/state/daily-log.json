@@ -5686,6 +5686,19 @@
         ]
       },
       "timestamp": "2026-08-14T19:10:25.915Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft está em uma cruzada contra o uso de SMS para login",
+      "summary": "Em e-mail recente, Microsoft orienta administradores de TI a substituírem o SMS por passkeys para logins corporativos. Microsoft está em uma cruzada contra o uso de SMS para login",
+      "link": "https://tecnoblog.net/noticias/microsoft-esta-em-uma-cruzada-contra-o-uso-de-sms-para-login/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Microsoft"
+        ]
+      },
+      "timestamp": "2026-08-14T20:20:11.325Z"
     }
   ]
 }
