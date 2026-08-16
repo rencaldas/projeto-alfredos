@@ -5827,6 +5827,42 @@
         ]
       },
       "timestamp": "2026-08-14T22:40:12.777Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @asamuzakjp/css-color (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 3.2.0 → versão mais recente 7.0.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-08-16T09:14:39.415Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/color-helpers (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 5.1.0 → versão mais recente 6.1.1 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-08-16T09:14:39.415Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 3.1.0 → versão mais recente 4.2.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-08-16T09:14:39.415Z"
     }
   ]
 }
