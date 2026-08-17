@@ -5892,6 +5892,42 @@
         ]
       },
       "timestamp": "2026-08-17T12:32:24.817Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xiaomi prepara Redmi Note 17 5G para o Brasil, com bateria grande",
+      "summary": "Smartphone terá 7.700 mAh de bateria e o lançamento será no fim do mês Xiaomi prepara Redmi Note 17 5G para o Brasil, com bateria grande",
+      "link": "https://tecnoblog.net/noticias/xiaomi-prepara-redmi-note-17-5g-para-o-brasil-com-bateria-grande/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Anatel",
+          "Brasil",
+          "Xiaomi"
+        ]
+      },
+      "timestamp": "2026-08-17T13:24:37.381Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Ubuntu cresce mais no Windows do que no próprio Linux",
+      "summary": "Desenvolvedores estão deixando o dual boot de lado para rodar projetos de programação dentro do Windows 11. Ubuntu cresce mais no Windows do que no próprio Linux",
+      "link": "https://tecnoblog.net/noticias/ubuntu-cresce-mais-no-windows-do-que-no-proprio-linux/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Canonical",
+          "Desenvolvimento de software",
+          "inteligência artificial",
+          "Linux",
+          "Microsoft",
+          "Subsistema Windows para Linux",
+          "Ubuntu",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-17T13:24:37.615Z"
     }
   ]
 }
