@@ -6046,6 +6046,56 @@
         ]
       },
       "timestamp": "2026-08-17T16:51:19.940Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "O que é o Discord? Entenda o funcionamento do app de comunicação",
+      "summary": "O Discord possibilita conectar pessoas em tempo real por meio de servidores organizados em canais de texto, voz e vídeo para reuniões, transmissões e conversas em grupo O que é o Discord? Entenda o funcionamento do app de comunicação",
+      "link": "https://tecnoblog.net/responde/o-que-e-discord/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "Discord",
+          "Discord Nitro"
+        ]
+      },
+      "timestamp": "2026-08-17T18:20:39.094Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Firefox para iPhone ganha bloqueador de anúncios",
+      "summary": "Recurso da Mozilla promete barrar pop-ups e rastreadores sem uso de extensões, mas mantém publicidade em buscadores. Firefox para iPhone ganha bloqueador de anúncios",
+      "link": "https://tecnoblog.net/noticias/firefox-para-iphone-ganha-bloqueador-de-anuncios/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Bing",
+          "Bloqueador de anúncios (adblocker)",
+          "DuckDuckGo",
+          "Firefox",
+          "Google",
+          "iOS",
+          "iPhone",
+          "Mozilla"
+        ]
+      },
+      "timestamp": "2026-08-17T18:20:39.347Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Memórias RAM já estão 500% mais caras e preços seguem aumentando",
+      "summary": "Escalada de preços atinge principalmente kits de memória DDR5, mas memórias DDR4 também são afetadas. Memórias RAM já estão 500% mais caras e preços seguem aumentando",
+      "link": "https://tecnoblog.net/noticias/memorias-ram-ja-estao-500-mais-caras-e-precos-seguem-aumentando/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "DDR4 SDRAM",
+          "DDR5",
+          "Estados Unidos (EUA)",
+          "Memória RAM"
+        ]
+      },
+      "timestamp": "2026-08-17T18:20:39.599Z"
     }
   ]
 }
