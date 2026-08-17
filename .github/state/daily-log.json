@@ -5876,6 +5876,22 @@
         ]
       },
       "timestamp": "2026-08-17T09:54:15.240Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft acaba com função de IA no Excel",
+      "summary": "Microsoft decidiu remover função COPILOT do Excel a partir de setembro de 2026, mas a IA continuará disponível via painel lateral. Microsoft acaba com função de IA no Excel",
+      "link": "https://tecnoblog.net/noticias/microsoft-acaba-com-funcao-de-ia-no-excel/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Inteligência Artificial (IA)",
+          "Microsoft",
+          "Microsoft Copilot",
+          "Microsoft Excel"
+        ]
+      },
+      "timestamp": "2026-08-17T12:32:24.817Z"
     }
   ]
 }
