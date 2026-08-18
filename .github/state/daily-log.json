@@ -6520,6 +6520,36 @@
         ]
       },
       "timestamp": "2026-08-18T17:49:39.781Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como iniciar o Windows 11 em modo de segurança",
+      "summary": "O modo de segurança do Windows inicia o sistema apenas com drivers e arquivos essenciais; função é usada para corrigir erros de funcionamento ou conflitos de software Como iniciar o Windows 11 em modo de segurança",
+      "link": "https://tecnoblog.net/responde/como-iniciar-o-windows-11-em-modo-de-seguranca/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Safe mode",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-18T19:04:01.692Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros reforçados",
+      "summary": "Versão para adolescentes agrupa Modo Estudo, controles parentais e alertas de risco em conversas íntimas. OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros reforçados",
+      "link": "https://tecnoblog.net/noticias/openai-lanca-chatgpt-for-teens-com-ferramentas-pedagogicas-e-filtros-reforcados/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "ChatGPT",
+          "Modo Estudo",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-08-18T19:04:01.958Z"
     }
   ]
 }
