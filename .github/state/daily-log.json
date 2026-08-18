@@ -6451,6 +6451,43 @@
         ]
       },
       "timestamp": "2026-08-18T15:53:50.264Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Robô chinês corre mais que Usain Bolt e ainda dá saltos de 2 metros",
+      "summary": "Superhuman é um projeto experimental desenvolvido pela Unitree. Robô chinês corre mais que Usain Bolt e ainda dá saltos de 2 metros",
+      "link": "https://tecnoblog.net/noticias/robo-chines-corre-mais-que-usain-bolt-e-ainda-salta-2-metros-para-o-alto-veja/",
+      "meta": {
+        "categorias": [
+          "Robótica",
+          "China",
+          "Hangzhou",
+          "Inovação",
+          "Mercado",
+          "robô humanoide",
+          "Unitree",
+          "Unitree Robotics",
+          "Usain Bolt"
+        ]
+      },
+      "timestamp": "2026-08-18T16:54:06.019Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Atualização de agosto do Windows está travando alguns jogos",
+      "summary": "Atualização KB5121003 do Windows 11 (Patch Tuesday de agosto de 2026) tem gerado falhas em títulos como ARC Raiders e The Finals. Atualização de agosto do Windows está travando alguns jogos",
+      "link": "https://tecnoblog.net/noticias/atualizacao-de-agosto-do-windows-11-esta-fazendo-alguns-jogos-travarem/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "ARC Raiders",
+          "Microsoft",
+          "Patch Tuesday",
+          "The Finals",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-18T16:54:06.331Z"
     }
   ]
 }
