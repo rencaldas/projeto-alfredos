@@ -9,7 +9,7 @@ Automações para enviar notícias de tecnologia, jogos grátis, alertas de segu
 [![Alfredo Sentinela](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-sentinela.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-sentinela.yml)
 [![Alfredo Secretario](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-secretario.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-secretario.yml)
 
-1. **Alfredo Jornalista**: consulta o feed RSS do Tecnoblog a cada 15 minutos e envia as notícias inéditas ao Telegram.
+1. **Alfredo Jornalista**: consulta o feed RSS do Tecnoblog a cada 15 minutos e envia as notícias inéditas para o Telegram.
 2. **Alfredo Gamer**: consulta diariamente a API da GamerPower para jogos gratuitos inéditos da Epic Games Store e envia imagem, link de resgate e detalhes ao Telegram.
 3. **Alfredo Sentinela**: audita periodicamente os repositórios do GitHub, detecta dependências por lockfiles/manifestos, consulta vulnerabilidades públicas e avisa sobre riscos ou atualizações relevantes.
 4. **Alfredo Secretário**: todos os dias às 23:59 (horário de Brasília), consolida tudo que os outros Alfredos enviaram no dia, pede para o Google Gemini gerar um relatório executivo e envia um resumo ao Telegram e o relatório completo por e-mail.
