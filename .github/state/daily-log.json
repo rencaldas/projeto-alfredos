@@ -6726,6 +6726,55 @@
         ]
       },
       "timestamp": "2026-08-19T14:05:44.202Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Claude agora pode enviar e-mails pelo Gmail por conta própria",
+      "summary": "Novidade permite automatizar o envio de mensagens em contas corporativas. Assistente da Anthropic também ganhou novos comandos no Google Drive. Claude agora pode enviar e-mails pelo Gmail por conta própria",
+      "link": "https://tecnoblog.net/noticias/claude-agora-pode-enviar-e-mails-pelo-gmail-sem-intervencao-do-usuario/",
+      "meta": {
+        "categorias": [
+          "Produtividade",
+          "Anthropic",
+          "Claude",
+          "Gmail",
+          "Google Drive",
+          "Google Workspace",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-08-19T14:50:01.798Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "China bane versão especial do Windows 10 em órgãos de governo",
+      "summary": "Governo chinês mandou órgãos estatais abandonarem versão especial do Windows 10. Medida cita segurança, mas reflete o distanciamento da China em relação aos EUA. China bane versão especial do Windows 10 em órgãos de governo",
+      "link": "https://tecnoblog.net/noticias/china-bane-versao-especial-do-windows-10-em-orgaos-de-governo/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "China",
+          "Estados Unidos (EUA)",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-08-19T14:50:02.087Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 17 (256 GB) tem melhor preço atual com cupom na Amazon",
+      "summary": "iPhone 17 (256 GB) traz câmeras de 48 MP e tela OLED de 120 Hz; melhor oferta atual oferece celular da Apple com 33% de desconto no Pix com cupom iPhone 17 (256 GB) tem melhor preço atual com cupom na Amazon",
+      "link": "https://tecnoblog.net/achados/iphone-17-256-gb-tem-melhor-preco-atual-com-cupom-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Apple",
+          "iPhone 17",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-19T14:50:02.380Z"
     }
   ]
 }
