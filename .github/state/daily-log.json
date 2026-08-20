@@ -7225,6 +7225,54 @@
         ]
       },
       "timestamp": "2026-08-20T16:57:31.307Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "YouTube quer pagar por exclusividade de canais populares, diz site",
+      "summary": "Plataforma de vídeos do Google tenta se defender da Netflix, que fechou acordo com criadores famosos para aumentar engajamento e reduzir custos. YouTube quer pagar por exclusividade de canais populares, diz site",
+      "link": "https://tecnoblog.net/noticias/youtube-quer-pagar-por-exclusividade-de-canais-populares-diz-site/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Google",
+          "Netflix",
+          "YouTube"
+        ]
+      },
+      "timestamp": "2026-08-20T17:23:23.062Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google reúne funcionalidades de IA para estudantes em novo Student Hub",
+      "summary": "Pacote educacional reúne cadernos de estudo e tutoria por foto no Google Lens. Google reúne funcionalidades de IA para estudantes em novo Student Hub",
+      "link": "https://tecnoblog.net/noticias/google-reune-funcionalidades-de-ia-para-estudantes-em-novo-student-hub/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini",
+          "Google",
+          "Google Lens",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-08-20T17:23:23.343Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Amazon compra e destrói livros em massa para treinar IA, diz site",
+      "summary": "Investigação rastreou livro raro até galpão em Las Vegas onde obras teriam as lombadas cortadas para digitalização em escala. Amazon compra e destrói livros em massa para treinar IA, diz site",
+      "link": "https://tecnoblog.net/noticias/amazon-compra-e-destroi-livros-em-massa-para-treinar-ia-diz-site/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Amazon",
+          "Apple AirTag",
+          "Direitos Autorais",
+          "Inteligência Artificial (IA)",
+          "Livros"
+        ]
+      },
+      "timestamp": "2026-08-20T17:23:23.622Z"
     }
   ]
 }
