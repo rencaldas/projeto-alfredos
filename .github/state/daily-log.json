@@ -7372,6 +7372,22 @@
         ]
       },
       "timestamp": "2026-08-20T22:24:33.045Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gerenciador de Tarefas do Windows vai monitorar hardware usado por IA",
+      "summary": "Ferramenta do sistema terá colunas para mostrar como cada processo usa a NPU e o acelerador neural da GPU. Novidade pode ajudar profissionais de TI e desenvolvedores. Gerenciador de Tarefas do Windows vai monitorar hardware usado por IA",
+      "link": "https://tecnoblog.net/noticias/gerenciador-de-tarefas-do-windows-vai-monitorar-hardware-usado-por-ia/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "AI accelerator",
+          "Gerenciador de tarefas",
+          "Inteligência Artificial (IA)",
+          "Microsoft"
+        ]
+      },
+      "timestamp": "2026-08-20T23:14:28.025Z"
     }
   ]
 }
