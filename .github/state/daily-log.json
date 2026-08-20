@@ -7108,6 +7108,61 @@
         ]
       },
       "timestamp": "2026-08-20T13:24:00.349Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung marca evento em 27 de agosto; Galaxy S26 FE deve ser destaque",
+      "summary": "Apresentação começa às 9h, no horário de Brasília, com transmissão pelo YouTube. Samsung marca evento em 27 de agosto; Galaxy S26 FE deve ser destaque",
+      "link": "https://tecnoblog.net/noticias/samsung-marca-evento-em-27-de-agosto-galaxy-s26-fe-deve-ser-destaque/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Android",
+          "Brasília",
+          "Exynos",
+          "Galaxy",
+          "Galaxy S26 FE",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Samsung",
+          "Samsung Galaxy",
+          "Samsung Galaxy S26",
+          "smartphones"
+        ]
+      },
+      "timestamp": "2026-08-20T14:51:46.271Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 16 registra queda superior a 40% em oferta na Amazon",
+      "summary": "iPhone 16 (128 GB) traz tela OLED de 2.000 nits e câmera principal de 48 MP; celular da Apple sai 41% mais barato do que preço original no Pix iPhone 16 registra queda superior a 40% em oferta na Amazon",
+      "link": "https://tecnoblog.net/achados/iphone-16-registra-queda-superior-a-40-em-oferta-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Apple",
+          "iPhone 16",
+          "OLED",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-20T14:51:46.536Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Fabricante paralisa produção de dispositivos Linux devido à crise de RAM",
+      "summary": "Pine64 paralisou produção de notebooks, tablets e celulares baseados no Linux por causa da escassez e alta de preços de módulos DRAM e eMMC. Fabricante paralisa produção de dispositivos Linux devido à crise de RAM",
+      "link": "https://tecnoblog.net/noticias/fabricante-paralisa-producao-de-dispositivos-linux-devido-a-crise-de-ram/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "DRAM",
+          "Linux",
+          "Pine64"
+        ]
+      },
+      "timestamp": "2026-08-20T14:51:46.790Z"
     }
   ]
 }
