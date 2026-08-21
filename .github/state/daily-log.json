@@ -2,41 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Migrar do iPhone para o Android ficou muito melhor (mas só na versão 17)",
-      "summary": "Google lançou versão do aplicativo Mudar para Android que permite migração completa de dados de um iPhone para o Android 17. Migrar do iPhone para o Android ficou muito melhor (mas só na versão 17)",
-      "link": "https://tecnoblog.net/noticias/migrar-do-iphone-para-o-android-ficou-muito-melhor-mas-so-na-versao-17/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Android",
-          "Android 16",
-          "Android 17",
-          "Google",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-07-22T20:04:58.614Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Dia dos Pais 2026: Motorola Razr 60 Ultra (1 TB) cai 41% em oferta",
-      "summary": "Razr 60 Ultra com câmeras de 50 MP, telas AMOLED e processador de alto desempenho sai mais barato com pagamento à vista no Mercado Livre Dia dos Pais 2026: Motorola Razr 60 Ultra (1 TB) cai 41% em oferta",
-      "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-motorola-razr-60-ultra-1-tb-cai-41-em-oferta/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Razr 60 Ultra"
-        ]
-      },
-      "timestamp": "2026-07-22T20:04:58.895Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Dia dos Pais 2026: Galaxy Buds 4 com ANC sai 31% mais barato",
       "summary": "Galaxy Buds 4 com alto-falantes de 11 mm e autonomia de até 5 horas se torna um ótimo presente para os pais fãs de música com pagamento via Pix no Mercado Livre Dia dos Pais 2026: Galaxy Buds 4 com ANC sai 31% mais barato",
       "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-galaxy-buds-4-com-anc-sai-31-mais-barato/",
@@ -7407,6 +7372,40 @@
         ]
       },
       "timestamp": "2026-08-21T19:03:44.694Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Código do macOS revela novos detalhes sobre AirPods com câmera",
+      "summary": "Fones vão sincronizar imagens capturadas por dois sensores e serão capazes de detectar ambiente e pessoas. Código do macOS revela novos detalhes sobre AirPods com câmera",
+      "link": "https://tecnoblog.net/noticias/codigo-do-macos-revela-novos-detalhes-sobre-airpods-com-camera/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "AirPods",
+          "Apple",
+          "Fones de Ouvido",
+          "macOS",
+          "macOS Tahoe"
+        ]
+      },
+      "timestamp": "2026-08-21T20:38:55.400Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "IAs descumprem regra do TSE com ranking de candidatos às eleições",
+      "summary": "ChatGPT, Grok e Gemini criam listas de presidenciáveis após comandos simples. Resolução do Tribunal Superior Eleitoral proíbe esse tipo de recomendação. IAs descumprem regra do TSE com ranking de candidatos às eleições",
+      "link": "https://tecnoblog.net/noticias/ias-descumprem-regra-do-tse-com-ranking-de-candidatos-as-eleicoes-2026/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "ChatGPT",
+          "Gemini",
+          "Grok",
+          "Presidente do Brasil",
+          "TSE"
+        ]
+      },
+      "timestamp": "2026-08-21T20:38:55.680Z"
     }
   ]
 }
