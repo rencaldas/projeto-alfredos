@@ -7410,6 +7410,18 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6a871ffdbbd71.jpg"
       },
       "timestamp": "2026-08-21T02:52:39.443Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @fastify/busboy (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 2.1.1 → versão mais recente 3.2.2 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-08-21T09:23:25.271Z"
     }
   ]
 }
