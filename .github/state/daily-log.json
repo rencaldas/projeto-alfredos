@@ -7492,6 +7492,44 @@
         ]
       },
       "timestamp": "2026-08-21T22:26:16.866Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anatel quer antecipar metas de 4G e 5G da Claro e TIM; entenda",
+      "summary": "Agência propõe solução que troca sanções por antecipação de metas de cobertura estabelecidas no edital do 5G; empresas têm cinco dias úteis para responder. Anatel quer antecipar metas de 4G e 5G da Claro e TIM; entenda",
+      "link": "https://tecnoblog.net/noticias/anatel-quer-antecipar-metas-de-4g-e-5g-da-claro-e-tim-entenda/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "4G",
+          "5G",
+          "Anatel",
+          "Claro",
+          "Claro Brasil",
+          "Operadoras",
+          "telecomunicações",
+          "TIM"
+        ]
+      },
+      "timestamp": "2026-08-21T22:47:41.280Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola com suporte a Android superseguro sem Google vai custar caro",
+      "summary": "GrapheneOS Foundation diz que primeiros aparelhos chegam em 2027 com recursos e preços superiores à linha Pixel. Motorola com suporte a Android superseguro sem Google vai custar caro",
+      "link": "https://tecnoblog.net/noticias/motorola-com-suporte-a-android-superseguro-sem-google-vai-custar-caro/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Android",
+          "Android Open Source Project",
+          "Google",
+          "Google Pixel",
+          "GrapheneOS",
+          "Motorola"
+        ]
+      },
+      "timestamp": "2026-08-21T22:47:41.528Z"
     }
   ]
 }
