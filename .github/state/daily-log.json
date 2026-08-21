@@ -1,42 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Dia dos Pais 2026: Galaxy Buds 4 com ANC sai 31% mais barato",
-      "summary": "Galaxy Buds 4 com alto-falantes de 11 mm e autonomia de até 5 horas se torna um ótimo presente para os pais fãs de música com pagamento via Pix no Mercado Livre Dia dos Pais 2026: Galaxy Buds 4 com ANC sai 31% mais barato",
-      "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-galaxy-buds-4-com-anc-sai-31-mais-barato/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "codec",
-          "Controle ativo de ruído",
-          "Dia dos Pais",
-          "Galaxy",
-          "Galaxy AI",
-          "Galaxy Buds",
-          "Galaxy Buds 4",
-          "Mercado Livre"
-        ]
-      },
-      "timestamp": "2026-07-22T21:20:15.777Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Xbox anuncia retrocompatibilidade do console original para PCs e portáteis",
-      "summary": "Quatro clássicos já podem ser jogados pelo app Xbox no Windows 11, sem necessidade de emulação e com suporte ao Game Pass. Xbox anuncia retrocompatibilidade do console original para PCs e portáteis",
-      "link": "https://tecnoblog.net/noticias/xbox-anuncia-retrocompatibilidade-do-console-original-para-pcs-e-portateis/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Microsoft",
-          "Windows 11",
-          "Xbox",
-          "Xbox Game Pass"
-        ]
-      },
-      "timestamp": "2026-07-22T21:20:16.074Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: @csstools/css-calc (rencaldas/seslock-holmes)",
       "summary": "Versão instalada 2.1.4 → versão mais recente 3.3.0 (npm).",
@@ -7469,6 +7433,22 @@
         ]
       },
       "timestamp": "2026-08-21T21:19:02.303Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Smart TV LG QNED73 50” tem oferta agressiva com 44% OFF no Mercado Livre",
+      "summary": "Smart TV QNED73 de 50 polegadas é um lançamento da LG para 2026. Televisão conta com recursos de IA, cores dinâmicas e sistema WebOS com 5 anos de updates Smart TV LG QNED73 50” tem oferta agressiva com 44% OFF no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned73-50-tem-oferta-agressiva-com-44-off-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "LG",
+          "Mercado Livre",
+          "Pix",
+          "Smart TV LG QNED73"
+        ]
+      },
+      "timestamp": "2026-08-21T21:44:52.092Z"
     }
   ]
 }
