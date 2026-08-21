@@ -2,102 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Nova tela oficial de 10″ quase transforma o Raspberry Pi 5 em tablet",
-      "summary": "Visor oficial da Raspberry Pi ganhou versão com 10 polegadas, resolução maior e painel IPS. Até então, Raspberry Pi Touch Display 2 tinha somente versões de 7 e 5 polegadas. Nova tela oficial de 10″ quase transforma o Raspberry Pi 5 em tablet",
-      "link": "https://tecnoblog.net/noticias/nova-tela-oficial-de-10-quase-transforma-o-raspberry-pi-5-em-tablet/",
-      "meta": {
-        "categorias": [
-          "Periféricos",
-          "Raspberry Pi",
-          "Raspberry Pi 4 Model B",
-          "Raspberry Pi 5"
-        ]
-      },
-      "timestamp": "2026-07-22T17:52:29.794Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung dá mais detalhes sobre óculos smart feitos em parceria com Google",
-      "summary": "No evento Unpacked, marca sul-coreana mostra novas opções de design e promete impedir uso nocivo das câmeras do dispositivo. Samsung dá mais detalhes sobre óculos smart feitos em parceria com Google",
-      "link": "https://tecnoblog.net/noticias/samsung-da-mais-detalhes-sobre-oculos-smart-feitos-em-parceria-com-google/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "Coreia do Sul",
-          "Google",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-07-22T17:52:30.080Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy A57 com tela Super AMOLED+ está mais barato com cupom no Magalu",
-      "summary": "Galaxy A57 (128 GB) com tela Super AMOLED+ e câmera de 50 MP sai quase pela metade do preço no Pix com cupom, em oferta do Dia dos Pais 2026 Galaxy A57 com tela Super AMOLED+ está mais barato com cupom no Magalu",
-      "link": "https://tecnoblog.net/achados/galaxy-a57-com-tela-super-amoled-esta-mais-barato-com-cupom-no-magalu/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "Galaxy A57",
-          "Galaxy AI",
-          "Magazine Luiza",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-07-22T17:52:30.419Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "EUA ameaçam sancionar empresas chinesas por causa de modelos de IA",
-      "summary": "Secretário do Tesouro diz que governo vai investigar se tecnologias chinesas foram treinadas usando IA de companhias americanas. EUA ameaçam sancionar empresas chinesas por causa de modelos de IA",
-      "link": "https://tecnoblog.net/noticias/eua-ameacam-sancionar-empresas-chinesas-por-causa-de-modelos-de-ia/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "China",
-          "Departamento do Tesouro dos Estados Unidos",
-          "Estados Unidos (EUA)",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-07-22T18:54:37.298Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Ministério Público processa World ID por coleta de íris de brasileiros",
-      "summary": "MPSP cobra R$ 240 milhões de indenização. Ação aponta práticas abusivas na captura de biometria de 400 mil pessoas em troca de dinheiro. Ministério Público processa World ID por coleta de íris de brasileiros",
-      "link": "https://tecnoblog.net/noticias/ministerio-publico-processa-world-id-por-coleta-de-iris-de-brasileiros/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Amazon Web Services (AWS)",
-          "Ministério Público do Estado de São Paulo",
-          "Tools for Humanity",
-          "World ID"
-        ]
-      },
-      "timestamp": "2026-07-22T18:54:37.554Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "AMD fecha acordo bilionário com a Anthropic para fornecer GPUs de IA",
-      "summary": "Parceria prevê até 2 gigawatts de capacidade computacional e investimento de US$ 5 bilhões para otimizar o Claude. AMD fecha acordo bilionário com a Anthropic para fornecer GPUs de IA",
-      "link": "https://tecnoblog.net/noticias/amd-fecha-acordo-bilionario-com-a-anthropic-para-fornecer-gpus-de-ia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "AMD",
-          "Anthropic",
-          "Claude",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-07-22T18:54:37.815Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Migrar do iPhone para o Android ficou muito melhor (mas só na versão 17)",
       "summary": "Google lançou versão do aplicativo Mudar para Android que permite migração completa de dados de um iPhone para o Android 17. Migrar do iPhone para o Android ficou muito melhor (mas só na versão 17)",
       "link": "https://tecnoblog.net/noticias/migrar-do-iphone-para-o-android-ficou-muito-melhor-mas-so-na-versao-17/",
@@ -7472,6 +7376,37 @@
         ]
       },
       "timestamp": "2026-08-21T17:52:21.457Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "O estranho recurso do Windows 11 que faz o driver da GPU desaparecer",
+      "summary": "Usuário de notebook gamer descobriu que o Windows 11 remove o driver da GPU dedicada caso ela fique desativada por alguns dias no modo de economia de energia. O estranho recurso do Windows 11 que faz o driver da GPU desaparecer",
+      "link": "https://tecnoblog.net/noticias/o-estranho-recurso-do-windows-11-que-faz-o-driver-da-gpu-desaparecer/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "GPU",
+          "Placa de Vídeo",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-08-21T19:03:44.435Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "GTA 6: dona da Rockstar aciona Microsoft e Discord na Justiça para identificar hacker",
+      "summary": "Take-Two pediu ao Tribunal Distrital do Sul de Nova York que intime as plataformas a fornecer dados de usuários. GTA 6: dona da Rockstar aciona Microsoft e Discord na Justiça para identificar hacker",
+      "link": "https://tecnoblog.net/noticias/gta-6-dona-da-rockstar-aciona-microsoft-e-discord-na-justica-para-identificar-hacker/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Discord",
+          "Microsoft",
+          "Rockstar Games",
+          "Take-Two Interactive"
+        ]
+      },
+      "timestamp": "2026-08-21T19:03:44.694Z"
     }
   ]
 }
