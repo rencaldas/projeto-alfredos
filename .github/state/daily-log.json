@@ -7439,6 +7439,66 @@
         ]
       },
       "timestamp": "2026-08-21T11:42:57.710Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Brasil investe R$ 2,3 bilhões para turbinar infraestrutura nacional de IA",
+      "summary": "Governo Federal dividirá recursos entre empresas dos EUA e China. Investimento prevê um supercomputador com 7,2 mil Petaflops de capacidade. Brasil investe R$ 2,3 bilhões para turbinar infraestrutura nacional de IA",
+      "link": "https://tecnoblog.net/noticias/brasil-investe-r-23-bilhoes-para-turbinar-infraestrutura-nacional-de-ia/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Brasil",
+          "China",
+          "Estados Unidos (EUA)",
+          "Governo Federal",
+          "Huawei",
+          "Inteligência Artificial (IA)",
+          "Nordeste",
+          "Nvidia",
+          "Rio Grande do Norte",
+          "Supercomputador"
+        ]
+      },
+      "timestamp": "2026-08-21T14:24:03.207Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Garmin Forerunner 165 com 5 ATM cai 41% em oferta histórica",
+      "summary": "Forerunner 165, um dos melhores smartwatches da Garmin, resistente a mergulhos de até 50 metros e equipado com GPS, nunca esteve tão barato Garmin Forerunner 165 com 5 ATM cai 41% em oferta histórica",
+      "link": "https://tecnoblog.net/achados/garmin-forerunner-165-com-5-atm-cai-41-em-oferta-historica/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Garmin",
+          "Garmin Forerunner 165",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-21T14:24:03.509Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Falta pouco: Galaxy S26 FE recebe aval da Anatel",
+      "summary": "Samsung faz lançamento na próxima quinta-feira. Ficha técnica prevê poucas mudanças em relação ao S25 FE. Falta pouco: Galaxy S26 FE recebe aval da Anatel",
+      "link": "https://tecnoblog.net/noticias/falta-pouco-galaxy-s26-fe-recebe-aval-da-anatel/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Anatel",
+          "Brasil",
+          "Exclusivo",
+          "Exynos",
+          "Galaxy S26 FE",
+          "NFC",
+          "Samsung",
+          "Samsung Galaxy S26",
+          "Samsung Galaxy Z Flip 7",
+          "Wi-Fi"
+        ]
+      },
+      "timestamp": "2026-08-21T14:24:03.798Z"
     }
   ]
 }
