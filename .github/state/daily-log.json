@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-calc (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 2.1.4 → versão mais recente 3.3.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-23T10:55:58.383Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 3.1.0 → versão mais recente 4.1.10 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-23T10:55:58.383Z"
-    },
-    {
       "agent": "Alfredo Gamer",
       "title": "Foretales (Epic Games) Giveaway",
       "summary": "Plataformas: PC, Android, iOS, Epic Games Store. Termina em: 2026-07-30 23:59:00.",
@@ -7530,6 +7506,24 @@
         ]
       },
       "timestamp": "2026-08-21T22:47:41.528Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Botão anti-IA do LinkedIn é avaliado positivamente",
+      "summary": "Após o recurso registrar mais de 1 milhão de acionamentos, plataforma escondeu publicações genéricas e passou a emitir alertas aos criadores afetados. Botão anti-IA do LinkedIn é avaliado positivamente",
+      "link": "https://tecnoblog.net/noticias/botao-anti-ia-do-linkedin-e-avaliado-positivamente/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Algoritmo",
+          "Inteligência Artificial (IA)",
+          "LinkedIn",
+          "Microsoft",
+          "Moderação",
+          "Redes Sociais"
+        ]
+      },
+      "timestamp": "2026-08-22T13:06:13.088Z"
     }
   ]
 }
