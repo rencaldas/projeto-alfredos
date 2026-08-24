@@ -7657,6 +7657,19 @@
         ]
       },
       "timestamp": "2026-08-24T15:53:00.917Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "AliExpress é flagrado usando áudio para rastrear usuário",
+      "summary": "Script da loja mantinha o áudio ativo mesmo com o volume zerado para criar um perfil detalhado de cada computador. AliExpress é flagrado usando áudio para rastrear usuário",
+      "link": "https://tecnoblog.net/noticias/aliexpress-e-flagrado-usando-audio-para-rastrear-usuario/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "AliExpress"
+        ]
+      },
+      "timestamp": "2026-08-24T16:21:55.661Z"
     }
   ]
 }
