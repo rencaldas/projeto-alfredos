@@ -1,17 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Gamer",
-      "title": "Foretales (Epic Games) Giveaway",
-      "summary": "Plataformas: PC, Android, iOS, Epic Games Store. Termina em: 2026-07-30 23:59:00.",
-      "link": "https://www.gamerpower.com/open/foretales-epic-games-giveaway",
-      "meta": {
-        "status": "Active",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6a622c7fca618.jpg"
-      },
-      "timestamp": "2026-07-24T04:56:56.652Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
       "summary": "Levantamento feito pelo Google analisa uso de inteligência artificial no trabalho, apontado como muito superficial. Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
@@ -7524,6 +7513,20 @@
         ]
       },
       "timestamp": "2026-08-22T13:06:13.088Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como recuperar arquivos em um cartão SD em “RAW” (com falha)",
+      "summary": "Os arquivos sumiram do seu cartão SD ou microSD e um erro “RAW” apareceu? Veja como resolver o problema. Como recuperar arquivos em um cartão SD em “RAW” (com falha)",
+      "link": "https://tecnoblog.net/publieditoriais/como-recuperar-arquivos-em-um-cartao-sd-em-raw-com-falha/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Cartão SD",
+          "MicroSD"
+        ]
+      },
+      "timestamp": "2026-08-24T13:40:51.875Z"
     }
   ]
 }
