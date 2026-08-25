@@ -1,25 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
-      "summary": "Levantamento feito pelo Google analisa uso de inteligência artificial no trabalho, apontado como muito superficial. Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
-      "link": "https://tecnoblog.net/noticias/apenas-3-dos-usos-do-gemini-envolvem-automacao-massiva-de-tarefas/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Amazon",
-          "Gemin",
-          "Google",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Microsoft",
-          "Xbox"
-        ]
-      },
-      "timestamp": "2026-07-26T15:54:07.660Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: ansi-styles (rencaldas/seslock-holmes)",
       "summary": "Versão instalada 5.2.0 → versão mais recente 7.0.0 (npm).",
@@ -8125,6 +8106,20 @@
         ]
       },
       "timestamp": "2026-08-25T15:01:44.888Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple desiste de mudar o Ocultar Meu E-mail após repercussão negativa",
+      "summary": "Usuários apontaram risco de bloqueio de endereços temporários por sites e aplicativos. Apple desiste de mudar o Ocultar Meu E-mail após repercussão negativa",
+      "link": "https://tecnoblog.net/noticias/apple-desiste-de-mudar-o-ocultar-meu-e-mail-apos-repercussao-negativa/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Apple",
+          "iCloud"
+        ]
+      },
+      "timestamp": "2026-08-25T15:56:36.932Z"
     }
   ]
 }
