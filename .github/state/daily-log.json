@@ -7948,6 +7948,18 @@
         ]
       },
       "timestamp": "2026-08-24T23:32:16.543Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @types/node (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 24.13.3 → versão mais recente 26.3.0 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-08-25T09:22:44.870Z"
     }
   ]
 }
