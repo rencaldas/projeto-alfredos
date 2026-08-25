@@ -8136,6 +8136,40 @@
         ]
       },
       "timestamp": "2026-08-25T18:54:31.044Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Uma em cada três pessoas já contou à IA um segredo que ninguém mais sabia",
+      "summary": "Estudo do DuckDuckGo mostra que 32% dos usuários confiam detalhes íntimos às plataformas. Maioria desconhece como os chats são usados pelas empresas. Uma em cada três pessoas já contou à IA um segredo que ninguém mais sabia",
+      "link": "https://tecnoblog.net/noticias/uma-em-cada-tres-pessoas-ja-contou-a-ia-um-segredo-que-ninguem-mais-sabia/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Chatbot",
+          "dados sensíveis",
+          "DuckDuckGo",
+          "Inteligência Artificial (IA)",
+          "Justiça",
+          "Privacidade"
+        ]
+      },
+      "timestamp": "2026-08-25T19:51:40.830Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Justiça decreta falência da Oi… de novo",
+      "summary": "TJ-RJ decretou falência do Grupo Oi nesta terça-feira (25/08). Decisão ocorre após rejeição dos agravos apresentados pelo Bradesco e Itaú. Justiça decreta falência da Oi… de novo",
+      "link": "https://tecnoblog.net/noticias/justica-decreta-falencia-da-oi-de-novo/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Bradesco",
+          "Itaú",
+          "Oi",
+          "Tribunal de Justiça do Estado do Rio de Janeiro"
+        ]
+      },
+      "timestamp": "2026-08-25T19:51:41.096Z"
     }
   ]
 }
