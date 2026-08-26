@@ -2,43 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Google encerra suporte ao Android 6.0 após quase 11 anos",
-      "summary": "Android Marshmallow deixa de receber atualizações do Google Play Services. Aparelhos antigos continuam funcionando, mas ficam mais vulneráveis. Google encerra suporte ao Android 6.0 após quase 11 anos",
-      "link": "https://tecnoblog.net/noticias/google-encerra-suporte-ao-android-6-0-apos-quase-11-anos/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Android",
-          "Android 6.0 Marshmallow",
-          "Android 7 Nougat",
-          "Celular",
-          "celular antigo",
-          "Google",
-          "Google Play Services",
-          "Marshmallow",
-          "Smartphone",
-          "YouTube"
-        ]
-      },
-      "timestamp": "2026-07-27T14:25:08.722Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Geekbench 7 é lançado com testes de CPU e GPU mais realistas",
-      "summary": "Nova versão da ferramenta de benchmark introduz testes mais focados em tarefas cotidianas. Novidade é gratuita para uso pessoal. Versão Pro, paga, tem desconto de lançamento. Geekbench 7 é lançado com testes de CPU e GPU mais realistas",
-      "link": "https://tecnoblog.net/noticias/geekbench-7-e-lancado-com-testes-de-cpu-e-gpu-mais-realistas/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "CPU",
-          "geekbench",
-          "GPU"
-        ]
-      },
-      "timestamp": "2026-07-27T14:25:08.997Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Dia dos Pais 2026: iPhone 16 Plus (256 GB) tem um dos melhores preços do ano",
       "summary": "iPhone 16 Plus (256 GB) com tela OLED e câmera de 48 MP atinge um dos menores preços de 2026, com desconto de 38% no Pix em oferta do Dia dos Pais 2026 Dia dos Pais 2026: iPhone 16 Plus (256 GB) tem um dos melhores preços do ano",
       "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-iphone-16-plus-256-gb-tem-um-dos-melhores-precos-do-ano/",
@@ -8392,6 +8355,88 @@
         ]
       },
       "timestamp": "2026-08-26T14:23:20.144Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Promoção: Motorola Edge 70 (512 GB) despenca 49% no Mercado Livre",
+      "summary": "Edge 70 (512 GB) tem câmeras de 50 MP e chip Snapdragon de ponta; celular da Motorola sai por quase metade do preço original, com desconto de 49% no Pix com cupom Promoção: Motorola Edge 70 (512 GB) despenca 49% no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/promocao-motorola-edge-70-512-gb-despenca-49-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 70",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-26T15:56:55.844Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Bill Gates diz que indústria esconde riscos da IA para proteger lucros",
+      "summary": "Cofundador da Microsoft afirma que empresas de tecnologia minimizam os perigos da inteligência artificial para evitar prejuízos e proteger investimentos. Bill Gates diz que indústria esconde riscos da IA para proteger lucros",
+      "link": "https://tecnoblog.net/noticias/bill-gates-diz-que-industria-esconde-riscos-da-ia-para-proteger-lucros/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Bill Gates",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Microsoft",
+          "Robótica",
+          "Tecnologia"
+        ]
+      },
+      "timestamp": "2026-08-26T15:56:56.120Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "MPT processa Uber em R$ 321 milhões por programa que taxa motoristas",
+      "summary": "Ministério Público do Trabalho move ação contra a Uber por considerar o programa Passe para Motoristas irregular. MPT processa Uber em R$ 321 milhões por programa que taxa motoristas",
+      "link": "https://tecnoblog.net/noticias/mpt-processa-uber-em-r-321-milhoes-por-programa-que-taxa-motoristas/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Ministério Público do Trabalho",
+          "motorista",
+          "Uber"
+        ]
+      },
+      "timestamp": "2026-08-26T15:56:56.497Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta vai pagar US$ 16,6 bilhões por danos a crianças e adolescentes",
+      "summary": "Acordo nos EUA prevê limites de tempo e novas restrições para contas de menores no Facebook e Instagram. Meta vai pagar US$ 16,6 bilhões por danos a crianças e adolescentes",
+      "link": "https://tecnoblog.net/noticias/meta-vai-pagar-us-166-bilhoes-por-danos-a-criancas-e-adolescentes/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Estados Unidos (EUA)",
+          "Facebook",
+          "Instagram",
+          "Meta"
+        ]
+      },
+      "timestamp": "2026-08-26T15:56:56.781Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Z Flip 7 (512 GB) tem o menor preço desde junho em até 12x na Amazon",
+      "summary": "Galaxy Z Flip 7 com tela dobrável AMOLED de 120 Hz e similar a do sucessor Z Flip 8, atinge o menor preço em meses, com desconto de 38% no Pix Galaxy Z Flip 7 (512 GB) tem o menor preço desde junho em até 12x na Amazon",
+      "link": "https://tecnoblog.net/achados/galaxy-z-flip-7-512-gb-tem-o-menor-preco-desde-junho-em-ate-12x-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "AMOLED",
+          "Galaxy Z Flip 7",
+          "Pix",
+          "Samsung Galaxy Z Flip 7"
+        ]
+      },
+      "timestamp": "2026-08-26T15:56:57.051Z"
     }
   ]
 }
