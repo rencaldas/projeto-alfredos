@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: ansi-styles (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 5.2.0 → versão mais recente 7.0.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-27T12:07:52.552Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Google encerra suporte ao Android 6.0 após quase 11 anos",
       "summary": "Android Marshmallow deixa de receber atualizações do Google Play Services. Aparelhos antigos continuam funcionando, mas ficam mais vulneráveis. Google encerra suporte ao Android 6.0 após quase 11 anos",
@@ -8279,6 +8267,21 @@
         ]
       },
       "timestamp": "2026-08-26T11:23:32.422Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Rockstar se pronuncia sobre vazamentos de GTA 6",
+      "summary": "Estúdio afirma que gameplay vazada foi \"devastadora\", mas mantém lançamento do jogo em 19 de novembro. Rockstar se pronuncia sobre vazamentos de GTA 6",
+      "link": "https://tecnoblog.net/noticias/rockstar-se-pronuncia-sobre-vazamentos-de-gta-6/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "GTA 6",
+          "Rockstar Games",
+          "Vazamento"
+        ]
+      },
+      "timestamp": "2026-08-26T12:25:27.779Z"
     }
   ]
 }
