@@ -2,73 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "O que é mAh no power bank e celular? Entenda a medida usada para baterias",
-      "summary": "mAh é um indicador que revela a capacidade de armazenamento de energia da bateria de um dispositivo, sinalizando a autonomia estimada de uso entre as recargas O que é mAh no power bank e celular? Entenda a medida usada para baterias",
-      "link": "https://tecnoblog.net/responde/o-que-e-mah-no-power-bank-e-celular-entenda-a-medida-usada-para-baterias/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Temperatura",
-          "Wi-Fi"
-        ]
-      },
-      "timestamp": "2026-07-27T19:52:28.691Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Aliança de IA fica sem os maiores laboratórios dos EUA",
-      "summary": "OpenAI, Google e Anthropic estão fora da lista. Iniciativa liderada pela Nvidia aposta no código aberto para combater ameaças cibernéticas. Aliança de IA fica sem os maiores laboratórios dos EUA",
-      "link": "https://tecnoblog.net/noticias/alianca-de-ia-fica-sem-os-maiores-laboratorios-dos-eua/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Anthropic",
-          "Estados Unidos (EUA)",
-          "Google",
-          "IBM",
-          "Inteligência Artificial (IA)",
-          "Microsoft",
-          "Nvidia",
-          "OpenAI",
-          "Segurança",
-          "SpaceX"
-        ]
-      },
-      "timestamp": "2026-07-27T19:52:28.980Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft reconhece apps famintos por RAM no Windows 11 e promete solução",
-      "summary": "Microsoft pretende otimizar WinUI para reduzir consumo de memória RAM, o que beneficiará o desempenho dos aplicativos baseados nessa biblioteca. Microsoft reconhece apps famintos por RAM no Windows 11 e promete solução",
-      "link": "https://tecnoblog.net/noticias/microsoft-reconhece-apps-famintos-por-ram-no-windows-11-e-promete-solucao/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Microsoft",
-          "Windows 11",
-          "Windows UI Library"
-        ]
-      },
-      "timestamp": "2026-07-27T19:52:29.270Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple deve adiar óculos smart por causa da privacidade",
-      "summary": "Empresa quer evitar problemas enfrentados pela Meta com câmeras integradas. Modelos devem ser apresentados apenas em 2027. Apple deve adiar óculos smart por causa da privacidade",
-      "link": "https://tecnoblog.net/noticias/apple-deve-adiar-oculos-smart-por-causa-da-privacidade/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Apple",
-          "Meta",
-          "óculos inteligentes",
-          "Óculos smart"
-        ]
-      },
-      "timestamp": "2026-07-27T19:52:29.559Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Dia dos Pais: Galaxy Tab S10 FE Plus com 10.090 mAh surge mais barato",
       "summary": "Galaxy Tab S10 FE Plus de 128 GB com tela LCD e nova S Pen com IA recebe um desconto atrativo com pagamento via Pix no Mercado Livre Dia dos Pais: Galaxy Tab S10 FE Plus com 10.090 mAh surge mais barato",
       "link": "https://tecnoblog.net/achados/dia-dos-pais-galaxy-tab-s10-fe-plus-com-10-090-mah-surge-mais-barato/",
@@ -8318,6 +8251,85 @@
         ]
       },
       "timestamp": "2026-08-26T18:23:39.737Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xbox confirma recurso que transforma jogos físicos em versões digitais",
+      "summary": "Microsoft oficializou ferramenta de Disc-to-Digital, que permite transformar discos de jogos em licenças digitais no Xbox One e Xbox Series X. Xbox confirma recurso que transforma jogos físicos em versões digitais",
+      "link": "https://tecnoblog.net/noticias/xbox-confirma-recurso-que-transforma-jogos-fisicos-em-versoes-digitais/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Microsoft",
+          "Xbox",
+          "Xbox One"
+        ]
+      },
+      "timestamp": "2026-08-26T20:18:39.036Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Jogo do Dinossauro no Chrome: como jogar com ou sem internet",
+      "summary": "Para jogar o jogo do dinossauro que pula do Google Chrome e desviar de cada cacto, basta abrir o navegador sem internet ou digitar um comando direto com a conexão ativa Jogo do Dinossauro no Chrome: como jogar com ou sem internet",
+      "link": "https://tecnoblog.net/responde/como-ativar-o-jogo-do-dinossauro-no-chrome-offline/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Google",
+          "Google Chrome",
+          "PC",
+          "T-Rex Running"
+        ]
+      },
+      "timestamp": "2026-08-26T20:18:39.284Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xbox: controle de 25 anos custará R$ 799 no Brasil",
+      "summary": "Preço do acessório comemorativo foi confirmado ao Tecnoblog. Xbox: controle de 25 anos custará R$ 799 no Brasil",
+      "link": "https://tecnoblog.net/noticias/xbox-controle-de-25-anos-custara-r-799-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Periféricos",
+          "Amazon",
+          "Brasil",
+          "Magazine Luiza",
+          "Microsoft",
+          "Xbox"
+        ]
+      },
+      "timestamp": "2026-08-26T20:18:39.527Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "ChatGPT pode ter anúncios que colocam você para conversar com marcas",
+      "summary": "Novo formato permitiria interações de usuários com agentes de IA criados pelos patrocinadores. ChatGPT pode ter anúncios que colocam você para conversar com marcas",
+      "link": "https://tecnoblog.net/noticias/chatgpt-pode-ter-anuncios-que-colocam-voce-para-conversar-com-marcas/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "ChatGPT",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-08-26T20:18:39.772Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor tablet Xiaomi: 6 modelos para comprar em 2026",
+      "summary": "Encontre o tablet Xiaomi ideal para o seu dia a dia; lista reúne desde modelos com alto desempenho até tablets baratos para leitura e estudo Melhor tablet Xiaomi: 6 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-tablet-xiaomi/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Poco",
+          "Redmi",
+          "Tablet",
+          "Xiaomi"
+        ]
+      },
+      "timestamp": "2026-08-26T20:18:40.041Z"
     }
   ]
 }
