@@ -8251,6 +8251,18 @@
         ]
       },
       "timestamp": "2026-08-25T22:44:14.371Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/seslock-holmes)",
+      "summary": "Versão instalada 3.1.0 → versão mais recente 4.2.1 (npm).",
+      "link": "https://github.com/rencaldas/seslock-holmes",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/seslock-holmes"
+      },
+      "timestamp": "2026-08-26T09:28:13.008Z"
     }
   ]
 }
