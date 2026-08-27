@@ -2,170 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Celular Motorola com 256 GB: 10 smartphones para comprar em 2026",
-      "summary": "Quer espaço de sobra para fotos e apps? Veja nossa seleção com os melhores celulares Motorola de 256 GB em 2026, do básico ao premium. Celular Motorola com 256 GB: 10 smartphones para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/celular-motorola-256gb/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Motorola"
-        ]
-      },
-      "timestamp": "2026-07-28T01:01:10.855Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Celular bom e barato com 256 GB: 5 opções para comprar em 2026",
-      "summary": "Busca espaço de sobra sem gastar muito? Veja nossa seleção de celulares bons e baratos com 256 GB por menos de R$ 1.000 para você comprar em 2026. Celular bom e barato com 256 GB: 5 opções para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/celular-bom-e-barato-256gb/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Motorola",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-07-28T04:23:56.560Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @emnapi/wasi-threads (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 1.2.2 → versão mais recente 2.0.1 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-28T11:07:21.970Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @types/node (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 24.13.3 → versão mais recente 26.1.2 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-28T11:07:21.970Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como organizar o feed do Instagram: saiba mover fotos já postadas",
-      "summary": "Organizar o feed do Instagram ajuda a manter um layout harmônico no perfil e destacar publicações importantes para o dono da conta Como organizar o feed do Instagram: saiba mover fotos já postadas",
-      "link": "https://tecnoblog.net/responde/organizar-feed-instagram/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Instagram"
-        ]
-      },
-      "timestamp": "2026-07-28T13:26:39.964Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Líder de tecnologia do Xbox chama falha de “inaceitável” e promete mudanças",
-      "summary": "Scott Van Vliet classificou falha recente nos serviços do Xbox como uma situação inaceitável. O executivo prometeu melhorias para evitar novas quedas. Líder de tecnologia do Xbox chama falha de “inaceitável” e promete mudanças",
-      "link": "https://tecnoblog.net/noticias/lider-de-tecnologia-do-xbox-chama-falha-de-inaceitavel-e-promete-mudancas/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Xbox"
-        ]
-      },
-      "timestamp": "2026-07-28T13:26:40.225Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple lança serviço de assinatura para iPhones, Macs e iPads",
-      "summary": "Apple Upgrade permite alugar dispositivos pagando um valor fixo mensal. Serviço estreia apenas nos Estados Unidos. Apple lança serviço de assinatura para iPhones, Macs e iPads",
-      "link": "https://tecnoblog.net/noticias/apple-lanca-servico-de-assinatura-para-iphones-macs-e-ipads/",
-      "meta": {
-        "categorias": [
-          "Serviços Financeiros",
-          "Apple",
-          "Apple Watch",
-          "AppleCare",
-          "Estados Unidos (EUA)",
-          "iPad",
-          "iPhone",
-          "Klarna"
-        ]
-      },
-      "timestamp": "2026-07-28T15:41:03.207Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nubank anuncia cartão de crédito platinum Croma",
-      "summary": "Novo serviço financeiro dá 5% de cashback em Netflix, Spotify e diversas outras assinaturas. Nubank anuncia cartão de crédito platinum Croma",
-      "link": "https://tecnoblog.net/noticias/nubank-anuncia-cartao-de-credito-platinum-croma/",
-      "meta": {
-        "categorias": [
-          "Serviços Financeiros",
-          "Mastercard",
-          "Netflix",
-          "Nubank",
-          "Nubank Croma",
-          "Spotify"
-        ]
-      },
-      "timestamp": "2026-07-28T15:41:03.433Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Idec pede investigação sobre abusos com óculos smart no Brasil",
-      "summary": "Entidade cita gravações sem consentimento e deve acionar ANPD, Senacon e MPF para apurar os casos. Idec pede investigação sobre abusos com óculos smart no Brasil",
-      "link": "https://tecnoblog.net/noticias/idec-pede-investigacao-sobre-abusos-com-oculos-smart-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Autoridade Nacional de Proteção de Dados (ANPD)",
-          "Brasil",
-          "Instituto Brasileiro de Defesa do Consumidor",
-          "MPF",
-          "óculos inteligentes",
-          "Óculos smart"
-        ]
-      },
-      "timestamp": "2026-07-28T15:41:03.701Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 60 Neo (512 GB) tem queda agressiva de 44% para Dia dos Pais",
-      "summary": "Edge 60 Neo (512 GB) traz câmera Sony de 50 MP e tela POLED de 120 Hz; celular da Motorola atinge desconto de 44% no Pix em oferta válida para o Dia dos Pais 2026 Motorola Edge 60 Neo (512 GB) tem queda agressiva de 44% para Dia dos Pais",
-      "link": "https://tecnoblog.net/achados/motorola-edge-60-neo-512-gb-tem-queda-agressiva-de-44-para-dia-dos-pais/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Edge 60 Neo",
-          "Pix",
-          "Sony"
-        ]
-      },
-      "timestamp": "2026-07-28T15:41:03.933Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Amazon Leo quer rede de 5 mil satélites de internet para celular",
-      "summary": "Constelação em órbita baixa deve levar conexão direta a celulares em áreas sem cobertura de operadoras. Serviço está previsto para começar em 2028. Amazon Leo quer rede de 5 mil satélites de internet para celular",
-      "link": "https://tecnoblog.net/noticias/amazon-leo-quer-rede-de-5-mil-satelites-de-internet-para-celular/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Amazon Leo (antigo Projeto Kuiper)",
-          "FCC"
-        ]
-      },
-      "timestamp": "2026-07-28T15:41:04.179Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Dia dos Pais 2026: Galaxy Watch 8 BT sai 58% mais barato com cupom no Magalu",
       "summary": "Galaxy Watch 8 BT (40 mm) com tela Super AMOLED e sensor BioActive atinge o 2.º menor preço histórico, com desconto de 58% no Pix com cupom em oferta do Dia dos Pais 2026 Dia dos Pais 2026: Galaxy Watch 8 BT sai 58% mais barato com cupom no Magalu",
       "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-galaxy-watch-8-bt-sai-58-mais-barato-com-cupom-no-magalu/",
@@ -8323,6 +8159,108 @@
         ]
       },
       "timestamp": "2026-08-26T23:48:47.342Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Perplexity lança sistema de IA que roda tudo no seu PC",
+      "summary": "Portable Computer executa agentes de IA localmente, mas exige placas de vídeo Nvidia RTX 3090 ou superior. Perplexity lança sistema de IA que roda tudo no seu PC",
+      "link": "https://tecnoblog.net/noticias/perplexity-lanca-sistema-de-ia-que-roda-tudo-no-seu-pc/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "GPU",
+          "Hardware",
+          "IA",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Linux",
+          "LLM",
+          "Nvidia",
+          "Perplexity",
+          "Perplexity.ai",
+          "Placa de Vídeo",
+          "Portable computer"
+        ]
+      },
+      "timestamp": "2026-08-27T16:38:33.475Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung anuncia Galaxy S26 FE, smartphone mais acessível da linha",
+      "summary": "Celular ganha recurso dos modelos dobráveis e traz 8 GB de memória RAM. Processador é o Exynos 2500. Samsung anuncia Galaxy S26 FE, smartphone mais acessível da linha",
+      "link": "https://tecnoblog.net/noticias/samsung-anuncia-galaxy-s26-fe-modelo-mais-acessivel-da-linha/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Android",
+          "Android 17",
+          "Celular",
+          "Exynos",
+          "Exynos 2500",
+          "Galaxy",
+          "Galaxy S26 FE",
+          "One UI 9",
+          "Samsung",
+          "Smartphone",
+          "Telefone celular"
+        ]
+      },
+      "timestamp": "2026-08-27T16:38:33.749Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 16 (256 GB) tem maior queda de preço dos últimos meses com cupom",
+      "summary": "iPhone 16 tem tela OLED de 120 Hz e câmeras de 48 MP; celular da Apple recebe desconto de 43% no Pix combinado com cupom válido somente hoje iPhone 16 (256 GB) tem maior queda de preço dos últimos meses com cupom",
+      "link": "https://tecnoblog.net/achados/iphone-16-256-gb-tem-maior-queda-de-preco-dos-ultimos-meses-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "Apple Intelligence",
+          "iPhone 16",
+          "OLED",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-27T16:38:34.024Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Só hoje: Motorola Edge 60 (512 GB) despenca 51% no Mercado Livre",
+      "summary": "Edge 60 (512 GB) tem câmeras de 50 MP e tela POLED de 120 Hz; celular da Motorola sai por menos da metade do preço no Pix com cupom válido só hoje (27) Só hoje: Motorola Edge 60 (512 GB) despenca 51% no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/so-hoje-motorola-edge-60-512-gb-despenca-51-off-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 60",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-27T16:38:34.305Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Brasileiros gastam mais de R$ 100 por mês com assinaturas, diz pesquisa",
+      "summary": "Levantamento da plataforma Vindi mostra que 46% dos brasileiros gastam entre R$ 101 e R$ 500 por mês com assinaturas. Streaming lidera com 79%. Brasileiros gastam mais de R$ 100 por mês com assinaturas, diz pesquisa",
+      "link": "https://tecnoblog.net/noticias/brasileiros-gastam-mais-de-r-100-por-mes-com-assinaturas-diz-pesquisa/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Brasileiros",
+          "ChatGPT",
+          "Inteligência Artificial (IA)",
+          "LWSA",
+          "Netflix",
+          "Opinion Box",
+          "Spotify",
+          "TotalPass",
+          "Vindi",
+          "Wellhub"
+        ]
+      },
+      "timestamp": "2026-08-27T16:38:34.581Z"
     }
   ]
 }
