@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @types/use-sync-external-store (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 0.0.6 → versão mais recente 1.5.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-29T11:12:09.300Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Como fazer backup do celular Android pela conta Google",
       "summary": "Saiba como fazer um backup do celular Android para transferir os dados para outro aparelho seguindo as recomendações do Tecnoblog Como fazer backup do celular Android pela conta Google",
@@ -8097,6 +8085,83 @@
         ]
       },
       "timestamp": "2026-08-28T01:07:23.569Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Starlink homologa antena menor e mais leve para uso no Brasil",
+      "summary": "SpaceX teve a antena do kit Starlink V5 para internet via satélite aprovado pela Anatel. Novidade indica lançamento iminente no Brasil. Starlink homologa antena menor e mais leve para uso no Brasil",
+      "link": "https://tecnoblog.net/noticias/starlink-homologa-antena-menor-e-mais-leve-para-uso-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Anatel",
+          "Brasil",
+          "SpaceX",
+          "Starlink"
+        ]
+      },
+      "timestamp": "2026-08-28T12:43:59.712Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Uber permite que pais monitorem corridas de adolescentes por vídeo",
+      "summary": "Uber Adolescentes terá transmissão ao vivo para pais e responsáveis. Funcionalidade chega a usuários nos EUA. Uber permite que pais monitorem corridas de adolescentes por vídeo",
+      "link": "https://tecnoblog.net/noticias/uber-permitira-que-pais-acompanhem-corridas-de-adolescentes-por-video/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Adolescência",
+          "Uber",
+          "Uber Adolescentes"
+        ]
+      },
+      "timestamp": "2026-08-28T12:43:59.970Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Netflix passa por instabilidade durante trailer de GTA 6",
+      "summary": "Assinantes registraram problemas de exibição no streaming. Rockstar divulgou gameplay oficial do jogo. Netflix passa por instabilidade durante trailer de GTA 6",
+      "link": "https://tecnoblog.net/noticias/netflix-passa-por-instabilidade-durante-trailer-de-gta-6/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "GTA 6",
+          "Netflix",
+          "Rockstar Games"
+        ]
+      },
+      "timestamp": "2026-08-28T12:44:00.224Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Falência da Oi: Caixa usa operadora em lotéricas e não tem prazo para troca",
+      "summary": "Caixa Econômica Federal possui contratos com a Oi para conectividade de cerca de 13.000 lotéricas. Banco aguarda avanço do processo de falência para realizar troca. Falência da Oi: Caixa usa operadora em lotéricas e não tem prazo para troca",
+      "link": "https://tecnoblog.net/noticias/falencia-da-oi-caixa-usa-operadora-em-lotericas-e-nao-tem-prazo-para-troca/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Banco",
+          "Caixa Econômica Federal",
+          "Justiça",
+          "Oi"
+        ]
+      },
+      "timestamp": "2026-08-28T12:44:00.490Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como transformar o iPhone em um dumbphone com WhatsApp",
+      "summary": "O Acesso Assistido do iPhone substitui a tela tradicional por uma interface simplificada com botões grandes e sem distrações. Como transformar o iPhone em um dumbphone com WhatsApp",
+      "link": "https://tecnoblog.net/responde/como-transformar-o-iphone-em-um-dumbphone-com-whatsapp/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Acessibilidade",
+          "iPhone",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-08-28T12:44:00.753Z"
     }
   ]
 }
