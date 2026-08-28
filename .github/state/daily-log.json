@@ -1,134 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung pode lançar nova geração do Galaxy TriFold em 2027",
-      "summary": "Segunda geração do celular com três dobras já estaria em desenvolvimento. Modelo pode aposentar o Galaxy Z Flip. Samsung pode lançar nova geração do Galaxy TriFold em 2027",
-      "link": "https://tecnoblog.net/noticias/samsung-pode-lancar-nova-geracao-do-galaxy-trifold-em-2027/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy",
-          "Galaxy Fold",
-          "Galaxy Z Flip",
-          "Galaxy Z TriFold",
-          "rumor",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-07-28T20:05:39.888Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Lenovo Idea Tab (256 GB) está em promoção com o menor preço desde maio",
-      "summary": "Opção de presente de Dia dos Pais, o Idea Tab com tela de 2.5K, caneta Tab Pen e ampla bateria fica mais barato com cupom exclusivo do app Magalu Lenovo Idea Tab (256 GB) está em promoção com o menor preço desde maio",
-      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-256-gb-esta-em-promocao-com-o-menor-preco-desde-maio/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Dia dos Pais",
-          "Lenovo",
-          "Lenovo IdeaPad tablets"
-        ]
-      },
-      "timestamp": "2026-07-28T20:05:40.211Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Claude expôs conversas de usuários na busca do Google",
-      "summary": "Chats compartilhados por link foram indexados pelo buscador e ficaram acessíveis publicamente. Anthropic e Google removeram os resultados. Claude expôs conversas de usuários na busca do Google",
-      "link": "https://tecnoblog.net/noticias/claude-expos-conversas-de-usuarios-na-busca-do-google/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Anthropic",
-          "Claude",
-          "Google",
-          "Inteligência Artificial (IA)",
-          "Privacidade"
-        ]
-      },
-      "timestamp": "2026-07-28T20:05:40.507Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "TIM não quer “repetir com a IA o erro do WhatsApp ilimitado”, diz executivo",
-      "summary": "Savério Demaria afirma que a operadora precisa evitar erros do passado, como o modelo de WhatsApp sem desconto na franquia de dados. TIM não quer “repetir com a IA o erro do WhatsApp ilimitado”, diz executivo",
-      "link": "https://tecnoblog.net/noticias/tim-nao-quer-repetir-com-a-ia-o-erro-do-whatsapp-ilimitado-diz-executivo/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Inteligência Artificial (IA)",
-          "TIM",
-          "WhatsApp"
-        ]
-      },
-      "timestamp": "2026-07-28T21:19:36.099Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S11 tem queda repentina de 30% em oferta de Dia dos Pais",
-      "summary": "Galaxy Tab S11 Wi-Fi de 256 GB cai 30% no Pix com o cupom TANAHORA no Mercado Livre. Tablet traz tela AMOLED de 11\" com 120 Hz, S Pen e capa-teclado inclusas e 12 GB de RAM Galaxy Tab S11 tem queda repentina de 30% em oferta de Dia dos Pais",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-tem-queda-repentina-de-30-em-oferta-de-dia-dos-pais/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "AMOLED",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "Mercado Livre",
-          "Samsung",
-          "Samsung Galaxy Tab S11",
-          "Stylus"
-        ]
-      },
-      "timestamp": "2026-07-28T22:30:32.491Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Vivo quer desligar a rede 2G “o quanto antes”",
-      "summary": "Aposentadoria do 2G é prioridade para o CEO Christian Gebara, mas burocracia ainda trava o desligamento. Vivo quer desligar a rede 2G “o quanto antes”",
-      "link": "https://tecnoblog.net/noticias/vivo-quer-desligar-a-rede-2g-o-quanto-antes/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "2G",
-          "Internet das Coisas (IoT)",
-          "TIM",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-07-28T23:36:27.482Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung vai ampliar produção de DRAM para frear chips chineses",
-      "summary": "Empresa vai centralizar etapas de fabricação para atender clientes pressionados pela alta de preços das memórias. Samsung vai ampliar produção de DRAM para frear chips chineses",
-      "link": "https://tecnoblog.net/noticias/samsung-vai-ampliar-producao-de-dram-para-frear-chips-chineses/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Hwaseong",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-07-28T23:36:27.726Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Sistema do governo federal fica fora do ar e impede registro profissional",
-      "summary": "Sirpweb mostra aviso de manutenção há mais de duas semanas. Ministério do Trabalho não publicou mais informações sobre o assunto. Sistema do governo federal fica fora do ar e impede registro profissional",
-      "link": "https://tecnoblog.net/noticias/sistema-do-governo-federal-fica-fora-do-ar-e-impede-registro-profissional/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Ministério do Trabalho e Emprego",
-          "Sirpweb"
-        ]
-      },
-      "timestamp": "2026-07-28T23:36:27.981Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: @types/use-sync-external-store (rencaldas/seslock-holmes)",
       "summary": "Versão instalada 0.0.6 → versão mais recente 1.5.0 (npm).",
@@ -8139,6 +8011,92 @@
         "repositorio": "rencaldas/seslock-holmes"
       },
       "timestamp": "2026-08-27T19:17:51.438Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xbox Project Helix terá mídia física? CEO Asha Sharma comenta",
+      "summary": "Líder do Xbox, Asha Sharma reconhece importância da mídia física para os jogadores, mas deixa no ar se Project Helix terá ou não suporte a disco. Xbox Project Helix terá mídia física? CEO Asha Sharma comenta",
+      "link": "https://tecnoblog.net/noticias/xbox-project-helix-tera-midia-fisica-ceo-asha-sharma-comenta/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Asha Sharma",
+          "CEO",
+          "Microsoft",
+          "Sony",
+          "Xbox",
+          "Xbox One"
+        ]
+      },
+      "timestamp": "2026-08-28T01:07:22.415Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S10 FE Plus 5G com tela de 13,1” fica 48% mais barato",
+      "summary": "Galaxy Tab S10 Plus FE 5G (128 GB) tem tela de 13,1\", 8 GB de RAM e vem com S Pen; tablet da Samsung sai 48% mais barato em oferta no Pix com cupom Galaxy Tab S10 FE Plus 5G com tela de 13,1” fica 48% mais barato",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-5g-com-tela-de-131-fica-48-mais-barato/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Galaxy AI",
+          "Galaxy Tab S10 FE Plus 5G",
+          "Mercado Livre",
+          "Pix",
+          "Samsung",
+          "Stylus"
+        ]
+      },
+      "timestamp": "2026-08-28T01:07:22.682Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Book 4 atinge menor preço desde janeiro após chegada do Galaxy Book 6",
+      "summary": "Galaxy Book 4 (NP750XGJ-KG3BR), lançado em 2024, possui chip Core i5 e 8 GB de RAM; notebook da Samsung alcança 29% de desconto após o anúncio do Galaxy Book 6 Galaxy Book 4 atinge menor preço desde janeiro após chegada do Galaxy Book 6",
+      "link": "https://tecnoblog.net/achados/galaxy-book-4-atinge-menor-preco-desde-janeiro-apos-chegada-do-galaxy-book-6/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Intel",
+          "Notebook Samsung Galaxy Book 4",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-08-28T01:07:23.003Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung apresenta monitor gamer Odyssey de 1.100 Hz",
+      "summary": "Empresa revelou novos monitores da linha Odyssey, com opções de frequência maiores e combinações para diferentes tipo de jogo. Samsung apresenta monitor gamer Odyssey de 1.100 Hz",
+      "link": "https://tecnoblog.net/noticias/samsung-apresenta-monitor-gamer-odyssey-de-1-100-hz/",
+      "meta": {
+        "categorias": [
+          "Periféricos",
+          "1080p (Full HD)",
+          "Gamescom",
+          "Samsung",
+          "Samsung Odissey G6",
+          "Samsung Odissey OLED G7",
+          "Samsung Odissey OLED G8",
+          "Samsung Odissey OLED G9"
+        ]
+      },
+      "timestamp": "2026-08-28T01:07:23.268Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nvidia fecha acordo para comprar Hugging Face por US$ 12,9 bilhões, diz site",
+      "summary": "Aquisição tem importância estratégica para defender IA de código aberto e se proteger contra concorrência de chips próprios de grandes desenvolvedoras. Nvidia fecha acordo para comprar Hugging Face por US$ 12,9 bilhões, diz site",
+      "link": "https://tecnoblog.net/noticias/nvidia-fecha-acordo-para-comprar-hugging-face-por-us-129-bilhoes-diz-site/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Hugging Face",
+          "Inteligência Artificial (IA)",
+          "Nvidia"
+        ]
+      },
+      "timestamp": "2026-08-28T01:07:23.569Z"
     }
   ]
 }
