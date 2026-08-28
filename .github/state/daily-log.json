@@ -2,361 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Como fazer backup do celular Android pela conta Google",
-      "summary": "Saiba como fazer um backup do celular Android para transferir os dados para outro aparelho seguindo as recomendações do Tecnoblog Como fazer backup do celular Android pela conta Google",
-      "link": "https://tecnoblog.net/responde/fazer-backup-android/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Android",
-          "Backup",
-          "Google",
-          "Google Drive",
-          "Google Fotos",
-          "Google One"
-        ]
-      },
-      "timestamp": "2026-07-29T14:37:02.978Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "BYD se prepara para estrear no mercado de robôs humanoides",
-      "summary": "Montadora deve se juntar a outras fabricantes chinesas e revelar seu primeiro modelo em agosto. BYD se prepara para estrear no mercado de robôs humanoides",
-      "link": "https://tecnoblog.net/noticias/byd-prepara-estreia-no-mercado-de-robos-humanoides/",
-      "meta": {
-        "categorias": [
-          "Robótica",
-          "BMW",
-          "BYD",
-          "BYD Auto",
-          "BYD Company Limited",
-          "Figure AI",
-          "Geely",
-          "Hyundai",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Unitree",
-          "Zhengzhou"
-        ]
-      },
-      "timestamp": "2026-07-29T14:37:03.249Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Finalmente! Caixa vai dispensar ida à agência para ativar app",
-      "summary": "Versão de testes está disponível para usuários de Android. Finalmente! Caixa vai dispensar ida à agência para ativar app",
-      "link": "https://tecnoblog.net/noticias/finalmente-caixa-vai-dispensar-ida-a-agencia-para-ativar-app/",
-      "meta": {
-        "categorias": [
-          "Serviços Financeiros",
-          "Android",
-          "Caixa Econômica Federal"
-        ]
-      },
-      "timestamp": "2026-07-29T14:37:03.518Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Baixou: iPhone 15 tem nova queda em oferta de Dia dos Pais na Amazon",
-      "summary": "iPhone 15 (128 GB) traz chip A16 Bionic, tela OLED e câmera principal de 48 MP; celular da Apple recebe desconto de 45% no Pix em oferta do Dia dos Pais 2026 Baixou: iPhone 15 tem nova queda em oferta de Dia dos Pais na Amazon",
-      "link": "https://tecnoblog.net/achados/baixou-iphone-15-tem-nova-queda-em-oferta-de-dia-dos-pais-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "A16 Bionic",
-          "Amazon",
-          "Apple",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "iPhone 15",
-          "OLED",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-07-29T14:37:03.788Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "A curiosa origem do nome “Windows NT” (tem a ver com a Intel)",
-      "summary": "Microsoft descreve a sigla NT como \"New Technology\". No entanto, os bastidores do desenvolvimento do Windows NT revelam uma referência a um processador Intel. A curiosa origem do nome “Windows NT” (tem a ver com a Intel)",
-      "link": "https://tecnoblog.net/noticias/a-curiosa-origem-do-nome-windows-nt-tem-a-ver-com-a-intel/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Intel",
-          "Microsoft",
-          "Windows 95",
-          "Windows 98",
-          "Windows NT",
-          "Windows NT 3.1"
-        ]
-      },
-      "timestamp": "2026-07-29T16:07:19.205Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
-      "summary": "Sistema explorou credenciais expostas e um servidor vulnerável para ampliar o ataque, alcançando serviços além da Hugging Face. IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
-      "link": "https://tecnoblog.net/noticias/ia-da-openai-invadiu-servidor-de-outra-empresa-apos-fugir-de-teste/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Hugging Face",
-          "Inteligência Artificial (IA)",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-07-29T16:07:19.482Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor celular Oppo em 2026: 6 modelos para comprar no Brasil",
-      "summary": "Guia reúne melhores smartphones da chinesa Oppo; avaliamos prós e contras dos principais celulares em termos de câmera, bateria, desempenho e mais recursos Melhor celular Oppo em 2026: 6 modelos para comprar no Brasil",
-      "link": "https://tecnoblog.net/guias/melhor-celular-oppo/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Brasil",
-          "Oppo"
-        ]
-      },
-      "timestamp": "2026-07-29T16:07:19.733Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Dia dos Pais 2026: Motorola Signature fica 40% mais barato no Mercado Livre",
-      "summary": "Motorola Signature (512 GB) tem tela AMOLED de 165 Hz e câmeras de 50 MP; celular ultra premium recebe desconto de 40% no Pix com cupom em oferta do Dia dos Pais 2026 Dia dos Pais 2026: Motorola Signature fica 40% mais barato no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-motorola-signature-fica-40-mais-barato-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "Mercado Livre",
-          "Motorola Signature",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-07-29T16:07:19.986Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Dia dos Pais: Edge 70 (512 GB) com trio de câmeras de 50 MP atinge 41% OFF",
-      "summary": "Edge 70 (512 GB) tem câmeras de 50 MP e tela POLED de 120 Hz; celular da Motorola recebe desconto de 41% no Pix com cupom em oferta do Dia dos Pais 2026 Dia dos Pais: Edge 70 (512 GB) com trio de câmeras de 50 MP atinge 41% OFF",
-      "link": "https://tecnoblog.net/achados/dia-dos-pais-edge-70-512-gb-com-trio-de-cameras-de-50-mp-atinge-41-off/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "Motorola",
-          "Motorola Edge 70",
-          "Pix",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-07-29T17:34:15.935Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Vivo quer colocar agentes de IA no atendimento telefônico",
-      "summary": "Operadora iniciará projeto piloto em setembro com agentes virtuais por voz. Vivo quer colocar agentes de IA no atendimento telefônico",
-      "link": "https://tecnoblog.net/noticias/vivo-quer-colocar-agentes-de-ia-no-atendimento-telefonico/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Christian Gebara",
-          "Inteligência Artificial (IA)",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-07-29T17:34:16.188Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nova decisão judicial complica ainda mais a situação da Oi",
-      "summary": "Justiça do Rio de Janeiro rejeitou pedido da Oi para vender ativos de forma emergencial. A decisão agrava a crise de caixa da operadora. Nova decisão judicial complica ainda mais a situação da Oi",
-      "link": "https://tecnoblog.net/noticias/nova-decisao-judicial-complica-ainda-mais-a-situacao-da-oi/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Justiça",
-          "Oi",
-          "Rio de Janeiro"
-        ]
-      },
-      "timestamp": "2026-07-29T17:34:16.437Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google desmonta projeto vencedor do Nobel para focar no Gemini, diz jornal",
-      "summary": "Pesquisadores responsáveis por trabalho científico envolvendo IA e proteínas foram realocados para outros projetos ou saíram da empresa. Google desmonta projeto vencedor do Nobel para focar no Gemini, diz jornal",
-      "link": "https://tecnoblog.net/noticias/google-desmonta-projeto-vencedor-do-nobel-para-focar-no-gemini-diz-jornal/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "AlphaFold",
-          "DeepMind",
-          "Gemini",
-          "Google",
-          "Prêmio Nobel"
-        ]
-      },
-      "timestamp": "2026-07-29T17:34:16.691Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Dia dos Pais 2026: Smart TV LG OLED 55” cai de preço com cupom no Magalu",
-      "summary": "Smart TV LG B5 tem tela OLED 4K de 120 Hz e suporta jogos na nuvem; modelo OLED55B5PSA recebe desconto de 33% no Pix com cupom válido apenas pelo app Dia dos Pais 2026: Smart TV LG OLED 55” cai de preço com cupom no Magalu",
-      "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-smart-tv-lg-oled-55-cai-de-preco-com-cupom-no-magalu/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "4K",
-          "Crunchyroll",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "LG OLED AI B5",
-          "Magazine Luiza",
-          "Pix",
-          "Smart TV"
-        ]
-      },
-      "timestamp": "2026-07-29T18:37:56.668Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple pode atualizar linha HomePod após anos sem grandes mudanças",
-      "summary": "Dispositivos de casa inteligente devem receber chips mais potentes para suportar a nova Siri e recursos da Apple Intelligence. Apple pode atualizar linha HomePod após anos sem grandes mudanças",
-      "link": "https://tecnoblog.net/noticias/apple-pode-atualizar-linha-homepod-apos-anos-sem-grandes-mudancas/",
-      "meta": {
-        "categorias": [
-          "Casa Conectada e IoT",
-          "Apple",
-          "Apple Intelligence",
-          "HomePod"
-        ]
-      },
-      "timestamp": "2026-07-29T18:37:56.906Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Starlink cresce em áreas rurais e já ameaça Claro e Vivo",
-      "summary": "Starlink alcançou 791 mil assinantes no Brasil, figurando como o 13º maior provedor de banda larga fixa do país. No segmento rural, a empresa detém 9,34% de participação. Starlink cresce em áreas rurais e já ameaça Claro e Vivo",
-      "link": "https://tecnoblog.net/noticias/starlink-cresce-em-areas-rurais-e-ja-ameaca-claro-e-vivo/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Brasil",
-          "Claro Brasil",
-          "Speedtest",
-          "Starlink",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-07-29T19:57:18.958Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Logitech terá mouse com bateria removível, mas só na Europa",
-      "summary": "Mudança atende às regras da União Europeia. Restante do mundo continuará recebendo modelos com bateria interna. Logitech terá mouse com bateria removível, mas só na Europa",
-      "link": "https://tecnoblog.net/noticias/logitech-tera-mouse-com-bateria-removivel-mas-so-na-europa/",
-      "meta": {
-        "categorias": [
-          "Periféricos",
-          "Bateria",
-          "Europa",
-          "Logitech",
-          "Mouse",
-          "Mouse sem fio",
-          "União Européia",
-          "União Europeia"
-        ]
-      },
-      "timestamp": "2026-07-29T19:57:19.202Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como testar o microfone do celular para identificar problemas",
-      "summary": "O microfone do celular pode apresentar falhas por conta de sujeira, falta de permissão no sistema, bugs de software ou danos físicos Como testar o microfone do celular para identificar problemas",
-      "link": "https://tecnoblog.net/responde/como-testar-o-microfone-do-celular-para-identificar-problemas/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Android",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-07-29T20:47:55.729Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Celular Xiaomi com NFC: 7 smartphones para comprar em 2026",
-      "summary": "Encontre o melhor Xiaomi com NFC para pagamentos por aproximação e saiba como identificar se um smartphone tem a tecnologia Celular Xiaomi com NFC: 7 smartphones para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/celular-xiaomi-com-nfc/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "NFC",
-          "Xiaomi",
-          "Xiaomi 17T"
-        ]
-      },
-      "timestamp": "2026-07-29T21:45:16.794Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Watch Ultra com tela AMOLED despenca 67% em oferta de Dia dos Pais",
-      "summary": "Ideal para pais esportistas, o Galaxy Watch Ultra com GPS integrado e até 80 horas de bateria tem amplo desconto com cupom exclusivo do app Magalu Galaxy Watch Ultra com tela AMOLED despenca 67% em oferta de Dia dos Pais",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-com-tela-amoled-despenca-67-em-oferta-de-dia-dos-pais/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "AMOLED",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "Galaxy",
-          "Galaxy AI",
-          "Galaxy Watch Ultra",
-          "Magazine Luiza"
-        ]
-      },
-      "timestamp": "2026-07-29T21:45:17.146Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "TIM e Claro oscilam após vendaval atingir RJ nesta quarta (29)",
-      "summary": "Rajadas de mais de 100 km/h atingiram a capital fluminense e causaram problemas na cidade. TIM e Claro oscilam após vendaval atingir RJ nesta quarta (29)",
-      "link": "https://tecnoblog.net/noticias/tim-e-claro-oscilam-apos-vendaval-atingir-rj-nesta-quarta-29/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Claro",
-          "fora do ar",
-          "Rio de Janeiro",
-          "TIM"
-        ]
-      },
-      "timestamp": "2026-07-29T21:45:17.428Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Dia dos Pais: Edge 60 (512 GB) tem desconto agressivo de 45% no Magalu",
-      "summary": "Garanta o Motorola Edge 60 de 512 GB mais barato para o Dia dos Pais 2026. Utilize o cupom BLACKAPP250 válido somente pelo app do Magazine Luiza Dia dos Pais: Edge 60 (512 GB) tem desconto agressivo de 45% no Magalu",
-      "link": "https://tecnoblog.net/achados/dia-dos-pais-edge-60-512-gb-tem-desconto-agressivo-de-45-no-magalu/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Dia dos Pais 2026",
-          "Magazine Luiza",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-07-29T21:45:17.708Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Winamp prepara relançamento e streaming em parceria com Deezer",
       "summary": "Serviço musical vai usar infraestrutura e catálogo da empresa francesa. Winamp promete reimaginar experiência musical e modelo de assinaturas. Winamp prepara relançamento e streaming em parceria com Deezer",
       "link": "https://tecnoblog.net/noticias/winamp-prepara-relancamento-com-streaming-em-parceria-com-deezer/",
@@ -8184,6 +7829,88 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6a90554f27ee1.jpg"
       },
       "timestamp": "2026-08-28T13:26:37.729Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Novos Kindle e Echo? Amazon homologa aparelhos misteriosos no Brasil",
+      "summary": "Documentos obtidos pelo Tecnoblog revelam novos dispositivos da empresa certificados pela Anatel. Novos Kindle e Echo? Amazon homologa aparelhos misteriosos no Brasil",
+      "link": "https://tecnoblog.net/noticias/novos-kindle-e-echo-amazon-homologa-aparelhos-misteriosos-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Casa Conectada e IoT",
+          "Amazon",
+          "Amazon Echo",
+          "Bluetooth",
+          "Brasil",
+          "FCC",
+          "Kindle",
+          "Kindle Paperwhite"
+        ]
+      },
+      "timestamp": "2026-08-28T22:40:34.761Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "OpenAI ignorou sinais de que havia algo errado com IA que fugiu de teste",
+      "summary": "Relatórios mostram que, meses antes do ataque à Hugging Face, a desenvolvedora descobriu que os agentes de IA trocavam mensagens e acessavam a internet. OpenAI ignorou sinais de que havia algo errado com IA que fugiu de teste",
+      "link": "https://tecnoblog.net/noticias/openai-ignorou-sinais-de-que-havia-algo-errado-com-ia-que-fugiu-de-teste/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Hugging Face",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-08-28T22:40:34.997Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Garmin Forerunner 265 para treinos cai 49% no Mercado Livre",
+      "summary": "Garmin Forerunner 265 é um dos melhores smartwatches da Garmin, com tela AMOLED touchscreen, GPS integrado e métricas para treinos Garmin Forerunner 265 para treinos cai 49% no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/garmin-forerunner-265-para-treinos-cai-49-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "AMOLED",
+          "Garmin",
+          "Garmin Forerunner",
+          "Garmin Forerunner 265",
+          "Mercado Livre"
+        ]
+      },
+      "timestamp": "2026-08-28T22:40:35.238Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Moto G Max (256 GB) chega a 35% OFF com cupom no Mercado Livre",
+      "summary": "Moto G Max de 256 GB, novo celular intermediário da Motorola, está com 35% de desconto no Pix combinando cupom no Mercado Livre. Câmera de 200 MP é um dos destaques Moto G Max (256 GB) chega a 35% OFF com cupom no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/moto-g-max-256-gb-chega-a-35-off-com-cupom-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Moto G Max",
+          "Motorola",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-28T22:40:35.475Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google quer que desenvolvedores usem menos RAM no Android",
+      "summary": "Empresa cita escassez generalizada de chips de memória como justificativa para exigir que apps e jogos aloquem menos espaço nos smartphones. Google quer que desenvolvedores usem menos RAM no Android",
+      "link": "https://tecnoblog.net/noticias/google-quer-que-desenvolvedores-usem-menos-ram-no-android/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Android",
+          "Google",
+          "Memória RAM"
+        ]
+      },
+      "timestamp": "2026-08-28T22:40:35.711Z"
     }
   ]
 }
