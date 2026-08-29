@@ -2,36 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "EUA barram entrada de robôs humanoides chineses",
-      "summary": "Governo Trump aponta “riscos inaceitáveis” em importação de modelos estrangeiros. EUA barram entrada de robôs humanoides chineses",
-      "link": "https://tecnoblog.net/noticias/eua-barram-entrada-de-robos-humanoides-chineses/",
-      "meta": {
-        "categorias": [
-          "Robótica",
-          "Anatel",
-          "Anthropic",
-          "Boston Dynamics",
-          "BYD",
-          "China",
-          "Donald Trump",
-          "Estados Unidos (EUA)",
-          "EUA",
-          "FCC",
-          "Figure AI",
-          "Geely",
-          "OpenAI",
-          "Pequim",
-          "UBTech",
-          "Unitree",
-          "WAICO",
-          "Washington",
-          "Xangai"
-        ]
-      },
-      "timestamp": "2026-07-30T13:12:40.964Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Microsoft 365 irrita usuários com botão de atualizar plano que não some",
       "summary": "Botão \"Atualize seu plano\" aparece no topo de ferramentas como Word e Excel, e não pode ser removido facilmente. Microsoft 365 irrita usuários com botão de atualizar plano que não some",
       "link": "https://tecnoblog.net/noticias/microsoft-365-irrita-usuarios-com-botao-de-atualizar-plano-que-nao-some/",
@@ -8065,6 +8035,91 @@
         ]
       },
       "timestamp": "2026-08-29T10:32:21.627Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Só hoje: Motorola Edge 70 Pro (256 GB) baixa de preço no Mercado Livre",
+      "summary": "Edge 70 Pro (256 GB) tem tela AMOLED de 144 Hz e todas as câmeras de 50 MP; celular da Motorola sai 31% mais barato combinando Pix e cupom válido até hoje Só hoje: Motorola Edge 70 Pro (256 GB) baixa de preço no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/so-hoje-motorola-edge-70-pro-256-gb-baixa-de-preco-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 70 Pro",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-29T15:18:20.377Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anthropic obtém vitória contra Pentágono na Justiça dos EUA",
+      "summary": "Juíza considera que sanções impostas são ilegais, arbitrárias e movidas por caprichos. Empresa não quis liberar uso de IA para vigilância e armas autônomas. Anthropic obtém vitória contra Pentágono na Justiça dos EUA",
+      "link": "https://tecnoblog.net/noticias/anthropic-obtem-vitoria-contra-pentagono-na-justica-dos-eua/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Anthropic",
+          "Empresa",
+          "Estados Unidos (EUA)",
+          "Inteligência Artificial (IA)",
+          "Juiz",
+          "Justiça",
+          "Pentágono"
+        ]
+      },
+      "timestamp": "2026-08-29T15:18:20.676Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Smart TV TCL 55″ com 144 Hz tem uma das melhores ofertas recentes",
+      "summary": "Modelo C6K possui painel QLED com tecnologia Mini LED e taxa de 144 Hz; uma das melhores promoções recentes traz smart TV da TCL de 55 polegadas com 28% de desconto no Pix com cupom Smart TV TCL 55″ com 144 Hz tem uma das melhores ofertas recentes",
+      "link": "https://tecnoblog.net/achados/smart-tv-tcl-55-com-144-hz-tem-uma-das-melhores-ofertas-recentes/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "Magazine Luiza",
+          "Pix",
+          "Quantum dot display",
+          "Smart TV",
+          "Smart TV TCL C6K",
+          "TCL"
+        ]
+      },
+      "timestamp": "2026-08-29T15:18:20.955Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows 11 libera Barra de Tarefas móvel e novo Menu Iniciar; saiba ativar",
+      "summary": "Pacote KB5120998 (opcional) traz Barra de Tarefas móvel para o Windows 11. A atualização também inclui o Menu Iniciar redimensionável. Windows 11 libera Barra de Tarefas móvel e novo Menu Iniciar; saiba ativar",
+      "link": "https://tecnoblog.net/noticias/windows-11-libera-barra-de-tarefas-movel-e-novo-menu-iniciar-saiba-ativar/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Barra de tarefas",
+          "Menu Iniciar",
+          "Microsoft",
+          "Windows 11",
+          "Windows Update"
+        ]
+      },
+      "timestamp": "2026-08-29T15:18:21.231Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Jornalistas do Tecnoblog são reconhecidos no Prêmio Especialistas",
+      "summary": "Emerson Alecrim e Thássius Veloso são finalistas na categoria Eletroeletrônico. Votação para escolher o destaque está aberta ao público. Jornalistas do Tecnoblog são reconhecidos no Prêmio Especialistas",
+      "link": "https://tecnoblog.net/noticias/jornalistas-do-tecnoblog-sao-reconhecidos-no-premio-especialistas/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Brasil",
+          "Central Brasileira de Notícias"
+        ]
+      },
+      "timestamp": "2026-08-29T15:18:21.471Z"
     }
   ]
 }
