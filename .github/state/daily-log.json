@@ -2,93 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "LinkedIn cria botão para denunciar posts feitos por inteligência artificial",
-      "summary": "Recurso permite marcar publicações que parecem “lixo de IA”, termo usado para conteúdos genéricos ou de baixa qualidade. LinkedIn cria botão para denunciar posts feitos por inteligência artificial",
-      "link": "https://tecnoblog.net/noticias/linkedin-cria-botao-para-denunciar-posts-feitos-por-ia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)",
-          "LinkedIn"
-        ]
-      },
-      "timestamp": "2026-07-30T19:48:19.073Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Erro em nome de usuário faz homem passar 18 meses preso",
-      "summary": "Um canadense foi mantido preso por 18 meses devido a um erro da polícia, que confundiu seu username no aplicativo Kik com o de um criminoso. Erro em nome de usuário faz homem passar 18 meses preso",
-      "link": "https://tecnoblog.net/noticias/erro-em-nome-de-usuario-faz-homem-passar-18-meses-preso/",
-      "meta": {
-        "categorias": [
-          "Sem categoria",
-          "Canadá",
-          "Kik Messenger"
-        ]
-      },
-      "timestamp": "2026-07-30T19:48:19.333Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google Earth agora cria versões em IA de lugares reais",
-      "summary": "Ferramenta foi integrada ao Nano Banana 2 para gerar renderizações e infográficos a partir de imagens de satélite. Google Earth agora cria versões em IA de lugares reais",
-      "link": "https://tecnoblog.net/noticias/google-earth-ganha-ia-para-modificar-lugares-reais/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Google",
-          "Google Earth",
-          "Google Maps",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-07-30T19:48:19.588Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung sofre prejuízo com celulares pela primeira vez",
-      "summary": "Custo dos chips de memória puxou a lucratividade do setor de smartphones para o vermelho. Em contrapartida, fabricante lucrou com semicondutores. Samsung sofre prejuízo com celulares pela primeira vez",
-      "link": "https://tecnoblog.net/noticias/samsung-sofre-prejuizo-com-celulares-pela-primeira-vez/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Celular",
-          "Resultado financeiro",
-          "Samsung",
-          "Smartphone"
-        ]
-      },
-      "timestamp": "2026-07-30T19:48:19.828Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como testar a tela touchscreen do celular para identificar problemas",
-      "summary": "Testar o touch do smartphone é essencial para verificar a resposta aos comandos e identificar pontos cegos que influenciam no uso diário do aparelho Como testar a tela touchscreen do celular para identificar problemas",
-      "link": "https://tecnoblog.net/responde/como-testar-a-tela-touchscreen-do-celular-para-identificar-problemas/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-07-30T20:53:31.988Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google quer atualizar Chrome sem reiniciar navegador (mas é por segurança)",
-      "summary": "Google testa método para instalar atualizações no Chrome sem reiniciar o navegador (ou quase isso). Medida visa acelerar a aplicação de correções. Google quer atualizar Chrome sem reiniciar navegador (mas é por segurança)",
-      "link": "https://tecnoblog.net/noticias/google-quer-atualizar-chrome-sem-reiniciar-navegador-mas-e-por-seguranca/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "Google",
-          "Google Chrome"
-        ]
-      },
-      "timestamp": "2026-07-30T20:53:32.237Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Como baixar Fortnite no iPhone: passo a passo com imagens para instalar via Epic Games",
       "summary": "Jogadores podem usar a loja da Epic Games para baixar o Fortnite no iPhone seguindo o método oficial liberado pela Apple Como baixar Fortnite no iPhone: passo a passo com imagens para instalar via Epic Games",
       "link": "https://tecnoblog.net/responde/como-jogar-fortnite-no-iphone/",
@@ -8054,6 +7967,89 @@
         ]
       },
       "timestamp": "2026-08-29T18:41:47.212Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta fecha brecha que permitia gravações escondidas com óculos inteligentes",
+      "summary": "Smart Glasses da Meta deixarão de gravar se o usuário cobrir o LED durante a filmagem. Meta fecha brecha que permitia gravações escondidas com óculos inteligentes",
+      "link": "https://tecnoblog.net/noticias/meta-fecha-brecha-que-permitia-gravacoes-escondidas-com-oculos-inteligentes/",
+      "meta": {
+        "categorias": [
+          "Wearables",
+          "Meta",
+          "Meta Glasses",
+          "Meta Ray-Ban Display Glasses",
+          "Oakley Meta Vanguard"
+        ]
+      },
+      "timestamp": "2026-08-29T21:12:42.752Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy A57 (256 GB) surge em queda de 42% por até 12x sem juros na Amazon",
+      "summary": "Galaxy A57, lançado em abril de 2026, traz chip Exynos 1680, tela Super AMOLED+ de 120 Hz e câmera principal de 50 MP. Resgate o cupom de 17% para aproveitar a promoção. Galaxy A57 (256 GB) surge em queda de 42% por até 12x sem juros na Amazon",
+      "link": "https://tecnoblog.net/achados/galaxy-a57-256-gb-surge-em-queda-de-42-por-ate-12x-sem-juros-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Galaxy",
+          "Galaxy A57",
+          "Galaxy AI"
+        ]
+      },
+      "timestamp": "2026-08-29T21:12:43.023Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta é denunciada após campanha em portas de escolas em SP",
+      "summary": "Entidades consideram que brincadeiras e distribuição de brindes podem constituir publicidade abusiva. Empresa diz que se tratava de uma ação educativa. Meta é denunciada após campanha em portas de escolas em SP",
+      "link": "https://tecnoblog.net/noticias/meta-e-denunciada-apos-campanha-em-portas-de-escolas-em-sp/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Meta",
+          "São Paulo"
+        ]
+      },
+      "timestamp": "2026-08-29T21:12:43.285Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google muda limites de uso do Gemini Notebook; veja como ficou",
+      "summary": "Google anunciou que Gemini Notebook terá limites de uso baseados na complexidade e extensão das tarefas a partir de 2 de setembro. Google muda limites de uso do Gemini Notebook; veja como ficou",
+      "link": "https://tecnoblog.net/noticias/google-muda-limites-de-uso-do-gemini-notebook-veja-como-ficou/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini",
+          "Gemini Notebook",
+          "Google",
+          "NotebookLM"
+        ]
+      },
+      "timestamp": "2026-08-29T21:12:43.547Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Claude apagou 700 GB de dados de usuário por engano",
+      "summary": "IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. Claude apagou 700 GB de dados de usuário por engano",
+      "link": "https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "Bug",
+          "Claude",
+          "Desenvolvimento de software",
+          "IA",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Programação",
+          "Segurança"
+        ]
+      },
+      "timestamp": "2026-08-29T21:12:43.809Z"
     }
   ]
 }
