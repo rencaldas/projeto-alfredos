@@ -2,20 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Winamp prepara relançamento e streaming em parceria com Deezer",
-      "summary": "Serviço musical vai usar infraestrutura e catálogo da empresa francesa. Winamp promete reimaginar experiência musical e modelo de assinaturas. Winamp prepara relançamento e streaming em parceria com Deezer",
-      "link": "https://tecnoblog.net/noticias/winamp-prepara-relancamento-com-streaming-em-parceria-com-deezer/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Deezer",
-          "Winamp"
-        ]
-      },
-      "timestamp": "2026-07-30T01:16:49.161Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "EUA barram entrada de robôs humanoides chineses",
       "summary": "Governo Trump aponta “riscos inaceitáveis” em importação de modelos estrangeiros. EUA barram entrada de robôs humanoides chineses",
       "link": "https://tecnoblog.net/noticias/eua-barram-entrada-de-robos-humanoides-chineses/",
@@ -7911,6 +7897,78 @@
         ]
       },
       "timestamp": "2026-08-28T22:40:35.711Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Tablet para desenho: os 7 melhores modelos para comprar em 2026",
+      "summary": "Guia reúne os sete melhores tablets para desenhar disponíveis no Brasil, com opções da Apple, Samsung, Huawei e alternativas como o Magic Drawing Pad Tablet para desenho: os 7 melhores modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/tablet-para-desenho/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "desenho",
+          "Tablet"
+        ]
+      },
+      "timestamp": "2026-08-29T03:51:20.504Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Tablet com teclado em 2026: 6 modelos que já vêm com o acessório na caixa",
+      "summary": "Selecionamos os melhores tablets que vêm com teclado físico na caixa para oferecer maior agilidade e versatilidade em tarefas de produtividade Tablet com teclado em 2026: 6 modelos que já vêm com o acessório na caixa",
+      "link": "https://tecnoblog.net/guias/tablet-com-teclado/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Samsung",
+          "Samsung DeX"
+        ]
+      },
+      "timestamp": "2026-08-29T03:51:20.746Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Tablet com tela grande em 2026: 7 modelos para comprar no Brasil",
+      "summary": "Selecionamos tablets acima de 12 polegadas para quem busca tela grande para consumo de vídeos, estudo e leitura Tablet com tela grande em 2026: 7 modelos para comprar no Brasil",
+      "link": "https://tecnoblog.net/guias/tablet-com-tela-grande/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Brasil",
+          "Lenovo"
+        ]
+      },
+      "timestamp": "2026-08-29T03:51:21.076Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 15 (256 GB) fica bem mais barato com cupom que acaba hoje",
+      "summary": "iPhone 15 (256 GB) tem tela OLED de 2.000 nits e câmera de 48 MP; celular custo-benefício da Apple atinge um dos menores preços em meses, com desconto de 46% iPhone 15 (256 GB) fica bem mais barato com cupom que acaba hoje",
+      "link": "https://tecnoblog.net/achados/iphone-15-256-gb-fica-bem-mais-barato-com-cupom-que-acaba-hoje/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "iPhone 15",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-08-29T03:51:21.327Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Notebook para idosos: o que avaliar antes da compra",
+      "summary": "Tela confortável, teclado espaçoso, áudio claro, bateria confiável e suporte técnico ajudam a tornar o uso do computador mais simples na terceira idade. Notebook para idosos: o que avaliar antes da compra",
+      "link": "https://tecnoblog.net/publieditoriais/notebook-para-idosos-o-que-avaliar-antes-da-compra/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Dell 14",
+          "Dell 15",
+          "Dell Inspiron 14 2 em 1"
+        ]
+      },
+      "timestamp": "2026-08-29T03:51:21.563Z"
     }
   ]
 }
