@@ -2,479 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "OpenAI corta preço de IA recém-lançada para rivalizar com modelos chineses",
-      "summary": "GPT-5.6 Terra e Luna têm reduções de preços de até 80%. Gastos com tokens causam preocupação no mercado corporativo. OpenAI corta preço de IA recém-lançada para rivalizar com modelos chineses",
-      "link": "https://tecnoblog.net/noticias/openai-corta-preco-de-ia-recem-lancada-para-rivalizar-com-modelos-chineses/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-07-31T00:02:55.113Z"
-    },
-    {
-      "agent": "Alfredo Gamer",
-      "title": "OTXO (Epic Games) Giveaway",
-      "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-08-06 23:59:00.",
-      "link": "https://www.gamerpower.com/open/otxo-epic-games-giveaway",
-      "meta": {
-        "status": "Active",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6a6b672c49794.jpg"
-      },
-      "timestamp": "2026-07-31T05:21:16.460Z"
-    },
-    {
-      "agent": "Alfredo Gamer",
-      "title": "Sol Cesto (Epic Games) Giveaway",
-      "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-08-06 23:59:00.",
-      "link": "https://www.gamerpower.com/open/sol-cesto-epic-games-giveaway",
-      "meta": {
-        "status": "Active",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6a6b67cd147d2.jpg"
-      },
-      "timestamp": "2026-07-31T05:21:16.694Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @edge-runtime/format (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 2.2.1 → versão mais recente 4.0.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-31T11:15:10.781Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @edge-runtime/node-utils (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 2.3.0 → versão mais recente 4.0.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-31T11:15:10.782Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @edge-runtime/ponyfill (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 2.4.2 → versão mais recente 4.0.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-31T11:15:10.782Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @edge-runtime/primitives (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 4.1.0 → versão mais recente 6.0.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-31T11:15:10.782Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @edge-runtime/vm (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 3.2.0 → versão mais recente 5.0.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-31T11:15:10.782Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @fastify/busboy (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 2.1.1 → versão mais recente 3.2.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-31T11:15:10.782Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @renovatebot/pep440 (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 4.2.1 → versão mais recente 5.0.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-31T11:15:10.782Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: estree-walker (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 2.0.2 → versão mais recente 3.0.3 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-31T11:15:10.782Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: minimatch (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 3.1.5 → versão mais recente 10.2.6 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-07-31T11:15:10.782Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Android superseguro vira alvo dos EUA por função que apaga dados do celular",
-      "summary": "GrapheneOS Foundation alega que a “duress password” está protegida pela Constituição norte-americana. Android superseguro vira alvo dos EUA por função que apaga dados do celular",
-      "link": "https://tecnoblog.net/noticias/android-superseguro-vira-alvo-dos-eua-por-funcao-que-apaga-dados-do-celular/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Atlanta",
-          "duress password",
-          "Estados Unidos (EUA)",
-          "EUA",
-          "GrapheneOS",
-          "Twitter"
-        ]
-      },
-      "timestamp": "2026-07-31T11:38:30.954Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Epic Games Store chega ao iPhone no Brasil com opção de cashback",
-      "summary": "Após acordo com o Cade, dona do Fortnite retorna ao iOS com cashback de 20% sobre o valor das compras. Epic criticou o processo de instalação exigido pela Apple. Epic Games Store chega ao iPhone no Brasil com opção de cashback",
-      "link": "https://tecnoblog.net/noticias/epic-games-store-chega-ao-iphone-no-brasil-com-opcao-de-cashback/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Apple",
-          "Brasil",
-          "Cade",
-          "Epic Games",
-          "Epic Games Store",
-          "Fortnite",
-          "iOS",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-07-31T15:33:56.000Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Sony reconhece críticas, mas mantém fim da mídia física",
-      "summary": "Sony confirmou que, apesar das queixas, planeja descontinuar a mídia física no PlayStation a partir de 2028, acompanhando tendência global de digitalização. Sony reconhece críticas, mas mantém fim da mídia física",
-      "link": "https://tecnoblog.net/noticias/sony-reconhece-criticas-mas-mantem-fim-da-midia-fisica/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Playstation",
-          "PlayStation 5 (PS5)",
-          "PS",
-          "Sony"
-        ]
-      },
-      "timestamp": "2026-07-31T15:33:56.231Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Histórico: Galaxy S25 nunca esteve tão barato como agora pelo app Magalu",
-      "summary": "Galaxy S25 (256 GB) com câmera de 50 MP e tela AMOLED de 120 Hz atinge o menor histórico ao combinar pagamento no Pix com cupom pelo aplicativo do Magazine Luiza Histórico: Galaxy S25 nunca esteve tão barato como agora pelo app Magalu",
-      "link": "https://tecnoblog.net/achados/historico-galaxy-s25-nunca-esteve-tao-barato-como-agora-pelo-app-magalu/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy",
-          "Galaxy S25",
-          "Magazine Luiza",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-07-31T15:33:56.465Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Aproveite: Notebook Acer Nitro V15 com RTX 4050 sai por até 12x sem juros",
-      "summary": "Acer Nitro V15 traz GPU Nvidia RTX 4050 e chip Intel Core i7; notebook que é opção acessível para trabalho, estudo e games está disponível em até 12x sem juros na Amazon Aproveite: Notebook Acer Nitro V15 com RTX 4050 sai por até 12x sem juros",
-      "link": "https://tecnoblog.net/achados/aproveite-notebook-acer-nitro-v15-com-rtx-4050-sai-por-ate-12x-sem-juros/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Acer",
-          "Acer Nitro V15",
-          "Intel",
-          "Nvidia",
-          "Nvidia RTX"
-        ]
-      },
-      "timestamp": "2026-07-31T15:33:56.696Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "IA do Google que roda 24 horas por dia chega ao Brasil",
-      "summary": "Gemini Spark pode operar de modo automatizado, em segundo plano, para organizar informações, ler e-mails e realizar pesquisas. IA do Google que roda 24 horas por dia chega ao Brasil",
-      "link": "https://tecnoblog.net/noticias/ia-do-google-que-roda-24-horas-por-dia-chega-ao-brasil/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Brasil",
-          "Gemini Spark",
-          "Gmail",
-          "Google",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-07-31T17:09:52.905Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Satya Nadella reafirma promessa da Microsoft para melhorar o Windows 11",
-      "summary": "CEO da Microsoft acenou com melhorias nos \"fundamentos\" do Windows 11 ao comentar resultados financeiros da companhia. De fato, sistema vem recebendo aprimoramentos. Satya Nadella reafirma promessa da Microsoft para melhorar o Windows 11",
-      "link": "https://tecnoblog.net/noticias/satya-nadella-reafirma-promessa-da-microsoft-para-melhorar-o-windows-11/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "CEO",
-          "Microsoft",
-          "Satya Nadella",
-          "Windows",
-          "Windows 11",
-          "Windows 95"
-        ]
-      },
-      "timestamp": "2026-07-31T17:09:53.175Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Só hoje: Edge 60 Neo (256 GB) atinge 52% OFF com cupom no Mercado Livre",
-      "summary": "Edge 60 Neo (512 GB) com câmera Sony de 50 MP e tela POLED de 120 Hz alcança o 2.º menor preço histórico, com desconto de 52% no Pix com cupom que acaba em breve Só hoje: Edge 60 Neo (256 GB) atinge 52% OFF com cupom no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/so-hoje-edge-60-neo-256-gb-atinge-52-off-com-cupom-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Motorola Edge 60 Neo",
-          "Pix",
-          "Sony"
-        ]
-      },
-      "timestamp": "2026-07-31T17:09:53.437Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Bom e barato: Galaxy A36 fica por menos da metade do preço em oferta",
-      "summary": "Galaxy A36 (128 GB) possui tela, bateria e câmeras do Galaxy A37; celular acessível da Samsung atinge o menor preço que já vimos em oferta no Pix Bom e barato: Galaxy A36 fica por menos da metade do preço em oferta",
-      "link": "https://tecnoblog.net/achados/bom-e-barato-galaxy-a36-fica-por-menos-da-metade-do-preco-em-oferta/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy A36",
-          "Mercado Livre",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy A37 5G"
-        ]
-      },
-      "timestamp": "2026-07-31T18:42:34.319Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Após OpenAI, Anthropic revela invasões de IA durante testes",
-      "summary": "Empresa analisou 141 mil testes e encontrou três situações em que modelos Claude acessaram sistemas externos. Após OpenAI, Anthropic revela invasões de IA durante testes",
-      "link": "https://tecnoblog.net/noticias/apos-openai-anthropic-revela-invasoes-de-ia-durante-testes/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "Claude Mythos",
-          "Claude Mythos 5",
-          "Inteligência Artificial (IA)",
-          "OpenAI",
-          "Opus"
-        ]
-      },
-      "timestamp": "2026-07-31T18:42:34.602Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Claro desativa Alexa em dispositivo de streaming",
-      "summary": "Novos dispositivos do Claro TV+ Box perderam a assistente em maio. Agora, prestadora divulga prazo final para desativá-la. Claro desativa Alexa em dispositivo de streaming",
-      "link": "https://tecnoblog.net/noticias/claro-desativa-alexa-em-dispositivo-de-streaming/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Amazon",
-          "Amazon Alexa",
-          "Claro",
-          "Claro TV+",
-          "Exclusivo",
-          "Marcio Carvalho"
-        ]
-      },
-      "timestamp": "2026-07-31T18:42:34.892Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhores celulares em 2026: 11 smartphones para comprar no Brasil",
-      "summary": "Confira a seleção dos melhores celulares para comprar em diversas faixas de preço; lista inclui prós e contras de smartphones Samsung, Motorola, Xiaomi e Apple Melhores celulares em 2026: 11 smartphones para comprar no Brasil",
-      "link": "https://tecnoblog.net/guias/melhores-celulares/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Brasil",
-          "Motorola"
-        ]
-      },
-      "timestamp": "2026-07-31T20:07:23.068Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "É oficial: Receita Federal já emite CNPJ com letras e números",
-      "summary": "Primeiro CNPJ alfanumérico foi emitido pela Receita Federal para filial do Banco do Brasil. CNPJs no formato anterior continuam válidos. É oficial: Receita Federal já emite CNPJ com letras e números",
-      "link": "https://tecnoblog.net/noticias/e-oficial-receita-federal-ja-emite-cnpj-com-letras-e-numeros/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Banco do Brasil",
-          "CNPJ",
-          "Receita Federal"
-        ]
-      },
-      "timestamp": "2026-07-31T20:07:23.362Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "WhatsApp testa função de gravar áudios sem abrir a conversa",
-      "summary": "Atalho para Android permite iniciar uma nota de voz pela tela inicial e escolher um ou mais destinatários apenas depois da gravação. WhatsApp testa função de gravar áudios sem abrir a conversa",
-      "link": "https://tecnoblog.net/noticias/whatsapp-testa-funcao-de-gravar-audios-sem-abrir-uma-conversa/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Android",
-          "WhatsApp",
-          "Widget"
-        ]
-      },
-      "timestamp": "2026-07-31T20:07:23.614Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google remove IA para criar imagens no Earth um dia após lançamento",
-      "summary": "Ferramenta usava Nano Banana 2 e imagens de satélite nas criações. Recurso foi criticado por facilitar disseminação de informações falsas. Google remove IA para criar imagens no Earth um dia após lançamento",
-      "link": "https://tecnoblog.net/noticias/google-remove-ia-para-criar-imagens-no-earth-um-dia-apos-lancamento/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Google",
-          "Google Earth",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-07-31T21:18:00.752Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "10 gerenciadores de senhas: os prós e contras de cada serviço",
-      "summary": "Um gerenciador de senhas facilita a navegação ao salvar credenciais e preencher acessos automaticamente enquanto acessa sites e aplicativos 10 gerenciadores de senhas: os prós e contras de cada serviço",
-      "link": "https://tecnoblog.net/guias/10-gerenciadores-de-senhas-os-pros-e-contras-de-cada-servico/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "1Password",
-          "Bitwarden",
-          "Dashlane",
-          "Gerenciador de senhas",
-          "LastPass"
-        ]
-      },
-      "timestamp": "2026-07-31T21:18:01.049Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Robotáxi da Amazon recebe aval para cobrar por corridas sem motorista",
-      "summary": "Zoox é a primeira empresa autorizada nos EUA a operar comercialmente um veículo sem volante. Startup foi comprada pela Amazon em 2020. Robotáxi da Amazon recebe aval para cobrar por corridas sem motorista",
-      "link": "https://tecnoblog.net/noticias/robotaxi-da-amazon-recebe-aval-para-cobrar-por-corridas-sem-motorista/",
-      "meta": {
-        "categorias": [
-          "Mobilidade",
-          "Amazon",
-          "Estados Unidos (EUA)",
-          "Las Vegas",
-          "Robotaxi",
-          "robotaxis",
-          "Zoox"
-        ]
-      },
-      "timestamp": "2026-07-31T21:18:01.350Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "CEO da Xbox mira PlayStation e revela planos para futuro do videogame",
-      "summary": "Asha Sharma prevê 500 milhões de jogadores ativos nas plataformas da empresa em 2030, mas crescimento só virá ao final do próximo ano fiscal. CEO da Xbox mira PlayStation e revela planos para futuro do videogame",
-      "link": "https://tecnoblog.net/noticias/ceo-da-xbox-mira-playstation-e-explica-planos-para-futuro-da-empresa/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Asha Sharma",
-          "Bethesda",
-          "Blizzard",
-          "CEO",
-          "Compulsion Games",
-          "Microsoft",
-          "Ninja Theory",
-          "Phil Spencer",
-          "Playstation",
-          "PS5",
-          "Xbox",
-          "Xbox Game Pass",
-          "Xbox Series S",
-          "Xbox Series X"
-        ]
-      },
-      "timestamp": "2026-07-31T22:29:52.896Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Dia dos Pais 2026: Nintendo Switch 2 e mais consoles pelo menor preço atual",
-      "summary": "Confira as melhores ofertas dos principais videogames da Nintendo, Sony e também acessórios gamers com descontos de até 32% para o Dia dos Pais 2026 Dia dos Pais 2026: Nintendo Switch 2 e mais consoles pelo menor preço atual",
-      "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-nintendo-switch-2-e-mais-consoles-pelo-menor-preco-atual/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "Nintendo",
-          "Nintendo Switch 2",
-          "Sony"
-        ]
-      },
-      "timestamp": "2026-07-31T23:30:47.199Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Marca chinesa quer lançar smartphone de 8.000 mAh no Brasil",
       "summary": "Pova Curve 2 5G recebeu certificação da Anatel e combina bateria gigante com painel curvo AMOLED. Lançamento oficial ainda não foi confirmado. Marca chinesa quer lançar smartphone de 8.000 mAh no Brasil",
       "link": "https://tecnoblog.net/noticias/empresa-chinesa-quer-lancar-smartphone-de-8-000-mah-no-brasil/",
@@ -8019,6 +7546,97 @@
         ]
       },
       "timestamp": "2026-08-29T23:17:37.288Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "NordVPN: conheça os principais recursos, velocidade, servidores e segurança",
+      "summary": "Serviço combina VPN, rede global de servidores, protocolos de privacidade, Antivírus Next-Gen e proteção contra golpes em até 10 dispositivos NordVPN: conheça os principais recursos, velocidade, servidores e segurança",
+      "link": "https://tecnoblog.net/publieditoriais/nordvpn-conheca-os-principais-recursos-velocidade-servidores-e-seguranca/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "NordVPN"
+        ]
+      },
+      "timestamp": "2026-08-31T13:39:09.797Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Erro faz Claude e Codex executarem código malicioso em redes corporativas",
+      "summary": "Arquivos mal configurados enganam assistentes de programação, permitindo a entrada de malwares em sistemas grandes de empresas. Erro faz Claude e Codex executarem código malicioso em redes corporativas",
+      "link": "https://tecnoblog.net/noticias/erro-faz-claude-e-codex-executarem-codigo-malicioso-em-redes-corporativas/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Anthropic",
+          "cibersegurança",
+          "Claude",
+          "Codex",
+          "inteligência artificial",
+          "Malware",
+          "OpenAI",
+          "Programação",
+          "Segurança",
+          "Vulnerabilidade"
+        ]
+      },
+      "timestamp": "2026-08-31T13:39:10.056Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gemini Notebook agora pode puxar informações de livros que você comprou",
+      "summary": "Antigo NotebookLM agora pode extrair trechos diretamente de obras compradas via Google Play Livros. Gemini Notebook agora pode puxar informações de livros que você comprou",
+      "link": "https://tecnoblog.net/noticias/gemini-notebook-agora-pode-puxar-informacoes-de-livros-que-voce-comprou/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini Notebook",
+          "Google",
+          "Google Labs",
+          "Google Play Livros",
+          "NotebookLM"
+        ]
+      },
+      "timestamp": "2026-08-31T13:39:10.320Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Sony rebate ação e diz que PS Store não engana consumidores",
+      "summary": "Dona do PlayStation afirma à Justiça dos EUA que consumidores “razoáveis” entendem que jogos digitais são licenciados e não vendidos. Sony rebate ação e diz que PS Store não engana consumidores",
+      "link": "https://tecnoblog.net/noticias/sony-rebate-acao-e-diz-que-ps-store-nao-engana-consumidores/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "California",
+          "direitos do consumidor",
+          "Games",
+          "jogos digitais",
+          "Justiça",
+          "mídia física",
+          "Playstation",
+          "PlayStation Store",
+          "Sony"
+        ]
+      },
+      "timestamp": "2026-08-31T13:39:10.575Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Ainda dá tempo: Galaxy S26 sai mais barato com cupom no Mercado Livre",
+      "summary": "Galaxy S26 (256 GB) tem câmera principal de 50 MP e tela AMOLED de 120 Hz; celular da Samsung atinge um preço abaixo da média recente, com desconto de 48% no Pix com cupom Ainda dá tempo: Galaxy S26 sai mais barato com cupom no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/ainda-da-tempo-galaxy-s26-sai-mais-barato-com-cupom-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy",
+          "Galaxy S26",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-08-31T13:39:10.840Z"
     }
   ]
 }
