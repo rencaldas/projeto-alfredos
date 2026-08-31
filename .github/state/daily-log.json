@@ -2,45 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Marca chinesa quer lançar smartphone de 8.000 mAh no Brasil",
-      "summary": "Pova Curve 2 5G recebeu certificação da Anatel e combina bateria gigante com painel curvo AMOLED. Lançamento oficial ainda não foi confirmado. Marca chinesa quer lançar smartphone de 8.000 mAh no Brasil",
-      "link": "https://tecnoblog.net/noticias/empresa-chinesa-quer-lancar-smartphone-de-8-000-mah-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Anatel",
-          "Brasil",
-          "Exclusivo",
-          "Tecno",
-          "Tecno Pova Curve 2"
-        ]
-      },
-      "timestamp": "2026-08-01T14:20:14.120Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Por que as empresas de IAs estão “devorando” livros impressos?",
-      "summary": "Livros lançados antes do boom dos LLMs são os mais procurados por fornecerem conteúdo “mais limpo”. Por que as empresas de IAs estão “devorando” livros impressos?",
-      "link": "https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "AI slop",
-          "ChatGPT",
-          "Clalude",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "ISBNdb",
-          "LLMs",
-          "Modelo de linguagem grande",
-          "Reddit",
-          "Workslop"
-        ]
-      },
-      "timestamp": "2026-08-01T14:20:14.418Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "iPhone pode sofrer histórico aumento de preço",
       "summary": "Memórias mais rápidas e câmeras inéditas devem encarecer a produção. iPhone pode sofrer histórico aumento de preço",
       "link": "https://tecnoblog.net/noticias/iphone-pode-sofrer-historico-aumento-de-preco/",
@@ -7637,6 +7598,306 @@
         ]
       },
       "timestamp": "2026-08-31T13:39:10.840Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @asamuzakjp/css-color (rencaldas/liac-club)",
+      "summary": "Versão instalada 3.2.0 → versão mais recente 7.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: lru-cache (rencaldas/liac-club)",
+      "summary": "Versão instalada 10.4.3 → versão mais recente 11.5.2 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/code-frame (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/compat-data (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/core (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.1 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/generator (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.8 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/helper-compilation-targets (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/helper-globals (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/helper-module-imports (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/helper-module-transforms (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.1 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/helper-plugin-utils (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.1 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/helper-string-parser (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/helper-validator-identifier (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.4 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/helper-validator-option (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/helpers (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/parser (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.8 → versão mais recente 8.0.4 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/runtime (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/template (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/traverse (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.8 → versão mais recente 8.0.4 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @babel/types (rencaldas/liac-club)",
+      "summary": "Versão instalada 7.29.8 → versão mais recente 8.0.4 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/color-helpers (rencaldas/liac-club)",
+      "summary": "Versão instalada 5.1.0 → versão mais recente 6.1.1 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/css-calc (rencaldas/liac-club)",
+      "summary": "Versão instalada 2.1.4 → versão mais recente 3.3.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/liac-club)",
+      "summary": "Versão instalada 3.1.0 → versão mais recente 4.2.2 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/css-parser-algorithms (rencaldas/liac-club)",
+      "summary": "Versão instalada 3.0.5 → versão mais recente 4.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/css-tokenizer (rencaldas/liac-club)",
+      "summary": "Versão instalada 3.0.4 → versão mais recente 4.0.0 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-08-31T16:27:06.534Z"
     }
   ]
 }
