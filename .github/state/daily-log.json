@@ -2,23 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "iPhone pode sofrer histórico aumento de preço",
-      "summary": "Memórias mais rápidas e câmeras inéditas devem encarecer a produção. iPhone pode sofrer histórico aumento de preço",
-      "link": "https://tecnoblog.net/noticias/iphone-pode-sofrer-historico-aumento-de-preco/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "iPhone",
-          "iPhone 18 Pro",
-          "iPhone 18 Pro Max",
-          "rumor"
-        ]
-      },
-      "timestamp": "2026-08-01T23:37:42.063Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy A57 5G despenca de preço em oferta histórica com cupom na Amazon",
       "summary": "Galaxy A57 (128 GB) tem tela Super AMOLED+ e câmera principal de 50 MP; celular da Samsung atinge menor preço histórico no Pix com cupom em oferta do 8.8 Galaxy A57 5G despenca de preço em oferta histórica com cupom na Amazon",
       "link": "https://tecnoblog.net/achados/galaxy-a57-5g-despenca-de-preco-em-oferta-historica-com-cupom-na-amazon/",
@@ -8064,6 +8047,88 @@
         ]
       },
       "timestamp": "2026-08-31T23:21:32.150Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Tablet 512 GB: os 7 melhores modelos para quem prioriza armazenamento",
+      "summary": "Precisa de espaço? Selecionamos os melhores tablets com 512 GB de memória interna para armazenar milhares de livros, vídeos e mais arquivos Tablet 512 GB: os 7 melhores modelos para quem prioriza armazenamento",
+      "link": "https://tecnoblog.net/guias/tablet-512gb/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "iPad",
+          "MicroSD"
+        ]
+      },
+      "timestamp": "2026-09-01T01:53:42.976Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "ChatGPT volta a funcionar após falha nesta segunda (31)",
+      "summary": "Problema técnico impedia assinantes de começarem ou continuarem tarefas no ChatGPT Work. ChatGPT volta a funcionar após falha nesta segunda (31)",
+      "link": "https://tecnoblog.net/noticias/chatgpt-fora-do-ar-falha-deixa-usuarios-sem-acesso-nesta-segunda-31/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "ChatGPT",
+          "fora do ar",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-09-01T01:53:43.246Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Golpes online fazem parte da vida de 45 milhões de brasileiros, mostra estudo",
+      "summary": "Levantamento do Cetic.br revela que 32% dos usuários de internet no Brasil foram abordados por criminosos. Golpes online fazem parte da vida de 45 milhões de brasileiros, mostra estudo",
+      "link": "https://tecnoblog.net/noticias/golpes-online-fazem-parte-da-vida-de-45-milhoes-de-brasileiros-mostra-estudo/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Brasil",
+          "Brasileiros",
+          "CETIC",
+          "CGI",
+          "Inteligência Artificial (IA)",
+          "NIC"
+        ]
+      },
+      "timestamp": "2026-09-01T01:53:43.500Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Signature tem queda histórica de 50% no Mercado Livre",
+      "summary": "Motorola Signature entregou alta performance com Snapdragon nos nossos testes, e tela de 165 Hz tem fluidez de sobra; celular despenca para metade do preço com cupom Motorola Signature tem queda histórica de 50% no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/motorola-signature-tem-queda-historica-de-50-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Motorola",
+          "Pix",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-09-01T01:53:43.767Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Europa agora trata o ChatGPT como um mecanismo de busca",
+      "summary": "União Europeia classificou ChatGPT como mecanismo de busca de grande porte, sujeitando serviço a regras mais rígidas. Reddit e Roblox também tiveram nova classificação. Europa agora trata o ChatGPT como um mecanismo de busca",
+      "link": "https://tecnoblog.net/noticias/europa-agora-trata-o-chatgpt-como-um-mecanismo-de-busca/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Bing",
+          "ChatGPT",
+          "Comissão Europeia",
+          "Europa",
+          "Google",
+          "Inteligência Artificial (IA)",
+          "União Européia"
+        ]
+      },
+      "timestamp": "2026-09-01T01:53:44.018Z"
     }
   ]
 }
