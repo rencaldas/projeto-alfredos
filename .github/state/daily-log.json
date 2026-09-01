@@ -8406,6 +8406,85 @@
         ]
       },
       "timestamp": "2026-09-01T22:00:04.297Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google decreta o fim do uBlock Origin clássico no Chrome",
+      "summary": "Manifest V2 deixa de ser aceito na Chrome Web Store, levando à remoção do poderoso bloqueador de anúncios. Google decreta o fim do uBlock Origin clássico no Chrome",
+      "link": "https://tecnoblog.net/noticias/google-decreta-o-fim-do-ublock-origin-classico-no-chrome/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Brave",
+          "Chrome Web Store",
+          "Chromium",
+          "Google",
+          "Manifest"
+        ]
+      },
+      "timestamp": "2026-09-01T23:50:48.033Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Pix muda regra para dificultar golpes da devolução em dobro",
+      "summary": "Prazo para contestar devolução de transações no MED do Pix aumentou para 80 dias. Medida do Banco Central visa combater fraudes que exploram o próprio mecanismo. Pix muda regra para dificultar golpes da devolução em dobro",
+      "link": "https://tecnoblog.net/noticias/pix-muda-regra-para-dificultar-golpes-da-devolucao-em-dobro/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Banco central",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-01T23:50:48.303Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Moto G77 com câmera de 108 MP está 39% mais barato no Mercado Livre",
+      "summary": "Moto G77 (256 GB) conta com câmera principal de 108 MP e tela AMOLED de 120 Hz; celular da Motorola sai 39% mais barato que o preço original no Pix Moto G77 com câmera de 108 MP está 39% mais barato no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/moto-g77-com-camera-de-108-mp-esta-39-mais-barato-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Mercado Livre",
+          "Moto G77",
+          "Motorola",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-01T23:50:48.577Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Buds 4 com ANC volta a cair 39% em promoção",
+      "summary": "Galaxy Buds 4 sai pelo 2º menor preço que já vimos com cupom no Mercado Livre; cancelamento de ruído e bateria de longa duração são destaques Galaxy Buds 4 com ANC volta a cair 39% em promoção",
+      "link": "https://tecnoblog.net/achados/galaxy-buds-4-com-anc-volta-a-cair-39-em-promocao/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "Controle ativo de ruído",
+          "Galaxy Buds",
+          "Galaxy Buds 4",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-01T23:50:48.847Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Claro aumenta preço de serviço de streaming em 14,30%",
+      "summary": "Claro TV+ Box passa a custar R$ 240 a mais por ano. Prestadora diz que clientes economizam frente aos valores cheios dos streamings. Claro aumenta preço de serviço de streaming em 14,30%",
+      "link": "https://tecnoblog.net/noticias/claro-aumenta-preco-do-servico-de-streaming-em-1430/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Claro"
+        ]
+      },
+      "timestamp": "2026-09-01T23:50:49.113Z"
     }
   ]
 }
