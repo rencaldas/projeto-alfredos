@@ -2,55 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy A57 5G despenca de preço em oferta histórica com cupom na Amazon",
-      "summary": "Galaxy A57 (128 GB) tem tela Super AMOLED+ e câmera principal de 50 MP; celular da Samsung atinge menor preço histórico no Pix com cupom em oferta do 8.8 Galaxy A57 5G despenca de preço em oferta histórica com cupom na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-a57-5g-despenca-de-preco-em-oferta-historica-com-cupom-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Galaxy A57",
-          "Galaxy AI",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-03T14:11:30.620Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 16 (512 GB) fica mais em conta para quem precisa de muito espaço",
-      "summary": "iPhone 16 com tela OLED e 512 GB fica abaixo do preço do iPhone 17 com 256 GB ao combinar cupom e pagamento via Pix na Amazon iPhone 16 (512 GB) fica mais em conta para quem precisa de muito espaço",
-      "link": "https://tecnoblog.net/achados/iphone-16-512-gb-fica-mais-em-conta-para-quem-precisa-de-muito-espaco/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "iPhone",
-          "iPhone 16",
-          "iPhone 17",
-          "OLED"
-        ]
-      },
-      "timestamp": "2026-08-03T14:11:30.926Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung lança alto-falantes Music Studio no Brasil; veja modelos e preços",
-      "summary": "Samsung anunciou caixas de som Music Studio 7 e Music Studio 5 no Brasil. Primeiro modelo tem som de 3.11 canais; segundo chama a atenção pelo design. Samsung lança alto-falantes Music Studio no Brasil; veja modelos e preços",
-      "link": "https://tecnoblog.net/noticias/samsung-lanca-alto-falantes-music-studio-no-brasil-veja-modelos-e-precos/",
-      "meta": {
-        "categorias": [
-          "Periféricos",
-          "Brasil",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-03T14:11:31.242Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy S26 com 12 GB de RAM tem queda de 45% em oferta na Amazon",
       "summary": "Galaxy S26 (256 GB) tem 12 GB de RAM e tela AMOLED de 120 Hz; celular premium da Samsung sai 45% mais barato que preço original no Pix com cupom Galaxy S26 com 12 GB de RAM tem queda de 45% em oferta na Amazon",
       "link": "https://tecnoblog.net/achados/galaxy-s26-com-12-gb-de-ram-tem-queda-de-45-em-oferta-na-amazon/",
@@ -8552,6 +8503,88 @@
         ]
       },
       "timestamp": "2026-09-02T01:45:19.985Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Redata: Senado aprova incentivo bilionário para data centers no Brasil",
+      "summary": "O Redata isenta tributos sobre equipamentos para infraestrutura de IA e nuvem e prevê R$ 7,2 bilhões em renúncia fiscal. Redata: Senado aprova incentivo bilionário para data centers no Brasil",
+      "link": "https://tecnoblog.net/noticias/senado-aprova-incentivo-bilionario-para-data-centers-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Inteligência Artificial (IA)",
+          "Projeto de lei",
+          "Senado Federal"
+        ]
+      },
+      "timestamp": "2026-09-02T15:17:01.306Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "SUS terá controle de consultas médicas via WhatsApp",
+      "summary": "Sistema pretende reduzir faltas e permitir que vagas liberadas sejam reaproveitadas pela rede pública. SUS terá controle de consultas médicas via WhatsApp",
+      "link": "https://tecnoblog.net/noticias/sus-tera-funcao-no-whatsapp-para-controlar-consultas-medicas/",
+      "meta": {
+        "categorias": [
+          "Ciência e Saúde",
+          "Sistema Único de Saúde",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-09-02T15:17:01.557Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Magalu lança delivery de comida para rivalizar com o iFood",
+      "summary": "Serviço usa tecnologia do Aiqfome e estreia em mais de 400 cidades de Minas Gerais, Paraná e São Paulo. Magalu lança delivery de comida para rivalizar com o iFood",
+      "link": "https://tecnoblog.net/noticias/magalu-lanca-delivery-de-comida-para-rivalizar-com-o-ifood/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "aiqfome LTDA.",
+          "iFood",
+          "Magazine Luiza",
+          "Minas Gerais",
+          "Paraná",
+          "São Paulo"
+        ]
+      },
+      "timestamp": "2026-09-02T15:17:01.815Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 17 Pro (512 GB) aparece em queda em oferta 9.9 na Amazon",
+      "summary": "iPhone 17 Pro (512 GB) com câmeras de 48 MP e tela OLED de 120 Hz atinge o menor preço que já vimos, com desconto de 29% sobre o preço original no Pix em oferta do 9.9 iPhone 17 Pro (512 GB) aparece em queda em oferta 9.9 na Amazon",
+      "link": "https://tecnoblog.net/achados/iphone-17-pro-512-gb-aparece-em-queda-em-oferta-9-9-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Apple",
+          "Apple A19",
+          "iPhone 17 Pro",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-02T15:17:02.071Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TCL processa Samsung por propaganda enganosa em TVs Mini LED",
+      "summary": "Ação da fabricante chinesa foi ajuizada nos Estados Unidos. TCL processa Samsung por propaganda enganosa em TVs Mini LED",
+      "link": "https://tecnoblog.net/noticias/tcl-processa-samsung-por-propaganda-enganosa-em-tvs-mini-led/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "LED",
+          "Mini LED",
+          "QLED",
+          "QLED870",
+          "Samsung",
+          "TCL"
+        ]
+      },
+      "timestamp": "2026-09-02T15:17:02.348Z"
     }
   ]
 }
