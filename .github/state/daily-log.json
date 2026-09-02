@@ -2,54 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "“Você está falando com uma IA”: aviso passa a ser obrigatório na Europa",
-      "summary": "Medida faz parte da Lei da Inteligência Artificial, já em vigor na União Europeia. O objetivo é oferecer transparência sobre o uso de IA. “Você está falando com uma IA”: aviso passa a ser obrigatório na Europa",
-      "link": "https://tecnoblog.net/noticias/voce-esta-falando-com-uma-ia-aviso-passa-a-ser-obrigatorio-na-europa/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Europa",
-          "Inteligência Artificial (IA)",
-          "União Européia"
-        ]
-      },
-      "timestamp": "2026-08-03T20:06:28.260Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Claro descarta IA no atendimento telefônico (ao contrário da Vivo)",
-      "summary": "Em entrevista exclusiva ao Tecnoblog, CMO Marcio Carvalho afirma que tecnologia atuará como copiloto dos atendentes humanos. Claro descarta IA no atendimento telefônico (ao contrário da Vivo)",
-      "link": "https://tecnoblog.net/noticias/claro-descarta-ia-no-atendimento-telefonico-ao-contrario-da-vivo/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Claro",
-          "Exclusivo",
-          "Inteligência Artificial (IA)",
-          "Marcio Carvalho",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-08-03T21:18:49.056Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como ver animais em 3D no Google; confira lista de opções",
-      "summary": "Veja como acessar os animais, como tigre, tubarão e panda em 3D no Google e ativar o tamanho real utilizando a realidade aumentada Como ver animais em 3D no Google; confira lista de opções",
-      "link": "https://tecnoblog.net/responde/como-encontrar-animais-e-objetos-3d-no-google/",
-      "meta": {
-        "categorias": [
-          "Gadgets",
-          "3D",
-          "Android",
-          "Google",
-          "Google Play Services"
-        ]
-      },
-      "timestamp": "2026-08-03T21:18:49.343Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "WhatsApp tem problemas e não envia fotos nesta segunda (3)",
       "summary": "Mensageiro da Meta apresenta dificuldades na hora de mandar imagens e publicar status. WhatsApp tem problemas e não envia fotos nesta segunda (3)",
       "link": "https://tecnoblog.net/noticias/whatsapp-tem-problemas-e-nao-envia-fotos-nesta-segunda-3/",
@@ -8532,6 +8484,80 @@
         ]
       },
       "timestamp": "2026-09-02T18:49:18.096Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Review do Lenovo Idea Tab Pro Gen 2: poderoso e com ótima autonomia",
+      "summary": "Testamos o tablet Lenovo com tela de 144 Hz, processador Snapdragon e com acessórios de produtividade no pacote; veja os prós e contras do modelo Review do Lenovo Idea Tab Pro Gen 2: poderoso e com ótima autonomia",
+      "link": "https://tecnoblog.net/testamos/review-do-lenovo-idea-tab-pro-gen-2-poderoso-e-com-otima-autonomia/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Lenovo"
+        ]
+      },
+      "timestamp": "2026-09-02T21:24:46.553Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Redmi 17 5G é homologado no Brasil com bateria de 7.500 mAh",
+      "summary": "Celular de entrada da Xiaomi perde resolução da tela e memória RAM em relação ao antecessor. Redmi Note 17 4G também foi aprovado pela Anatel. Redmi 17 5G é homologado no Brasil com bateria de 7.500 mAh",
+      "link": "https://tecnoblog.net/noticias/redmi-17-5g-e-homologado-no-brasil-com-bateria-de-7-500-mah/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Anatel",
+          "Brasil",
+          "Exclusivo",
+          "Xiaomi"
+        ]
+      },
+      "timestamp": "2026-09-02T21:24:46.802Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Uber vai demitir 3,3 mil funcionários em maior corte desde a pandemia",
+      "summary": "Empresa quer simplificar gestão e reduzir equipes. Economia deve ser usada para investimentos em robotáxis. Uber vai demitir 3,3 mil funcionários em maior corte desde a pandemia",
+      "link": "https://tecnoblog.net/noticias/uber-vai-demitir-33-mil-funcionarios-em-maior-corte-desde-a-pandemia/",
+      "meta": {
+        "categorias": [
+          "Mobilidade",
+          "CEO",
+          "Uber"
+        ]
+      },
+      "timestamp": "2026-09-02T21:24:47.067Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S10 FE atinge um dos menores preços recentes no AliExpress",
+      "summary": "Galaxy Tab S10 FE (128 GB) tem tela de 90 Hz e traz caneta S Pen; tablet da Samsung atinge um dos menores preços recentes com desconto de 41% em até 12x com cupom Galaxy Tab S10 FE atinge um dos menores preços recentes no AliExpress",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-atinge-um-dos-menores-precos-recentes-no-aliexpress/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "AliExpress",
+          "Galaxy Tab S10 FE",
+          "Magazine Luiza",
+          "Samsung",
+          "Stylus"
+        ]
+      },
+      "timestamp": "2026-09-02T21:24:47.307Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows 11 ativará uma proteção importante por padrão, mas há um porém",
+      "summary": "Microsoft expandirá a ativação automática da função Integridade de Memória no Windows 11 a partir de outubro. Mas usuários de PCs antigos devem observar o desempenho. Windows 11 ativará uma proteção importante por padrão, mas há um porém",
+      "link": "https://tecnoblog.net/noticias/windows-11-ativara-uma-protecao-importante-por-padrao-mas-ha-um-porem/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Microsoft",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-09-02T21:24:47.554Z"
     }
   ]
 }
