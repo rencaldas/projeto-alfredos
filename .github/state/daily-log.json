@@ -8485,6 +8485,73 @@
         ]
       },
       "timestamp": "2026-09-01T23:50:49.113Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
+      "summary": "Tecnologia estreia com o game NBA 2K27. Recurso gerou polêmica sobre a direção artística dos jogos. Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
+      "link": "https://tecnoblog.net/noticias/nvidia-oficializa-dlss-5-para-deixar-jogos-mais-realistas-com-ia/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Deep learning super sampling",
+          "DLSS",
+          "DLSS 5",
+          "Games",
+          "GeForce Now",
+          "GeForce RTX",
+          "GeForce RTX 50 series",
+          "Inteligência Artificial (IA)",
+          "Jogos para PC",
+          "NBA",
+          "NBA 2K27",
+          "Nvidia",
+          "Placa de Vídeo",
+          "Ray tracing",
+          "Renderização neural"
+        ]
+      },
+      "timestamp": "2026-09-02T01:45:19.203Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como funciona a Conta de Adolescente do Instagram? Veja o que é bloqueado por padrão",
+      "summary": "A conta de adolescente do Instagram protege jovens contra riscos digitais e interações com desconhecidos, além de facilitar o monitoramento pelos pais Como funciona a Conta de Adolescente do Instagram? Veja o que é bloqueado por padrão",
+      "link": "https://tecnoblog.net/responde/como-funciona-a-conta-de-adolescente-do-instagram-veja-o-que-e-bloqueado-por-padrao/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "ECA Digital",
+          "Instagram"
+        ]
+      },
+      "timestamp": "2026-09-02T01:45:19.468Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Oferta relâmpago: Tablet Vaio TL12 (256 GB) tem 33% OFF na Amazon",
+      "summary": "Vaio TL12 se destaca pela tela AMOLED de 12,6\", 8 GB de RAM e acessórios inclusos na caixa, como a Vaio Pen. Corra para aproveitar a promoção que acaba em poucas horas Oferta relâmpago: Tablet Vaio TL12 (256 GB) tem 33% OFF na Amazon",
+      "link": "https://tecnoblog.net/achados/oferta-relampago-tablet-vaio-tl12-256-gb-tem-33-off-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Tablets"
+        ]
+      },
+      "timestamp": "2026-09-02T01:45:19.725Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Tempestade solar causou falhas no GPS com extensão inédita",
+      "summary": "Erros de leitura passaram dos 10 metros e foram detectados em regiões distantes dos polos, onde problemas do tipo são mais comuns. Tempestade solar causou falhas no GPS com extensão inédita",
+      "link": "https://tecnoblog.net/noticias/tempestade-solar-causou-falhas-no-gps-com-extensao-inedita/",
+      "meta": {
+        "categorias": [
+          "Ciência e Saúde",
+          "Geophysical Research Letters",
+          "Sistema Solar"
+        ]
+      },
+      "timestamp": "2026-09-02T01:45:19.985Z"
     }
   ]
 }
