@@ -2,41 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "WhatsApp tem problemas e não envia fotos nesta segunda (3)",
-      "summary": "Mensageiro da Meta apresenta dificuldades na hora de mandar imagens e publicar status. WhatsApp tem problemas e não envia fotos nesta segunda (3)",
-      "link": "https://tecnoblog.net/noticias/whatsapp-tem-problemas-e-nao-envia-fotos-nesta-segunda-3/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Android",
-          "fora do ar",
-          "Meta",
-          "WhatsApp"
-        ]
-      },
-      "timestamp": "2026-08-03T22:31:31.721Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Dia dos Pais 2026: TVs e soundbars Samsung e LG até 46% de desconto",
-      "summary": "Reunimos TVs e soundbars da Samsung e LG de categoria custo-benefício a premium com chegada para antes do Dia dos Pais 2026. Confira o que nós selecionamos. Dia dos Pais 2026: TVs e soundbars Samsung e LG até 46% de desconto",
-      "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-tvs-e-soundbars-samsung-e-lg-ate-46-de-desconto/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "4K",
-          "Dia dos Pais",
-          "Dia dos Pais 2026",
-          "LG",
-          "Pix",
-          "Samsung",
-          "TV (televisor)"
-        ]
-      },
-      "timestamp": "2026-08-03T22:31:31.946Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Celular com Snapdragon: 11 modelos com chip da Qualcomm para comprar em 2026",
       "summary": "Encontre o melhor celular com processador Snapdragon para comprar no Brasil; chips são conhecidos pelo bom desempenho do segmento básico ao avançado Celular com Snapdragon: 11 modelos com chip da Qualcomm para comprar em 2026",
       "link": "https://tecnoblog.net/guias/celular-com-snapdragon/",
@@ -8558,6 +8523,91 @@
         ]
       },
       "timestamp": "2026-09-02T21:24:47.554Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como compartilhar a localização em tempo real pelo Google Maps",
+      "summary": "O compartilhamento em tempo real no Google Maps garante que amigos e familiares monitorem seu deslocamento e saibam o horário previsto de chegada ao destino Como compartilhar a localização em tempo real pelo Google Maps",
+      "link": "https://tecnoblog.net/responde/como-compartilhar-a-localizacao-em-tempo-real-pelo-google-maps/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Google Maps"
+        ]
+      },
+      "timestamp": "2026-09-02T23:25:23.942Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone de Vorcaro: como a PF obteve as mensagens apagadas",
+      "summary": "Banqueiro usava a visualização única do WhatsApp para enviar capturas de tela. Registros do iOS ajudaram a reconstruir as conversas. iPhone de Vorcaro: como a PF obteve as mensagens apagadas",
+      "link": "https://tecnoblog.net/noticias/caso-vorcaro-como-a-pf-obteve-mensagens-apagadas-do-iphone/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Daniel Vorcaro",
+          "iOS",
+          "iPhone",
+          "Polícia Federal",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-09-02T23:25:24.241Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Só hoje: Motorola Edge 60 Pro atinge menor preço que vimos em 2026",
+      "summary": "Edge 60 Pro (256 GB) tem bateria grande de 6.000 mAh, bom desempenho para jogos e três câmeras de 50 MP; celular da Motorola tem 40% OFF hoje com cupom Só hoje: Motorola Edge 60 Pro atinge menor preço que vimos em 2026",
+      "link": "https://tecnoblog.net/achados/so-hoje-motorola-edge-60-pro-atinge-menor-preco-que-vimos-em-2026/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Desconto",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 60 Pro",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-02T23:25:24.543Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Disney+ para de funcionar em TVs Samsung; clientes estão furiosos",
+      "summary": "“Este aplicativo não é compatível com a sua TV”, informa mensagem de erro na tela do televisor. Disney+ para de funcionar em TVs Samsung; clientes estão furiosos",
+      "link": "https://tecnoblog.net/noticias/disney-deixa-de-funcionar-em-tvs-da-samsung-e-usuarios-reclamam/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Disney+ (Disney Plus)",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-02T23:25:24.840Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Acer revela console portátil que se transforma em notebook compacto",
+      "summary": "Conceito da linha Predator une controles dedicados para games e teclado embutido para tarefas de produtividade. Acer revela console portátil que se transforma em notebook compacto",
+      "link": "https://tecnoblog.net/noticias/acer-revela-console-portatil-que-se-transforma-em-notebook-compacto/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Acer",
+          "Conceito",
+          "console portátil",
+          "Hardware",
+          "IFA 2026",
+          "Jogos",
+          "Notebook gamer",
+          "PC gamer",
+          "PC portátil",
+          "Predator",
+          "Produtividade",
+          "Project DualPlay Mini"
+        ]
+      },
+      "timestamp": "2026-09-02T23:25:25.146Z"
     }
   ]
 }
