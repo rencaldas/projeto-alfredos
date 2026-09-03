@@ -2,83 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Como colocar senha no chip do celular: saiba ativar o PIN da operadora",
-      "summary": "Ativar o PIN do chip protege a linha ao exigir uma senha sempre que reiniciar o aparelho ou inserir o SIM em outro celular, impedindo que os criminosos utilizem o número indevidamente Como colocar senha no chip do celular: saiba ativar o PIN da operadora",
-      "link": "https://tecnoblog.net/responde/como-ativar-o-pin-do-chip-da-operadora-no-android-ou-ios/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Android",
-          "iOS",
-          "Número de identificação pessoal (PIN)"
-        ]
-      },
-      "timestamp": "2026-08-04T21:02:19.353Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "TCL lança o tablet intermediário Tab A1 Plus",
-      "summary": "Modelo chega com display de 120 Hz, chip Snapdragon 4 Gen 2 e recursos de inteligência artificial. TCL lança o tablet intermediário Tab A1 Plus",
-      "link": "https://tecnoblog.net/noticias/tcl-lanca-o-tablet-intermediario-tab-a1-plus/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Brasil",
-          "TCL",
-          "TCL Tab A1 Plus"
-        ]
-      },
-      "timestamp": "2026-08-04T21:02:19.604Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Linux rouba espaço do Windows na América do Norte, mas por um motivo curioso",
-      "summary": "Dados do StatCounter indicaram salto do pinguim sobre o sistema da Microsoft, mas a verdadeira explicação envolve a atividade de bots de IA. Linux rouba espaço do Windows na América do Norte, mas por um motivo curioso",
-      "link": "https://tecnoblog.net/noticias/linux-rouba-espaco-do-windows-na-america-do-norte-mas-por-um-motivo-curioso/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Estados Unidos",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Linux",
-          "Microsoft",
-          "StatCounter",
-          "Windows"
-        ]
-      },
-      "timestamp": "2026-08-04T22:20:06.823Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Windows 11 “espiona” seu PC a cada 15 minutos? Microsoft nega",
-      "summary": "Executou da Microsoft desmentiu publicação nas redes sociais que afirma que serviço \"whesvc\" do Windows 11 envia dados do PC à companhia silenciosamente. Windows 11 “espiona” seu PC a cada 15 minutos? Microsoft nega",
-      "link": "https://tecnoblog.net/noticias/windows-11-espiona-seu-pc-a-cada-15-minutos-microsoft-nega/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Microsoft",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-08-04T22:20:07.157Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple sofre com ritmo da IA e limita programa que paga por bug descoberto",
-      "summary": "Fabricante restringe quantidade de notificações após ser inundada por avisos gerados por máquinas (e cheios de alucinações). Apple sofre com ritmo da IA e limita programa que paga por bug descoberto",
-      "link": "https://tecnoblog.net/noticias/apple-sofre-com-ritmo-da-ia-e-limita-programa-que-paga-por-bug-descoberto/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Apple",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-04T22:20:07.474Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Dia dos pais 2026: Galaxy Buds 3 e mais fones ficam até 57% mais baratos",
       "summary": "Galaxy Buds Core, AirPods Pro 3 e JBL Soundgear Clips estão entres os fones de ouvido com preços menores para presentear no Dia dos Pais 2026 Dia dos pais 2026: Galaxy Buds 3 e mais fones ficam até 57% mais baratos",
       "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-galaxy-buds-3-e-mais-fones-ficam-ate-57-mais-baratos/",
@@ -8627,6 +8550,94 @@
         ]
       },
       "timestamp": "2026-09-03T20:58:28.680Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xbox Game Pass limita jogos na nuvem a 15 horas por mês",
+      "summary": "Assinantes dos planos Ultimate, Premium e Essential terão franquia de horas no Cloud Gaming. Até então, serviço era oferecido sem limite. Xbox Game Pass limita jogos na nuvem a 15 horas por mês",
+      "link": "https://tecnoblog.net/noticias/xbox-game-pass-limita-jogos-na-nuvem-a-ate-15-horas-por-mes/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Cloud gaming",
+          "Microsoft",
+          "Xbox",
+          "Xbox Cloud Gaming",
+          "Xbox Game Pass",
+          "Xbox Games Store"
+        ]
+      },
+      "timestamp": "2026-09-03T22:57:39.086Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Disney+ volta a funcionar em TVs da Samsung",
+      "summary": "Erro “este aplicativo não é compatível com a sua TV” afetou diversos televisores. Disney+ volta a funcionar em TVs da Samsung",
+      "link": "https://tecnoblog.net/noticias/disney-volta-a-funcionar-em-tvs-da-samsung/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "Disney",
+          "Disney+ (Disney Plus)",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-03T22:57:39.350Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Moto Watch Ultra é o novo relógio premium da Motorola",
+      "summary": "Smartwatch tem tela OLED, suporte a 4G via eSIM e estreia o Wear OS, com acesso a recursos e apps do Google. Moto Watch Ultra é o novo relógio premium da Motorola",
+      "link": "https://tecnoblog.net/noticias/moto-watch-ultra-e-o-novo-relogio-premium-da-motorola/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Berlim",
+          "eSIM",
+          "Google",
+          "Motorola",
+          "OLED",
+          "Smartwatch",
+          "Wear OS"
+        ]
+      },
+      "timestamp": "2026-09-03T22:57:39.628Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 17e (256 GB) de alto desempenho baixa de preço com cupom",
+      "summary": "iPhone 17e com tela OLED, câmera de 48 MP e Apple Intelligence fica mais barato combinando cupom e pagamento via Pix no Magazine Luiza iPhone 17e (256 GB) de alto desempenho baixa de preço com cupom",
+      "link": "https://tecnoblog.net/achados/iphone-17e-256-gb-de-alto-desempenho-baixa-de-preco-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "Apple Intelligence",
+          "iPhone",
+          "iPhone 17e",
+          "Magazine Luiza",
+          "OLED",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-03T22:57:39.880Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Custo-benefício: Galaxy Tab S10 Lite 5G tem melhor oferta desde abril",
+      "summary": "Galaxy Tab S10 Lite em promoção exclusiva Amazon Prime suporta conectividade 5G, tem bom desempenho para o básico e acompanha caneta S Pen Custo-benefício: Galaxy Tab S10 Lite 5G tem melhor oferta desde abril",
+      "link": "https://tecnoblog.net/achados/custo-beneficio-galaxy-tab-s10-lite-5g-tem-melhor-oferta-desde-abril/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Amazon",
+          "Galaxy",
+          "Galaxy Tab S10 Lite 5G",
+          "Samsung",
+          "Stylus"
+        ]
+      },
+      "timestamp": "2026-09-03T22:57:40.144Z"
     }
   ]
 }
