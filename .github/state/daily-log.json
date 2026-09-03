@@ -2,36 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Futuro Xbox poderá ter jogos das gerações anteriores (se estúdios toparem)",
-      "summary": "Project Helix pode ter suporte a todos os games dos consoles anteriores do Xbox. Mas isso dependerá de um acordo entre Microsoft e estúdios. Futuro Xbox poderá ter jogos das gerações anteriores (se estúdios toparem)",
-      "link": "https://tecnoblog.net/noticias/futuro-xbox-podera-ter-jogos-das-geracoes-anteriores-se-estudios-toparem/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Microsoft",
-          "Project Helix",
-          "Xbox",
-          "Xbox Series X e Series S"
-        ]
-      },
-      "timestamp": "2026-08-04T19:53:00.065Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Fim do push no Itaú? Confira a explicação do banco",
-      "summary": "Aplicativo oficial continuará mandando notificações sobre compras e demais transações. Fim do push no Itaú? Confira a explicação do banco",
-      "link": "https://tecnoblog.net/noticias/fim-do-push-no-itau-confira-a-explicacao-do-banco/",
-      "meta": {
-        "categorias": [
-          "Serviços Financeiros",
-          "Itaú",
-          "Threads"
-        ]
-      },
-      "timestamp": "2026-08-04T19:53:00.316Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Como colocar senha no chip do celular: saiba ativar o PIN da operadora",
       "summary": "Ativar o PIN do chip protege a linha ao exigir uma senha sempre que reiniciar o aparelho ou inserir o SIM em outro celular, impedindo que os criminosos utilizem o número indevidamente Como colocar senha no chip do celular: saiba ativar o PIN da operadora",
       "link": "https://tecnoblog.net/responde/como-ativar-o-pin-do-chip-da-operadora-no-android-ou-ios/",
@@ -8575,6 +8545,88 @@
         ]
       },
       "timestamp": "2026-09-03T18:02:45.130Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy A57 (256 GB) atinge menor preço, mas segue caro para um intermediário",
+      "summary": "Galaxy A57 (256 GB) tem câmera principal de 50 MP, 8 GB de RAM e tela Super AMOLED+; celular da Samsung recebe desconto de 47% no Pix com cupom Galaxy A57 (256 GB) atinge menor preço, mas segue caro para um intermediário",
+      "link": "https://tecnoblog.net/achados/galaxy-a57-256-gb-atinge-menor-preco-mas-segue-caro-para-um-intermediario/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy A57",
+          "Mercado Livre",
+          "Pix",
+          "Samsung",
+          "Super AMOLED"
+        ]
+      },
+      "timestamp": "2026-09-03T20:58:27.697Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "LibreOffice bate recorde de downloads",
+      "summary": "LibreOffice 26.8 atingiu 1 milhão de downloads em sua primeira semana de lançamento, um recorde para o projeto de código aberto. LibreOffice bate recorde de downloads",
+      "link": "https://tecnoblog.net/noticias/libreoffice-bate-recorde-de-downloads/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "LibreOffice",
+          "The Document Foundation"
+        ]
+      },
+      "timestamp": "2026-09-03T20:58:27.972Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor tablet Lenovo em 2026: qual modelo comprar no Brasil?",
+      "summary": "Conheça os prós e contras dos modelos das linhas Lenovo Idea Tab, Tab K e Lenovo Tab antes de decidir qual é o melhor tablet para o seu dia a dia Melhor tablet Lenovo em 2026: qual modelo comprar no Brasil?",
+      "link": "https://tecnoblog.net/guias/melhor-tablet-lenovo/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Lenovo"
+        ]
+      },
+      "timestamp": "2026-09-03T20:58:28.205Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Huawei renova linha de relógios com Watch 6 e Watch GT 7",
+      "summary": "Aparelhos têm sensor para dedo capaz de obter 14 métricas de saúde. Duração da bateria pode chegar a 12 dias. Huawei renova linha de relógios com Watch 6 e Watch GT 7",
+      "link": "https://tecnoblog.net/noticias/huawei-renova-linha-de-relogios-com-watch-6-e-watch-gt-7/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Huawei",
+          "Huawei GT 7",
+          "Huawei GT 7 Pro",
+          "Huawei Watch 6",
+          "Huawei Watch 6 Pro"
+        ]
+      },
+      "timestamp": "2026-09-03T20:58:28.445Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Bandai transforma o icônico Tamagotchi em anel inteligente",
+      "summary": "Menor dispositivo da franquia ganha tela LCD colorida e bateria recarregável; febre dos anos 1990 no Brasil ainda não tem previsão de chegada ao mercado nacional. Bandai transforma o icônico Tamagotchi em anel inteligente",
+      "link": "https://tecnoblog.net/noticias/bandai-transforma-o-iconico-tamagotchi-em-anel-inteligente/",
+      "meta": {
+        "categorias": [
+          "Wearables",
+          "anel inteligente",
+          "Bandai",
+          "Brinquedos",
+          "Cultura Geek",
+          "gadgets",
+          "Jogos",
+          "Nostalgia",
+          "Tamagotchi",
+          "wearables"
+        ]
+      },
+      "timestamp": "2026-09-03T20:58:28.680Z"
     }
   ]
 }
