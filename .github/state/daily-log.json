@@ -1,32 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Gamer",
-      "title": "Project First Contact (Epic Games) Giveaway",
-      "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-08-17 23:59:00.",
-      "link": "https://www.gamerpower.com/open/project-first-contact-epic-games-giveaway",
-      "meta": {
-        "status": "Active",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6a7112b81327e.jpg"
-      },
-      "timestamp": "2026-08-04T04:51:31.017Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "OPPO Reno16 transforma fotos em registros retrô com a Cyber Pop Cam",
-      "summary": "Com estilos inspirados em câmeras digitais, linha combina sensores de 50 MP e recursos de IA para quem cria conteúdo pelo celular. OPPO Reno16 transforma fotos em registros retrô com a Cyber Pop Cam",
-      "link": "https://tecnoblog.net/publieditoriais/oppo-reno16-transforma-fotos-em-registros-retro-com-a-cyber-pop-cam/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Oppo Cyber Pop Cam",
-          "Oppo Reno 16",
-          "Oppo Reno 16 F"
-        ]
-      },
-      "timestamp": "2026-08-04T13:42:07.540Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "iPhone 17e com chip A19 tem queda de preço em oferta no Mercado Livre",
       "summary": "iPhone 17e (256 GB) traz chip A19, câmera de 48 MP e tela OLED de 1.200 nits; celular acessível da Apple sai 33% mais barato que preço de lançamento no Pix com cupom iPhone 17e com chip A19 tem queda de preço em oferta no Mercado Livre",
@@ -8610,6 +8584,89 @@
         ]
       },
       "timestamp": "2026-09-03T01:14:55.977Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "WhatsApp vai te lembrar de enviar mensagens esquecidas",
+      "summary": "Recurso disponível na versão beta para Android alerta os usuários sobre textos não enviados após um minuto de inatividade fora do aplicativo. WhatsApp vai te lembrar de enviar mensagens esquecidas",
+      "link": "https://tecnoblog.net/noticias/whatsapp-vai-te-lembrar-de-enviar-mensagens-esquecidas/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "Android",
+          "aplicativos",
+          "WhatsApp",
+          "WhatsApp beta"
+        ]
+      },
+      "timestamp": "2026-09-03T14:38:52.900Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 18 Pro e celular dobrável: o que esperar do evento da Apple",
+      "summary": "Apple deve lançar apenas os modelos mais caros em setembro. Versões mais acessíveis devem chegar em 2027. iPhone 18 Pro e celular dobrável: o que esperar do evento da Apple",
+      "link": "https://tecnoblog.net/noticias/iphone-18-pro-e-celular-dobravel-o-que-esperar-do-evento-da-apple/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "iOS 18",
+          "iPhone",
+          "iPhone 18 Pro",
+          "iPhone 18 Pro Max",
+          "iPhone Air",
+          "iPhone dobrável",
+          "iPhone Ultra"
+        ]
+      },
+      "timestamp": "2026-09-03T14:38:53.205Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Kindle Paperwhite Signature Edition está mais barato e em até 10x na Amazon",
+      "summary": "Kindle Paperwhite Signature Edition (32 GB) com tela e-ink de 7\" e bateria para até 12 semanas sai 29% mais barato por até 10x sem juros em oferta especial 9.9 na Amazon Kindle Paperwhite Signature Edition está mais barato e em até 10x na Amazon",
+      "link": "https://tecnoblog.net/achados/kindle-paperwhite-signature-edition-esta-mais-barato-e-em-ate-10x-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Gadgets",
+          "Amazon",
+          "Kindle",
+          "Kindle Paperwhite",
+          "Kindle Paperwhite Signature Edition"
+        ]
+      },
+      "timestamp": "2026-09-03T14:38:53.489Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Oportunidade: Galaxy Z Flip 7 FE despenca 60% com cupom no Magalu",
+      "summary": "Galaxy Z Flip 7 FE (128 GB) com tela AMOLED de 6,7\" e câmeras do Z Flip 8 volta a alcançar o menor preço histórico, com desconto de 60% no Pix com cupom Oportunidade: Galaxy Z Flip 7 FE despenca 60% com cupom no Magalu",
+      "link": "https://tecnoblog.net/achados/oportunidade-galaxy-z-flip-7-fe-despenca-60-com-cupom-no-magalu/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy AI",
+          "Galaxy Z Flip 7 FE",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-03T14:38:53.776Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor tablet top de linha: 6 modelos com alto desempenho para comprar em 2026",
+      "summary": "Encontre o melhor tablet top de linha com design premium, recursos avançados e alto desempenho para multitarefa e uso profissional Melhor tablet top de linha: 6 modelos com alto desempenho para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-tablet-top-de-linha/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Premium",
+          "Tablet"
+        ]
+      },
+      "timestamp": "2026-09-03T14:38:54.058Z"
     }
   ]
 }
