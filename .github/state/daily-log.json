@@ -1,34 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Celular com Snapdragon: 11 modelos com chip da Qualcomm para comprar em 2026",
-      "summary": "Encontre o melhor celular com processador Snapdragon para comprar no Brasil; chips são conhecidos pelo bom desempenho do segmento básico ao avançado Celular com Snapdragon: 11 modelos com chip da Qualcomm para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/celular-com-snapdragon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Qualcomm",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-08-03T23:44:34.335Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apps de smart TVs podem “emprestar” seu IP para quem você nem conhece",
-      "summary": "Análise encontrou aplicativos que conectavam televisores a uma rede de proxy residencial, que pode ser usada até para mascarar identidade de cibercriminosos. Apps de smart TVs podem “emprestar” seu IP para quem você nem conhece",
-      "link": "https://tecnoblog.net/noticias/apps-de-smart-tvs-podem-emprestar-seu-ip-para-quem-voce-nem-conhece/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Samsung",
-          "Televisão (transmissão)"
-        ]
-      },
-      "timestamp": "2026-08-04T01:06:36.789Z"
-    },
-    {
       "agent": "Alfredo Gamer",
       "title": "Project First Contact (Epic Games) Giveaway",
       "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-08-17 23:59:00.",
@@ -8608,6 +8580,36 @@
         ]
       },
       "timestamp": "2026-09-02T23:25:25.146Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Banco do Brasil adota Origem Verificada para identificar ligações e combater golpes",
+      "summary": "Serviço usa protocolo internacional para autenticar chamadas e mostrar ao cliente que o contato vem do banco. Banco do Brasil adota Origem Verificada para identificar ligações e combater golpes",
+      "link": "https://tecnoblog.net/noticias/banco-do-brasil-adota-origem-verificada-para-identificar-ligacoes-e-combater-golpes/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Banco do Brasil",
+          "Origem Verificada"
+        ]
+      },
+      "timestamp": "2026-09-03T01:14:55.685Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Edge 70 Fusion Plus (512 GB) fica mais barato com cupom de R$ 400 no Magalu",
+      "summary": "Motorola Edge 70 Fusion Plus de 512 GB possui tela AMOLED de 144 Hz, 12 GB de RAM e câmeras de 50 MP. Utilize o cupom válido até o final do dia para garantir 35% de desconto Edge 70 Fusion Plus (512 GB) fica mais barato com cupom de R$ 400 no Magalu",
+      "link": "https://tecnoblog.net/achados/edge-70-fusion-plus-512-gb-fica-mais-barato-com-cupom-de-r-400-no-magalu/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Magazine Luiza",
+          "Motorola",
+          "Motorola Edge 70 Fusion Plus",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-03T01:14:55.977Z"
     }
   ]
 }
