@@ -2,22 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Claude fora do ar? Instabilidade derruba modelos da Anthropic",
-      "summary": "Serviços de IA do Claude apresentam falhas na manhã desta quarta-feira (05/08) em escala global. Anthropic já trabalha em solução. Claude fora do ar? Instabilidade derruba modelos da Anthropic",
-      "link": "https://tecnoblog.net/noticias/claude-fora-do-ar-instabilidade-derruba-modelos-da-anthropic/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "Claude",
-          "Claude Mythos",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-05T13:19:21.736Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy Z Flip 7 FE (128 GB) baixa 56% em oferta por até 12x sem juros",
       "summary": "Galaxy Z Flip 7 FE (128 GB) tem tela AMOLED de 6,7\" e câmeras do Z Flip 8; dobrável da Samsung sai 56% mais barato que preço original em até 12x sem juros com cupom Galaxy Z Flip 7 FE (128 GB) baixa 56% em oferta por até 12x sem juros",
       "link": "https://tecnoblog.net/achados/galaxy-z-flip-7-fe-128-gb-baixa-56-em-oferta-por-ate-12x-sem-juros/",
@@ -8723,6 +8707,87 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6a998bd861dec.jpg"
       },
       "timestamp": "2026-09-04T06:37:13.180Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "GTA 6 ganha controles especiais no PlayStation 5",
+      "summary": "Modelos DualSense anunciados no State of Play de setembro trazem design inspirado na nova versão de Vice City. GTA 6 ganha controles especiais no PlayStation 5",
+      "link": "https://tecnoblog.net/noticias/gta-6-ganha-controles-especiais-no-playstation-5/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "DualSense",
+          "GTA 6",
+          "Playstation",
+          "PlayStation 5 (PS5)",
+          "PS5 Pro",
+          "Rockstar Games",
+          "Sony",
+          "Vice City",
+          "Xbox Series X e Series S"
+        ]
+      },
+      "timestamp": "2026-09-04T13:45:36.514Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "IA da China apontou milhares de bugs no Linux",
+      "summary": "Modelo GLM-5.3 encontra falhas no Linux kernel em outros projetos de código aberto. IA da China apontou milhares de bugs no Linux",
+      "link": "https://tecnoblog.net/noticias/ia-da-china-apontou-milhares-de-bugs-no-linux/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "CVE",
+          "Inteligência Artificial (IA)",
+          "Linus Torvalds",
+          "Linux",
+          "Linux kernel",
+          "Z.ai"
+        ]
+      },
+      "timestamp": "2026-09-04T13:45:36.811Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Fone com cancelamento de ruído ativo barato: 10 modelos até R$ 300 em 2026",
+      "summary": "Selecionamos headphones, earbuds e fones intra-auriculares com cancelamento de ruído ativo (ANC) e preço acessível para usar no escritório, transporte público ou academia Fone com cancelamento de ruído ativo barato: 10 modelos até R$ 300 em 2026",
+      "link": "https://tecnoblog.net/guias/fone-com-cancelamento-de-ruido-ativo-barato/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "Controle ativo de ruído"
+        ]
+      },
+      "timestamp": "2026-09-04T13:45:37.104Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anatel permitirá que você bloqueie a abertura de linhas móveis em seu CPF",
+      "summary": "\"Anatel Protege\" permitirá que cidadãos bloqueiem e desbloqueiem a abertura de linhas de celular para prevenir fraudes. Anatel permitirá que você bloqueie a abertura de linhas móveis em seu CPF",
+      "link": "https://tecnoblog.net/noticias/anatel-permitira-que-voce-bloqueie-a-abertura-de-linhas-moveis-em-seu-cpf/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Anatel"
+        ]
+      },
+      "timestamp": "2026-09-04T13:45:37.406Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 FE (256 GB) volta a cair com 41% OFF no Mercado Livre",
+      "summary": "Galaxy S25 FE (256 GB) é um premium acessível quase igual ao novo S26 FE; celular da Samsung recebe desconto de 41% sobre o preço original no Pix com cupom Galaxy S25 FE (256 GB) volta a cair com 41% OFF no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-fe-256-gb-volta-a-cair-com-41-off-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy S25 FE",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-04T13:45:37.718Z"
     }
   ]
 }
