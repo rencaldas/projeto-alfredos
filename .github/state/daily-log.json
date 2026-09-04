@@ -2,53 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Esqueceu o PIN do celular? Saiba como descobrir a senha do chip da Vivo, Claro ou TIM",
-      "summary": "O PIN do chip protege a linha telefônica de usos indevidos, exigindo validação sempre que o aparelho é reiniciado ou o chip inserido em outro dispositivo Esqueceu o PIN do celular? Saiba como descobrir a senha do chip da Vivo, Claro ou TIM",
-      "link": "https://tecnoblog.net/responde/esqueceu-o-pin-do-celular-saiba-como-descobrir-a-senha-do-chip-da-vivo-claro-ou-tim/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Número de identificação pessoal (PIN)",
-          "PUK",
-          "SIM card"
-        ]
-      },
-      "timestamp": "2026-08-05T18:46:31.679Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google decreta fim definitivo do Google Assistente",
-      "summary": "Substituição pelo Gemini começa em 4 de setembro e será aplicada de forma gradual. Google decreta fim definitivo do Google Assistente",
-      "link": "https://tecnoblog.net/noticias/google-decreta-fim-definitivo-do-google-assistente/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Android",
-          "Gemini",
-          "Google",
-          "Google Assistente",
-          "Google Nest",
-          "Google TV"
-        ]
-      },
-      "timestamp": "2026-08-05T18:46:31.979Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft apaga páginas que recomendavam 32 GB de RAM no Windows 11",
-      "summary": "Sem alarde, Microsoft removeu publicações oficiais que recomendavam 32 GB de RAM no Windows 11 para jogos pesados. Decisão pode estar atrelada à crise das memórias. Microsoft apaga páginas que recomendavam 32 GB de RAM no Windows 11",
-      "link": "https://tecnoblog.net/noticias/microsoft-apaga-paginas-que-recomendavam-32-gb-de-ram-no-windows-11/",
-      "meta": {
-        "categorias": [
-          "Hardware e Componentes",
-          "Microsoft",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-08-05T18:46:32.280Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "iPhone 17 entra em promoção na Amazon com um dos menores preços já vistos",
       "summary": "iPhone 17 de 256 GB com Apple Intelligence e tela OLED de 120 Hz tem ótima queda de preço com pagamento via Pix iPhone 17 entra em promoção na Amazon com um dos menores preços já vistos",
       "link": "https://tecnoblog.net/achados/iphone-17-entra-em-promocao-na-amazon-com-um-dos-menores-precos-ja-vistos/",
@@ -8732,6 +8685,87 @@
         ]
       },
       "timestamp": "2026-09-04T17:13:37.596Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como rastrear iPhone pelo Android",
+      "summary": "Localizar um iPhone pelo Android oferece praticidade para encontrar o celular de forma rápida e segura via iCloud, além de permitir ver o histórico do dispositivo por meio do Google Maps Como rastrear iPhone pelo Android",
+      "link": "https://tecnoblog.net/responde/como-rastrear-iphone-pelo-android-casos-de-roubo-e-perda/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Android",
+          "Apple",
+          "Google",
+          "Google Maps",
+          "iCloud",
+          "iPhone",
+          "rastreamento"
+        ]
+      },
+      "timestamp": "2026-09-04T19:34:54.638Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TV LG OLED C6 55” tem a melhor oferta registrada em até 12x sem juros",
+      "summary": "LG C6 tem tela OLED 4K de até 165 Hz e suporta jogos na nuvem; modelo OLED55C6PSA atinge desconto de 24% em até 12x sem juros na oferta 9.9 da Amazon TV LG OLED C6 55” tem a melhor oferta registrada em até 12x sem juros",
+      "link": "https://tecnoblog.net/achados/tv-lg-oled-c6-55-tem-a-melhor-oferta-registrada-em-ate-12x-sem-juros/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "LG",
+          "OLED",
+          "Smart TV LG OLED evo AI C6"
+        ]
+      },
+      "timestamp": "2026-09-04T19:34:54.889Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Banco Central proíbe publicidade e links em comprovantes de Pix",
+      "summary": "Comprovantes de Pix deverão ser usados unicamente para fornecer dados sobre a transação. Medida vale a partir de março de 2027. Banco Central proíbe publicidade e links em comprovantes de Pix",
+      "link": "https://tecnoblog.net/noticias/banco-central-proibe-publicidade-e-links-em-comprovantes-de-pix/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Banco central",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-04T19:34:55.190Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Wikipédia perdeu acessos após resumos de IA do Google, diz estudo",
+      "summary": "Autores de artigo estimam que enciclopédia passou a ter 100 milhões de visitas mensais a menos. Google alega inconsistências nos dados da pesquisa. Wikipédia perdeu acessos após resumos de IA do Google, diz estudo",
+      "link": "https://tecnoblog.net/noticias/wikipedia-perdeu-acessos-apos-resumos-de-ia-do-google-diz-estudo/",
+      "meta": {
+        "categorias": [
+          "Internet",
+          "AI Overviews",
+          "Google",
+          "Inteligência Artificial (IA)",
+          "Wikipedia"
+        ]
+      },
+      "timestamp": "2026-09-04T19:34:55.443Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lenovo agora tem seu próprio MacBook Neo",
+      "summary": "IdeaPad Vibe tem opções de 14 e 15 polegadas, até 32 GB de RAM e sete cores para rivalizar com o modelo da Apple. Notebooks custam US$ 700. Lenovo agora tem seu próprio MacBook Neo",
+      "link": "https://tecnoblog.net/noticias/lenovo-agora-tem-seu-proprio-macbook-neo/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "AMD",
+          "Intel",
+          "Lenovo",
+          "MacBook Neo",
+          "Notebook"
+        ]
+      },
+      "timestamp": "2026-09-04T19:34:55.691Z"
     }
   ]
 }
