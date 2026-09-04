@@ -2,52 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy Watch 8 BT recebe promoção histórica e atinge 60% OFF na Amazon",
-      "summary": "Galaxy Watch 8 Bluetooth (44 mm) sai pelo menor preço histórico em promoção no pagamento via Pix; smartwatch ainda é boa pedida mesmo após chegada da nova geração Galaxy Watch 8 BT recebe promoção histórica e atinge 60% OFF na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-8-bt-recebe-promocao-historica-e-atinge-60-off-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Amazon",
-          "Galaxy AI",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy Watch"
-        ]
-      },
-      "timestamp": "2026-08-05T22:39:57.767Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Celular pequeno: 10 smartphones compactos para comprar em 2026",
-      "summary": "Encontre os melhores celulares com tela pequena para os padrões atuais; selecionamos smartphones com painel de até 6,3 polegadas Celular pequeno: 10 smartphones compactos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/celular-pequeno/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "iPhone 17",
-          "iPhone 17 Pro"
-        ]
-      },
-      "timestamp": "2026-08-05T22:39:58.077Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Hackers exploram falha em carteiras offline e roubam mais de R$ 650 milhões",
-      "summary": "Autoridades dos Estados Unidos foram alertadas sobre o crime. Hackers exploram falha em carteiras offline e roubam mais de R$ 650 milhões",
-      "link": "https://tecnoblog.net/noticias/hackers-exploram-falha-em-carteiras-offline-e-roubam-mais-de-r-650-milhoes/",
-      "meta": {
-        "categorias": [
-          "Blockchain",
-          "Bitcoin",
-          "Coinkite",
-          "Coldcard"
-        ]
-      },
-      "timestamp": "2026-08-05T22:39:58.382Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Em teste, Claude mente e cria contas falsas para forçar ataque hacker",
       "summary": "Sem prompt específico, Mythos 5 decide enganar desenvolvedor humano para inserir código malicioso no GitHub. Em teste, Claude mente e cria contas falsas para forçar ataque hacker",
       "link": "https://tecnoblog.net/noticias/claude-ai-mente-e-cria-contas-falsas-para-forcar-ataque-hacker-em-teste/",
@@ -8700,6 +8654,34 @@
         ]
       },
       "timestamp": "2026-09-04T21:47:29.617Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "PicPay caiu? Clientes relatam problemas no Pix nesta sexta-feira (4)",
+      "summary": "Transferências feitas para contas da instituição financeira não constam no extrato. Antes disso, aplicativo apresentou instabilidade no meio da tarde. PicPay caiu? Clientes relatam problemas no Pix nesta sexta-feira (4)",
+      "link": "https://tecnoblog.net/noticias/picpay-caiu-clientes-relatam-problemas-no-pix-nesta-sexta-feira-4/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "fora do ar",
+          "PicPay"
+        ]
+      },
+      "timestamp": "2026-09-04T23:30:30.491Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nubank fora do ar: aplicativo tem instabilidade nesta sexta (4)",
+      "summary": "Clientes reclamam que não é possível fazer Pix desde o início da noite. Nubank fora do ar: aplicativo tem instabilidade nesta sexta (4)",
+      "link": "https://tecnoblog.net/noticias/nubank-fora-do-ar-aplicativo-tem-instabilidade-nesta-sexta-4/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "fora do ar",
+          "Nubank"
+        ]
+      },
+      "timestamp": "2026-09-04T23:30:30.778Z"
     }
   ]
 }
