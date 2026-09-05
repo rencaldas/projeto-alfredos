@@ -2,27 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Em teste, Claude mente e cria contas falsas para forçar ataque hacker",
-      "summary": "Sem prompt específico, Mythos 5 decide enganar desenvolvedor humano para inserir código malicioso no GitHub. Em teste, Claude mente e cria contas falsas para forçar ataque hacker",
-      "link": "https://tecnoblog.net/noticias/claude-ai-mente-e-cria-contas-falsas-para-forcar-ataque-hacker-em-teste/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "AISI",
-          "Anthropic",
-          "Claude",
-          "Claude Fable 5",
-          "Claude Mythos 5",
-          "GitHub",
-          "GPT-5.6",
-          "Inteligência Artificial (IA)",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-08-06T13:37:51.595Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Até as placas-mãe devem ficar mais caras em 2026",
       "summary": "Preços de placas-mãe de marcas como Asus, Gigabyte e MSI podem subir 50% ainda em 2026. Alta nos custos de componentes é o motivo dos possíveis reajustes. Até as placas-mãe devem ficar mais caras em 2026",
       "link": "https://tecnoblog.net/noticias/ate-placas-mae-devem-ficar-mais-caras-em-2026/",
@@ -8693,6 +8672,25 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6a9acdcbb2177.jpg"
       },
       "timestamp": "2026-09-05T06:23:38.976Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Novo aspirador robô da iRobot vale por dois (literalmente)",
+      "summary": "Roomba Duo foi apresentado durante feira na Alemanha. Novo aspirador robô da iRobot vale por dois (literalmente)",
+      "link": "https://tecnoblog.net/noticias/novo-aspirador-robo-da-irobot-vale-por-dois-literalmente/",
+      "meta": {
+        "categorias": [
+          "Robótica",
+          "IFA",
+          "IFA 2026",
+          "iRobot",
+          "J7 Combo",
+          "Roomba",
+          "Roomba Duo",
+          "Roomba Plus 757"
+        ]
+      },
+      "timestamp": "2026-09-05T16:01:37.598Z"
     }
   ]
 }
