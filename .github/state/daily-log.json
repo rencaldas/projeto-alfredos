@@ -2,106 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy S25 (256 GB) tem desconto agressivo de 54% com cupom na Amazon",
-      "summary": "Galaxy S25 (256 GB) tem câmera de 50 MP, chip Snapdragon 8 Elite e tela AMOLED de 120 Hz; celular da Samsung sai por menos da metade do preço no Pix com cupom Galaxy S25 (256 GB) tem desconto agressivo de 54% com cupom na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-desconto-agressivo-de-54-com-cupom-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "AMOLED",
-          "Galaxy S25",
-          "Pix",
-          "Samsung",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-08-10T13:56:06.828Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Previsão do tempo do Windows usa 5 vezes mais RAM que no Mac",
-      "summary": "Aplicativo Clima do Windows 11 pode consumir mais de 1 GB de RAM. Por ser basedado no Webview2 (motor de navegador), a sua otimização não é tão fácil. Previsão do tempo do Windows usa 5 vezes mais RAM que no Mac",
-      "link": "https://tecnoblog.net/noticias/previsao-do-tempo-do-windows-usa-5-vezes-mais-ram-que-no-mac/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "clima",
-          "macOS",
-          "Memória RAM",
-          "Windows",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-08-10T13:56:07.096Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S26 Ultra atinge menor preço atual com cupom no Mercado Livre",
-      "summary": "Galaxy S26 Ultra (256 GB) possui tela AMOLED de 120 Hz \"anti-espiadinhas\" e câmera de 200 MP; celular da Samsung recebe desconto de 41% no Pix com cupom Galaxy S26 Ultra atinge menor preço atual com cupom no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-atinge-menor-preco-atual-com-cupom-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy AI",
-          "Galaxy S26 Ultra",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-10T14:50:35.778Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung estreia linha de entrada de TVs Mini LED no Brasil",
-      "summary": "Mini LEDs estavam restritos à família premium Neo QLED. Agora, chegam como opção intermediária no portfólio da fabricante. Samsung estreia linha de entrada de TVs Mini LED no Brasil",
-      "link": "https://tecnoblog.net/noticias/samsung-estreia-linha-de-entrada-de-tvs-mini-led-no-brasil/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Brasil",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-10T14:50:36.085Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Linus Torvalds: encontrar bugs usando IA é o “novo normal” no Linux",
-      "summary": "O Linux 7.2 está prestes a ser lançado. Um tanto resignado, Linus Torvalds destacou o alto volume de correções via IA que a nova versão trará. Linus Torvalds: encontrar bugs usando IA é o “novo normal” no Linux",
-      "link": "https://tecnoblog.net/noticias/linus-torvalds-encontrar-bugs-usando-ia-e-o-novo-normal-no-linux/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)",
-          "Linus Torvalds",
-          "Linux"
-        ]
-      },
-      "timestamp": "2026-08-10T16:40:47.856Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Lançamento: Smart TV LG NANO 50” recebe 42% de desconto no Mercado Livre",
-      "summary": "LG NANO NU850 tem painel 4K NanoCell de 50\", recursos de IA e webOS 26; Smart TV recebe desconto de 42% sobre preço original no Pix no cupom Lançamento: Smart TV LG NANO 50” recebe 42% de desconto no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/lancamento-smart-tv-lg-nano-50-recebe-42-de-desconto-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Inteligência Artificial (IA)",
-          "Mercado Livre",
-          "Pix",
-          "Smart TV",
-          "Smart TV LG NANO UHD NU850",
-          "webOS"
-        ]
-      },
-      "timestamp": "2026-08-10T16:40:48.186Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy A57 (128 GB) tem maior desconto já visto de 56% com cupom na Amazon",
       "summary": "Galaxy A57 (128 GB) tem tela Super AMOLED+ e câmera principal de 50 MP; celular da Samsung atinge o menor preço histórico, com desconto de 56% no Pix com cupom Galaxy A57 (128 GB) tem maior desconto já visto de 56% com cupom na Amazon",
       "link": "https://tecnoblog.net/achados/galaxy-a57-128-gb-tem-maior-desconto-ja-visto-de-56-com-cupom-na-amazon/",
@@ -8526,6 +8426,87 @@
         ]
       },
       "timestamp": "2026-09-09T13:55:50.882Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "9.9: Galaxy Watch 8 LTE atinge queda histórica de 63% na Amazon",
+      "summary": "Galaxy Watch 8 (44 mm) com conectividade LTE e Treinador de Corrida Personalizado atinge o menor preço histórico, com desconto de 63% sobre o original no Pix 9.9: Galaxy Watch 8 LTE atinge queda histórica de 63% na Amazon",
+      "link": "https://tecnoblog.net/achados/9-9-galaxy-watch-8-lte-atinge-queda-historica-de-63-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Amazon",
+          "AMOLED",
+          "Galaxy Watch 8",
+          "LTE",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-09T17:25:33.827Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 70 Pro (256 GB) baixa de preço no 9.9 Magalu",
+      "summary": "Edge 70 Pro com tela AMOLED, câmera de 50 MP e ampla bateria fica mais com pagamento via Pix Motorola Edge 70 Pro (256 GB) baixa de preço no 9.9 Magalu",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-pro-256-gb-baixa-de-preco-com-cupom-no-9-9-magalu/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Magazine Luiza",
+          "Motorola",
+          "Motorola Edge 70 Pro",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-09T17:25:34.126Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Você terá controle total do algoritmo (basta morar na Austrália)",
+      "summary": "Projeto obriga plataformas a oferecer opção de desligar recomendações personalizadas e cria novas regras para menores de idade. Você terá controle total do algoritmo (basta morar na Austrália)",
+      "link": "https://tecnoblog.net/noticias/voce-tera-controle-total-do-algoritmo-basta-morar-na-australia/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Austrália"
+        ]
+      },
+      "timestamp": "2026-09-09T17:25:34.429Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "O que é Hi-Res Audio? Saiba como aproveitar o padrão de qualidade sonora",
+      "summary": "O áudio Hi-Res promove um som mais fiel às gravações originais, sem perdas de qualidade por compressão, como ocorre com CDs e MP3 O que é Hi-Res Audio? Saiba como aproveitar o padrão de qualidade sonora",
+      "link": "https://tecnoblog.net/responde/o-que-e-hi-res-audio/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Apple Lossless Audio Codec",
+          "Conceito",
+          "Hi-Res Audio",
+          "High-resolution audio",
+          "Lossless",
+          "Música"
+        ]
+      },
+      "timestamp": "2026-09-09T17:25:34.718Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Top de linha: iPhone 17 Pro (256 GB) está com um dos menores preços recentes",
+      "summary": "iPhone 17 Pro (256 GB) tem tela OLED de 120 Hz e câmeras de 48 MP; celular da Apple alcança um dos menores preços dos últimos meses com desconto de 28% no Pix Top de linha: iPhone 17 Pro (256 GB) está com um dos menores preços recentes",
+      "link": "https://tecnoblog.net/achados/top-de-linha-iphone-17-pro-256-gb-esta-com-um-dos-menores-precos-recentes/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "iPhone 17 Pro",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-09T17:25:35.018Z"
     }
   ]
 }
