@@ -2,141 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy A57 (128 GB) tem maior desconto já visto de 56% com cupom na Amazon",
-      "summary": "Galaxy A57 (128 GB) tem tela Super AMOLED+ e câmera principal de 50 MP; celular da Samsung atinge o menor preço histórico, com desconto de 56% no Pix com cupom Galaxy A57 (128 GB) tem maior desconto já visto de 56% com cupom na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-a57-128-gb-tem-maior-desconto-ja-visto-de-56-com-cupom-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Galaxy A57",
-          "Galaxy AI",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-10T17:33:24.636Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Zuckerberg critica regulação da IA e diz que centralização é um problema",
-      "summary": "Chefão da Meta diz que tecnologia deve empoderar pessoas. Empresa promete modelos abertos e suporte a comunidades afetadas por data centers. Zuckerberg critica regulação da IA e diz que centralização é um problema",
-      "link": "https://tecnoblog.net/noticias/zuckerberg-critica-regulacao-da-ia-e-diz-que-centralizacao-e-um-problema/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)",
-          "Mark Zuckerberg",
-          "Meta"
-        ]
-      },
-      "timestamp": "2026-08-10T17:33:24.907Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Brasil dá mais um passo para vender remédios no iFood e outros apps",
-      "summary": "Decisão atinge iFood, Rappi, Mercado Livre e Americanas, mas ainda depende de regulamentação da agência. Brasil dá mais um passo para vender remédios no iFood e outros apps",
-      "link": "https://tecnoblog.net/noticias/brasil-da-mais-um-passo-para-vender-remedios-no-ifood-e-outros-apps/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Americanas",
-          "Anvisa",
-          "iFood",
-          "Mercado Livre",
-          "Rappi"
-        ]
-      },
-      "timestamp": "2026-08-10T17:33:25.206Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como ver a senha do Gmail: use esse método se você salvou sua senha do Google",
-      "summary": "Para saber a senha do Gmail é necessário que as credenciais da Conta Google estejam salvas em um gerenciador de senhas do Google ou da Apple Como ver a senha do Gmail: use esse método se você salvou sua senha do Google",
-      "link": "https://tecnoblog.net/responde/como-ver-a-senha-do-gmail-use-esse-metodo-se-voce-salvou-sua-senha-do-google/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Conta Google",
-          "Gmail",
-          "Google"
-        ]
-      },
-      "timestamp": "2026-08-10T18:30:15.634Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple prepara maior reformulação da história do Apple Watch, diz agência",
-      "summary": "Gigante de Cupertino estaria avaliando novos formatos e pode aposentar o modelo SE. Apple prepara maior reformulação da história do Apple Watch, diz agência",
-      "link": "https://tecnoblog.net/noticias/apple-prepara-maior-reformulacao-da-historia-do-apple-watch-diz-agencia/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "Apple",
-          "Apple Watch",
-          "Apple Watch SE",
-          "iPhone 18 Pro",
-          "iPhone dobrável",
-          "John Ternus",
-          "rumor"
-        ]
-      },
-      "timestamp": "2026-08-10T18:30:16.020Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Spotify testa botão que pula trechos comerciais em podcasts",
-      "summary": "Recurso experimental no Spotify possibilita pular anúncios incluídos em podcasts. Medida agrada a ouvintes, mas gera reação contrária de produtores de conteúdo. Spotify testa botão que pula trechos comerciais em podcasts",
-      "link": "https://tecnoblog.net/noticias/spotify-testa-botao-que-pula-trechos-comerciais-em-podcasts/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Spotify"
-        ]
-      },
-      "timestamp": "2026-08-10T18:30:16.335Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Últimas horas: Galaxy A37 atinge menor preço histórico com cupom no Magalu",
-      "summary": "Galaxy A37 de 128 GB com tela AMOLED e câmeras que filmam em 4K tem o preço reduzido ao combinar pagamento via Pix e cupom válido até hoje (10/08) Últimas horas: Galaxy A37 atinge menor preço histórico com cupom no Magalu",
-      "link": "https://tecnoblog.net/achados/ultimas-horas-galaxy-a37-atinge-menor-preco-historico-com-cupom-no-magalu/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy A37",
-          "Galaxy AI",
-          "Magazine Luiza",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-10T19:38:41.400Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "OpenAI freia nova IA por risco de ciberataques autônomos",
-      "summary": "Após incidente com a Hugging Face, dona do ChatGPT suspende testes e reforça protocolos de segurança por temer que novo sistema vire ameaça. OpenAI freia nova IA por risco de ciberataques autônomos",
-      "link": "https://tecnoblog.net/noticias/openai-freia-nova-ia-por-risco-de-ciberataques-autonomos/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "ChatGPT",
-          "Claude",
-          "GPT-5.6",
-          "Hugging Face",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Moonshot AI",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-08-10T19:38:41.692Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Sem alarde, Microsoft desativa modo Senha com Imagem do Windows 11",
       "summary": "Senha com Imagem desbloqueia o computador com um desenho sobre a tela, mas é pouco conhecido e considerado menos seguro do que outros métodos. Sem alarde, Microsoft desativa modo Senha com Imagem do Windows 11",
       "link": "https://tecnoblog.net/noticias/sem-alarde-microsoft-desativa-modo-senha-com-imagem-do-windows-11/",
@@ -8507,6 +8372,93 @@
         ]
       },
       "timestamp": "2026-09-09T17:25:35.018Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "9.9: Galaxy S25 Plus (512 GB) registra a maior queda desde junho",
+      "summary": "Galaxy S25 Plus (512 GB) tem tela AMOLED de 120 Hz e chip Snapdragon 8 Elite; celular da Samsung sofre a maior queda no preço em meses, com desconto de 54% no Pix 9.9: Galaxy S25 Plus (512 GB) registra a maior queda desde junho",
+      "link": "https://tecnoblog.net/achados/9-9-galaxy-s25-plus-512-gb-registra-a-maior-queda-desde-junho/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy S25 Plus",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-09-09T19:53:45.498Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Abin regulamenta app de mensagens que substitui WhatsApp em órgãos públicos",
+      "summary": "MSG Gov permite trocar mensagens e fazer chamadas criptografadas, com acesso restrito a servidores credenciados. Abin regulamenta app de mensagens que substitui WhatsApp em órgãos públicos",
+      "link": "https://tecnoblog.net/noticias/abin-regulamenta-app-de-mensagens-para-substituir-whatsapp-em-orgaos-publicos/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Agência Brasileira de Inteligência",
+          "Sistema Brasileiro de Inteligência",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-09-09T19:53:45.776Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 70 (512 GB) despenca e sai 55% mais barato no Mercado Livre",
+      "summary": "Motorola Edge 70 (512 GB) com câmeras de 50 MP e tela POLED de 4.500 nits atinge o 2.º menor preço desde o lançamento, com desconto de 55% no Pix com cupom Motorola Edge 70 (512 GB) despenca e sai 55% mais barato no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-512-gb-despenca-e-sai-55-mais-barato-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 70",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-09T19:53:46.059Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple anuncia iPhone 18 Pro e 18 Pro Max; veja o que há de novo",
+      "summary": "iPhone 18 Pro e iPhone 18 Pro Max trazem chip A20 Pro mais poderoso e uma nova Dynamic Island. Apple anuncia iPhone 18 Pro e 18 Pro Max; veja o que há de novo",
+      "link": "https://tecnoblog.net/noticias/apple-anuncia-iphone-18-pro-e-18-pro-max-veja-o-que-ha-de-novo/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "iPhone",
+          "iPhone 18 Pro",
+          "iPhone 18 Pro Max",
+          "iPhone Air",
+          "iPhone Duo"
+        ]
+      },
+      "timestamp": "2026-09-09T19:53:46.353Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nintendo Switch OLED tem menor preço de 2026 no 9.9 do Mercado Livre",
+      "summary": "Nintendo Switch OLED de 64 GB com Super Mario Wonder e bateria de até 9 horas fica mais barato com cupom e pagamento via Pix Nintendo Switch OLED tem menor preço de 2026 no 9.9 do Mercado Livre",
+      "link": "https://tecnoblog.net/achados/nintendo-switch-oled-tem-menor-preco-de-2026-no-9-9-do-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Linha Game Boy",
+          "Mercado Livre",
+          "Nintendo Switch OLED",
+          "Nintendo Switch Online",
+          "Pix",
+          "SNES (Super Nintendo)",
+          "Super Mario",
+          "Super Mario Bros. Wonder"
+        ]
+      },
+      "timestamp": "2026-09-09T19:53:46.632Z"
     }
   ]
 }
