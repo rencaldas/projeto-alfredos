@@ -2,65 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Sem alarde, Microsoft desativa modo Senha com Imagem do Windows 11",
-      "summary": "Senha com Imagem desbloqueia o computador com um desenho sobre a tela, mas é pouco conhecido e considerado menos seguro do que outros métodos. Sem alarde, Microsoft desativa modo Senha com Imagem do Windows 11",
-      "link": "https://tecnoblog.net/noticias/sem-alarde-microsoft-desativa-modo-senha-com-imagem-do-windows-11/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Microsoft",
-          "Windows",
-          "Windows 11",
-          "Windows 8"
-        ]
-      },
-      "timestamp": "2026-08-10T20:20:36.255Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S26 Plus atinge menor preço com cupom de 45% de desconto no Magalu",
-      "summary": "Galaxy S26 Plus de 256 GB sai pelo menor preço histórico em oferta no Magazine Luiza. Smartphone traz tela AMOLED de 6,7\" com QHD+, 12 GB de RAM e 7 anos de atualizações Galaxy S26 Plus atinge menor preço com cupom de 45% de desconto no Magalu",
-      "link": "https://achados.tecnoblog.net/galaxy-s26-plus-atinge-menor-preco-com-cupom-de-45-de-desconto-no-magalu/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy AI",
-          "Galaxy S26 Plus",
-          "Magazine Luiza",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-10T21:08:05.968Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google testa página inicial com novos botões para IA",
-      "summary": "Layout em testes traz atalhos para gerar imagens, pedir informações sobre documentos e receber sugestões de ideias. Google testa página inicial com novos botões para IA",
-      "link": "https://tecnoblog.net/noticias/google-testa-pagina-inicial-com-novos-botoes-para-ia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Google",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-10T21:08:06.286Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "X muda regras de monetização e pode finalmente esvaziar perfis caça-clique",
-      "summary": "Rede social substituirá sistema de monetização para valorizar criadores originais na plataforma. Atuais participantes terão que se inscrever novamente. X muda regras de monetização e pode finalmente esvaziar perfis caça-clique",
-      "link": "https://tecnoblog.net/noticias/x-muda-regras-de-monetizacao-e-pode-finalmente-esvaziar-perfis-caca-clique/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais"
-        ]
-      },
-      "timestamp": "2026-08-10T21:08:06.594Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Melhor celular Realme em 2026: qual modelo comprar no Brasil?",
       "summary": "Descubra a diferença entre os celulares Realme e escolha o melhor para o seu dia a dia; marca chinesa comercializa desde modelos básicos até smartphones topo de linha Melhor celular Realme em 2026: qual modelo comprar no Brasil?",
       "link": "https://tecnoblog.net/guias/melhor-celular-realme/",
@@ -8459,6 +8400,103 @@
         ]
       },
       "timestamp": "2026-09-09T19:53:46.632Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone Duo: Apple lança seu primeiro celular dobrável",
+      "summary": "Smartphone tem tela interna de 7,6 polegadas e iOS adaptado para uso com duas mãos. iPhone Duo: Apple lança seu primeiro celular dobrável",
+      "link": "https://tecnoblog.net/noticias/iphone-duo-o-primeiro-celular-dobravel-da-apple-e-anunciado-nos-eua/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "Brasil",
+          "dobrável",
+          "Estados Unidos (EUA)",
+          "Galaxy Z Fold 8",
+          "iPhone",
+          "iPhone 18",
+          "iPhone 18 Pro",
+          "iPhone 18 Pro Max",
+          "iPhone Duo",
+          "Motorola Razr Fold",
+          "Xiaomi 18 Fold"
+        ]
+      },
+      "timestamp": "2026-09-09T22:03:50.082Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple Watch Series 12 e Watch Ultra 4 são oficiais; confira as novidades",
+      "summary": "Apple Watch Series 12 e Apple Watch Ultra 4 se destacam por novo chip (S11) e ganho de funções para a saúde. Apple Watch Series 12 e Watch Ultra 4 são oficiais; confira as novidades",
+      "link": "https://tecnoblog.net/noticias/apple-watch-series-12-e-watch-ultra-4-sao-oficiais-confira-as-novidades/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Apple",
+          "Apple Watch Series 12",
+          "Apple Watch Ultra 4"
+        ]
+      },
+      "timestamp": "2026-09-09T22:03:50.404Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhones antigos ficam mais caros",
+      "summary": "Parte da linha iPhone 18 foi anunciada nesta quarta-feira (9). Com isso, o iPhone 17 passa a custar R$ 8.299, enquanto o iPhone Air sai por R$ 10.999. iPhones antigos ficam mais caros",
+      "link": "https://tecnoblog.net/noticias/apple-deixa-iphones-antigos-ate-r-500-mais-caros-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "iOS 18",
+          "iPhone",
+          "iPhone 17 Pro",
+          "iPhone Air",
+          "iPhone Duo"
+        ]
+      },
+      "timestamp": "2026-09-09T22:03:50.671Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iOS 27 e versão da Siri com IA chegam em 14 de setembro",
+      "summary": "Update traz assistente reformulada em parceria com o Google, app próprio, recursos de visão computacional na câmera e mais. iOS 27 e versão da Siri com IA chegam em 14 de setembro",
+      "link": "https://tecnoblog.net/noticias/novo-ios-27-e-siri-ai-chegam-em-14-de-setembro/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Apple",
+          "Google",
+          "Google Gemini",
+          "iCloud+",
+          "inteligência artificial",
+          "iOS",
+          "iOS 27",
+          "iPadOS 27",
+          "iPhone",
+          "iPhone 17",
+          "Siri",
+          "Siri AI"
+        ]
+      },
+      "timestamp": "2026-09-09T22:03:50.940Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 17e (256 GB) sofre queda de preço com cupom no Magazine Luiza",
+      "summary": "iPhone 17e recebe 32% de desconto no 9.9 do Magazine Luiza. Utilize o cupom MAGALU350 válido apenas pelo aplicativo iPhone 17e (256 GB) sofre queda de preço com cupom no Magazine Luiza",
+      "link": "https://tecnoblog.net/achados/iphone-17e-256-gb-sofre-queda-de-preco-com-cupom-no-magazine-luiza/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple A19",
+          "iPhone",
+          "iPhone 17e",
+          "Magazine Luiza"
+        ]
+      },
+      "timestamp": "2026-09-09T22:03:51.205Z"
     }
   ]
 }
