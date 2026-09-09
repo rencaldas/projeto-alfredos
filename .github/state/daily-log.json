@@ -1,29 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Gamer",
-      "title": "Cat Named Mojave (Epic Games) Giveaway",
-      "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-08-15 23:59:00.",
-      "link": "https://www.gamerpower.com/open/cat-named-mojave-epic-games-giveaway",
-      "meta": {
-        "status": "Active",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6a787392bb2f0.jpg"
-      },
-      "timestamp": "2026-08-10T03:59:13.656Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @testing-library/jest-dom (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 6.9.1 → versão mais recente 7.0.1 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-08-10T10:06:25.603Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Galaxy S25 (256 GB) tem desconto agressivo de 54% com cupom na Amazon",
       "summary": "Galaxy S25 (256 GB) tem câmera de 50 MP, chip Snapdragon 8 Elite e tela AMOLED de 120 Hz; celular da Samsung sai por menos da metade do preço no Pix com cupom Galaxy S25 (256 GB) tem desconto agressivo de 54% com cupom na Amazon",
@@ -8460,6 +8437,95 @@
         ]
       },
       "timestamp": "2026-09-08T22:36:39.152Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Evento do iPhone: como ver o lançamento ao vivo",
+      "summary": "iPhone 18 Pro e dobrável iPhone Ultra serão apresentados nesta quarta-feira (09/09) a partir das 14h. Evento do iPhone: como ver o lançamento ao vivo",
+      "link": "https://tecnoblog.net/noticias/evento-do-iphone-como-ver-o-lancamento-ao-vivo/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "Galaxy Z Fold 8",
+          "iPhone",
+          "iPhone 18 Pro",
+          "iPhone 18 Pro Max",
+          "iPhone Ultra",
+          "John Ternus",
+          "macOS",
+          "Tim Cook",
+          "YouTube"
+        ]
+      },
+      "timestamp": "2026-09-09T13:55:49.768Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta Muse: Zuckerberg apresenta agente de IA que roda 24 horas por dia",
+      "summary": "Agente pessoal pode organizar atividades, ajustar rotina e até realizar pagamentos. Meta garante segurança com computador ‘próprio’ para cada usuário. Meta Muse: Zuckerberg apresenta agente de IA que roda 24 horas por dia",
+      "link": "https://tecnoblog.net/noticias/meta-muse-zuckerberg-apresenta-agente-de-ia-que-roda-24-horas-por-dia/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini Spark",
+          "Instagram",
+          "Inteligência Artificial (IA)",
+          "Mark Zuckerberg",
+          "Meta",
+          "Meta AI",
+          "Meta Muse",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-09-09T13:55:50.057Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Uber libera monitoramento em vídeo para viagens de adolescentes no Brasil",
+      "summary": "Recurso permite assistir à corrida em tempo real pelo celular. Novidade chega gradualmente em todo o país. Uber libera monitoramento em vídeo para viagens de adolescentes no Brasil",
+      "link": "https://tecnoblog.net/noticias/uber-libera-monitoramento-em-video-para-viagens-de-adolescentes-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Brasil",
+          "Uber",
+          "Uber Adolescentes"
+        ]
+      },
+      "timestamp": "2026-09-09T13:55:50.367Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple Store sai do ar antes de evento do iPhone 18",
+      "summary": "Loja online da Apple está indisponível enquanto a empresa prepara o site para os anúncios desta quarta-feira (9). Apple Store sai do ar antes de evento do iPhone 18",
+      "link": "https://tecnoblog.net/noticias/apple-store-sai-do-ar-antes-de-evento-do-iphone-18/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Apple",
+          "Apple Store",
+          "iPhone 18",
+          "John Ternus",
+          "Tim Cook"
+        ]
+      },
+      "timestamp": "2026-09-09T13:55:50.622Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows 11 vai mesmo rodar bem com 8 GB de RAM, reforça Microsoft",
+      "summary": "A Microsoft quer otimizar o Windows 11 para rodar em PCs com apenas 8 GB de RAM. A promessa foi refeita por um executivo na IFA 2026. Windows 11 vai mesmo rodar bem com 8 GB de RAM, reforça Microsoft",
+      "link": "https://tecnoblog.net/noticias/windows-11-vai-mesmo-rodar-bem-com-8-gb-de-ram-reforca-microsoft/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Microsoft",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-09-09T13:55:50.882Z"
     }
   ]
 }
