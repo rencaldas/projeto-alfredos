@@ -2,125 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "EUA contratam 2 mil gamers como controladores de voo",
-      "summary": "Campanha mirou jovens jogadores por habilidades como raciocínio rápido, orientação espacial e multitarefa. EUA contratam 2 mil gamers como controladores de voo",
-      "link": "https://tecnoblog.net/noticias/eua-contratam-2-mil-gamers-como-controladores-de-voo/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Departamento dos Transportes dos Estados Unidos",
-          "Estados Unidos (EUA)"
-        ]
-      },
-      "timestamp": "2026-08-11T19:42:56.563Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 16 (512 GB) atinge menor preço desde o Prime Day na Amazon",
-      "summary": "O iPhone 16 com Apple Intelligence, display OLED e câmeras que filmam em 4K sai por menos da metade do preço com pagamento via Pix na Amazon iPhone 16 (512 GB) atinge menor preço desde o Prime Day na Amazon",
-      "link": "https://achados.tecnoblog.net/iphone-16-512-gb-atinge-menor-preco-desde-o-prime-day-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "Apple A18",
-          "Apple Intelligence",
-          "iPhone 16",
-          "OLED",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-11T19:42:56.813Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft vai permitir login no Edge com Conta Apple para atrair usuários",
-      "summary": "Recentemente, Edge passou a permitir login com Conta Google. Agora, Microsoft testa opção de login com Conta Apple nas versões para desktop do navegador. Microsoft vai permitir login no Edge com Conta Apple para atrair usuários",
-      "link": "https://tecnoblog.net/noticias/microsoft-vai-permitir-login-no-edge-com-conta-apple-para-atrair-usuarios/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "Apple ID",
-          "Microsoft",
-          "Microsoft Account",
-          "Microsoft Edge"
-        ]
-      },
-      "timestamp": "2026-08-11T20:23:13.917Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Ainda dá tempo: Motorola Edge 70 (256 GB) com 50% OFF com cupom",
-      "summary": "Motorola Edge 70 lançado em 2026 traz câmeras de 50 MP, tela POLED de 6,7” e chip Snapdragon 7 Gen 4. Use o cupom MOTOROLA1000 em oferta no Magazine Luiza Ainda dá tempo: Motorola Edge 70 (256 GB) com 50% OFF com cupom",
-      "link": "https://achados.tecnoblog.net/ainda-da-tempo-motorola-edge-70-256-gb-com-50-off-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Magazine Luiza",
-          "Motorola",
-          "Motorola Edge 70",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-11T21:10:41.263Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como entrar no Instagram sem senha: passo a passo para fazer o login na rede social",
-      "summary": "Entrar no Instagram pelo e-mail é uma alternativa prática para acessar o perfil da rede social por meio de um link temporário, sem necessitar digitar a senha ou alterar as credenciais Como entrar no Instagram sem senha: passo a passo para fazer o login na rede social",
-      "link": "https://tecnoblog.net/responde/como-entrar-no-instagram-sem-senha-passo-a-passo-para-fazer-o-login-na-rede-social/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Instagram"
-        ]
-      },
-      "timestamp": "2026-08-11T21:10:41.549Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Para corredores: Garmin Forerunner 55 surge com 47% OFF no Mercado Livre",
-      "summary": "Garmin Forerunner 55 (42 mm) com GPS, GLONASS e Galileo para monitorar rotas e velocidade em corridas sai quase pela metade do preço em oferta Para corredores: Garmin Forerunner 55 surge com 47% OFF no Mercado Livre",
-      "link": "https://achados.tecnoblog.net/para-corredores-garmin-forerunner-55-surge-com-47-off-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "Galileo",
-          "Garmin",
-          "Garmin Forerunner",
-          "Garmin Forerunner 55",
-          "GLONASS",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-11T21:10:41.889Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "IA descobre falha no Zoom que permitia invadir PCs e celulares",
-      "summary": "Brecha no recurso de anotação de tela foi explorada usando menos de 20 comandos de texto; plataforma de videoconferência já liberou atualização. IA descobre falha no Zoom que permitia invadir PCs e celulares",
-      "link": "https://tecnoblog.net/noticias/falha-no-zoom-descoberta-por-ia-permitia-invadir-pcs-e-celulares/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Android",
-          "Aplicativo",
-          "cibersegurança",
-          "inteligência artificial",
-          "iOS",
-          "macOS",
-          "Segurança",
-          "Vulnerabilidade",
-          "Windows",
-          "Zoom"
-        ]
-      },
-      "timestamp": "2026-08-11T21:10:42.189Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Deepfake falha e expõe rosto de golpista",
       "summary": "Suspeito se passava pelas vítimas usando IA e tentava obter certificados digitais. Caso aconteceu na Espanha. Deepfake falha e expõe rosto de golpista",
       "link": "https://tecnoblog.net/noticias/deepfake-falha-e-expoe-rosto-de-golpista/",
@@ -8590,6 +8471,86 @@
         ]
       },
       "timestamp": "2026-09-10T19:39:15.778Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nubank cria conta global e entra no mercado dos EUA",
+      "summary": "Conglomerado financeiro expande atuação internacional ao iniciar operações nos EUA com a Nu Account. Conta digital Nu Global é outra novidade. Nubank cria conta global e entra no mercado dos EUA",
+      "link": "https://tecnoblog.net/noticias/nubank-cria-conta-global-e-entra-no-mercado-dos-eua/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Estados Unidos (EUA)",
+          "Nubank"
+        ]
+      },
+      "timestamp": "2026-09-10T21:52:41.473Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Exclusivo: Galaxy S25 Plus cai de preço com cupom do Tecnoblog",
+      "summary": "Galaxy S25 Plus de 256 GB com câmera de 50 MP e chip Snapdragon Elite sai pela metade do preço no Magalu Exclusivo: Galaxy S25 Plus cai de preço com cupom do Tecnoblog",
+      "link": "https://tecnoblog.net/achados/exclusivo-galaxy-s25-plus-cai-de-preco-com-cupom-do-tecnoblog/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy AI",
+          "Galaxy S25 Plus",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-10T21:52:41.743Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gemini agora tem app oficial para Windows",
+      "summary": "Gemini para Windows 11 e 10 chega meses depois do lançamento da versão para Mac. Novidade é similar à versão web. Gemini agora tem app oficial para Windows",
+      "link": "https://tecnoblog.net/noticias/gemini-agora-tem-app-oficial-para-windows/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini",
+          "Google",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-09-10T21:52:41.999Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S11 Ultra despenca 31% com cupom exclusivo Tecnoblog",
+      "summary": "Galaxy Tab S11 Ultra com 512 GB, tela AMOLED e Galaxy AI surge em uma das melhores ofertas já vistas pelo TB Galaxy Tab S11 Ultra despenca 31% com cupom exclusivo Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-ultra-despenca-31-com-cupom-exclusivo-tecnoblog/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "AMOLED",
+          "Galaxy AI",
+          "Galaxy Tab S11 Ultra",
+          "Samsung",
+          "Stylus"
+        ]
+      },
+      "timestamp": "2026-09-10T21:52:42.275Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 18 Pro ganha sistema para verificar se fotos são reais",
+      "summary": "Apple Reference Image cria uma versão de referência da foto original para comprovar sua autenticidade. iPhone 18 Pro ganha sistema para verificar se fotos são reais",
+      "link": "https://tecnoblog.net/noticias/iphone-18-pro-ganha-sistema-para-verificar-se-fotos-sao-reais/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Apple",
+          "Inteligência Artificial (IA)",
+          "iPhone",
+          "iPhone Duo"
+        ]
+      },
+      "timestamp": "2026-09-10T21:52:42.544Z"
     }
   ]
 }
