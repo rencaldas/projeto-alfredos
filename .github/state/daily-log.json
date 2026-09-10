@@ -8497,6 +8497,62 @@
         ]
       },
       "timestamp": "2026-09-09T22:03:51.205Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "AirPods 5 trazem cancelamento de ruído melhorado e IA",
+      "summary": "Novos fones de ouvido da Apple aprimoram a reprodução de som com tecnologias de ANC. Preços partem de R$ 1.499. AirPods 5 trazem cancelamento de ruído melhorado e IA",
+      "link": "https://tecnoblog.net/noticias/apple-anuncia-airpods-5-com-cancelamento-de-ruido-melhorado-e-ia/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "AirPods",
+          "Apple",
+          "Apple Intelligence",
+          "Brasil",
+          "Controle ativo de ruído",
+          "Inteligência Artificial (IA)",
+          "iPhone",
+          "iPhone Duo",
+          "Preço"
+        ]
+      },
+      "timestamp": "2026-09-10T00:10:58.645Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 60 Fusion (256 GB) baixa de preço no 9.9 com cupom",
+      "summary": "Edge 60 Fusion 5G (256 GB) tira selfies com 32 MP e tem tela POLED de 120 Hz; celular da Motorola cai de preço com cupom que já está acabando Motorola Edge 60 Fusion (256 GB) baixa de preço no 9.9 com cupom",
+      "link": "https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-baixa-de-preco-no-9-9-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Motorola",
+          "Motorola Edge 60 Fusion"
+        ]
+      },
+      "timestamp": "2026-09-10T00:10:58.885Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Arm revela nova CPU e GPU para rodar IA e jogos no celular",
+      "summary": "CSS for Mobile 2 combina novos componentes de hardware com acelerados de inteligência artificial para melhorar gráficos e desempenho. Arm revela nova CPU e GPU para rodar IA e jogos no celular",
+      "link": "https://tecnoblog.net/noticias/arm-revela-nova-cpu-e-gpu-para-rodar-ia-e-jogos-no-celular/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "ARM",
+          "Chips",
+          "GPU",
+          "Hardware",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Mobile",
+          "Processadores",
+          "smartphones"
+        ]
+      },
+      "timestamp": "2026-09-10T00:10:59.131Z"
     }
   ]
 }
