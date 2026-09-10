@@ -2,42 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Melhor celular Realme em 2026: qual modelo comprar no Brasil?",
-      "summary": "Descubra a diferença entre os celulares Realme e escolha o melhor para o seu dia a dia; marca chinesa comercializa desde modelos básicos até smartphones topo de linha Melhor celular Realme em 2026: qual modelo comprar no Brasil?",
-      "link": "https://tecnoblog.net/guias/melhor-celular-realme/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Brasil",
-          "Realme"
-        ]
-      },
-      "timestamp": "2026-08-11T02:58:00.787Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 18 Pro: custo de fabricação pode ser 38% maior",
-      "summary": "Próximo celular premium da Maçã teria maior custo principalmente pela crise de memória RAM. iPhone 17 Pro também pode ter preço afetado. iPhone 18 Pro: custo de fabricação pode ser 38% maior",
-      "link": "https://tecnoblog.net/noticias/iphone-18-pro-custo-de-fabricacao-pode-ser-38-maior/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Android",
-          "Apple",
-          "DRAM",
-          "inteligência artificial",
-          "iPhone 17 Pro",
-          "iPhone 18",
-          "iPhone 18 Pro",
-          "Maçã",
-          "PlayStation 6",
-          "RAM"
-        ]
-      },
-      "timestamp": "2026-08-11T11:26:55.700Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy Z Flip 7 FE despenca 60% em promoção histórica",
       "summary": "Galaxy Z Flip 7 FE (128 GB) com câmera wide de 50 MP e tela AMOLED flexível atinge o menor preço inédito com desconto de 60% graças a cupom Galaxy Z Flip 7 FE despenca 60% em promoção histórica",
       "link": "https://achados.tecnoblog.net/galaxy-z-flip-7-fe-despenca-60-em-promocao-historica/",
@@ -8553,6 +8517,63 @@
         ]
       },
       "timestamp": "2026-09-10T00:10:59.131Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Desenvolvedor da Anthropic pede demissão e alerta para perigos da IA",
+      "summary": "Jacob Coxon publica carta aberta onde fala sobre irresponsabilidade das big techs sobre o tema. Outros devs republicam mensagem e reforçam críticas à tecnologia. Desenvolvedor da Anthropic pede demissão e alerta para perigos da IA",
+      "link": "https://tecnoblog.net/noticias/desenvolvedor-da-anthropic-pede-demissao-e-alerta-para-perigos-da-ia/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "ChatGPT",
+          "Claude",
+          "Claude Mythos 5",
+          "Google DeepMind",
+          "GPT-5.6",
+          "Inteligência Artificial (IA)",
+          "Jacob Coxon",
+          "OpenAI",
+          "Twitter",
+          "WAICO",
+          "X"
+        ]
+      },
+      "timestamp": "2026-09-10T13:33:37.377Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Dois iPhones, um número só: Apple anuncia o iPhone Handoff",
+      "summary": "Ferramenta que facilita mobilidade de dados de um mesmo número de telefone, como ligações e mensagens, será lançada com o iOS 27. Dois iPhones, um número só: Apple anuncia o iPhone Handoff",
+      "link": "https://tecnoblog.net/noticias/dois-iphones-um-numero-so-apple-anuncia-o-iphone-hand-off/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "eSIM",
+          "iOS 27",
+          "iPhone",
+          "iPhone Handoff"
+        ]
+      },
+      "timestamp": "2026-09-10T13:33:37.632Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 (256 GB) tem queda agressiva de 54% com cupom no Mercado Livre",
+      "summary": "Galaxy S25 (256 GB) tem câmera de 50 MP e chip Snapdragon 8 Elite; celular da Samsung sai por menos da metade do preço original no Pix com cupom Galaxy S25 (256 GB) tem queda agressiva de 54% com cupom no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-queda-agressiva-de-54-com-cupom-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy S25",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-10T13:33:37.896Z"
     }
   ]
 }
