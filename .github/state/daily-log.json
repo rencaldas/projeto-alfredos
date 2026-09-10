@@ -2,35 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Exclusivo Prime: Galaxy Tab S10 Lite com tela de 10,9” parcelável em até 12x",
-      "summary": "Galaxy Tab S10 Lite (128 GB) tem tela de 90 Hz e traz caneta S Pen na caixa; tablet da Samsung sai 21% mais barato em até 12x sem juros para assinantes Amazon Prime Exclusivo Prime: Galaxy Tab S10 Lite com tela de 10,9” parcelável em até 12x",
-      "link": "https://achados.tecnoblog.net/exclusivo-prime-galaxy-tab-s10-lite-com-tela-de-109-parcelavel-em-ate-12x/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Galaxy Tab S10 Lite",
-          "Samsung",
-          "Stylus"
-        ]
-      },
-      "timestamp": "2026-08-11T17:36:55.659Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft teria aumentado preço do Windows 11 “OEM”, deixando PCs mais caros",
-      "summary": "Licenças OEM do Windows 11 são aquelas negociadas com os fabricantes. Reajuste vem em um momento em que PCs já estão mais caros por causa da crise das memórias. Microsoft teria aumentado preço do Windows 11 “OEM”, deixando PCs mais caros",
-      "link": "https://tecnoblog.net/noticias/microsoft-teria-aumentado-preco-do-windows-11-oem-deixando-pcs-mais-caros/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "OEM",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-08-11T17:36:55.970Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "EUA contratam 2 mil gamers como controladores de voo",
       "summary": "Campanha mirou jovens jogadores por habilidades como raciocínio rápido, orientação espacial e multitarefa. EUA contratam 2 mil gamers como controladores de voo",
       "link": "https://tecnoblog.net/noticias/eua-contratam-2-mil-gamers-como-controladores-de-voo/",
@@ -8529,6 +8500,96 @@
         ]
       },
       "timestamp": "2026-09-10T17:10:45.150Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Watch 8 Classic sofre queda de 59% no Mercado Livre",
+      "summary": "Galaxy Watch 8 Classic tem design tradicional, tela AMOLED e sensores avançados; smartwatch da Samsung recebe desconto de 59% sobre o preço original no Pix com cupom Galaxy Watch 8 Classic sofre queda de 59% no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-classic-sofre-queda-de-59-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "AMOLED",
+          "Galaxy Watch 8 Classic",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-10T19:39:14.771Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows 11 deve ganhar modo escuro automático (sem depender do PowerToys)",
+      "summary": "O Windows 11 já tem um modo escuro, mas que precisa ser ativado pelo usuário. Há indícios de que essa limitação será finalmente resolvida pela Microsoft. Windows 11 deve ganhar modo escuro automático (sem depender do PowerToys)",
+      "link": "https://tecnoblog.net/noticias/windows-11-deve-ganhar-modo-escuro-automatico-sem-depender-do-powertoys/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Microsoft",
+          "Microsoft PowerToys",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-09-10T19:39:15.013Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "As TVs espionam os usuários? LG diz que não",
+      "summary": "Fabricante diz que áudio é processado localmente e apagado quando a palavra de ativação não é detectada. As TVs espionam os usuários? LG diz que não",
+      "link": "https://tecnoblog.net/noticias/as-tvs-espionam-os-usuarios-lg-diz-que-nao/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "LG",
+          "TV (televisor)"
+        ]
+      },
+      "timestamp": "2026-09-10T19:39:15.300Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Huawei Watch GT 6 para esportistas surge com desconto imbatível de 50%",
+      "summary": "Huawei Watch GT 6 (46 mm) com tela AMOLED de 3.000 nits e suporte a diversos esportes atinge o menor preço histórico em oferta no Mercado Livre Huawei Watch GT 6 para esportistas surge com desconto imbatível de 50%",
+      "link": "https://tecnoblog.net/achados/huawei-watch-gt-6-para-esportistas-surge-com-desconto-imbativel-de-50/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "AMOLED",
+          "Huawei",
+          "Huawei Watch GT 6",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-10T19:39:15.545Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "PlayStation lança controle especial de GTA 6 por R$ 599,90 no Brasil",
+      "summary": "Edição limitada do DualSense é inspirada em Vice City. Produto está em pré-venda e chega às lojas em 19 de novembro. PlayStation lança controle especial de GTA 6 por R$ 599,90 no Brasil",
+      "link": "https://tecnoblog.net/noticias/playstation-lanca-controle-especial-de-gta-6-por-r-59990-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "acessórios",
+          "Brasil",
+          "Controle",
+          "DualSense",
+          "Games",
+          "Grand Theft Auto VI",
+          "GTA",
+          "GTA 6",
+          "Playstation",
+          "PlayStation 5",
+          "PlayStation 5 (PS5)",
+          "pré-venda",
+          "PS5",
+          "Rockstar Games"
+        ]
+      },
+      "timestamp": "2026-09-10T19:39:15.778Z"
     }
   ]
 }
