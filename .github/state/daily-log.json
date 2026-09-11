@@ -1,136 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "IA descobre falha em sistema e fura fila para o usuário",
-      "summary": "Agente do Claude/OpenClaw encontrou brecha em app de agendamento e cancelou reserva de outro cliente. IA descobre falha em sistema e fura fila para o usuário",
-      "link": "https://tecnoblog.net/noticias/ia-descobre-falha-em-sistema-e-fura-fila-para-o-usuario/",
-      "meta": {
-        "categorias": [
-          "Sem categoria",
-          "Inteligência Artificial (IA)",
-          "OpenClaw",
-          "Opus 4.6"
-        ]
-      },
-      "timestamp": "2026-08-12T19:16:32.329Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S11 5G chega ao 2ª menor preço que já vimos",
-      "summary": "Galaxy Tab S11 5G com tela de 11\" com S Pen e RAM de 12 GB oferece alto desempenho e está com uma das melhores ofertas já vistas com cupom na Amazon Galaxy Tab S11 5G chega ao 2ª menor preço que já vimos",
-      "link": "https://achados.tecnoblog.net/galaxy-tab-s11-5g-chega-ao-2a-menor-preco-que-ja-vimos/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Amazon",
-          "Galaxy Tab S11",
-          "Pix",
-          "S Pen",
-          "Samsung Galaxy Tab S11"
-        ]
-      },
-      "timestamp": "2026-08-12T20:07:21.314Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Signature (512 GB) volta a ficar mais barato com cupom",
-      "summary": "Motorola Signature de 512 GB sai com 40% de desconto no Mercado Livre. O topo de linha traz Snapdragon 8 Gen 5, câmeras traseiras de 50 MP e tela AMOLED de 165 Hz Motorola Signature (512 GB) volta a ficar mais barato com cupom",
-      "link": "https://achados.tecnoblog.net/motorola-signature-512-gb-volta-a-ficar-mais-barato-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Signature",
-          "Pix",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-08-12T20:07:21.556Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Quase 80% dos alunos no Brasil usam inteligência artificial para estudar",
-      "summary": "Apesar da forte presença da IA na rotina, muitos estudantes mostram “pé atrás” quanto à qualidade das informações e outras questões. Quase 80% dos alunos no Brasil usam inteligência artificial para estudar",
-      "link": "https://tecnoblog.net/noticias/quase-80-dos-alunos-no-brasil-usam-inteligencia-artificial-para-estudar/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Google",
-          "Inteligência Artificial (IA)",
-          "Opera"
-        ]
-      },
-      "timestamp": "2026-08-12T20:59:23.825Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S10 FE Plus com 44% OFF traz tela grande com caneta",
-      "summary": "Galaxy Tab S10 FE Plus Wi-Fi (128 GB) recebe promoção exclusiva para assinantes Amazon Prime; tablet da Samsung se destaca pela tela de 13,1\" e ótimo desempenho Galaxy Tab S10 FE Plus com 44% OFF traz tela grande com caneta",
-      "link": "https://achados.tecnoblog.net/galaxy-tab-s10-fe-plus-com-44-off-traz-tela-grande-com-caneta/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Amazon",
-          "Galaxy Tab S10 FE Plus",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-12T20:59:24.063Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Encha Seu Kindle 2026: Amazon oferece livros digitais grátis e descontos",
-      "summary": "Iniciativa chega à quarta edição com obras independentes, clássicos e descontos. Não é necessário ter um Kindle para participar. Encha Seu Kindle 2026: Amazon oferece livros digitais grátis e descontos",
-      "link": "https://tecnoblog.net/noticias/encha-seu-kindle-2026-amazon-oferece-livros-digitais-gratis-e-descontos/",
-      "meta": {
-        "categorias": [
-          "Gadgets",
-          "Amazon",
-          "Companhia das Letras",
-          "Encha Seu Kindle",
-          "Intrínseca",
-          "Kindle",
-          "Kindle Direct Publishing"
-        ]
-      },
-      "timestamp": "2026-08-12T20:59:24.297Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como cancelar HBO Max: descubra por onde você deve fazer o cancelamento da assinatura",
-      "summary": "Os meios para cancelar a HBO Max dependem do tipo de contratação, como o site oficial, Play Store, App Store, Mercado Livre, Canais do Prime e outras plataformas Como cancelar HBO Max: descubra por onde você deve fazer o cancelamento da assinatura",
-      "link": "https://tecnoblog.net/responde/como-cancelar-hbo-max-descubra-por-onde-voce-deve-fazer-o-cancelamento-da-assinatura/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Apple TV",
-          "assinatura",
-          "Brasil",
-          "HBO Go",
-          "HBO Max",
-          "Serviço de assinatura"
-        ]
-      },
-      "timestamp": "2026-08-12T20:59:24.542Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Centro-Oeste ganhará nova operadora de celular",
-      "summary": "Cearense Brisanet expandirá cobertura para cidades pequenas de Goiás e Mato Grosso do Sul ainda este ano. Centro-Oeste ganhará nova operadora de celular",
-      "link": "https://tecnoblog.net/noticias/centro-oeste-ganhara-nova-operadora-de-celular/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Brisanet",
-          "Goiás",
-          "Mato Grosso do Sul"
-        ]
-      },
-      "timestamp": "2026-08-12T20:59:24.796Z"
-    },
-    {
       "agent": "Alfredo Gamer",
       "title": "Targeted – 10 Days (Epic Games) Giveaway",
       "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-08-31 23:59:00.",
@@ -8757,6 +8627,94 @@
         ]
       },
       "timestamp": "2026-09-11T18:28:54.019Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Estados do Centro-Oeste ganham nova operadora de celular: Brisanet",
+      "summary": "Cobertura é limitada, mas planos têm franquias gordas. Preços começam em R$ 29,99. Estados do Centro-Oeste ganham nova operadora de celular: Brisanet",
+      "link": "https://tecnoblog.net/noticias/estados-do-centro-oeste-ganham-nova-operadora-de-celular-brisanet/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Brasil",
+          "Brisanet",
+          "Ceará",
+          "Hidrolândia",
+          "Região Centro-Oeste do Brasil"
+        ]
+      },
+      "timestamp": "2026-09-11T21:08:39.124Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Zuckerberg “rouba” perfil do Muse nas redes sociais",
+      "summary": "Lançamento do novo agente pessoal de IA da empresa tira username do grupo britânico. Zuckerberg “rouba” perfil do Muse nas redes sociais",
+      "link": "https://tecnoblog.net/noticias/zuckerberg-rouba-arroba-da-banda-muse-nas-redes-sociais/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Facebook",
+          "Instagram",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Meta",
+          "Meta Muse",
+          "Muse",
+          "TikTok",
+          "Twitter",
+          "X"
+        ]
+      },
+      "timestamp": "2026-09-11T21:08:39.602Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows 11 está finalmente deixando o Bluetooth melhor",
+      "summary": "Microsoft liberou novas versões de teste do Windows 11 que trazem vários aprimoramentos para conexões Bluetooth. Windows 11 está finalmente deixando o Bluetooth melhor",
+      "link": "https://tecnoblog.net/noticias/windows-11-esta-finalmente-deixando-o-bluetooth-melhor/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Bluetooth",
+          "Bluetooth Low Energy",
+          "Windows",
+          "Windows 11",
+          "Windows Insider"
+        ]
+      },
+      "timestamp": "2026-09-11T21:08:39.971Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Z Flip 7 FE segue abaixo do preço para quem busca celular dobrável",
+      "summary": "Galaxy Z Flip 7 FE de 128 GB com câmera de 50 MP e telas AMOLED tem desconto agressivo de 59% com cupom e pagamento via Pix Galaxy Z Flip 7 FE segue abaixo do preço para quem busca celular dobrável",
+      "link": "https://tecnoblog.net/achados/galaxy-z-flip-7-fe-segue-abaixo-do-preco-em-oferta-no-magazine-luiza/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Exynos",
+          "Galaxy AI",
+          "Galaxy Z Flip 7 FE",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-11T21:08:40.247Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Ministério Público acusa Trocafone de envolvimento em megafraude; empresa nega",
+      "summary": "Operação Frankmobile investiga o destino de celulares roubados em São Paulo. Procurada pelo Tecnoblog, a Trocafone negou envolvimento no esquema. Ministério Público acusa Trocafone de envolvimento em megafraude; empresa nega",
+      "link": "https://tecnoblog.net/noticias/ministerio-publico-acusa-trocafone-de-envolvimento-em-megafraude-empresa-nega/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Brasil",
+          "São Paulo"
+        ]
+      },
+      "timestamp": "2026-09-11T21:08:40.529Z"
     }
   ]
 }
