@@ -2,30 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Governo Federal inicia migração de dados do SUS para nuvem nacional",
-      "summary": "Projeto tem custo inicial de R$ 18 milhões. Serpro vai receber e realizar o processamento dos dados. Governo Federal inicia migração de dados do SUS para nuvem nacional",
-      "link": "https://tecnoblog.net/noticias/governo-federal-inicia-migracao-de-dados-do-sus-para-nuvem-nacional/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Alexandre Padilha",
-          "Amazon Web Services (AWS)",
-          "Anthropic",
-          "CadSUS",
-          "LGPD",
-          "Ministério da Saúde",
-          "Nuvem Soberana do SUS",
-          "OpenAI",
-          "RNDS",
-          "Serpro",
-          "Sistema Único de Saúde",
-          "SUS Digital"
-        ]
-      },
-      "timestamp": "2026-08-12T11:08:41.161Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Vivo Easy Lite muda de nome e ganha nova forma de pagamento",
       "summary": "Preços começam em R$ 35 por mês, com 20 GB de internet móvel. Vivo Easy Lite muda de nome e ganha nova forma de pagamento",
       "link": "https://tecnoblog.net/noticias/vivo-easy-lite-muda-de-nome-e-ganha-nova-forma-de-pagamento/",
@@ -8643,6 +8619,26 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6aa2c8331c791.jpg"
       },
       "timestamp": "2026-09-11T06:42:59.785Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anthropic diz que bloqueou possível criação de arma biológica com Claude",
+      "summary": "Informação consta no último relatório de riscos da empresa. Medida é anunciada após críticas de ex-funcionário, que aponta irresponsabilidade no desenvolvimento de IA. Anthropic diz que bloqueou possível criação de arma biológica com Claude",
+      "link": "https://tecnoblog.net/noticias/anthropic-diz-que-bloqueou-possivel-criacao-de-arma-biologica-com-claude/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "Chikungunya",
+          "Claude",
+          "Claude Fable 5",
+          "Claude Mythos 5",
+          "Inteligência Artificial (IA)",
+          "OpenAI",
+          "Project Glasswing"
+        ]
+      },
+      "timestamp": "2026-09-11T11:34:49.274Z"
     }
   ]
 }
