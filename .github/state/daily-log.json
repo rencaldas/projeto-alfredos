@@ -1,147 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft está em uma cruzada contra o uso de SMS para login",
-      "summary": "Em e-mail recente, Microsoft orienta administradores de TI a substituírem o SMS por passkeys para logins corporativos. Microsoft está em uma cruzada contra o uso de SMS para login",
-      "link": "https://tecnoblog.net/noticias/microsoft-esta-em-uma-cruzada-contra-o-uso-de-sms-para-login/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Microsoft"
-        ]
-      },
-      "timestamp": "2026-08-14T20:20:11.325Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Celular que grava em 4K: os 10 melhores modelos para comprar em 2026",
-      "summary": "Encontre o melhor celular que filma em 4K para capturar vídeos com alto nível de detalhes; lista inclui desde smartphones com câmeras avançadas até modelos mais básicos Celular que grava em 4K: os 10 melhores modelos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-celular-camera-4k/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "resolução de imagem",
-          "Sony"
-        ]
-      },
-      "timestamp": "2026-08-14T20:51:49.279Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Bumble muda regras e permite que homens enviem primeira mensagem",
-      "summary": "Aplicativo encerra regra de exclusividade da primeira mensagem para as mulheres e amplia prazo de resposta para 72 horas. Bumble muda regras e permite que homens enviem primeira mensagem",
-      "link": "https://tecnoblog.net/noticias/bumble-muda-regras-e-permite-que-homens-enviem-primeira-mensagem/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Bumble"
-        ]
-      },
-      "timestamp": "2026-08-14T20:51:49.527Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Jovens dos EUA não confiam nos líderes da IA, mostra pesquisa",
-      "summary": "Levantamento mostra pessimismo sobre o impacto da IA na carreira e rejeição elevada a líderes de big techs ligadas à IA. Jovens dos EUA não confiam nos líderes da IA, mostra pesquisa",
-      "link": "https://tecnoblog.net/noticias/jovens-dos-eua-nao-confiam-nos-lideres-da-ia-mostra-pesquisa/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Estados Unidos (EUA)",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-14T20:51:49.783Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google decide que marca d’água para IA é opcional; entenda",
-      "summary": "Gemini e Flow ganham opção de remover marca d'água visível. Google decide que marca d’água para IA é opcional; entenda",
-      "link": "https://tecnoblog.net/noticias/google-decide-que-marca-dagua-para-ia-e-opcional-entenda/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "Claude",
-          "Google",
-          "Google Gemini",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "marca d'água"
-        ]
-      },
-      "timestamp": "2026-08-14T20:51:50.033Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
-      "summary": "Computer History tenta evitar problemas que levaram Microsoft a adiar diversas vezes o Windows Recall. Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
-      "link": "https://tecnoblog.net/noticias/nova-ferramenta-do-chatgpt-lembra-recurso-do-windows-11-que-caiu-em-desgraca/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "ChatGPT",
-          "Microsoft",
-          "Microsoft Recall",
-          "OpenAI",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-08-14T21:14:21.669Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nubank caiu? Aplicativo e cartão ficam fora do ar nesta sexta (14)",
-      "summary": "Falha generalizada no fim da tarde causa transtornos para clientes. Nubank caiu? Aplicativo e cartão ficam fora do ar nesta sexta (14)",
-      "link": "https://tecnoblog.net/noticias/nubank-caiu-aplicativo-fica-fora-do-ar-nesta-sexta-14/",
-      "meta": {
-        "categorias": [
-          "Serviços Financeiros",
-          "fora do ar",
-          "Nubank"
-        ]
-      },
-      "timestamp": "2026-08-14T21:40:33.433Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Huawei Band 11 está em promoção com mais de 50% de desconto na Amazon",
-      "summary": "Huawei Band 11 traz tela AMOLED de 1,62\", monitoramento contínuo da frequência cardíaca e SpO2 e bateria para 14 dias. Nova smartband de apenas 17 gramas sai com 53% OFF no Pix Huawei Band 11 está em promoção com mais de 50% de desconto na Amazon",
-      "link": "https://tecnoblog.net/achados/huawei-band-11-esta-em-promocao-com-mais-de-50-de-desconto-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "Amazon",
-          "AMOLED",
-          "Huawei",
-          "Huawei Band 11",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-14T21:40:33.691Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Buds 4 Pro com áudio de alta fidelidade tem 21% OFF em oferta",
-      "summary": "Galaxy Buds 4 Pro entrega áudio Hi-Fi e Hi-Res, ANC com 5 níveis de ajuste e proteção contra água e poeira; fones Samsung ficam mais baratos nesta sexta-feira Galaxy Buds 4 Pro com áudio de alta fidelidade tem 21% OFF em oferta",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-pro-com-audio-de-alta-fidelidade-tem-21-off-em-oferta/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "Controle ativo de ruído",
-          "Galaxy",
-          "Galaxy Buds",
-          "Galaxy Buds 4 Pro",
-          "High fidelity",
-          "High-resolution audio",
-          "Mercado Livre",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-14T22:40:12.777Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: @asamuzakjp/css-color (rencaldas/seslock-holmes)",
       "summary": "Versão instalada 3.2.0 → versão mais recente 7.0.0 (npm).",
@@ -8296,6 +8155,23 @@
         ]
       },
       "timestamp": "2026-09-13T19:38:24.405Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Associação do telemarketing pede que Anatel revise regras antispam",
+      "summary": "Setor pede ampliação do debate sobre ferramentas contra ligações inconvenientes e pede aperfeiçoamento dos critérios. Associação do telemarketing pede que Anatel revise regras antispam",
+      "link": "https://tecnoblog.net/noticias/associacao-do-telemarketing-pede-que-anatel-revise-regras-antispam/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Anatel",
+          "Associação Brasileira de Telemarketing",
+          "STIR/SHAKEN",
+          "TIM",
+          "Vivo"
+        ]
+      },
+      "timestamp": "2026-09-14T13:19:22.003Z"
     }
   ]
 }
