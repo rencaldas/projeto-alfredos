@@ -1,42 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @asamuzakjp/css-color (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 3.2.0 → versão mais recente 7.0.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-08-16T09:14:39.415Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/color-helpers (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 5.1.0 → versão mais recente 6.1.1 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-08-16T09:14:39.415Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 3.1.0 → versão mais recente 4.2.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-08-16T09:14:39.415Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Como se preparar para não ser substituído pela IA e aumentar seu salário em até 62%",
       "summary": "A revolução da inteligência artificial já transformou diversas áreas. Estar preparado é a chave para aproveitar as oportunidades. Como se preparar para não ser substituído pela IA e aumentar seu salário em até 62%",
@@ -8473,6 +8437,92 @@
         ]
       },
       "timestamp": "2026-09-15T05:19:09.572Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S11 com alta performance atinge menor preço em meses",
+      "summary": "Galaxy Tab S11 Wi-Fi (256 GB) com 12 GB de RAM e tela AMOLED de 120 Hz atinge o menor preço desde julho de 2026, com desconto de 26% no Pix com cupom no Magazine Luiza Galaxy Tab S11 com alta performance atinge menor preço em meses",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-com-alta-performance-atinge-menor-preco-em-meses/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "AMOLED",
+          "Galaxy Tab S11",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung Galaxy Tab S11"
+        ]
+      },
+      "timestamp": "2026-09-15T14:59:56.985Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows 11 ganha “patch do patch” após atualização problemática",
+      "summary": "Atualização abrange as versões 26H1, 25H2 e 24H2 do Windows 11 e trata de problemas que surgiram com o Patch Tuesday de setembro de 2026. Windows 11 ganha “patch do patch” após atualização problemática",
+      "link": "https://tecnoblog.net/noticias/windows-11-ganha-patch-do-patch-apos-atualizacao-problematica/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Microsoft",
+          "Patch Tuesday",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-09-15T14:59:57.274Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Imperdível: iPhone 17 (512 GB) tem oferta histórica na Amazon",
+      "summary": "iPhone 17 com Apple Intelligence, display OLED de 120 Hz e câmeras de 48 MP fica mais barato com pagamento via Pix Imperdível: iPhone 17 (512 GB) tem oferta histórica na Amazon",
+      "link": "https://tecnoblog.net/achados/imperdivel-iphone-17-512-gb-tem-oferta-historica-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Apple",
+          "Apple Intelligence",
+          "iPhone",
+          "iPhone 17",
+          "OLED",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-15T14:59:57.559Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 17 Pro entra em oferta após iPhone 18 Pro ser homologado",
+      "summary": "Durante a pré-venda do iPhone 18 Pro, o iPhone 17 Pro (256 GB) com tela OLED de 120 Hz e câmeras de 48 MP sai 30% mais barato no Pix no Magazine Luiza iPhone 17 Pro entra em oferta após iPhone 18 Pro ser homologado",
+      "link": "https://tecnoblog.net/achados/iphone-17-pro-entra-em-oferta-apos-iphone-18-pro-ser-homologado/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple A19 Pro",
+          "iPhone 17 Pro",
+          "iPhone 18 Pro",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-15T14:59:57.844Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 Ultra cai 57% com cupom para quem quer filmar em 4K",
+      "summary": "Galaxy S25 Ultra (256 GB) com câmera de 200 MP e chip Snapdragon de ponta sai por menos da metade do preço original, no Pix com cupom no Magazine Luiza Galaxy S25 Ultra cai 57% com cupom para quem quer filmar em 4K",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-cai-57-com-cupom-para-quem-quer-filmar-em-4k/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy AI",
+          "Galaxy S25 Ultra",
+          "Magazine Luiza",
+          "Pix",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-09-15T14:59:58.175Z"
     }
   ]
 }
