@@ -2,160 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Xiaomi prepara Redmi Note 17 5G para o Brasil, com bateria grande",
-      "summary": "Smartphone terá 7.700 mAh de bateria e o lançamento será no fim do mês Xiaomi prepara Redmi Note 17 5G para o Brasil, com bateria grande",
-      "link": "https://tecnoblog.net/noticias/xiaomi-prepara-redmi-note-17-5g-para-o-brasil-com-bateria-grande/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Anatel",
-          "Brasil",
-          "Xiaomi"
-        ]
-      },
-      "timestamp": "2026-08-17T13:24:37.381Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Ubuntu cresce mais no Windows do que no próprio Linux",
-      "summary": "Desenvolvedores estão deixando o dual boot de lado para rodar projetos de programação dentro do Windows 11. Ubuntu cresce mais no Windows do que no próprio Linux",
-      "link": "https://tecnoblog.net/noticias/ubuntu-cresce-mais-no-windows-do-que-no-proprio-linux/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Canonical",
-          "Desenvolvimento de software",
-          "inteligência artificial",
-          "Linux",
-          "Microsoft",
-          "Subsistema Windows para Linux",
-          "Ubuntu",
-          "Windows",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-08-17T13:24:37.615Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Vivo intensifica testes com Starlink e prepara grande anúncio",
-      "summary": "Rede “Vivo Starlink” apareceu em celulares de usuários de internet móvel. Vivo intensifica testes com Starlink e prepara grande anúncio",
-      "link": "https://tecnoblog.net/noticias/vivo-intensifica-testes-com-starlink-e-prepara-grande-anuncio/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "D2D",
-          "Starlink",
-          "T-Mobile",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-08-17T14:22:34.019Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Baratinho: Galaxy A36 recebe promoção histórica com 56% OFF no Mercado Livre",
-      "summary": "Galaxy A36 possui tela, câmeras e bateria do Galaxy A37; celular baratinho da Samsung de 128 GB atinge o menor preço histórico com desconto de 56% no Pix com cupom Baratinho: Galaxy A36 recebe promoção histórica com 56% OFF no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/baratinho-galaxy-a36-recebe-promocao-historica-com-56-off-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy A36",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-17T14:22:34.281Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S26 (256 GB) surge em oferta por até 12x sem juros na Amazon",
-      "summary": "Galaxy S26 (256 GB) apresenta tela AMOLED Dinâmico 2X de 120 Hz e 12 GB de RAM; celular premium da Samsung recebe desconto de 43% em até 12x sem juros no cupom Galaxy S26 (256 GB) surge em oferta por até 12x sem juros na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-256-gb-surge-em-oferta-por-ate-12x-sem-juros-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "AMOLED",
-          "Galaxy AI",
-          "Galaxy S26",
-          "Samsung",
-          "Samsung Galaxy S26"
-        ]
-      },
-      "timestamp": "2026-08-17T14:50:25.375Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Linux 7.2 é anunciado por Linus Torvalds; confira as principais novidades",
-      "summary": "Linus Torvalds anunciou oficialmente o kernel Linux 7.2, mantendo o cronograma mesmo com o alto volume de relatórios de bugs gerados por IA. Linux 7.2 é anunciado por Linus Torvalds; confira as principais novidades",
-      "link": "https://tecnoblog.net/noticias/linux-7-2-e-anunciado-por-linus-torvalds-confira-as-principais-novidades/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Inteligência Artificial (IA)",
-          "Linus Torvalds",
-          "Linux"
-        ]
-      },
-      "timestamp": "2026-08-17T15:14:36.046Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Últimas unidades: Galaxy Z Flip 7 (512 GB) tem 37% OFF em até 12x na Amazon",
-      "summary": "Galaxy Z Flip 7 com tela dobrável AMOLED de 120 Hz e câmera de 50 MP é quase igual ao Z Flip 8; celular da Samsung sai 37% mais barato em até 12x sem juros Últimas unidades: Galaxy Z Flip 7 (512 GB) tem 37% OFF em até 12x na Amazon",
-      "link": "https://tecnoblog.net/achados/ultimas-unidades-galaxy-z-flip-7-512-gb-tem-37-off-em-ate-12x-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "AMOLED",
-          "Android",
-          "Android 16",
-          "Galaxy Z Flip",
-          "Galaxy Z Flip 7",
-          "Samsung",
-          "Samsung Galaxy Z Flip 7"
-        ]
-      },
-      "timestamp": "2026-08-17T15:57:01.243Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "OpenAI desmontou equipe responsável por avaliar riscos de IA, diz jornal",
-      "summary": "Funcionários foram divididos entre setores existentes e continuam trabalhando para garantir segurança, segundo fontes. OpenAI desmontou equipe responsável por avaliar riscos de IA, diz jornal",
-      "link": "https://tecnoblog.net/noticias/openai-desmontou-equipe-responsavel-por-avaliar-riscos-de-ia-diz-jornal/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)",
-          "OpenAI",
-          "Risco"
-        ]
-      },
-      "timestamp": "2026-08-17T16:19:30.498Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Watch 8 BT com inteligência artificial tem queda histórica com cupom",
-      "summary": "Galaxy Watch 8 BT (44 mm) traz tela Super AMOLED e recursos de IA da Samsung; smartwatch sai pelo menor preço até hoje com cupom no Mercado Livre Galaxy Watch 8 BT com inteligência artificial tem queda histórica com cupom",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-8-bt-com-inteligencia-artificial-tem-queda-historica-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Galaxy AI",
-          "Galaxy Watch 8",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy Watch",
-          "Super AMOLED"
-        ]
-      },
-      "timestamp": "2026-08-17T16:51:19.940Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "O que é o Discord? Entenda o funcionamento do app de comunicação",
       "summary": "O Discord possibilita conectar pessoas em tempo real por meio de servidores organizados em canais de texto, voz e vídeo para reuniões, transmissões e conversas em grupo O que é o Discord? Entenda o funcionamento do app de comunicação",
       "link": "https://tecnoblog.net/responde/o-que-e-discord/",
@@ -8769,6 +8615,104 @@
         ]
       },
       "timestamp": "2026-09-16T12:49:04.747Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Redata é sancionado pelo governo para trazer data centers ao Brasil",
+      "summary": "Redata prevê a suspensão de tributos por cinco anos para incentivar a expansão e a instalação de data centers no país. Redata é sancionado pelo governo para trazer data centers ao Brasil",
+      "link": "https://tecnoblog.net/noticias/redata-e-sancionado-pelo-governo-para-trazer-data-centers-ao-brasil/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Brasil",
+          "Lula",
+          "Projeto de lei",
+          "Senado Federal"
+        ]
+      },
+      "timestamp": "2026-09-16T17:21:42.928Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Após críticas, Amazon corrige bug de sideloading no Fire TV",
+      "summary": "Atualização no Fire OS desativou acidentalmente a instalação de apps de fontes externas. Após críticas, Amazon corrige bug de sideloading no Fire TV",
+      "link": "https://tecnoblog.net/noticias/apos-criticas-amazon-reve-restricao-contra-sideloading-no-fire-tv/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Amazon",
+          "Amazon Fire TV",
+          "Android",
+          "APK",
+          "atualização de software",
+          "Fire OS",
+          "Fire TV",
+          "Fire TV Stick",
+          "Linux",
+          "sideload",
+          "Streaming"
+        ]
+      },
+      "timestamp": "2026-09-16T17:21:43.227Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Z Flip 8 surge em queda com R$ 2 mil de desconto no Mercado Livre",
+      "summary": "Galaxy Z Flip 8 (256 GB) tem tela dobrável de 120 Hz e chip de 2 nanômetros; lançamento da Samsung já recebe desconto de 23% no Pix com cupom Galaxy Z Flip 8 surge em queda com R$ 2 mil de desconto no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-z-flip-8-surge-em-queda-com-r-2-mil-de-desconto-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy Z Flip 8",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-16T17:21:43.516Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung lança Galaxy S26 FE no Brasil; veja preço",
+      "summary": "Smartphone tem processador Exynos 2500, memória RAM a partir de 8 GB e One UI 9. Samsung lança Galaxy S26 FE no Brasil; veja preço",
+      "link": "https://tecnoblog.net/noticias/samsung-lanca-galaxy-s26-fe-no-brasil-veja-preco/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Brasil",
+          "Exynos",
+          "Exynos 2500",
+          "Galaxy",
+          "Galaxy S26 FE",
+          "Motorola Edge 70 Pro",
+          "Renato Citrini",
+          "Samsung",
+          "Samsung Galaxy S26",
+          "Samsung Galaxy Z Flip 7",
+          "Xiaomi 17T"
+        ]
+      },
+      "timestamp": "2026-09-16T17:21:43.812Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 17e (256 GB) cai de preço e fica mais barato que iPhone 16e",
+      "summary": "iPhone 17e com chip A19, câmera de 48 MP e carregamento MagSafe sai 32% mais barato Mercado Livre por pagamento no Pix iPhone 17e (256 GB) cai de preço e fica mais barato que iPhone 16e",
+      "link": "https://tecnoblog.net/achados/iphone-17e-256-gb-cai-de-preco-e-fica-mais-barato-que-iphone-16e/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "iPhone",
+          "iPhone 16e",
+          "iPhone 17e",
+          "MagSafe",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-16T17:21:44.107Z"
     }
   ]
 }
