@@ -2,35 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Como se preparar para não ser substituído pela IA e aumentar seu salário em até 62%",
-      "summary": "A revolução da inteligência artificial já transformou diversas áreas. Estar preparado é a chave para aproveitar as oportunidades. Como se preparar para não ser substituído pela IA e aumentar seu salário em até 62%",
-      "link": "https://tecnoblog.net/publieditoriais/como-se-preparar-para-nao-ser-substituido-pela-ia-e-aumentar-seu-salario-em-ate-62/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-17T09:54:15.240Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft acaba com função de IA no Excel",
-      "summary": "Microsoft decidiu remover função COPILOT do Excel a partir de setembro de 2026, mas a IA continuará disponível via painel lateral. Microsoft acaba com função de IA no Excel",
-      "link": "https://tecnoblog.net/noticias/microsoft-acaba-com-funcao-de-ia-no-excel/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)",
-          "Microsoft",
-          "Microsoft Copilot",
-          "Microsoft Excel"
-        ]
-      },
-      "timestamp": "2026-08-17T12:32:24.817Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Xiaomi prepara Redmi Note 17 5G para o Brasil, com bateria grande",
       "summary": "Smartphone terá 7.700 mAh de bateria e o lançamento será no fim do mês Xiaomi prepara Redmi Note 17 5G para o Brasil, com bateria grande",
       "link": "https://tecnoblog.net/noticias/xiaomi-prepara-redmi-note-17-5g-para-o-brasil-com-bateria-grande/",
@@ -8762,6 +8733,42 @@
         ]
       },
       "timestamp": "2026-09-15T23:47:38.549Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Celulares da Samsung ganham backup via Google Fotos",
+      "summary": "Mudança começa a valer em outubro. Novidade fica disponível após encerramento do suporte ao OneDrive. Celulares da Samsung ganham backup via Google Fotos",
+      "link": "https://tecnoblog.net/noticias/celulares-da-samsung-ganham-backup-via-google-fotos/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Gallery Cloud Sync",
+          "Google",
+          "Google Drive",
+          "Google Fotos",
+          "Microsoft",
+          "One UI",
+          "OneDrive",
+          "Samsung",
+          "Samsung Cloud"
+        ]
+      },
+      "timestamp": "2026-09-16T12:49:04.482Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Data center bilionário TikTok no Ceará pode ser embargado",
+      "summary": "Pedido de paralisação foi ajuizado pelo Ministério Público e pela Defensoria Pública da União. Data center bilionário TikTok no Ceará pode ser embargado",
+      "link": "https://tecnoblog.net/noticias/data-center-bilionario-tiktok-no-ceara-pode-ser-embargado/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Data center",
+          "Ministério Público",
+          "TikTok"
+        ]
+      },
+      "timestamp": "2026-09-16T12:49:04.747Z"
     }
   ]
 }
