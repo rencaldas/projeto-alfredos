@@ -2,170 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Amazon Leo: roteador para internet via satélite é homologado no Brasil",
-      "summary": "Equipamento é necessário para acessar o serviço, que concorre com a Starlink. Antena ainda aguarda certificação da Anatel. Amazon Leo: roteador para internet via satélite é homologado no Brasil",
-      "link": "https://tecnoblog.net/noticias/amazon-leo-roteador-para-internet-via-satelite-e-homologado-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Periféricos",
-          "Amazon",
-          "Amazon Leo (antigo Projeto Kuiper)",
-          "Anatel",
-          "Antenas",
-          "Brasil"
-        ]
-      },
-      "timestamp": "2026-08-18T13:27:20.703Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S26 Ultra com câmera de 200 MP cai de preço com cupom",
-      "summary": "Galaxy S26 Ultra (256 GB) tira fotos noturnas detalhadas e oferece alto desempenho; celular premium Samsung está 41% mais barato no Mercado Livre Galaxy S26 Ultra com câmera de 200 MP cai de preço com cupom",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-com-camera-de-200-mp-cai-de-preco-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy AI",
-          "Galaxy S26 Ultra",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-18T14:04:47.044Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Vai acabar: Motorola Edge 70 (512 GB) fica mais barato no Mercado Livre",
-      "summary": "Edge 70 (512 GB) traz tela POLED de 120 Hz e câmeras de 50 MP; celular da Motorola sai 41% mais barato que preço original no Pix com cupom Vai acabar: Motorola Edge 70 (512 GB) fica mais barato no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/vai-acabar-motorola-edge-70-512-gb-fica-mais-barato-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Edge 70",
-          "Pix",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-08-18T14:04:47.660Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google paga US$ 10 milhões por dados de companhia aérea falida",
-      "summary": "Acervo da Spirit Airlines inclui mais de 100 milhões de e-mails, 30 milhões de linhas de código e documentos internos. Big tech utilizará dados para aprimorar IA. Google paga US$ 10 milhões por dados de companhia aérea falida",
-      "link": "https://tecnoblog.net/noticias/google-paga-us-10-milhoes-por-dados-de-companhia-aerea-falida/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Estados Unidos (EUA)",
-          "Google",
-          "Inteligência Artificial (IA)",
-          "Mercado",
-          "Privacidade",
-          "Spirit Airlines"
-        ]
-      },
-      "timestamp": "2026-08-18T14:04:47.947Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como salvar um áudio do WhatsApp no celular ou PC",
-      "summary": "Salvar um áudio do WhatsApp significa baixar uma cópia do arquivo de mídia no dispositivo, seja celular ou PC, para guardar ou usar em outros lugares Como salvar um áudio do WhatsApp no celular ou PC",
-      "link": "https://tecnoblog.net/responde/como-salvar-audio-do-whatsapp/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "WhatsApp"
-        ]
-      },
-      "timestamp": "2026-08-18T14:04:48.282Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S11 Ultra com alto desempenho tem 28% OFF na Amazon",
-      "summary": "Galaxy Tab S11 Ultra (512 GB) tem tela AMOLED de 14,6\" e 12 GB de RAM; tablet de alta performance da Samsung recebe desconto de 28% no Pix Galaxy Tab S11 Ultra com alto desempenho tem 28% OFF na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-ultra-com-alto-desempenho-tem-28-off-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Amazon",
-          "AMOLED",
-          "Galaxy AI",
-          "Galaxy Tab S11 Ultra",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-18T14:49:03.629Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Vídeo da Apple sugere que os AirPods com câmeras estão chegando",
-      "summary": "Referências aos novos fones foram encontradas em uma versão release candidate do macOS Tahoe 26.7. Os novos AirPods podem ser lançados junto com o iPhone 18. Vídeo da Apple sugere que os AirPods com câmeras estão chegando",
-      "link": "https://tecnoblog.net/noticias/video-da-apple-sugere-que-os-airpods-com-cameras-estao-chegando/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "AirPods",
-          "AirPods Pro",
-          "Apple",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-08-18T14:49:03.871Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Meta começa a ser julgada nos EUA por prejudicar crianças e adolescentes",
-      "summary": "Processo movido por 29 promotorias estaduais pede indenização de US$ 1,4 trilhão e mudanças nas redes sociais da companhia. Meta começa a ser julgada nos EUA por prejudicar crianças e adolescentes",
-      "link": "https://tecnoblog.net/noticias/meta-comeca-a-ser-julgada-nos-eua-por-prejudicar-criancas-e-adolescentes/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Estados Unidos (EUA)",
-          "Meta"
-        ]
-      },
-      "timestamp": "2026-08-18T14:49:04.119Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S25 Edge com chip Snapdragon entra em promoção no Mercado Livre",
-      "summary": "Galaxy S25 Edge com 512 GB, design fino, tela AMOLED e chipset premium sai por menos da metade do preço com pagamento via Pix no Mercado Livre Galaxy S25 Edge com chip Snapdragon entra em promoção no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-edge-com-chip-snapdragon-entra-em-promocao-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy",
-          "Galaxy AI",
-          "Galaxy S25 Edge",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-18T15:19:47.767Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Anthropic explica como o Claude vai identificar textos gerados por IA",
-      "summary": "Tecnologia cria um padrão na escolha das palavras para estimar se o conteúdo teve participação do chatbot. Anthropic explica como o Claude vai identificar textos gerados por IA",
-      "link": "https://tecnoblog.net/noticias/anthropic-explica-como-o-claude-vai-identificar-textos-gerados-por-ia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "Claude",
-          "DeepMind",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-18T15:19:48.023Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Edge 70 Pro já custou menos, mas oferta em até 10x sem juros compensa",
       "summary": "Edge 70 Pro (256 GB) tem câmeras de 50 MP e tela Extreme AMOLED de 144 Hz; celular da Motorola sai 27% mais barato do que preço original no Mercado Livre Edge 70 Pro já custou menos, mas oferta em até 10x sem juros compensa",
       "link": "https://tecnoblog.net/achados/edge-70-pro-ja-custou-menos-mas-oferta-em-ate-10x-sem-juros-compensa/",
@@ -8771,6 +8607,86 @@
         ]
       },
       "timestamp": "2026-09-17T11:54:06.168Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Expansão da IA pode provocar “tsunami” de lixo eletrônico, diz relatório",
+      "summary": "Organização afirma que corrida por data centers de inteligência artificial pode triplicar resíduos eletrônicos até 2050. Expansão da IA pode provocar “tsunami” de lixo eletrônico, diz relatório",
+      "link": "https://tecnoblog.net/noticias/expansao-da-ia-pode-provocar-tsunami-de-lixo-eletronico-diz-relatorio/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Basel Action Network",
+          "Inteligência Artificial (IA)",
+          "Lixo Eletrônico"
+        ]
+      },
+      "timestamp": "2026-09-17T15:47:27.411Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como acessar o WhatsApp Web pelo celular (Android ou iPhone)",
+      "summary": "É possível conectar o WhatsApp Web em outro celular utilizando um navegador mobile ao alterar a visualização da página para o modo desktop Como acessar o WhatsApp Web pelo celular (Android ou iPhone)",
+      "link": "https://tecnoblog.net/responde/como-acessar-o-whatsapp-web-pelo-navegador-do-celular/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Android",
+          "iPhone",
+          "QR Code",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-09-17T15:47:27.653Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 60 Pro (256 GB) atinge um dos menores preços de 2026",
+      "summary": "Edge 60 Pro (256 GB) traz tela POLED de 120 Hz e câmeras de 50 MP; celular da Motorola atinge um dos menores preços recentes, com desconto na Amazon de 51% no Pix Motorola Edge 60 Pro (256 GB) atinge um dos menores preços de 2026",
+      "link": "https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-atinge-um-dos-menores-precos-de-2026/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Motorola",
+          "Motorola Edge 60 Pro",
+          "Motorola edge 60 series",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-17T15:47:27.884Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Criança gasta R$ 600 mil no cartão do pai para divulgar gameplay de Roblox",
+      "summary": "Garoto de 9 anos usou cartão corporativo do pai para promover canal no YouToube sobre Minecraft e Roblox. Conta chegou a US$ 118 mil (R$ 606 mil na conversão direta). Criança gasta R$ 600 mil no cartão do pai para divulgar gameplay de Roblox",
+      "link": "https://tecnoblog.net/noticias/crianca-gasta-r-600-mil-no-cartao-do-pai-para-divulgar-gameplay-de-roblox/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Minecraft",
+          "Roblox"
+        ]
+      },
+      "timestamp": "2026-09-17T15:47:28.126Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Watch 8 Classic fica mais barato com cupom no Mercado Livre",
+      "summary": "Galaxy Watch 8 com tela AMOLED, GPS integrado e conexão 4G tem preço reduzido ao combinar cupom e pagamento via Pix Galaxy Watch 8 Classic fica mais barato com cupom no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-classic-fica-mais-barato-com-cupom-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "AMOLED",
+          "Galaxy AI",
+          "Galaxy Watch 8 Classic",
+          "LTE",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-17T15:47:28.354Z"
     }
   ]
 }
