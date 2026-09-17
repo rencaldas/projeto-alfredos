@@ -2,36 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Samsung pode lançar dobrável ainda mais largo após sucesso do Z Fold 8",
-      "summary": "Projeto em fase inicial de desenvolvimento tem como objetivo uma tela interna com formato aprimorado para vídeos. Samsung pode lançar dobrável ainda mais largo após sucesso do Z Fold 8",
-      "link": "https://tecnoblog.net/noticias/samsung-pode-lancar-dobravel-ainda-mais-largo-apos-sucesso-do-z-fold-8/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy Fold",
-          "Galaxy Z Fold 8",
-          "rumor",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-17T23:11:52.792Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "YouTube muda forma de contabilizar views e regras para monetização",
-      "summary": "Plataforma unificará a métrica pública de vídeos tradicionais e Shorts, mas pagamentos continuarão baseados em visualizações engajadas. YouTube muda forma de contabilizar views e regras para monetização",
-      "link": "https://tecnoblog.net/noticias/youtube-muda-forma-de-contabilizar-views-e-regras-para-monetizacao/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "YouTube",
-          "YouTube Shorts"
-        ]
-      },
-      "timestamp": "2026-08-17T23:34:53.656Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "OpenAI estreita laços com o Brasil e busca mais parceiros",
       "summary": "Empresa de inteligência artificial anuncia apoio a pesquisas nas áreas de matemática e saúde. OpenAI estreita laços com o Brasil e busca mais parceiros",
       "link": "https://tecnoblog.net/noticias/openai-estreia-lacos-com-brasil-e-busca-mais-parceiros/",
@@ -8700,6 +8670,92 @@
         ]
       },
       "timestamp": "2026-09-16T23:03:55.823Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anatel prorroga testes da Starlink com a Vivo",
+      "summary": "Decisão estende ambiente regulatório experimental e permite testes comerciais com a tecnologia D2D até 2029. Anatel prorroga testes da Starlink com a Vivo",
+      "link": "https://tecnoblog.net/noticias/anatel-prorroga-testes-da-starlink-com-a-vivo/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Anatel",
+          "Starlink",
+          "Telefônica Brasil",
+          "Vivo"
+        ]
+      },
+      "timestamp": "2026-09-17T01:21:08.040Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google corrige três falhas críticas no navegador Chrome",
+      "summary": "Atualização também fecha outras 39 brechas de segurança e já está disponível para Windows, macOS e Linux. Google corrige três falhas críticas no navegador Chrome",
+      "link": "https://tecnoblog.net/noticias/google-corrige-tres-falhas-criticas-no-navegador-chrome/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Android",
+          "Atualização",
+          "cibersegurança",
+          "Google",
+          "Google Chrome",
+          "iOS",
+          "Linux",
+          "macOS",
+          "Navegadores",
+          "Segurança",
+          "Vulnerabilidades",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-09-17T01:21:08.319Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gnome 51 chega para continuar sendo referência no Linux; veja as novidades",
+      "summary": "Ambiente de desktop Gnome 51 \"A Coruña\" foca em melhorias de desempenho e segurança, e em atualizações de aplicativos nativos. Gnome 51 chega para continuar sendo referência no Linux; veja as novidades",
+      "link": "https://tecnoblog.net/noticias/gnome-51-chega-para-continuar-sendo-referencia-no-linux-veja-as-novidades/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Gnome",
+          "Linux",
+          "Ubuntu"
+        ]
+      },
+      "timestamp": "2026-09-17T01:21:08.625Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Euro-Office chega ao PC para desafiar a Microsoft",
+      "summary": "Projeto visa a soberania digital europeia. Versão para desktop deve ser disponibilizada para download nas próximas semanas. Euro-Office chega ao PC para desafiar a Microsoft",
+      "link": "https://tecnoblog.net/noticias/euro-office-chega-ao-pc-para-desafiar-a-microsoft/",
+      "meta": {
+        "categorias": [
+          "Produtividade",
+          "Microsoft",
+          "Microsoft Office",
+          "Nextcloud"
+        ]
+      },
+      "timestamp": "2026-09-17T01:21:08.906Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S10 FE Plus registra o melhor preço desde junho com 47% OFF",
+      "summary": "Galaxy Tab S10 FE Plus de 128 GB despenca de preço em oferta no Magazine Luiza pagando no Pix. Tablet traz tela de 13.1\", 8 GB de RAM e inclui capa e caneta na caixa Galaxy Tab S10 FE Plus registra o melhor preço desde junho com 47% OFF",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-registra-o-melhor-preco-desde-junho-com-47-off/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Galaxy Tab S10 FE Plus",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-17T01:21:09.180Z"
     }
   ]
 }
