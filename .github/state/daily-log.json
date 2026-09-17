@@ -2,121 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Edge 70 Pro já custou menos, mas oferta em até 10x sem juros compensa",
-      "summary": "Edge 70 Pro (256 GB) tem câmeras de 50 MP e tela Extreme AMOLED de 144 Hz; celular da Motorola sai 27% mais barato do que preço original no Mercado Livre Edge 70 Pro já custou menos, mas oferta em até 10x sem juros compensa",
-      "link": "https://tecnoblog.net/achados/edge-70-pro-ja-custou-menos-mas-oferta-em-ate-10x-sem-juros-compensa/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Edge 70 Pro"
-        ]
-      },
-      "timestamp": "2026-08-18T15:53:50.264Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Robô chinês corre mais que Usain Bolt e ainda dá saltos de 2 metros",
-      "summary": "Superhuman é um projeto experimental desenvolvido pela Unitree. Robô chinês corre mais que Usain Bolt e ainda dá saltos de 2 metros",
-      "link": "https://tecnoblog.net/noticias/robo-chines-corre-mais-que-usain-bolt-e-ainda-salta-2-metros-para-o-alto-veja/",
-      "meta": {
-        "categorias": [
-          "Robótica",
-          "China",
-          "Hangzhou",
-          "Inovação",
-          "Mercado",
-          "robô humanoide",
-          "Unitree",
-          "Unitree Robotics",
-          "Usain Bolt"
-        ]
-      },
-      "timestamp": "2026-08-18T16:54:06.019Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Atualização de agosto do Windows está travando alguns jogos",
-      "summary": "Atualização KB5121003 do Windows 11 (Patch Tuesday de agosto de 2026) tem gerado falhas em títulos como ARC Raiders e The Finals. Atualização de agosto do Windows está travando alguns jogos",
-      "link": "https://tecnoblog.net/noticias/atualizacao-de-agosto-do-windows-11-esta-fazendo-alguns-jogos-travarem/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "ARC Raiders",
-          "Microsoft",
-          "Patch Tuesday",
-          "The Finals",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-08-18T16:54:06.331Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor celular até R$ 800: 5 smartphones básicos para comprar em 2026",
-      "summary": "Orçamento apertado? Encontre o melhor celular com Android por até R$ 800 para comprar em 2026 sem abrir mão de tela grande, design moderno e bateria duradoura Melhor celular até R$ 800: 5 smartphones básicos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-celular-800-reais/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "barato",
-          "Celular",
-          "Smartphone"
-        ]
-      },
-      "timestamp": "2026-08-18T17:16:34.764Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Oportunidade: Motorola Razr 70 cai de preço com cupom e sai por até 10x",
-      "summary": "Razr 70 de 256 GB com painel AMOLED e câmeras que filmam em 4K tem o preço reduzido e opção de parcelamento no Mercado Livre Oportunidade: Motorola Razr 70 cai de preço com cupom e sai por até 10x",
-      "link": "https://tecnoblog.net/achados/oportunidade-motorola-razr-70-cai-de-preco-com-cupom-e-sai-por-ate-10x/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola RAZR (linha)",
-          "Motorola Razr 70"
-        ]
-      },
-      "timestamp": "2026-08-18T17:49:39.781Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como iniciar o Windows 11 em modo de segurança",
-      "summary": "O modo de segurança do Windows inicia o sistema apenas com drivers e arquivos essenciais; função é usada para corrigir erros de funcionamento ou conflitos de software Como iniciar o Windows 11 em modo de segurança",
-      "link": "https://tecnoblog.net/responde/como-iniciar-o-windows-11-em-modo-de-seguranca/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Safe mode",
-          "Windows",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-08-18T19:04:01.692Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros reforçados",
-      "summary": "Versão para adolescentes agrupa Modo Estudo, controles parentais e alertas de risco em conversas íntimas. OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros reforçados",
-      "link": "https://tecnoblog.net/noticias/openai-lanca-chatgpt-for-teens-com-ferramentas-pedagogicas-e-filtros-reforcados/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "ChatGPT",
-          "Modo Estudo",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-08-18T19:04:01.958Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Microsoft revela novo menu de contexto no Windows 11; veja o que muda",
       "summary": "Microsoft finalmente anunciou mudanças no menu de contexto do Windows 11 para torná-lo mais rápido, intuitivo e personalizável. Microsoft revela novo menu de contexto no Windows 11; veja o que muda",
       "link": "https://tecnoblog.net/noticias/microsoft-revela-novo-menu-de-contexto-no-windows-11-veja-o-que-muda/",
@@ -8687,6 +8572,85 @@
         ]
       },
       "timestamp": "2026-09-17T15:47:28.354Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Zelda: Ocarina of Time Remake esgota em 10 minutos de pré-venda",
+      "summary": "Edição física para Switch 2 custa R$ 439 e traz capa especial. Versão digital continua disponível por R$ 329,90. Zelda: Ocarina of Time Remake esgota em 10 minutos de pré-venda",
+      "link": "https://tecnoblog.net/noticias/zelda-ocarina-of-time-remake-esgota-em-10-minutos-de-pre-venda-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Brasil",
+          "Nintendo",
+          "Nintendo 64",
+          "Nintendo Switch 2",
+          "Recriação de jogo eletrônico",
+          "The Legend of Zelda: Ocarina of Time"
+        ]
+      },
+      "timestamp": "2026-09-17T19:22:17.392Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Bom e barato: Garmin Forerunner 55 com treinador virtual tem 46% OFF",
+      "summary": "Forerunner 55 com recurso Garmin Coach para treinamentos e experiência independente do celular recebe desconto no Magalu de 46% no Pix Bom e barato: Garmin Forerunner 55 com treinador virtual tem 46% OFF",
+      "link": "https://tecnoblog.net/achados/bom-e-barato-garmin-forerunner-55-com-treinador-virtual-tem-46-off/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Garmin",
+          "Garmin Forerunner",
+          "Garmin Forerunner 55",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-17T19:22:17.647Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como baixar reels do Instagram pelo próprio app da rede social",
+      "summary": "Instagram permite fazer o download de conteúdos do Reels diretamente do aplicativo para Android e iPhone; vídeo precisa ser postado por conta pública Como baixar reels do Instagram pelo próprio app da rede social",
+      "link": "https://tecnoblog.net/responde/como-baixar-reels-do-instagram-pelo-proprio-app-da-rede-social/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "Instagram"
+        ]
+      },
+      "timestamp": "2026-09-17T19:22:17.910Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Justiça dos EUA manda Google abrir ecossistema de anúncios a rivais",
+      "summary": "Justiça dos Estados Unidos entendeu que o Google atua para monopolizar o mercado de anúncios online e determinou que a companhia adote \"remédios\". Justiça dos EUA manda Google abrir ecossistema de anúncios a rivais",
+      "link": "https://tecnoblog.net/noticias/justica-dos-eua-manda-google-abrir-ecossistema-de-anuncios-a-rivais/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Estados Unidos (EUA)",
+          "Google",
+          "Google Ads",
+          "Justiça",
+          "Leonie Brinkema"
+        ]
+      },
+      "timestamp": "2026-09-17T19:22:18.165Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor Kindle em 2026: qual leitor de livros digitais comprar?",
+      "summary": "Analisamos os prós e contras dos modelos de Kindle disponíveis no Brasil para te ajudar a decidir qual é o melhor leitor de livros digitais para o seu dia a dia Melhor Kindle em 2026: qual leitor de livros digitais comprar?",
+      "link": "https://tecnoblog.net/guias/melhor-kindle/",
+      "meta": {
+        "categorias": [
+          "Gadgets",
+          "e-reader",
+          "Kindle"
+        ]
+      },
+      "timestamp": "2026-09-17T19:22:18.428Z"
     }
   ]
 }
