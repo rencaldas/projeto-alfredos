@@ -2,22 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "OpenAI estreita laços com o Brasil e busca mais parceiros",
-      "summary": "Empresa de inteligência artificial anuncia apoio a pesquisas nas áreas de matemática e saúde. OpenAI estreita laços com o Brasil e busca mais parceiros",
-      "link": "https://tecnoblog.net/noticias/openai-estreia-lacos-com-brasil-e-busca-mais-parceiros/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Brasil",
-          "ChatGPT",
-          "OpenAI",
-          "São Paulo"
-        ]
-      },
-      "timestamp": "2026-08-18T08:21:08.624Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Amazon Leo: roteador para internet via satélite é homologado no Brasil",
       "summary": "Equipamento é necessário para acessar o serviço, que concorre com a Starlink. Antena ainda aguarda certificação da Anatel. Amazon Leo: roteador para internet via satélite é homologado no Brasil",
       "link": "https://tecnoblog.net/noticias/amazon-leo-roteador-para-internet-via-satelite-e-homologado-no-brasil/",
@@ -8770,6 +8754,23 @@
         ]
       },
       "timestamp": "2026-09-17T06:15:20.579Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Intel e SK Hynix podem fechar acordo para fabricar chips nos EUA",
+      "summary": "Acordo pode envolver aluguel de parte da fábrica da Intel em Ohio ou uma joint venture com empresas de nuvem. Intel e SK Hynix podem fechar acordo para fabricar chips nos EUA",
+      "link": "https://tecnoblog.net/noticias/intel-e-sk-hynix-podem-fechar-acordo-para-fabricar-chips-nos-eua/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Coreia do Sul",
+          "Estados Unidos (EUA)",
+          "Intel",
+          "Ohio",
+          "SK Hynix"
+        ]
+      },
+      "timestamp": "2026-09-17T11:54:06.168Z"
     }
   ]
 }
