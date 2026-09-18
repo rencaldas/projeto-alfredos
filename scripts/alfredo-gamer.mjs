@@ -1,7 +1,19 @@
 import { loadHistory, markSent, saveHistory, uniqueUnsent } from './history.mjs';
 import { loadDailyLog, recordActivity, saveDailyLog } from './daily-log.mjs';
-import { loadGameMessages, recordGameMessages, saveGameMessages } from './games-messages.mjs';
-import { optionalEnv, requireEnv, sendTelegramPhoto } from './telegram.mjs';
+import {
+  findNewlyExpiredGames,
+  loadGameMessages,
+  markExpiredNotified,
+  recordGameMessages,
+  saveGameMessages
+} from './games-messages.mjs';
+import {
+  deleteTelegramMessage,
+  editTelegramCaption,
+  optionalEnv,
+  requireEnv,
+  sendTelegramPhoto
+} from './telegram.mjs';
 
 const DEFAULT_GAMERPOWER_URL = 'https://www.gamerpower.com/api/giveaways?platform=epic-games-store&type=game';
 const DEFAULT_MAX_ITEMS = 10;
@@ -36,6 +48,11 @@ if (!chatId) {
 const chatIds = [...new Set([chatId, ...extraChatIds])];
 
 const gameMessages = await loadGameMessages(GAME_MESSAGES_PATH);
+
+// Antes de buscar jogos novos, avisa sobre promocoes ja enviadas que encerraram
+// desde a ultima execucao, para o usuario nao ver jogos que nao da mais pra resgatar.
+await notifyExpiredGiveaways(gameMessages, botToken);
+await saveGameMessages(gameMessages);
 
 const response = await fetch(gamerPowerUrl, {
   headers: {
@@ -119,6 +136,57 @@ Termina em: ${game.end_date || 'Nao informado'}`;
   await saveDailyLog(dailyLog);
 
   console.log(`Jogo enviado: ${game.title}`);
+}
+
+/**
+ * Varre o registro de mensagens ja enviadas atras de jogos cuja promocao
+ * encerrou (end_date no passado) e ainda nao foram notificados. Para cada
+ * mensagem, tenta apagar (so funciona se enviada ha menos de 48h, limite do
+ * proprio Telegram) e, se nao der, edita a legenda deixando claro que o jogo
+ * nao esta mais disponivel. Jogos enviados antes desta funcionalidade existir
+ * nao tem mensagem registrada e por isso nao sao afetados.
+ */
+async function notifyExpiredGiveaways(store, token) {
+  const newlyExpired = findNewlyExpiredGames(store);
+
+  for (const [gameId, entry] of newlyExpired) {
+    const caption = buildExpiredCaption(entry.title);
+
+    for (const message of entry.messages) {
+      await notifyExpiredMessage({
+        botToken: token,
+        chatId: message.chatId,
+        messageId: message.messageId,
+        caption
+      });
+    }
+
+    markExpiredNotified(store, gameId);
+    console.log(`Jogo marcado como encerrado: ${entry.title || gameId}`);
+  }
+}
+
+async function notifyExpiredMessage({ botToken: token, chatId: recipientChatId, messageId, caption }) {
+  try {
+    await deleteTelegramMessage({ botToken: token, chatId: recipientChatId, messageId });
+    return;
+  } catch (error) {
+    console.warn(`Nao foi possivel apagar a mensagem ${messageId} (chat ${recipientChatId}): ${error.message}`);
+  }
+
+  try {
+    await editTelegramCaption({ botToken: token, chatId: recipientChatId, messageId, caption });
+  } catch (error) {
+    console.warn(`Nao foi possivel editar a mensagem ${messageId} (chat ${recipientChatId}): ${error.message}`);
+  }
+}
+
+function buildExpiredCaption(title) {
+  const safeTitle = title || 'Este jogo';
+  return `🔒 Não está mais disponível
+${safeTitle}
+
+Essa promoção da Epic Games Store já encerrou.`;
 }
 
 function getGiveawayId(game) {
