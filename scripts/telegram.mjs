@@ -93,3 +93,19 @@ export async function sendTelegramPhoto({ botToken, chatId, photoUrl, caption })
     parse_mode: 'HTML'
   });
 }
+
+export async function editTelegramCaption({ botToken, chatId, messageId, caption }) {
+  return telegramRequest(botToken, 'editMessageCaption', {
+    chat_id: chatId,
+    message_id: messageId,
+    caption: truncateText(caption, TELEGRAM_CAPTION_LIMIT),
+    parse_mode: 'HTML'
+  });
+}
+
+export async function deleteTelegramMessage({ botToken, chatId, messageId }) {
+  return telegramRequest(botToken, 'deleteMessage', {
+    chat_id: chatId,
+    message_id: messageId
+  });
+}
