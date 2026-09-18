@@ -10,7 +10,7 @@ Automações para enviar notícias de tecnologia, jogos grátis, alertas de segu
 [![Alfredo Secretario](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-secretario.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-secretario.yml)
 
 1. **Alfredo Jornalista**: consulta o feed RSS do Tecnoblog a cada 15 minutos e envia as notícias inéditas para o Telegram.
-2. **Alfredo Gamer**: consulta diariamente a API da GamerPower para jogos gratuitos inéditos da Epic Games Store e envia imagem, link de resgate e detalhes ao Telegram.
+2. **Alfredo Gamer**: consulta diariamente a API da GamerPower para jogos gratuitos inéditos da Epic Games Store e envia imagem, link de resgate e detalhes ao Telegram. Quando a promoção de um jogo já enviado encerra, o bot volta na mensagem original e avisa que não está mais disponível (ver [detalhes abaixo](#alfredo-gamer--jogos-encerrados)).
 3. **Alfredo Sentinela**: audita periodicamente os repositórios do GitHub, detecta dependências por lockfiles/manifestos, consulta vulnerabilidades públicas e avisa sobre riscos ou atualizações relevantes.
 4. **Alfredo Secretário**: todos os dias às 23:59 (horário de Brasília), consolida tudo que os outros Alfredos enviaram no dia, pede para o Google Gemini gerar um relatório executivo e envia um resumo ao Telegram e o relatório completo por e-mail.
 
@@ -23,6 +23,7 @@ Automações para enviar notícias de tecnologia, jogos grátis, alertas de segu
 .github/workflows/alfredo-secretario.yml
 .github/state/news-history.json
 .github/state/games-history.json
+.github/state/games-messages.json
 .github/state/sentinela-history.json
 .github/state/daily-log.json
 .github/state/secretario-history.json
@@ -31,6 +32,7 @@ scripts/alfredo-gamer.mjs
 scripts/alfredo-sentinela.mjs
 scripts/alfredo-secretario.mjs
 scripts/history.mjs
+scripts/games-messages.mjs
 scripts/daily-log.mjs
 scripts/telegram.mjs
 scripts/gemini.mjs
@@ -122,6 +124,7 @@ Os bots registram automaticamente o que já foi enviado em arquivos versionados:
 ```text
 .github/state/news-history.json
 .github/state/games-history.json
+.github/state/games-messages.json
 .github/state/sentinela-history.json
 .github/state/daily-log.json
 .github/state/secretario-history.json
@@ -130,6 +133,7 @@ Os bots registram automaticamente o que já foi enviado em arquivos versionados:
 Nas próximas execuções, itens já registrados não são reenviados. Os workflows fazem commit e push desses arquivos somente quando houver alteração.
 
 - `daily-log.json`: log leve alimentado pelo Jornalista, Gamer e Sentinela sempre que enviam algo (título, resumo, link e data/hora). É a fonte de dados real que o Secretário usa para montar o relatório do dia. Entradas com mais de 30 dias são removidas automaticamente a cada gravação.
+- `games-messages.json`: guarda, por jogo já enviado pelo Alfredo Gamer, o `chatId`/`messageId` de cada mensagem no Telegram e o `end_date` da promoção — é o que permite ao bot voltar numa mensagem antiga quando o jogo deixa de estar disponível (ver [detalhes abaixo](#alfredo-gamer--jogos-encerrados)). Entradas já notificadas são removidas automaticamente 60 dias depois.
 - `secretario-history.json`: guarda as datas (`YYYY-MM-DD`, fuso America/Sao_Paulo) cujo relatório diário já foi enviado, para não duplicar o e-mail/Telegram em reexecuções manuais no mesmo dia (a menos que `FORCE_SECRETARIO_RESEND=true`).
 
 ## Agendamentos
@@ -148,6 +152,21 @@ Observação: workflows agendados no GitHub Actions podem atrasar alguns minutos
 ### Como alterar o horário do Alfredo Secretário
 
 Edite a linha `cron` em `.github/workflows/alfredo-secretario.yml`. O valor é sempre em UTC; para converter de America/Sao_Paulo (UTC-3) para UTC, some 3 horas ao horário desejado. Exemplo: para rodar às 22:30 em Brasília, use `cron: '30 1 * * *'`.
+
+## Alfredo Gamer — jogos encerrados
+
+Além de enviar jogos gratuitos inéditos, o Gamer avisa quando um jogo já enviado deixa de estar disponível, pra você não abrir uma mensagem antiga achando que ainda dá pra resgatar.
+
+1. **Registro no envio**: ao mandar um jogo, o bot guarda em `.github/state/games-messages.json` o `chatId`/`messageId` de cada mensagem enviada (um por destinatário) e o `end_date` da promoção informado pela GamerPower.
+2. **Checagem a cada execução**: antes de buscar jogos novos, o bot varre esse registro atrás de jogos cujo `end_date` já passou e que ainda não foram notificados.
+3. **Apagar ou editar**: para cada mensagem encontrada, o bot tenta apagá-la (`deleteMessage`). Isso só funciona se a mensagem tiver menos de 48h — limite do próprio Telegram, sem exceção para mensagens do bot. Como as promoções da Epic costumam durar vários dias, na prática a mensagem quase sempre já passou desse prazo; nesse caso o bot cai no plano B e edita a legenda (`editMessageCaption`) deixando só o nome do jogo e um aviso curto de que a promoção encerrou.
+4. **Idempotência**: cada jogo só é notificado uma vez (`expiredNotifiedAt` em `games-messages.json`); entradas já notificadas somem do arquivo depois de 60 dias, pra ele não crescer indefinidamente.
+
+### Limitações conhecidas
+
+- Jogos enviados antes desta funcionalidade existir não têm `chatId`/`messageId` registrados, então não são retroativamente marcados como encerrados.
+- Se a GamerPower informar `end_date` como `N/A` ou em formato que o `Date` do Node não reconheça, esse jogo nunca é marcado como encerrado automaticamente.
+- Falha ao apagar/editar uma mensagem específica (por exemplo, se ela já tiver sido apagada manualmente) só gera um aviso no log; não interrompe a execução nem o envio dos jogos novos do dia.
 
 ## Alfredo Secretário — como funciona
 
