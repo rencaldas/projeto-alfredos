@@ -1,11 +1,13 @@
 import { loadHistory, markSent, saveHistory, uniqueUnsent } from './history.mjs';
 import { loadDailyLog, recordActivity, saveDailyLog } from './daily-log.mjs';
+import { loadGameMessages, recordGameMessages, saveGameMessages } from './games-messages.mjs';
 import { optionalEnv, requireEnv, sendTelegramPhoto } from './telegram.mjs';
 
 const DEFAULT_GAMERPOWER_URL = 'https://www.gamerpower.com/api/giveaways?platform=epic-games-store&type=game';
 const DEFAULT_MAX_ITEMS = 10;
 const HISTORY_PATH = '.github/state/games-history.json';
 const DAILY_LOG_PATH = '.github/state/daily-log.json';
+const GAME_MESSAGES_PATH = '.github/state/games-messages.json';
 const AGENT_NAME = 'Alfredo Gamer';
 
 const botToken = optionalEnv(
@@ -32,6 +34,8 @@ if (!chatId) {
 }
 
 const chatIds = [...new Set([chatId, ...extraChatIds])];
+
+const gameMessages = await loadGameMessages(GAME_MESSAGES_PATH);
 
 const response = await fetch(gamerPowerUrl, {
   headers: {
@@ -79,17 +83,31 @@ Status: ${game.status || 'Nao informado'}!
 Data de envio: ${game.published_date || 'Nao informado'}
 Termina em: ${game.end_date || 'Nao informado'}`;
 
+  const sentMessages = [];
+
   for (const recipientChatId of chatIds) {
-    await sendTelegramPhoto({
+    const result = await sendTelegramPhoto({
       botToken,
       chatId: recipientChatId,
       photoUrl: game.thumbnail,
       caption
     });
+
+    const messageId = result?.result?.message_id;
+    if (messageId !== undefined) {
+      sentMessages.push({ chatId: recipientChatId, messageId });
+    }
   }
 
   markSent(history, game.historyId);
   await saveHistory(history);
+
+  recordGameMessages(gameMessages, game.historyId, {
+    title: game.title,
+    endDate: game.end_date,
+    messages: sentMessages
+  });
+  await saveGameMessages(gameMessages);
 
   recordActivity(dailyLog, {
     agent: AGENT_NAME,
