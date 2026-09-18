@@ -2,46 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Congresso dos EUA sofre com projetos de lei gerados por IA",
-      "summary": "Consultores legislativos relatam aumento de 70% nos textos enviados para revisão e apontam erros de redação, informações incorretas e falta de profundidade. Congresso dos EUA sofre com projetos de lei gerados por IA",
-      "link": "https://tecnoblog.net/noticias/congresso-dos-eua-sofre-com-projetos-de-lei-gerados-por-ia/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "AI slop",
-          "Capitólio",
-          "ChatGPT",
-          "Claude",
-          "Congresso dos Estados Unidos",
-          "Estados Unidos (EUA)",
-          "Inteligência Artificial (IA)",
-          "LinkedIn",
-          "Tinder"
-        ]
-      },
-      "timestamp": "2026-08-19T13:28:59.178Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 18: por que o Pro Max será superior ao Pro (para além do tamanho)",
-      "summary": "Opção premium teria câmera com maior zoom óptico e abertura variável da lente com diafragma ajustável, indo além da diferença de tamanho. iPhone 18: por que o Pro Max será superior ao Pro (para além do tamanho)",
-      "link": "https://tecnoblog.net/noticias/iphone-18-por-que-o-pro-max-sera-superior-ao-pro-para-alem-do-tamanho/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "iPhone",
-          "iPhone 15 Pro Max",
-          "iPhone 17 Pro Max",
-          "iPhone 18 Pro",
-          "iPhone 18 Pro Max",
-          "iPhone Ultra"
-        ]
-      },
-      "timestamp": "2026-08-19T13:28:59.477Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Como ocultar curtidas no Instagram para ter mais privacidade na rede social",
       "summary": "Esconder as curtidas no Instagram garante mais privacidade ao navegar na rede social e impede a exibição do número de likes de quem curtiu suas fotos Como ocultar curtidas no Instagram para ter mais privacidade na rede social",
       "link": "https://tecnoblog.net/responde/como-ocultar-curtidas-no-instagram-para-ter-mais-privacidade-na-rede-social/",
@@ -8782,6 +8742,52 @@
         "repositorio": "rencaldas/liac-club"
       },
       "timestamp": "2026-09-18T13:12:31.670Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S26 Plus volta a cair de preço com oferta no Magalu",
+      "summary": "Galaxy S26 Plus (256 GB) tem câmera de 50 MP e tela de 120 Hz; celular premium da Samsung sai por menos da metade do preço original em oferta no Pix Galaxy S26 Plus volta a cair de preço com oferta no Magalu",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-plus-volta-a-cair-de-preco-com-oferta-no-magalu/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy S26 Plus",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-18T13:49:14.036Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 70 (512 GB) com 12 GB de RAM sai 54% mais barato no Mercado Livre",
+      "summary": "Edge 70 (512 GB) tem 12 GB de RAM e chip Snapdragon; 2.ª melhor oferta de 2026 traz celular da Motorola com desconto de 54% sobre o preço original Motorola Edge 70 (512 GB) com 12 GB de RAM sai 54% mais barato no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-512-gb-com-12-gb-de-ram-sai-54-mais-barato-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 70",
+          "Pix",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-09-18T13:49:14.272Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como criar ou editar destaques com stories no Instagram",
+      "summary": "Destaques do Instagram são as fotos e vídeos publicados via Stories que ficam fixados em uma faixa exclusiva, no perfil da rede social Como criar ou editar destaques com stories no Instagram",
+      "link": "https://tecnoblog.net/responde/como-colocar-stories-em-destaque-no-instagram/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "Instagram"
+        ]
+      },
+      "timestamp": "2026-09-18T13:49:14.505Z"
     }
   ]
 }
