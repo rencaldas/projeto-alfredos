@@ -2,22 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Empresário do PR hackeia concorrente e tenta ”roubar” os clientes",
-      "summary": "Clientes percebem propostas mais vantajosas imediatamente após negociação inicial com vítima. Empresário do PR hackeia concorrente e tenta ”roubar” os clientes",
-      "link": "https://tecnoblog.net/noticias/empresario-do-pr-hackeia-concorrente-e-tenta-roubar-os-clientes/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Ciberataque",
-          "Hacker",
-          "Spyware",
-          "Stalkerware"
-        ]
-      },
-      "timestamp": "2026-08-19T10:16:57.511Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Congresso dos EUA sofre com projetos de lei gerados por IA",
       "summary": "Consultores legislativos relatam aumento de 70% nos textos enviados para revisão e apontam erros de redação, informações incorretas e falta de profundidade. Congresso dos EUA sofre com projetos de lei gerados por IA",
       "link": "https://tecnoblog.net/noticias/congresso-dos-eua-sofre-com-projetos-de-lei-gerados-por-ia/",
@@ -8786,6 +8770,18 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6aac02328ba2e.jpg"
       },
       "timestamp": "2026-09-18T06:46:35.005Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @csstools/css-tokenizer (rencaldas/liac-club)",
+      "summary": "Versão instalada 3.0.4 → versão mais recente 4.0.1 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-09-18T13:12:31.670Z"
     }
   ]
 }

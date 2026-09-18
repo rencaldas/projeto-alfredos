@@ -104,6 +104,7 @@
     "update|rencaldas/liac-club|npm|@babel/traverse|7.29.8|8.0.5",
     "update|rencaldas/liac-club|npm|@babel/types|7.29.8|8.0.5",
     "update|rencaldas/liac-club|npm|@csstools/css-calc|2.1.4|3.4.0",
-    "update|rencaldas/liac-club|npm|@csstools/css-color-parser|3.1.0|4.2.3"
+    "update|rencaldas/liac-club|npm|@csstools/css-color-parser|3.1.0|4.2.3",
+    "update|rencaldas/liac-club|npm|@csstools/css-tokenizer|3.0.4|4.0.1"
   ]
 }
