@@ -2,85 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Geladeiras smart da Samsung vão receber recurso dos smartphones Galaxy",
-      "summary": "Linha Bespoke AI ganhará Now Brief, que traz resumo do dia. Update também inclui reconhecimento de alimentos usando o Gemini e análise dos produtos mais consumidos. Geladeiras smart da Samsung vão receber recurso dos smartphones Galaxy",
-      "link": "https://tecnoblog.net/noticias/geladeiras-smart-da-samsung-vao-receber-recurso-dos-smartphones-galaxy/",
-      "meta": {
-        "categorias": [
-          "Casa Conectada e IoT",
-          "Galaxy",
-          "Geladeira",
-          "Gemini",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-19T20:13:30.970Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Desenvolvedores já burlam nova marca d’água de texto do Claude",
-      "summary": "Código lançado poucas horas após o anúncio usa outros modelos de IA para modificar o conteúdo. Desenvolvedores já burlam nova marca d’água de texto do Claude",
-      "link": "https://tecnoblog.net/noticias/desenvolvedores-ja-burlam-nova-marca-dagua-de-texto-do-claude/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "Claude"
-        ]
-      },
-      "timestamp": "2026-08-19T20:44:28.886Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Só hoje: Garmin Forerunner 55 despenca de preço na melhor oferta já vista",
-      "summary": "Garmin Forerunner 55 com bateria para até duas semanas e funções especiais para corrida está com 57% de desconto no Mercado Livre. Use o cupom PROMOTEC disponível por poucas horas Só hoje: Garmin Forerunner 55 despenca de preço na melhor oferta já vista",
-      "link": "https://tecnoblog.net/achados/so-hoje-garmin-forerunner-55-despenca-de-preco-na-melhor-oferta-ja-vista/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Garmin",
-          "Garmin Forerunner",
-          "Garmin Forerunner 55",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-19T21:36:46.538Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como entrar no Instagram pelo Facebook",
-      "summary": "Logar no Instagram pelo Facebook simplifica a navegação ao utilizar as mesmas credenciais em ambas as redes sociais da Meta Como entrar no Instagram pelo Facebook",
-      "link": "https://tecnoblog.net/responde/como-entrar-no-instagram-pelo-facebook/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Facebook",
-          "Instagram",
-          "Meta"
-        ]
-      },
-      "timestamp": "2026-08-19T21:36:46.856Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Garmin Venu 4 com AMOLED touchscreen tem 27% OFF no Mercado Livre",
-      "summary": "Garmin Venu 4 com tela sensível ao toque, lanterna embutida e bateria para até 12 dias fica mais barato em promoção Garmin Venu 4 com AMOLED touchscreen tem 27% OFF no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/garmin-venu-4-com-amoled-touchscreen-tem-27-off-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "AMOLED",
-          "Garmin",
-          "Garmin Venu 4",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-19T21:36:47.162Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Melhor celular de 1 TB: 10 smartphones para comprar em 2026",
       "summary": "Precisa de mais espaço? Encontre o melhor celular de 1 TB em 2026 para armazenar vídeos em 4K e 8K, aplicativos, fotos e mensagens no dia a dia Melhor celular de 1 TB: 10 smartphones para comprar em 2026",
       "link": "https://tecnoblog.net/guias/celular-1tb/",
@@ -8725,6 +8646,87 @@
         ]
       },
       "timestamp": "2026-09-18T19:46:54.597Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
+      "summary": "Empresa revela que modelos em fase de testes ocultaram erros, acessaram dados indevidamente e trocaram até mensagens secretas. IA da OpenAI tentou ensinar futuras versões a burlar regras",
+      "link": "https://tecnoblog.net/noticias/ia-da-openai-tentou-ensinar-futuras-versoes-a-burlar-regras/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "ChatGPT",
+          "IA",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "modelos de linguagem",
+          "OpenAI",
+          "Sam Altman",
+          "Segurança",
+          "Tecnologia"
+        ]
+      },
+      "timestamp": "2026-09-18T21:59:41.035Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Garmin Forerunner 165 está em queda e tem 37% de desconto no Magalu",
+      "summary": "Smartwatch esportivo da Garmin conta com treinador virtual, funções específicas para corrida, ciclismo e natação, além de bateria para até 11 dias Garmin Forerunner 165 está em queda e tem 37% de desconto no Magalu",
+      "link": "https://tecnoblog.net/achados/garmin-forerunner-165-esta-em-queda-e-tem-37-de-desconto-no-magalu/",
+      "meta": {
+        "categorias": [
+          "Wearables",
+          "AMOLED",
+          "Garmin",
+          "Garmin Forerunner 165",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-18T21:59:41.270Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S27 Pro pode estrear bateria maior que a do S26 Ultra",
+      "summary": "Novo celular da Samsung pode chegar com bateria de 5.200 mAh. Galaxy S27 Pro pode estrear bateria maior que a do S26 Ultra",
+      "link": "https://tecnoblog.net/noticias/galaxy-s27-pro-pode-estrear-bateria-maior-que-a-do-s26-ultra/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "China Compulsory Certificate",
+          "Galaxy S",
+          "Galaxy S27",
+          "Galaxy S27 Pro",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-18T21:59:41.517Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Fone de ouvido Pulse: 10 modelos que valem a pena em 2026",
+      "summary": "Reunimos os melhores fones Pulse para comprar em 2026, desde modelos com fio a fones Bluetooth com preços acessíveis Fone de ouvido Pulse: 10 modelos que valem a pena em 2026",
+      "link": "https://tecnoblog.net/guias/fone-pulse/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "Fones de Ouvido"
+        ]
+      },
+      "timestamp": "2026-09-18T21:59:41.782Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor fone de ouvido Edifier: 10 modelos para comprar em 2026",
+      "summary": "Selecionamos os principais fones Edifier à venda no Brasil; lista inclui headphones over-ear, earbuds TWS e fone open-ear em diversas faixas de preço Melhor fone de ouvido Edifier: 10 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-edifier/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "Edifier"
+        ]
+      },
+      "timestamp": "2026-09-18T21:59:42.022Z"
     }
   ]
 }
