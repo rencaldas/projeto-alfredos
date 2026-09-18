@@ -2,42 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Copilot “ensinou” pesquisadores a hackear o próprio sistema",
-      "summary": "A IA da Microsoft entregou o caminho para a falha que permitia roubo silencioso de dados com um clique. Correção já foi liberada. Copilot “ensinou” pesquisadores a hackear o próprio sistema",
-      "link": "https://tecnoblog.net/noticias/copilot-ensinou-pesquisadores-a-hackear-o-proprio-sistema/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "cibersegurança",
-          "Copilot",
-          "Inteligência Artificial (IA)",
-          "Microsoft",
-          "Microsoft Copilot",
-          "Segurança",
-          "Vulnerabilidade"
-        ]
-      },
-      "timestamp": "2026-08-18T23:11:13.151Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S12 Ultra vaza na web: confira as novas imagens",
-      "summary": "Dispositivo tem visual e especificações quase idênticos à geração anterior. Aparelho já possui certificação da Anatel para venda no Brasil. Galaxy Tab S12 Ultra vaza na web: confira as novas imagens",
-      "link": "https://tecnoblog.net/noticias/galaxy-tab-s12-ultra-vaza-na-web-confira-as-novas-imagens/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Anatel",
-          "Brasil",
-          "Galaxy Tab S11 Ultra",
-          "Galaxy Tab S12 Plus",
-          "Galaxy Tab S12 Ultra"
-        ]
-      },
-      "timestamp": "2026-08-18T23:11:13.415Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Empresário do PR hackeia concorrente e tenta ”roubar” os clientes",
       "summary": "Clientes percebem propostas mais vantajosas imediatamente após negociação inicial com vítima. Empresário do PR hackeia concorrente e tenta ”roubar” os clientes",
       "link": "https://tecnoblog.net/noticias/empresario-do-pr-hackeia-concorrente-e-tenta-roubar-os-clientes/",
@@ -8659,6 +8623,83 @@
         ]
       },
       "timestamp": "2026-09-17T22:17:17.227Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como desconectar o Instagram de outro celular remotamente",
+      "summary": "Tutorial mostra como sair do Instagram de outro celular remotamente; ferramenta mostra todos os aparelhos conectados à sua conta na rede social Como desconectar o Instagram de outro celular remotamente",
+      "link": "https://tecnoblog.net/responde/como-desconectar-o-instagram-de-outros-aparelhos-remotamente/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Instagram"
+        ]
+      },
+      "timestamp": "2026-09-18T00:30:03.412Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Por que o Windows 11 não tinha Barra de Tarefas móvel? Microsoft explica",
+      "summary": "A Barra de Tarefas móvel chegou ao Windows 11 recentemente. Mas houve uma espera de cinco anos para isso. Por que o Windows 11 não tinha Barra de Tarefas móvel? Microsoft explica",
+      "link": "https://tecnoblog.net/noticias/por-que-o-windows-11-nao-tinha-barra-de-tarefas-movel-microsoft-explica/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Barra de tarefas",
+          "Microsoft",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-09-18T00:30:03.671Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "OpenAI vai avisar quando IAs agirem sem autorização",
+      "summary": "Empresa vai investigar e divulgar casos de modelos que ocultem erros, acessem dados indevidamente ou burlem restrições. OpenAI já revelou seis incidentes. OpenAI vai avisar quando IAs agirem sem autorização",
+      "link": "https://tecnoblog.net/noticias/openai-vai-avisar-quando-ias-agirem-sem-autorizacao/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Aprendizado de máquina (machine learning)",
+          "GPT-5.6 Sol",
+          "IA",
+          "IA Generativa",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "OpenAI",
+          "Segurança",
+          "Tecnologia"
+        ]
+      },
+      "timestamp": "2026-09-18T00:30:03.943Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como apagar uma mensagem ou conversa no Instagram Direct",
+      "summary": "Tutorial mostra como apagar uma mensagem específica ou conversas inteiras na DM do Instagram pelo celular Android ou iPhone Como apagar uma mensagem ou conversa no Instagram Direct",
+      "link": "https://tecnoblog.net/responde/como-apagar-uma-mensagem-ou-conversa-no-instagram-direct/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "Instagram"
+        ]
+      },
+      "timestamp": "2026-09-18T00:30:04.197Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor fone KZ: 10 modelos para comprar em 2026",
+      "summary": "Selecionamos os melhores fones de ouvido KZ incluindo modelos para jogos, retorno de palco e mais; veja os prós e contras antes de decidir qual é o ideal para você Melhor fone KZ: 10 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-kz/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "Fones de Ouvido",
+          "KZ"
+        ]
+      },
+      "timestamp": "2026-09-18T00:30:04.468Z"
     }
   ]
 }
