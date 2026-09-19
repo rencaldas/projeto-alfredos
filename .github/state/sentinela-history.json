@@ -105,6 +105,18 @@
     "update|rencaldas/liac-club|npm|@babel/types|7.29.8|8.0.5",
     "update|rencaldas/liac-club|npm|@csstools/css-calc|2.1.4|3.4.0",
     "update|rencaldas/liac-club|npm|@csstools/css-color-parser|3.1.0|4.2.3",
-    "update|rencaldas/liac-club|npm|@csstools/css-tokenizer|3.0.4|4.0.1"
+    "update|rencaldas/liac-club|npm|@csstools/css-tokenizer|3.0.4|4.0.1",
+    "update|rencaldas/liac-club|npm|lru-cache|10.4.3|11.5.3",
+    "update|rencaldas/liac-club|npm|@babel/code-frame|7.29.7|8.0.6",
+    "update|rencaldas/liac-club|npm|@babel/core|7.29.7|8.0.6",
+    "update|rencaldas/liac-club|npm|@babel/generator|7.29.8|8.0.6",
+    "update|rencaldas/liac-club|npm|@babel/helper-compilation-targets|7.29.7|8.0.6",
+    "update|rencaldas/liac-club|npm|@babel/helper-globals|7.29.7|8.0.6",
+    "update|rencaldas/liac-club|npm|@babel/helper-module-transforms|7.29.7|8.0.6",
+    "update|rencaldas/liac-club|npm|@babel/helper-string-parser|7.29.7|8.0.6",
+    "update|rencaldas/liac-club|npm|@babel/helper-validator-identifier|7.29.7|8.0.6",
+    "update|rencaldas/liac-club|npm|@babel/traverse|7.29.8|8.0.6",
+    "update|rencaldas/liac-club|npm|@babel/types|7.29.8|8.0.6",
+    "update|rencaldas/liac-club|npm|eslint-visitor-keys|3.4.3|5.0.1"
   ]
 }
