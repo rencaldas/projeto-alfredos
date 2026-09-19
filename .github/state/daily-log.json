@@ -2,205 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Hacker desafia a Rockstar e continua vazando vídeos de GTA 6",
-      "summary": "CyberLeeks publicou novos vídeos e diz que continuará vazando material do jogo. Rockstar deve revelar primeira gameplay oficial em 27 de agosto. Hacker desafia a Rockstar e continua vazando vídeos de GTA 6",
-      "link": "https://tecnoblog.net/noticias/hacker-desafia-a-rockstar-e-continua-vazando-videos-de-gta-6/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "CyberLeeks",
-          "DLC",
-          "GTA 5",
-          "GTA 6",
-          "GTA Online",
-          "GTA: San Andreas",
-          "Hacker",
-          "Jason",
-          "Leonida",
-          "Netflix",
-          "Playstation",
-          "Playstation 3 (PS3)",
-          "PlayStation 5 (PS5)",
-          "Red Dead Redemption 2",
-          "Rockstar",
-          "Rockstar Games",
-          "Trevor",
-          "Twitter",
-          "Vice City",
-          "X",
-          "Xbox 360",
-          "Xbox Series X e Series S"
-        ]
-      },
-      "timestamp": "2026-08-20T13:24:00.349Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung marca evento em 27 de agosto; Galaxy S26 FE deve ser destaque",
-      "summary": "Apresentação começa às 9h, no horário de Brasília, com transmissão pelo YouTube. Samsung marca evento em 27 de agosto; Galaxy S26 FE deve ser destaque",
-      "link": "https://tecnoblog.net/noticias/samsung-marca-evento-em-27-de-agosto-galaxy-s26-fe-deve-ser-destaque/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Android",
-          "Brasília",
-          "Exynos",
-          "Galaxy",
-          "Galaxy S26 FE",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Samsung",
-          "Samsung Galaxy",
-          "Samsung Galaxy S26",
-          "smartphones"
-        ]
-      },
-      "timestamp": "2026-08-20T14:51:46.271Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 16 registra queda superior a 40% em oferta na Amazon",
-      "summary": "iPhone 16 (128 GB) traz tela OLED de 2.000 nits e câmera principal de 48 MP; celular da Apple sai 41% mais barato do que preço original no Pix iPhone 16 registra queda superior a 40% em oferta na Amazon",
-      "link": "https://tecnoblog.net/achados/iphone-16-registra-queda-superior-a-40-em-oferta-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "iPhone 16",
-          "OLED",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-20T14:51:46.536Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Fabricante paralisa produção de dispositivos Linux devido à crise de RAM",
-      "summary": "Pine64 paralisou produção de notebooks, tablets e celulares baseados no Linux por causa da escassez e alta de preços de módulos DRAM e eMMC. Fabricante paralisa produção de dispositivos Linux devido à crise de RAM",
-      "link": "https://tecnoblog.net/noticias/fabricante-paralisa-producao-de-dispositivos-linux-devido-a-crise-de-ram/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "DRAM",
-          "Linux",
-          "Pine64"
-        ]
-      },
-      "timestamp": "2026-08-20T14:51:46.790Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S25 fica mais barato com cupom para quem busca alto desempenho",
-      "summary": "Galaxy S25 (256 GB) tem chip Snapdragon 8 Elite e 12 GB de RAM; celular premium da Samsung sai por menos da metade do preço original no Pix com cupom Galaxy S25 fica mais barato com cupom para quem busca alto desempenho",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-fica-mais-barato-com-cupom-para-quem-busca-alto-desempenho/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy S25",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-20T15:22:20.505Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Exclusivo Prime: Galaxy Tab S10 FE Plus 5G tem 43% OFF em até 12x sem juros",
-      "summary": "Galaxy Tab S10 Plus FE 5G (128 GB) leva tela de 13,1\" e vem com caneta S Pen; tablet da Samsung sai 43% mais barato de forma exclusiva para assinantes Amazon Prime Exclusivo Prime: Galaxy Tab S10 FE Plus 5G tem 43% OFF em até 12x sem juros",
-      "link": "https://tecnoblog.net/achados/exclusivo-prime-galaxy-tab-s10-fe-plus-5g-tem-43-off-em-ate-12x-sem-juros/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Amazon",
-          "Galaxy AI",
-          "Galaxy Tab S10 FE Plus 5G",
-          "Pix",
-          "Samsung",
-          "Stylus"
-        ]
-      },
-      "timestamp": "2026-08-20T16:20:10.175Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Latam Airlines sofre vazamento de dados de clientes; veja o que foi exposto",
-      "summary": "Latam confirmou vazamento de dados que afetou membros do Latam Pass. Informações como e-mail e dados parciais do cartão foram expostas no incidente. Latam Airlines sofre vazamento de dados de clientes; veja o que foi exposto",
-      "link": "https://tecnoblog.net/noticias/latam-airlines-sofre-vazamento-de-dados-de-clientes-veja-o-que-foi-exposto/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "LATAM Brasil"
-        ]
-      },
-      "timestamp": "2026-08-20T16:57:31.058Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Garmin Forerunner 570 entra em promoção e atinge o menor preço que já vimos",
-      "summary": "Garmin Forerunner 570 (47 mm) tem bateria de longa duração e monitora saúde do usuário; smartwatch atinge menor preço que já vimos com desconto de 39% no Pix com cupom Garmin Forerunner 570 entra em promoção e atinge o menor preço que já vimos",
-      "link": "https://tecnoblog.net/achados/garmin-forerunner-570-entra-em-promocao-e-atinge-o-menor-preco-que-ja-vimos/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Garmin",
-          "Garmin Forerunner 570",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-20T16:57:31.307Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "YouTube quer pagar por exclusividade de canais populares, diz site",
-      "summary": "Plataforma de vídeos do Google tenta se defender da Netflix, que fechou acordo com criadores famosos para aumentar engajamento e reduzir custos. YouTube quer pagar por exclusividade de canais populares, diz site",
-      "link": "https://tecnoblog.net/noticias/youtube-quer-pagar-por-exclusividade-de-canais-populares-diz-site/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Google",
-          "Netflix",
-          "YouTube"
-        ]
-      },
-      "timestamp": "2026-08-20T17:23:23.062Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google reúne funcionalidades de IA para estudantes em novo Student Hub",
-      "summary": "Pacote educacional reúne cadernos de estudo e tutoria por foto no Google Lens. Google reúne funcionalidades de IA para estudantes em novo Student Hub",
-      "link": "https://tecnoblog.net/noticias/google-reune-funcionalidades-de-ia-para-estudantes-em-novo-student-hub/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Gemini",
-          "Google",
-          "Google Lens",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-20T17:23:23.343Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Amazon compra e destrói livros em massa para treinar IA, diz site",
-      "summary": "Investigação rastreou livro raro até galpão em Las Vegas onde obras teriam as lombadas cortadas para digitalização em escala. Amazon compra e destrói livros em massa para treinar IA, diz site",
-      "link": "https://tecnoblog.net/noticias/amazon-compra-e-destroi-livros-em-massa-para-treinar-ia-diz-site/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Amazon",
-          "Apple AirTag",
-          "Direitos Autorais",
-          "Inteligência Artificial (IA)",
-          "Livros"
-        ]
-      },
-      "timestamp": "2026-08-20T17:23:23.622Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Como recuperar a senha do Instagram: passo a passo",
       "summary": "Recuperar a senha do Instagram é necessário quando a pessoa não lembra a combinação de acesso para poder navegar na rede social Como recuperar a senha do Instagram: passo a passo",
       "link": "https://tecnoblog.net/responde/como-recuperar-a-senha-do-instagram-passo-a-passo/",
@@ -8818,6 +8619,30 @@
         "repositorio": "rencaldas/liac-club"
       },
       "timestamp": "2026-09-19T12:43:51.531Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Valve libera ferramenta open-source para adaptar jogos de Android no Steam",
+      "summary": "Lepton fica disponível no GitHub e permite transformar games VR de celular no novo óculos Steam Frame. Valve libera ferramenta open-source para adaptar jogos de Android no Steam",
+      "link": "https://tecnoblog.net/noticias/valve-libera-ferramenta-open-source-para-adaptar-jogos-de-android-no-steam/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Android",
+          "GitHub",
+          "Lepton",
+          "Linux",
+          "Meta Ques 3",
+          "MIT",
+          "Proton",
+          "Steam",
+          "Steam Frame",
+          "Steam Machine",
+          "SteamOS",
+          "Valve"
+        ]
+      },
+      "timestamp": "2026-09-19T18:07:34.019Z"
     }
   ]
 }
