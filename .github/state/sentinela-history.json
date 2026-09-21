@@ -117,6 +117,7 @@
     "update|rencaldas/liac-club|npm|@babel/helper-validator-identifier|7.29.7|8.0.6",
     "update|rencaldas/liac-club|npm|@babel/traverse|7.29.8|8.0.6",
     "update|rencaldas/liac-club|npm|@babel/types|7.29.8|8.0.6",
-    "update|rencaldas/liac-club|npm|eslint-visitor-keys|3.4.3|5.0.1"
+    "update|rencaldas/liac-club|npm|eslint-visitor-keys|3.4.3|5.0.1",
+    "update|rencaldas/liac-club|npm|@asamuzakjp/css-color|3.2.0|7.0.1"
   ]
 }

@@ -8070,6 +8070,18 @@
         ]
       },
       "timestamp": "2026-09-21T13:19:14.070Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: @asamuzakjp/css-color (rencaldas/liac-club)",
+      "summary": "Versão instalada 3.2.0 → versão mais recente 7.0.1 (npm).",
+      "link": "https://github.com/rencaldas/liac-club",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/liac-club"
+      },
+      "timestamp": "2026-09-21T15:23:33.809Z"
     }
   ]
 }
