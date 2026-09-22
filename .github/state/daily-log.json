@@ -8653,6 +8653,93 @@
         ]
       },
       "timestamp": "2026-09-22T18:50:24.336Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Filtro de telemarketing gera guerra entre Vivo e TIM",
+      "summary": "Novo serviço estaria bloqueando apenas as ligações com ofertas da concorrente. Filtro de telemarketing gera guerra entre Vivo e TIM",
+      "link": "https://tecnoblog.net/noticias/vivo-e-tim-estao-em-pe-de-guerra-por-causa-do-telemarketing/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Exclusivo",
+          "Telemarketing",
+          "TIM",
+          "Truecaller",
+          "Vivo"
+        ]
+      },
+      "timestamp": "2026-09-22T21:42:56.971Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "LibreOffice 26.8 lida melhor com gráficos do Microsoft Office (mas sem exibi-los)",
+      "summary": "The Document Foundation explica que formato proprietário da Microsoft dificulta compatibilidade plena na plataforma de código aberto. LibreOffice 26.8 lida melhor com gráficos do Microsoft Office (mas sem exibi-los)",
+      "link": "https://tecnoblog.net/noticias/libreoffice-26-8-lida-melhor-com-graficos-do-microsoft-office-mas-sem-exibi-los/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "LibreOffice",
+          "Microsoft",
+          "Microsoft Office",
+          "The Document Foundation"
+        ]
+      },
+      "timestamp": "2026-09-22T21:42:57.291Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xiaomi afunda 34% no Brasil após crise de componentes",
+      "summary": "Vendas de empresas chinesas caem no primeiro semestre. Xiaomi afunda 34% no Brasil após crise de componentes",
+      "link": "https://tecnoblog.net/noticias/xiaomi-afunda-34-no-brasil-apos-crise-de-componentes/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Brasil",
+          "Motorola",
+          "Samsung",
+          "Xiaomi"
+        ]
+      },
+      "timestamp": "2026-09-22T21:42:57.610Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy A57 (256 GB) atinge 48% OFF com cupom na melhor oferta já registrada",
+      "summary": "Galaxy A57 com tela de 120 Hz, câmera de 50 MP e bateria de até 29 horas recebe amplo desconto com cupom no Magazine Luiza Galaxy A57 (256 GB) atinge 48% OFF com cupom na melhor oferta já registrada",
+      "link": "https://tecnoblog.net/achados/galaxy-a57-256-gb-atinge-48-off-com-cupom-na-melhor-oferta-ja-registrada/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-22T21:42:57.932Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S10 Lite (256 GB) com S Pen fica mais barato na Magalu",
+      "summary": "Galaxy Tab S10 com tela de 10,9\", Galaxy AI e bateria de até 16 horas recebe ótimo desconto às vesperas do Dia das Crianças 2026 Galaxy Tab S10 Lite (256 GB) com S Pen fica mais barato na Magalu",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-com-s-pen-fica-mais-barato-na-magalu/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Dia das Crianças 2026",
+          "Galaxy AI",
+          "Galaxy Tab S10",
+          "LCD",
+          "Magazine Luiza",
+          "Pix",
+          "S Pen",
+          "Samsung",
+          "Stylus"
+        ]
+      },
+      "timestamp": "2026-09-22T21:42:58.252Z"
     }
   ]
 }
