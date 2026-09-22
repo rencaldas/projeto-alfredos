@@ -8480,6 +8480,88 @@
         ]
       },
       "timestamp": "2026-09-22T10:20:00.165Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Medo da IA no Brasil supera média global, diz pesquisa",
+      "summary": "Pesquisa aponta 52% da população receosa com o futuro da tecnologia, mas um quarto da população nunca nem ouviu falar. Medo da IA no Brasil supera média global, diz pesquisa",
+      "link": "https://tecnoblog.net/noticias/medo-da-ia-no-brasil-supera-media-global-diz-pesquisa/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Inteligência Artificial (IA)",
+          "Pew Research Center"
+        ]
+      },
+      "timestamp": "2026-09-22T15:03:37.312Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nova função contra roubo de iPhone aparece no beta do iOS",
+      "summary": "Chamada internamente de AutoLock, novidade deve bloquear celular ao detectar que foi puxado da mão do dono. Nova função contra roubo de iPhone aparece no beta do iOS",
+      "link": "https://tecnoblog.net/noticias/nova-funcao-contra-roubo-de-iphone-aparece-no-beta-do-ios/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Apple",
+          "FaceID",
+          "iOS",
+          "iOS 27",
+          "iPhone",
+          "Proteção de Dispositivo Roubado"
+        ]
+      },
+      "timestamp": "2026-09-22T15:03:37.576Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Despencou: iPhone 17e (512 GB) tem promoção histórica no Magalu",
+      "summary": "iPhone 17e (512 GB) traz chip A19 de alto desempenho e câmera de 48 MP; celular acessível da Apple atinge o menor preço histórico com desconto de 34% com cupom Despencou: iPhone 17e (512 GB) tem promoção histórica no Magalu",
+      "link": "https://tecnoblog.net/achados/despencou-iphone-17e-512-gb-tem-promocao-historica-no-magalu/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "Apple A19",
+          "iPhone",
+          "iPhone 17e",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-22T15:03:37.879Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 Ultra com Snapdragon tem 58% OFF em oferta agressiva",
+      "summary": "Galaxy S25 Ultra (256 GB) com chip Snapdragon de ponta e câmera de 200 MP sai 58% mais barato que o preço original, em oferta do Magalu no Pix com cupom Galaxy S25 Ultra com Snapdragon tem 58% OFF em oferta agressiva",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-com-snapdragon-tem-58-off-em-oferta-agressiva/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy S25 Ultra",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-09-22T15:03:38.161Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como medir a distância entre dois pontos no Google Maps",
+      "summary": "O medidor de distância do Google Maps é usado para descobrir o quão longe ou quão perto estão dois endereços em linha reta Como medir a distância entre dois pontos no Google Maps",
+      "link": "https://tecnoblog.net/responde/como-medir-distancias-no-google-maps/",
+      "meta": {
+        "categorias": [
+          "Mobilidade",
+          "Android",
+          "Google Maps",
+          "iOS"
+        ]
+      },
+      "timestamp": "2026-09-22T15:03:38.454Z"
     }
   ]
 }
