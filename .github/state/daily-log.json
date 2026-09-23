@@ -2,219 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Operadora virtual encerra atividades e migra clientes para a Algar Telecom",
-      "summary": "Nomo deixará de operar como marca independente. Clientes precisam fazer a transição para manter suas linhas ativas. Operadora virtual encerra atividades e migra clientes para a Algar Telecom",
-      "link": "https://tecnoblog.net/noticias/operadora-virtual-encerra-atividades-e-migra-clientes-para-a-algar-telecom/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Algar Telecom",
-          "MVNO",
-          "Nomo",
-          "Operadoras",
-          "telecomunicações",
-          "Telefonia móvel"
-        ]
-      },
-      "timestamp": "2026-08-24T14:23:28.370Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S26 com vídeos em 8K tem grande queda de preço no Mercado Livre",
-      "summary": "Galaxy S26 (256 GB) filma em 8K e tem tela AMOLED de 120 Hz; celular premium da Samsung atinge um dos menores preços já vistos, com desconto de 49% no Pix com cupom Galaxy S26 com vídeos em 8K tem grande queda de preço no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-com-videos-em-8k-tem-grande-queda-de-preco-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "8K",
-          "AMOLED",
-          "Galaxy AI",
-          "Galaxy S26",
-          "Mercado Livre",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy S26"
-        ]
-      },
-      "timestamp": "2026-08-24T14:23:28.603Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Passo a passo para desativar o Instagram temporariamente",
-      "summary": "Para desativar o Instagram por um tempo, você pode acessar o link direto da Central de Contas da Meta ou pausar o perfil nas configurações no app para celular. Passo a passo para desativar o Instagram temporariamente",
-      "link": "https://tecnoblog.net/responde/como-desativar-o-instagram-temporariamente-passo-a-passo/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Instagram"
-        ]
-      },
-      "timestamp": "2026-08-24T14:23:28.843Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Moto G86 (256 GB) cai de preço e fica 40% mais barato na Amazon",
-      "summary": "Moto G86 (256 GB) tem tela POLED de 120 Hz e câmera principal de 50 MP; celular de bom custo-benefício da Motorola tem 40% de desconto no Pix Moto G86 (256 GB) cai de preço e fica 40% mais barato na Amazon",
-      "link": "https://tecnoblog.net/achados/moto-g86-256-gb-cai-de-preco-e-fica-40-mais-barato-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Moto G86",
-          "Motorola",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-24T15:52:59.797Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Linus Torvalds usou IA para corrigir um bug “infernal” no Linux",
-      "summary": "Linus Torvalds usou IA para resolver uma falha em um driver gráfico da Intel. Ele teve que insistir, pois a IA afirmou várias vezes que o problema era impossível de resolver. Linus Torvalds usou IA para corrigir um bug “infernal” no Linux",
-      "link": "https://tecnoblog.net/noticias/linus-torvalds-usou-ia-para-corrigir-um-bug-infernal-no-linux/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Intel",
-          "Inteligência Artificial (IA)",
-          "Linus Torvalds",
-          "Linux"
-        ]
-      },
-      "timestamp": "2026-08-24T15:53:00.050Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Tablet para leitura: top 10 modelos para comprar em 2026",
-      "summary": "Encontre o melhor tablet para leitura e tenha conforto e praticidade ao consumir livros, PDFs, HQs e mais arquivos digitais Tablet para leitura: top 10 modelos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/tablet-para-leitura/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "leitura",
-          "Tablet"
-        ]
-      },
-      "timestamp": "2026-08-24T15:53:00.352Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nokia ganha celular retrô com bateria de 3.700 mAh e função powerbank",
-      "summary": "Dispositivo básico da fabricante HMD Global foca em autonomia extrema e atua como carregador portátil. Modelo não chega ao Brasil. Nokia ganha celular retrô com bateria de 3.700 mAh e função powerbank",
-      "link": "https://tecnoblog.net/noticias/nokia-ganha-celular-retro-com-bateria-de-3-700-mah-e-funcao-powerbank/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Celular",
-          "celulares",
-          "Feature Phone",
-          "HMD Global",
-          "Nokia",
-          "power bank"
-        ]
-      },
-      "timestamp": "2026-08-24T15:53:00.602Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Netflix pode colocar streamings rivais dentro do próprio app",
-      "summary": "Empresa quer transformar sua plataforma em ponto de entrada para diversos serviços para manter usuário por mais tempo no app. Netflix pode colocar streamings rivais dentro do próprio app",
-      "link": "https://tecnoblog.net/noticias/netflix-pode-colocar-streamings-rivais-dentro-do-proprio-app/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Amazon",
-          "Netflix",
-          "Prime Video"
-        ]
-      },
-      "timestamp": "2026-08-24T15:53:00.917Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "AliExpress é flagrado usando áudio para rastrear usuário",
-      "summary": "Script da loja mantinha o áudio ativo mesmo com o volume zerado para criar um perfil detalhado de cada computador. AliExpress é flagrado usando áudio para rastrear usuário",
-      "link": "https://tecnoblog.net/noticias/aliexpress-e-flagrado-usando-audio-para-rastrear-usuario/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "AliExpress"
-        ]
-      },
-      "timestamp": "2026-08-24T16:21:55.661Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S27 Ultra pode abandonar visual para copiar solução da Apple",
-      "summary": "Samsung pode adotar uma nova barra horizontal e suporte nativo a acessórios magnéticos, segundo o leaker Ice Universe. Galaxy S27 Ultra pode abandonar visual para copiar solução da Apple",
-      "link": "https://tecnoblog.net/noticias/galaxy-s27-ultra-pode-abandonar-visual-para-copiar-solucao-da-apple/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Android",
-          "Apple",
-          "Celular",
-          "Galaxy S",
-          "Galaxy S27 Ultra",
-          "iPhone 17 Pro Max",
-          "Qi2",
-          "Recarga sem fio (carregamento wireless)",
-          "rumor",
-          "Samsung",
-          "Smartphone"
-        ]
-      },
-      "timestamp": "2026-08-24T17:02:05.107Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Signature recebe desconto imbatível de 48% no Mercado Livre",
-      "summary": "Motorola Signature (512 GB) traz tela AMOLED de 165 Hz e todas as câmeras de 50 MP; celular topo de linha atinge menor preço que já vimos Motorola Signature recebe desconto imbatível de 48% no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/motorola-signature-recebe-desconto-imbativel-de-48-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Signature",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-24T17:02:05.493Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 60 Neo (512 GB) com câmera Sony tem 43% OFF no Magalu",
-      "summary": "Edge 60 Neo (512 GB) tem câmera Sony de 50 MP e tela POLED de 120 Hz; celular da Motorola sai 43% mais barato que preço original no Pix Motorola Edge 60 Neo (512 GB) com câmera Sony tem 43% OFF no Magalu",
-      "link": "https://tecnoblog.net/achados/motorola-edge-60-neo-512-gb-com-camera-sony-tem-43-off-no-magalu/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Magazine Luiza",
-          "Motorola",
-          "Motorola Edge 60 Neo",
-          "Pix",
-          "Sony"
-        ]
-      },
-      "timestamp": "2026-08-24T17:02:05.788Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "App CNH do Brasil agora mostra cobranças de pedágio free flow",
-      "summary": "Condutores agora podem usar o aplicativo CNH do Brasil para consultar passagens por pedágios free flow em rodovias estaduais e federais. App CNH do Brasil agora mostra cobranças de pedágio free flow",
-      "link": "https://tecnoblog.net/noticias/app-cnh-do-brasil-agora-mostra-cobrancas-de-pedagio-free-flow/",
-      "meta": {
-        "categorias": [
-          "Mobilidade",
-          "Brasil"
-        ]
-      },
-      "timestamp": "2026-08-24T17:02:06.098Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Amazon aumenta preços do Kindle, Echo e Fire TV no Brasil; veja os novos valores",
       "summary": "Reajuste deixou produtos até 55% mais caros no país. Mudança atinge linhas de entrada e ocorre em meio à crise global de chips. Amazon aumenta preços do Kindle, Echo e Fire TV no Brasil; veja os novos valores",
       "link": "https://tecnoblog.net/noticias/amazon-aumenta-precos-do-kindle-echo-e-fire-tv-no-brasil-veja-os-novos-valores/",
@@ -9141,6 +8928,83 @@
         "repositorio": "rencaldas/ideal-marketplace-project"
       },
       "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Programa de pontos do Nubank estreia níveis, sorteios e descontos",
+      "summary": "Novo NuCoin passa a funcionar na mecânica de temporadas com três meses de duração. Vice-presidente antecipa novidades ao Tecnoblog. Programa de pontos do Nubank estreia níveis, sorteios e descontos",
+      "link": "https://tecnoblog.net/noticias/programa-de-pontos-do-nubank-estreia-niveis-sorteios-e-descontos/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Allianz Parque",
+          "Exclusivo",
+          "Nubank",
+          "Nubank Croma",
+          "Nubank Ultravioleta",
+          "NuCoin"
+        ]
+      },
+      "timestamp": "2026-09-23T17:50:17.994Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
+      "summary": "OpenAI revelou os modelos GPT-6 Sol e GPT-6 Luna, que trazem menor custo e foco em diferentes níveis de complexidade em relação ao GPT-6 Astra. OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
+      "link": "https://tecnoblog.net/noticias/openai-expande-gpt-6-com-modelos-sol-e-luna-vejas-as-diferencas/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "ChatGPT",
+          "GPT",
+          "GPT-5.6",
+          "GPT-6 Astra",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-09-23T17:50:18.274Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 70 (256 GB) tem 54% OFF na melhor oferta desde julho",
+      "summary": "Motorola Edge 70 (256 GB) com câmeras de 50 MP e tela POLED de 4.500 nits alcança o menor preço em meses, com desconto de 54% no Pix com cupom no Magalu Motorola Edge 70 (256 GB) tem 54% OFF na melhor oferta desde julho",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-256-gb-tem-54-off-na-melhor-oferta-desde-julho/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Magazine Luiza",
+          "Motorola",
+          "Motorola Edge 70",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-23T17:50:18.554Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como recuperar um SSD corrompido (guia prático)",
+      "summary": "Você não consegue acessar seu SSD ou os arquivos armazenados nele sumiram? Este guia mostra como recuperar os dados perdidos e reparar a unidade. Como recuperar um SSD corrompido (guia prático)",
+      "link": "https://tecnoblog.net/publieditoriais/como-recuperar-um-ssd-corrompido-guia-pratico/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "SSD"
+        ]
+      },
+      "timestamp": "2026-09-23T17:50:18.836Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "YouTube vai deixar você criar feeds próprios na página inicial",
+      "summary": "Novidade permite criar abas com vídeos sobre temas escolhidos. Recurso chega ao celular e desktop em outubro. YouTube vai deixar você criar feeds próprios na página inicial",
+      "link": "https://tecnoblog.net/noticias/youtube-vai-deixar-voce-criar-feeds-proprios-na-pagina-inicial/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "YouTube"
+        ]
+      },
+      "timestamp": "2026-09-23T17:50:19.115Z"
     }
   ]
 }
