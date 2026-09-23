@@ -2,20 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Como recuperar arquivos em um cartão SD em “RAW” (com falha)",
-      "summary": "Os arquivos sumiram do seu cartão SD ou microSD e um erro “RAW” apareceu? Veja como resolver o problema. Como recuperar arquivos em um cartão SD em “RAW” (com falha)",
-      "link": "https://tecnoblog.net/publieditoriais/como-recuperar-arquivos-em-um-cartao-sd-em-raw-com-falha/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "Cartão SD",
-          "MicroSD"
-        ]
-      },
-      "timestamp": "2026-08-24T13:40:51.875Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Operadora virtual encerra atividades e migra clientes para a Algar Telecom",
       "summary": "Nomo deixará de operar como marca independente. Clientes precisam fazer a transição para manter suas linhas ativas. Operadora virtual encerra atividades e migra clientes para a Algar Telecom",
       "link": "https://tecnoblog.net/noticias/operadora-virtual-encerra-atividades-e-migra-clientes-para-a-algar-telecom/",
@@ -8855,6 +8841,306 @@
         ]
       },
       "timestamp": "2026-09-23T13:00:42.323Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: brick/math (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 0.14.8 → versão mais recente 1.0.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/guzzle (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 7.15.5 → versão mais recente 8.2.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/promises (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 2.5.3 → versão mais recente 3.0.2 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/psr7 (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 2.13.1 → versão mais recente 3.1.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/uri-template (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v1.0.11 → versão mais recente 2.0.1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v12.69.2 → versão mais recente 13.33.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/tinker (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v2.11.1 → versão mais recente 3.0.2 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: stripe/stripe-php (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v19.4.1 → versão mais recente 21.4.0.0-beta1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/console (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/error-handler (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.5 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/finder (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/http-foundation (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/http-kernel (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/mailer (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/mime (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/process (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/routing (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.6 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/uid (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.5 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/var-dumper (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.7 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: pestphp/pest (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v4.7.8 → versão mais recente 5.2.1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: pestphp/pest-plugin (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v4.0.0 → versão mais recente 5.0.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: pestphp/pest-plugin-arch (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v4.0.2 → versão mais recente 5.0.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: pestphp/pest-plugin-laravel (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v4.1.0 → versão mais recente 5.0.1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: pestphp/pest-plugin-mutate (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v4.0.1 → versão mais recente 5.0.2 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: pestphp/pest-plugin-profanity (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v4.2.1 → versão mais recente 5.0.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-23T13:54:38.538Z"
     }
   ]
 }
