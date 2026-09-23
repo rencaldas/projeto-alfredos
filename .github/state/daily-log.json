@@ -8823,6 +8823,38 @@
         ]
       },
       "timestamp": "2026-09-22T23:48:50.300Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
+      "summary": "Modelo promete igualar desempenho do Mythos 5.1 para trabalhos de cibersegurança e biologia. Recursos de segurança também são reforçados. Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
+      "link": "https://tecnoblog.net/noticias/anthropic-anuncia-novo-claude-opus-5-5-com-capacidade-ainda-maior/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "Claude",
+          "Claude Fable 5.1",
+          "Claude Mythos 5.1",
+          "Claude Opus 5",
+          "Claude Opus 5.5",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-09-23T13:00:42.049Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta colocou seres humanos para concluírem tarefas de agentes de IA",
+      "summary": "Empresa suspendeu testes no Muse após funcionários apontarem riscos à privacidade dos usuários. Meta colocou seres humanos para concluírem tarefas de agentes de IA",
+      "link": "https://tecnoblog.net/noticias/meta-colocou-seres-humanos-para-concluirem-tarefas-de-agentes-de-ia/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-09-23T13:00:42.323Z"
     }
   ]
 }
