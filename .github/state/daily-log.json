@@ -2,167 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Xiaomi lança o Xring O3, chip de celular que bate recorde de desempenho",
-      "summary": "Fabricado em 3 nanômetros, novo SoC é o primeiro a ultrapassar os 5 milhões de pontos no benchmark AnTuTu. Xiaomi lança o Xring O3, chip de celular que bate recorde de desempenho",
-      "link": "https://tecnoblog.net/noticias/xiaomi-lanca-o-xring-o3-chip-de-celular-que-bate-recorde-de-desempenho/",
-      "meta": {
-        "categorias": [
-          "Hardware e Componentes",
-          "AnTuTu",
-          "Celular dobrável",
-          "Hardware",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Processador",
-          "smartphones",
-          "System-on-a-chip (SoC)",
-          "TSMC",
-          "Xiaomi"
-        ]
-      },
-      "timestamp": "2026-08-25T13:25:17.585Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Custo-benefício: Galaxy S25 FE cai para quase metade do preço em oferta",
-      "summary": "Galaxy S25 FE (128 GB) tem tela de 120 Hz e câmeras do Galaxy S26; celular premium acessível da Samsung sai por 48% mais barato no Mercado Livre Custo-benefício: Galaxy S25 FE cai para quase metade do preço em oferta",
-      "link": "https://tecnoblog.net/achados/custo-beneficio-galaxy-s25-fe-cai-para-quase-metade-do-preco-em-oferta/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy AI",
-          "Galaxy S25 FE",
-          "Mercado Livre",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy S26"
-        ]
-      },
-      "timestamp": "2026-08-25T13:25:17.833Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone no Brasil ganha recurso para mostrar câmera ao vivo à polícia",
-      "summary": "Apple liberou oficialmente o recurso para usuários no país. Novidade utiliza tecnologia da plataforma RapidSOS para enviar imagens aos atendentes do 190. iPhone no Brasil ganha recurso para mostrar câmera ao vivo à polícia",
-      "link": "https://tecnoblog.net/noticias/iphone-agora-pode-mostrar-sua-camera-ao-vivo-em-chamadas-para-o-190/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Apple",
-          "Brasil",
-          "Brasileiros",
-          "iOS",
-          "iOS 18",
-          "iPhone",
-          "Polícia",
-          "Polícia Militar",
-          "RapidSOS",
-          "Segurança",
-          "smartphones"
-        ]
-      },
-      "timestamp": "2026-08-25T14:11:05.130Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy A37 5G (256 GB) com IA tem 50% OFF com cupom no Mercado Livre",
-      "summary": "Galaxy A37 traz Circule para Pesquisar aprimorado, câmera de 50 MP e apagador de objetos; celular da Samsung sai pela metade do preço em oferta Galaxy A37 5G (256 GB) com IA tem 50% OFF com cupom no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-a37-5g-256-gb-com-ia-tem-50-off-com-cupom-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy A37",
-          "Inteligência Artificial (IA)",
-          "Mercado Livre",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy A37 5G",
-          "Super AMOLED"
-        ]
-      },
-      "timestamp": "2026-08-25T14:11:05.455Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor notebook para estudar: o que avaliar antes da compra",
-      "summary": "Desempenho, bateria, tela e portabilidade fazem diferença para quem usa o computador para trabalhos e pesquisas. Melhor notebook para estudar: o que avaliar antes da compra",
-      "link": "https://tecnoblog.net/publieditoriais/melhor-notebook-para-estudar-o-que-avaliar-antes-da-compra/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Dell 14",
-          "Dell 15",
-          "Dell Inspiron 14 2 em 1",
-          "Notebook"
-        ]
-      },
-      "timestamp": "2026-08-25T14:11:05.766Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 17 Pro (256 GB) chega a um dos menores preços recentes",
-      "summary": "iPhone 17 Pro (256 GB) tem câmeras de 48 MP e tela OLED de 120 Hz; celular da Apple atinge um dos menores preços dos últimos meses com desconto de 30% no Pix iPhone 17 Pro (256 GB) chega a um dos menores preços recentes",
-      "link": "https://tecnoblog.net/achados/iphone-17-pro-256-gb-chega-a-um-dos-menores-precos-recentes/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "Apple A19",
-          "iPhone 17 Pro",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-25T14:11:06.205Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 70 (256 GB) com Snapdragon fica 48% mais barato",
-      "summary": "Edge 70 (256 GB) possui chip Snapdragon de ponta e tela POLED de 4.500 nits; celular da Motorola recebe desconto de 48% sobre preço original no Pix com cupom Motorola Edge 70 (256 GB) com Snapdragon fica 48% mais barato",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-256-gb-com-snapdragon-fica-48-mais-barato/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Motorola",
-          "Motorola Edge 70",
-          "Pix",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-08-25T15:01:44.602Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "PowerToys 0.101 traz novo modo de alternar janelas e vários refinamentos",
-      "summary": "Microsoft lançou mais uma versão de seu poderoso \"canivete suíço\" para Windows. Novidade melhora Paleta de Comandos, PowerDisplay, Colar Avançado e mais. PowerToys 0.101 traz novo modo de alternar janelas e vários refinamentos",
-      "link": "https://tecnoblog.net/noticias/powertoys-0-101-traz-novo-modo-de-alternar-janelas-e-varios-refinamentos/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "Microsoft",
-          "Microsoft PowerToys",
-          "Windows"
-        ]
-      },
-      "timestamp": "2026-08-25T15:01:44.888Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple desiste de mudar o Ocultar Meu E-mail após repercussão negativa",
-      "summary": "Usuários apontaram risco de bloqueio de endereços temporários por sites e aplicativos. Apple desiste de mudar o Ocultar Meu E-mail após repercussão negativa",
-      "link": "https://tecnoblog.net/noticias/apple-desiste-de-mudar-o-ocultar-meu-e-mail-apos-repercussao-negativa/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Apple",
-          "iCloud"
-        ]
-      },
-      "timestamp": "2026-08-25T15:56:36.932Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "LibreOffice critica Microsoft Office por só oferecer uma opção de interface",
       "summary": "Para The Document Foundation, painel Ribbon do Office não é adequada para usuários avançados. LibreOffice terá recurso semelhante, mas opcional. LibreOffice critica Microsoft Office por só oferecer uma opção de interface",
       "link": "https://tecnoblog.net/noticias/libreoffice-critica-microsoft-office-por-so-oferecer-uma-opcao-de-interface/",
@@ -9090,6 +8929,96 @@
         ]
       },
       "timestamp": "2026-09-24T12:12:23.777Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Claude descobre novo sistema de enzimas",
+      "summary": "Inteligência artificial da Anthropic foi usada para analisar aproximadamente 200 mil enzimas com 950 agentes em 21 horas. Claude descobre novo sistema de enzimas",
+      "link": "https://tecnoblog.net/noticias/anthropic-diz-ter-descoberto-novo-sistema-de-enzimas-com-o-claude/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "ART",
+          "Chikunguna",
+          "Claude",
+          "Claude Mythos",
+          "CRISPR",
+          "DNA",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "RNA"
+        ]
+      },
+      "timestamp": "2026-09-24T17:08:39.148Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Depois do Windows, Qualcomm agora aposta no Linux",
+      "summary": "Qualcomm anunciou suporte oficial ao Linux em computadores equipados com chips Snapdragon X2. Depois do Windows, Qualcomm agora aposta no Linux",
+      "link": "https://tecnoblog.net/noticias/depois-do-windows-qualcomm-agora-aposta-no-linux/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Linux",
+          "Qualcomm",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-09-24T17:08:39.418Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 17 Pro Max está em queda com 37% OFF para quem busca topo de linha",
+      "summary": "iPhone 17 Pro Max (256 GB) tem câmeras de 48 MP e tela OLED de 120 Hz; oferta do Mercado Livre traz celular premium da Apple com desconto de 37% no Pix iPhone 17 Pro Max está em queda com 37% OFF para quem busca topo de linha",
+      "link": "https://tecnoblog.net/achados/iphone-17-pro-max-esta-em-queda-com-37-off-para-quem-busca-topo-de-linha/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "Apple Intelligence",
+          "iPhone",
+          "iPhone 17 Pro Max",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-24T17:08:39.667Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Funcionários da Toyota treinam robôs para executar suas funções",
+      "summary": "Montadora japonesa afirma que ideia não é substituir os trabalhadores. Toyota planeja investir US$ 6,4 bilhões por ano em automação a partir de 2028. Funcionários da Toyota treinam robôs para executar suas funções",
+      "link": "https://tecnoblog.net/noticias/funcionarios-da-toyota-treinam-robos-para-executar-suas-funcoes/",
+      "meta": {
+        "categorias": [
+          "Robótica",
+          "Boston Dynamics",
+          "BYD",
+          "ELEY",
+          "Ford",
+          "Geely",
+          "Hyundai",
+          "Inteligência Artificial (IA)",
+          "Toyota"
+        ]
+      },
+      "timestamp": "2026-09-24T17:08:39.919Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor VPN para iPhone: como blindar aplicativos e reduzir o rastreamento de dados",
+      "summary": "O iOS pode não impedir a interceptação de informações em conexões abertas. Entenda como o uso de uma rede privada cria mais proteção para tráfego do aparelho. Melhor VPN para iPhone: como blindar aplicativos e reduzir o rastreamento de dados",
+      "link": "https://tecnoblog.net/publieditoriais/melhor-vpn-para-iphone-como-blindar-aplicativos-e-reduzir-o-rastreamento-de-dados/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "iOS",
+          "iPhone",
+          "VPN"
+        ]
+      },
+      "timestamp": "2026-09-24T17:08:40.180Z"
     }
   ]
 }
