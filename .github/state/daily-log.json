@@ -1,53 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Google lança Gemini jurídico para reduzir erros e alucinações",
-      "summary": "Plataforma verifica citações e conecta agentes de IA a bases jurídicas usadas por escritórios e departamentos legais. Google lança Gemini jurídico para reduzir erros e alucinações",
-      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-juridico-para-reduzir-erros-e-alucinacoes/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Gemini",
-          "Google",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-25T21:16:12.360Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Smart TV LG QNED evo com Mini LED de 55” sai 32% mais barata com cupom",
-      "summary": "LG QNED80BSG foi lançada em 2026 e traz recursos de IA, iluminação Mini LED, cores dinâmicas e suporte a Dolby Atmos. Utilize o cupom OFFCOMMELI em oferta no Mercado Livre Smart TV LG QNED evo com Mini LED de 55” sai 32% mais barata com cupom",
-      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-evo-com-mini-led-de-55-sai-32-mais-barata-com-cupom/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Dolby Atmos",
-          "Mercado Livre",
-          "Pix",
-          "Smart TV LG QNED evo Mini LED QNED80BSG"
-        ]
-      },
-      "timestamp": "2026-08-25T22:13:48.764Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Huawei Watch GT 6 entra em promoção com 42% OFF em até 12x sem juros",
-      "summary": "Huawei Watch GT 6 monitora cadência, tem tela AMOLED e é um dos melhores smartwatches da marca; oferta na Amazon pode ser parcelada Huawei Watch GT 6 entra em promoção com 42% OFF em até 12x sem juros",
-      "link": "https://tecnoblog.net/achados/huawei-watch-gt-6-entra-em-promocao-com-42-off-em-ate-12x-sem-juros/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Amazon",
-          "AMOLED",
-          "Huawei",
-          "Huawei Watch GT 6"
-        ]
-      },
-      "timestamp": "2026-08-25T22:44:14.371Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/seslock-holmes)",
       "summary": "Versão instalada 3.1.0 → versão mais recente 4.2.1 (npm).",
@@ -9017,6 +8970,89 @@
         ]
       },
       "timestamp": "2026-09-24T20:27:19.674Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Mais uma alta de preço no Disney+",
+      "summary": "Reajuste de até 13% afeta assinantes dos Estados Unidos. Ainda não se sabe se alta impactará o Brasil. Mais uma alta de preço no Disney+",
+      "link": "https://tecnoblog.net/noticias/mais-uma-alta-de-preco-no-disney/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Brasil",
+          "Disney",
+          "Disney+ (Disney Plus)",
+          "ESPN",
+          "Estados Unidos (EUA)"
+        ]
+      },
+      "timestamp": "2026-09-24T23:16:49.583Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Aproveite: Galaxy Watch 8 LTE fica 61% mais barato por até 10x sem juros",
+      "summary": "Galaxy Watch 8 LTE (40 mm) com sensores avançados para a prática de esportes recebe desconto de 61% no Pix com cupom em até 10x sem juros no Mercado Livre Aproveite: Galaxy Watch 8 LTE fica 61% mais barato por até 10x sem juros",
+      "link": "https://tecnoblog.net/achados/aproveite-galaxy-watch-8-lte-fica-61-mais-barato-por-ate-10x-sem-juros/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Galaxy Watch 8",
+          "Mercado Livre",
+          "Pix",
+          "Samsung Galaxy Watch"
+        ]
+      },
+      "timestamp": "2026-09-24T23:16:49.865Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nintendo ganha US$ 4,5 milhões em processo contra pirataria no Switch",
+      "summary": "James WIlliams foi condenado por violações envolvendo 30 jogos da empresa. Nintendo ganha US$ 4,5 milhões em processo contra pirataria no Switch",
+      "link": "https://tecnoblog.net/noticias/nintendo-ganha-us-45-milhoes-em-processo-contra-pirataria-no-switch/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Estados Unidos (EUA)",
+          "Nintendo",
+          "Nintendo of America Inc.",
+          "Switch"
+        ]
+      },
+      "timestamp": "2026-09-24T23:16:50.162Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google vai lançar satélite com IA para testar computação no espaço",
+      "summary": "Protótipo avaliará efeitos da radiação e temperatura, além do sistema de resfriamento; lançamento está previsto para 1º de outubro. Google vai lançar satélite com IA para testar computação no espaço",
+      "link": "https://tecnoblog.net/noticias/google-vai-lancar-satelite-com-ia-para-testar-computacao-no-espaco/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Data center",
+          "Google",
+          "Inteligência Artificial (IA)",
+          "Satélites",
+          "SpaceX",
+          "TPU"
+        ]
+      },
+      "timestamp": "2026-09-24T23:16:50.457Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como espelhar o celular no PC ou notebook",
+      "summary": "Você pode transmitir a tela do celular para o PC por meio de conexões Wi-Fi com recursos nativos do Windows, aplicativos dedicados ou utilizando conexões via cabo USB Como espelhar o celular no PC ou notebook",
+      "link": "https://tecnoblog.net/responde/como-espelhar-a-tela-do-celular-no-pc/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Android",
+          "iPhone",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-09-24T23:16:50.742Z"
     }
   ]
 }
