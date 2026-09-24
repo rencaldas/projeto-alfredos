@@ -1,19 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Tablet pequeno: 6 modelos com tela de até 9″ para comprar em 2026",
-      "summary": "Procurando um tablet compacto? Confira os 6 melhores modelos de até 9 polegadas da Apple, Samsung, Xiaomi, Huawei e Lenovo para comprar em 2026 Tablet pequeno: 6 modelos com tela de até 9″ para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/tablet-pequeno/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Lenovo"
-        ]
-      },
-      "timestamp": "2026-08-24T23:32:16.543Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: @types/node (rencaldas/seslock-holmes)",
       "summary": "Versão instalada 24.13.3 → versão mais recente 26.3.0 (npm).",
@@ -8974,6 +8961,85 @@
         ]
       },
       "timestamp": "2026-09-23T23:16:29.935Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Oi está com a conta quase zerada e sem condições de pagar ex-funcionários",
+      "summary": "Cerca de mil ex-trabalhadores aguardam pagamentos de verbas rescisórias. Valores somam R$ 72 milhões. Oi está com a conta quase zerada e sem condições de pagar ex-funcionários",
+      "link": "https://tecnoblog.net/noticias/oi-diz-ter-r-001-em-caixa-e-nao-sabe-quando-pagara-ex-funcionarios/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "falência",
+          "FGTS",
+          "Justiça",
+          "Oi",
+          "Recuperação Judicial",
+          "Rio de Janeiro",
+          "telecomunicações"
+        ]
+      },
+      "timestamp": "2026-09-24T01:30:29.082Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Raspberry Pi irrita usuários ao bloquear upgrade de memória RAM",
+      "summary": "Bloqueio de troca de chip de memória RAM visa prevenir fraudes, justifica engenheiro da Raspberry Pi. Raspberry Pi irrita usuários ao bloquear upgrade de memória RAM",
+      "link": "https://tecnoblog.net/noticias/raspberry-pi-irrita-usuarios-ao-bloquear-upgrade-de-memoria-ram/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Raspberry Pi",
+          "Raspberry Pi 5"
+        ]
+      },
+      "timestamp": "2026-09-24T01:30:29.339Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Geladeiras smart da Samsung estragam alimentos após falha de atualização",
+      "summary": "Software de testes chegou a usuários na Coreia do Sul por erro e interrompeu a refrigeração. Samsung substituiu as placas-mãe dos aparelhos. Geladeiras smart da Samsung estragam alimentos após falha de atualização",
+      "link": "https://tecnoblog.net/noticias/geladeiras-smart-da-samsung-estragam-alimentos-apos-atualizacao-errada/",
+      "meta": {
+        "categorias": [
+          "Casa Conectada e IoT",
+          "Coreia do Sul",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-24T01:30:29.581Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nubank acaba com mais um benefício gratuito",
+      "summary": "Ultravioleta passa a cobrar pelo seguro contra fraudes cibernéticas e roubo de itens pessoais. Nubank acaba com mais um benefício gratuito",
+      "link": "https://tecnoblog.net/noticias/nubank-acaba-com-mais-um-beneficio-gratuito/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Nubank",
+          "Nubank Ultravioleta",
+          "seguro de celular"
+        ]
+      },
+      "timestamp": "2026-09-24T01:30:29.835Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TV QLED Samsung 50″ com Vision AI fica mais de R$ 1 mil mais barata",
+      "summary": "Smart TV 4K Samsung com painel QLED Ultra com um bilhão de cores e IA integrada tem desconto de 31% com cupom no Magazine Luiza TV QLED Samsung 50″ com Vision AI fica mais de R$ 1 mil mais barata",
+      "link": "https://tecnoblog.net/achados/tv-qled-samsung-50-com-vision-ai-fica-mais-de-r-1-mil-mais-barata/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "Inteligência Artificial (IA)",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung",
+          "Smart TV Samsung Vision AI QLED Ultra Q7F"
+        ]
+      },
+      "timestamp": "2026-09-24T01:30:30.073Z"
     }
   ]
 }
