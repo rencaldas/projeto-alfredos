@@ -1,36 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @types/node (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 24.13.3 → versão mais recente 26.3.0 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-08-25T09:22:44.870Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "ANPD multa TikTok em R$ 153,7 milhões",
-      "summary": "A Agência Nacional de Proteção de Dados (ANPD) aplicou multa de R$ 153,7 milhões à ByteDance, controladora do TikTok, por irregularidades no tratamento de dados de crianças e adolescentes na […] ANPD multa TikTok em R$ 153,7 milhões",
-      "link": "https://tecnoblog.net/noticias/anpd-multa-tiktok-em-r-1573-milhoes/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Agência Nacional de Proteção de Dados (ANPD)",
-          "ByteDance",
-          "ECA Digital",
-          "Multa",
-          "Privacidade",
-          "TikTok"
-        ]
-      },
-      "timestamp": "2026-08-25T09:58:31.343Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Xiaomi lança o Xring O3, chip de celular que bate recorde de desempenho",
       "summary": "Fabricado em 3 nanômetros, novo SoC é o primeiro a ultrapassar os 5 milhões de pontos no benchmark AnTuTu. Xiaomi lança o Xring O3, chip de celular que bate recorde de desempenho",
@@ -9084,6 +9054,42 @@
         ]
       },
       "timestamp": "2026-09-24T06:43:21.182Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Amazon estaria recontratando ex-funcionários após demissões em massa",
+      "summary": "Empresa parece estar “voltando atrás” com alguns especialistas em IA e Cloud, apontam vazamentos de e-mails do RH. Amazon estaria recontratando ex-funcionários após demissões em massa",
+      "link": "https://tecnoblog.net/noticias/amazon-estaria-recontratando-ex-funcionarios-apos-demissoes-em-massa/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "AGI",
+          "Amazon",
+          "Amazon Web Services",
+          "Cloud Computing",
+          "Gestão de recursos humanos",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-09-24T12:12:23.464Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Alibaba apresenta o chip de IA mais poderoso da China",
+      "summary": "Modelo terá 216 GB de memória e poderá operar com mais de mil chips em um único sistema; o lançamento está previsto para o início de 2027. Alibaba apresenta o chip de IA mais poderoso da China",
+      "link": "https://tecnoblog.net/noticias/alibaba-apresenta-o-chip-de-ia-mais-poderoso-da-china/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Alibaba",
+          "Chips",
+          "Data center",
+          "Inteligência Artificial (IA)",
+          "Processadores",
+          "Qwen"
+        ]
+      },
+      "timestamp": "2026-09-24T12:12:23.777Z"
     }
   ]
 }
