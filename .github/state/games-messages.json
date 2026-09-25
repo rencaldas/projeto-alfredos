@@ -1,0 +1,34 @@
+{
+  "games": {
+    "3029": {
+      "title": "Astrea: Six Sided Oracles (Epic Games) Giveaway",
+      "endDate": "2026-10-01 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 260
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 261
+        }
+      ]
+    },
+    "3790": {
+      "title": "Mechabellum (Epic Games) Giveaway",
+      "endDate": "2026-10-01 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 262
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 263
+        }
+      ]
+    }
+  }
+}
