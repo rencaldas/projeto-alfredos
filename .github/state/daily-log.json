@@ -1,34 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/seslock-holmes)",
-      "summary": "Versão instalada 3.1.0 → versão mais recente 4.2.1 (npm).",
-      "link": "https://github.com/rencaldas/seslock-holmes",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/seslock-holmes"
-      },
-      "timestamp": "2026-08-26T09:28:13.008Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "LibreOffice 26.8 chega para continuar briga com Office; veja as novidades",
-      "summary": "The Document Foundation lançou LibreOffice 26.8 com novidades em ferramentas como Writer (editor de textos) e Calc (planilhas). Suíte é gratuita e tem código aberto. LibreOffice 26.8 chega para continuar briga com Office; veja as novidades",
-      "link": "https://tecnoblog.net/noticias/libreoffice-26-8-chega-para-continuar-briga-com-office-veja-as-novidades/",
-      "meta": {
-        "categorias": [
-          "Produtividade",
-          "Calc",
-          "LibreOffice",
-          "Microsoft Office",
-          "Writer"
-        ]
-      },
-      "timestamp": "2026-08-26T11:23:32.422Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Rockstar se pronuncia sobre vazamentos de GTA 6",
       "summary": "Estúdio afirma que gameplay vazada foi \"devastadora\", mas mantém lançamento do jogo em 19 de novembro. Rockstar se pronuncia sobre vazamentos de GTA 6",
@@ -9227,6 +9199,83 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6ab53cef0ee78.jpg"
       },
       "timestamp": "2026-09-25T06:45:40.235Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Huawei lança Watch GT 7 e mais aparelhos no Brasil",
+      "summary": "Gigante chinesa também apresenta os relógios Huawei Watch GT 7 Pro, Watch 6 Watch D3 e o fone FreeBuds Neo. Huawei lança Watch GT 7 e mais aparelhos no Brasil",
+      "link": "https://tecnoblog.net/noticias/huawei-lanca-watch-gt-7-e-mais-aparelhos-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Wearables",
+          "Brasil",
+          "Huawei",
+          "Huawei FreeBuds Neo",
+          "Huawei Watch 6",
+          "Huawei Watch D3",
+          "Huawei Watch GT 7",
+          "Huawei Watch GT 7 Pro",
+          "São Paulo"
+        ]
+      },
+      "timestamp": "2026-09-25T12:11:31.215Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "GTA 6 ganha edição de colecionador por R$ 2 mil, mas jogo não está incluso",
+      "summary": "Edição especial é vendida no exterior. São 11 itens no pacote. GTA 6 ganha edição de colecionador por R$ 2 mil, mas jogo não está incluso",
+      "link": "https://tecnoblog.net/noticias/gta-6-ganha-edicao-de-colecionador-por-r-2-mil-mas-o-jogo-nao-esta-incluido/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "2K",
+          "GTA 6",
+          "PlaStation 5 (PS5)",
+          "Playstation",
+          "Rockstar",
+          "Rockstar Games",
+          "Take-Two",
+          "Xbox",
+          "Xbox Series X e Series S"
+        ]
+      },
+      "timestamp": "2026-09-25T12:11:31.491Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Agente da OpenAI “não aceitou não” e invadiu sistema de saúde",
+      "summary": "Caso aconteceu na Austrália e primeiro-ministro veio a público criticar ChatGPT. Agente da OpenAI “não aceitou não” e invadiu sistema de saúde",
+      "link": "https://tecnoblog.net/noticias/agente-da-openai-nao-aceitou-nao-e-invadiu-sistema-de-saude/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Anthropic",
+          "Dario Amodei",
+          "inteligência artifcial (IA)",
+          "ONU",
+          "OpenAI",
+          "Sam Altman"
+        ]
+      },
+      "timestamp": "2026-09-25T12:11:31.771Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft anuncia agente de IA que trabalha 24 horas por dia",
+      "summary": "O Autopilot faz parte da reformulação do aplicativo Copilot, que também ganha novas abas. Microsoft anuncia agente de IA que trabalha 24 horas por dia",
+      "link": "https://tecnoblog.net/noticias/microsoft-anuncia-agente-24x7-chamado-autopilot/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Autopilot",
+          "Brasil",
+          "Inteligência Artificial (IA)",
+          "Microsoft",
+          "Microsoft Autopilot",
+          "Microsoft Copilot"
+        ]
+      },
+      "timestamp": "2026-09-25T12:11:32.073Z"
     }
   ]
 }
