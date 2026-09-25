@@ -2,244 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Rockstar se pronuncia sobre vazamentos de GTA 6",
-      "summary": "Estúdio afirma que gameplay vazada foi \"devastadora\", mas mantém lançamento do jogo em 19 de novembro. Rockstar se pronuncia sobre vazamentos de GTA 6",
-      "link": "https://tecnoblog.net/noticias/rockstar-se-pronuncia-sobre-vazamentos-de-gta-6/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "GTA 6",
-          "Rockstar Games",
-          "Vazamento"
-        ]
-      },
-      "timestamp": "2026-08-26T12:25:27.779Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "GoPro traz ao Brasil sua primeira câmera com lentes trocáveis",
-      "summary": "Mission 1 Pro ILS é a primeira câmera da marca em 24 anos que permite a troca de lentes. Modelo grava em 8K e chega ao país em outubro por R$ 5.999. GoPro traz ao Brasil sua primeira câmera com lentes trocáveis",
-      "link": "https://tecnoblog.net/noticias/gopro-traz-ao-brasil-sua-primeira-camera-com-lentes-trocaveis/",
-      "meta": {
-        "categorias": [
-          "Gadgets",
-          "Brasil",
-          "GoPro"
-        ]
-      },
-      "timestamp": "2026-08-26T13:31:00.581Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Review do Oppo Reno 16 F: beleza e autonomia que custam caro",
-      "summary": "Testamos o novo celular intermediário da Oppo com \"cara\" de iPhone e bateria duradoura; descubra se vale a pena comprar o Oppo Reno 16 F Review do Oppo Reno 16 F: beleza e autonomia que custam caro",
-      "link": "https://tecnoblog.net/testamos/review-do-oppo-reno-16-f-beleza-e-autonomia-que-custam-caro/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Oppo"
-        ]
-      },
-      "timestamp": "2026-08-26T13:31:00.881Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "WhatsApp ganha proteções contra invasão de conta e golpes",
-      "summary": "WhatsApp agora suporta uso de mais de uma passkey. Outra novidade é a exibição de dados extras sobre chamadas de desconhecidos. WhatsApp ganha proteções contra invasão de conta e golpes",
-      "link": "https://tecnoblog.net/noticias/whatsapp-ganha-protecoes-contra-invasao-de-conta-e-golpes/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Meta",
-          "WhatsApp"
-        ]
-      },
-      "timestamp": "2026-08-26T14:23:18.890Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Latam vai levar Wi-Fi via satélite para voos em qualquer lugar do mundo",
-      "summary": "Companhia investiu US$ 25 milhões para ampliar conectividade. Empresa usará tecnologia multiórbita da SES, rival da Starlink. Latam vai levar Wi-Fi via satélite para voos em qualquer lugar do mundo",
-      "link": "https://tecnoblog.net/noticias/latam-vai-levar-wi-fi-via-satelite-para-voos-em-qualquer-lugar-do-mundo/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Airbus",
-          "Elon Musk",
-          "Embraer",
-          "LATAM",
-          "LATAM Brasil",
-          "LATAM Pass",
-          "SES",
-          "SES Satellites",
-          "Starlink"
-        ]
-      },
-      "timestamp": "2026-08-26T14:23:19.210Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Watch Ultra volta a cair de preço e fica 63% mais barato na Amazon",
-      "summary": "Galaxy Watch Ultra tem corpo de titânio resistente como o do novo Watch Ultra 2; smartwatch da Samsung recebe desconto de 63% sobre o preço original no Pix Galaxy Watch Ultra volta a cair de preço e fica 63% mais barato na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-volta-a-cair-de-preco-e-fica-63-mais-barato-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Amazon",
-          "AMOLED",
-          "Galaxy Watch Ultra",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-26T14:23:19.523Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung lança Galaxy Book 6 no Brasil e reforça aposta no segmento premium",
-      "summary": "Nova geração de notebooks chega ao país com processadores Intel Core Ultra Série 3, recursos de IA e integração com o ecossistema Galaxy; preços começam em R$ 8.199 Samsung lança Galaxy Book 6 no Brasil e reforça aposta no segmento premium",
-      "link": "https://tecnoblog.net/noticias/samsung-lanca-galaxy-book-6-no-brasil-e-reforca-aposta-no-segmento-premium/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Brasil",
-          "Galaxy",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-26T14:23:19.829Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S25 (256 GB) atinge o segundo menor preço que vimos em 2026",
-      "summary": "Galaxy S25 (256 GB) traz chip Snapdragon 8 Elite e câmera de 50 MP; celular da Samsung atinge o 2.º menor preço que já vimos, com desconto de 56% no Pix com cupom Galaxy S25 (256 GB) atinge o segundo menor preço que vimos em 2026",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-256-gb-atinge-o-segundo-menor-preco-que-vimos-em-2026/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-26T14:23:20.144Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Promoção: Motorola Edge 70 (512 GB) despenca 49% no Mercado Livre",
-      "summary": "Edge 70 (512 GB) tem câmeras de 50 MP e chip Snapdragon de ponta; celular da Motorola sai por quase metade do preço original, com desconto de 49% no Pix com cupom Promoção: Motorola Edge 70 (512 GB) despenca 49% no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/promocao-motorola-edge-70-512-gb-despenca-49-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Edge 70",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-26T15:56:55.844Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Bill Gates diz que indústria esconde riscos da IA para proteger lucros",
-      "summary": "Cofundador da Microsoft afirma que empresas de tecnologia minimizam os perigos da inteligência artificial para evitar prejuízos e proteger investimentos. Bill Gates diz que indústria esconde riscos da IA para proteger lucros",
-      "link": "https://tecnoblog.net/noticias/bill-gates-diz-que-industria-esconde-riscos-da-ia-para-proteger-lucros/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Bill Gates",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Microsoft",
-          "Robótica",
-          "Tecnologia"
-        ]
-      },
-      "timestamp": "2026-08-26T15:56:56.120Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "MPT processa Uber em R$ 321 milhões por programa que taxa motoristas",
-      "summary": "Ministério Público do Trabalho move ação contra a Uber por considerar o programa Passe para Motoristas irregular. MPT processa Uber em R$ 321 milhões por programa que taxa motoristas",
-      "link": "https://tecnoblog.net/noticias/mpt-processa-uber-em-r-321-milhoes-por-programa-que-taxa-motoristas/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Ministério Público do Trabalho",
-          "motorista",
-          "Uber"
-        ]
-      },
-      "timestamp": "2026-08-26T15:56:56.497Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Meta vai pagar US$ 16,6 bilhões por danos a crianças e adolescentes",
-      "summary": "Acordo nos EUA prevê limites de tempo e novas restrições para contas de menores no Facebook e Instagram. Meta vai pagar US$ 16,6 bilhões por danos a crianças e adolescentes",
-      "link": "https://tecnoblog.net/noticias/meta-vai-pagar-us-166-bilhoes-por-danos-a-criancas-e-adolescentes/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Estados Unidos (EUA)",
-          "Facebook",
-          "Instagram",
-          "Meta"
-        ]
-      },
-      "timestamp": "2026-08-26T15:56:56.781Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Z Flip 7 (512 GB) tem o menor preço desde junho em até 12x na Amazon",
-      "summary": "Galaxy Z Flip 7 com tela dobrável AMOLED de 120 Hz e similar a do sucessor Z Flip 8, atinge o menor preço em meses, com desconto de 38% no Pix Galaxy Z Flip 7 (512 GB) tem o menor preço desde junho em até 12x na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-z-flip-7-512-gb-tem-o-menor-preco-desde-junho-em-ate-12x-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "AMOLED",
-          "Galaxy Z Flip 7",
-          "Pix",
-          "Samsung Galaxy Z Flip 7"
-        ]
-      },
-      "timestamp": "2026-08-26T15:56:57.051Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Sky Móvel agora tem cobertura em todo o Brasil",
-      "summary": "Operadora virtual passa a oferecer planos em todo o país. Pacotes partem de R$ 29,90. Sky Móvel agora tem cobertura em todo o Brasil",
-      "link": "https://tecnoblog.net/noticias/sky-movel-agora-tem-cobertura-em-todo-o-brasil/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Brasil",
-          "Pacote",
-          "Rio de Janeiro",
-          "São Paulo",
-          "Sky"
-        ]
-      },
-      "timestamp": "2026-08-26T16:42:33.611Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 18: Apple marca evento para 9 de setembro",
-      "summary": "Apple fará transmissão pela internet. Expectativa é que inédito iPhone dobrável seja revelado. iPhone 18: Apple marca evento para 9 de setembro",
-      "link": "https://tecnoblog.net/noticias/iphone-18-apple-marca-evento-para-9-de-setembro/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-08-26T16:42:33.912Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "iPhone 17e surge mais barato em oferta por até 12x sem juros no AliExpress",
       "summary": "iPhone 17e com 256 GB, chip premium e Apple Intelligence tem queda no preço com cupom e opção de parcelamento bem atrativo iPhone 17e surge mais barato em oferta por até 12x sem juros no AliExpress",
       "link": "https://tecnoblog.net/achados/iphone-17e-surge-mais-barato-em-oferta-por-ate-12x-sem-juros-no-aliexpress/",
@@ -9276,6 +9038,87 @@
         ]
       },
       "timestamp": "2026-09-25T12:11:32.073Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "É o fim do Copilot+ PC: Microsoft abandona silenciosamente a marca",
+      "summary": "Microsoft deixou de usar selo Copilot+ PC nos lançamentos mais recentes da linha Surface. Outros fabricantes devem seguir pelo mesmo caminho. É o fim do Copilot+ PC: Microsoft abandona silenciosamente a marca",
+      "link": "https://tecnoblog.net/noticias/e-o-fim-do-copilot-pc-microsoft-abandona-silenciosamente-a-marca/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Microsoft",
+          "Microsoft Copilot",
+          "Microsoft Surface"
+        ]
+      },
+      "timestamp": "2026-09-25T17:07:08.857Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Z Fold 8 Ultra já recebe desconto de quase R$ 4 mil no Mercado Livre",
+      "summary": "Galaxy Z Fold 8 (256 GB) tem tela flexível de 120 Hz e câmera de 200 MP; novo dobrável de ponta da Samsung sai 27% mais em conta no Pix com cupom Galaxy Z Fold 8 Ultra já recebe desconto de quase R$ 4 mil no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-z-fold-8-ultra-ja-recebe-desconto-de-quase-r-4-mil-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy Z Fold 8 Ultra",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-25T17:07:09.204Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 60 Fusion (256 GB) tem maior queda de preço dos últimos meses",
+      "summary": "Edge 60 Fusion (256 GB) tem tela POLED de 120 Hz e câmera Sony de 50 MP; celular custo-benefício da Motorola sai 47% mais barato no Pix com cupom no Mercado Livre Motorola Edge 60 Fusion (256 GB) tem maior queda de preço dos últimos meses",
+      "link": "https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-tem-maior-queda-de-preco-dos-ultimos-meses/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 60 Fusion",
+          "Pix",
+          "Sony"
+        ]
+      },
+      "timestamp": "2026-09-25T17:07:09.647Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy A37 (256 GB) volta a ter menor preço em promoção no Mercado Livre",
+      "summary": "Galaxy A37 (256 GB) traz câmera de 50 MP e tela Super AMOLED de 120 Hz; celular da Samsung alcança o menor preço desde o lançamento, com desconto de 55% no Pix com cupom Galaxy A37 (256 GB) volta a ter menor preço em promoção no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-a37-256-gb-volta-a-ter-menor-preco-em-promocao-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy A37",
+          "Galaxy AI",
+          "Mercado Livre",
+          "Pix",
+          "Samsung",
+          "Samsung Galaxy A37 5G",
+          "Super AMOLED"
+        ]
+      },
+      "timestamp": "2026-09-25T17:07:10.015Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor notebook Samsung: 6 modelos para comprar em 2026",
+      "summary": "Guia avalia prós e contras de cada modelo Galaxy Book; notebooks oferecem bom desempenho, design refinado e integração com ecossistema da Samsung Melhor notebook Samsung: 6 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-samsung/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Samsung",
+          "Samsung Galaxy Book"
+        ]
+      },
+      "timestamp": "2026-09-25T17:07:10.430Z"
     }
   ]
 }
