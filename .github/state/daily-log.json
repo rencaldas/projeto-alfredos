@@ -9053,6 +9053,85 @@
         ]
       },
       "timestamp": "2026-09-24T23:16:50.742Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gmail troca cor de estrelas e marcadores na versão web",
+      "summary": "Google diz que mudança visa acessibilidade, mas usuários alegam confusão com as cores. Gmail troca cor de estrelas e marcadores na versão web",
+      "link": "https://tecnoblog.net/noticias/gmail-troca-cor-de-estrelas-e-marcadores-na-versao-web/",
+      "meta": {
+        "categorias": [
+          "Internet",
+          "Gmail",
+          "Google"
+        ]
+      },
+      "timestamp": "2026-09-25T01:39:09.915Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Veterano da Microsoft lamenta “fim” da barra de rolagem clássica do Windows",
+      "summary": "Raymond Chen relembrou a barra de rolagem Win32, que traz um menu de contexto bastante útil, mas que quase não é mais usada. Veterano da Microsoft lamenta “fim” da barra de rolagem clássica do Windows",
+      "link": "https://tecnoblog.net/noticias/veterano-da-microsoft-lamenta-fim-da-barra-de-rolagem-classica-do-windows/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "API do Windows",
+          "Microsoft",
+          "Raymond Chen",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-09-25T01:39:10.164Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S10 FE Plus cai 46% para presente de Dia das Crianças",
+      "summary": "Galaxy Tab S10 FE Plus tem tela grande com S Pen e ampla bateria; tablet da Samsung em oferta é uma boa opção de presente para estudos e criação Galaxy Tab S10 FE Plus cai 46% para presente de Dia das Crianças",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-cai-46-para-presente-de-dia-das-criancas/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Dia das Crianças",
+          "Magazine Luiza",
+          "Pix",
+          "S Pen",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-25T01:39:10.403Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Japão vende livros por tonelada; compra pode abastecer IAs nos EUA",
+      "summary": "Mais de 50 toneladas de livros japoneses foram exportadas aos Estados Unidos desde o ano passado. Japão vende livros por tonelada; compra pode abastecer IAs nos EUA",
+      "link": "https://tecnoblog.net/noticias/livros-sao-comprados-por-tonelada-no-japao-destino-pode-ser-ias-nos-eua/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Estados Unidos (EUA)",
+          "Inteligência Artificial (IA)",
+          "Japão"
+        ]
+      },
+      "timestamp": "2026-09-25T01:39:10.636Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "IA do Google vai fazer ligações por você",
+      "summary": "Ferramenta chega aos donos do Pixel 11 nos Estados Unidos. IA do Google vai fazer ligações por você",
+      "link": "https://tecnoblog.net/noticias/ia-do-google-vai-fazer-ligacoes-por-voce/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Android",
+          "Estados Unidos (EUA)",
+          "Gemini",
+          "Google",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-09-25T01:39:10.867Z"
     }
   ]
 }
