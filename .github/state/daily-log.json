@@ -2,55 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "LG aposta em Mini LED e canais para crescer no mercado de TVs no Brasil",
-      "summary": "Fabricante destaca LG Channels como atrativo para consumidores e fala em segurar preços durante crise de chips de memória enquanto for possível LG aposta em Mini LED e canais para crescer no mercado de TVs no Brasil",
-      "link": "https://tecnoblog.net/noticias/lg-aposta-em-mini-led-e-canais-para-crescer-no-mercado-de-tvs-no-brasil/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Brasil",
-          "LG",
-          "TV (televisor)"
-        ]
-      },
-      "timestamp": "2026-08-26T23:48:46.756Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 70 Fusion com câmera Sony tem desconto com cupom",
-      "summary": "Edge 70 Fusion - Edição Copa do Mundo FIFA 2026 recebe 48% de desconto no Mercado Livre. Versão comemorativa traz logos em ouro 24K, wallpapers, toque e marca d’água personalizados Motorola Edge 70 Fusion com câmera Sony tem desconto com cupom",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-fusion-com-camera-sony-tem-desconto-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Copa do Mundo da FIFA 2026™",
-          "Fifa",
-          "Mercado Livre",
-          "Motorola Edge 70 Fusion",
-          "Pix",
-          "Sony"
-        ]
-      },
-      "timestamp": "2026-08-26T23:48:47.049Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Garmin Forerunner 570 (47 mm) atinge preço imbatível no Mercado Livre",
-      "summary": "Garmin Forerunner 570 possui monitoramento avançado com foco em esportes. Smartwatch com tela AMOLED e GPS multibanda tem 47% de desconto no Mercado Livre Garmin Forerunner 570 (47 mm) atinge preço imbatível no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/garmin-forerunner-570-47-mm-atinge-preco-imbativel-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "AMOLED",
-          "Garmin Forerunner 570",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-26T23:48:47.342Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Perplexity lança sistema de IA que roda tudo no seu PC",
       "summary": "Portable Computer executa agentes de IA localmente, mas exige placas de vídeo Nvidia RTX 3090 ou superior. Perplexity lança sistema de IA que roda tudo no seu PC",
       "link": "https://tecnoblog.net/noticias/perplexity-lanca-sistema-de-ia-que-roda-tudo-no-seu-pc/",
@@ -9189,6 +9140,85 @@
         ]
       },
       "timestamp": "2026-09-25T23:22:52.453Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "e-Título poderá ser baixado inclusive no dia da eleição",
+      "summary": "TSE mudou a regra e preparou estrutura para suportar o aumento de acessos durante as eleições. e-Título poderá ser baixado inclusive no dia da eleição",
+      "link": "https://tecnoblog.net/noticias/e-titulo-podera-ser-baixado-inclusive-no-dia-da-eleicao/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "TSE"
+        ]
+      },
+      "timestamp": "2026-09-26T01:43:52.395Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Notebook para estudar e trabalhar: 6 opções para comprar em 2026",
+      "summary": "Reunimos os principais notebooks para editar documentos, planilhas, assistir a videoaulas e navegar na web sem engasgos Notebook para estudar e trabalhar: 6 opções para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/notebook-para-estudar-e-trabalhar/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Acer",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-09-26T01:43:52.690Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Linux entra nos planos da Holanda para substituir o Windows",
+      "summary": "Governo holandês iniciou um projeto com a distribuição NixOS. Outros países europeus também ampliam testes com soluções de código aberto. Linux entra nos planos da Holanda para substituir o Windows",
+      "link": "https://tecnoblog.net/noticias/linux-entra-nos-planos-da-holanda-para-substituir-o-windows/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Código aberto",
+          "Europa",
+          "Holanda",
+          "Linux",
+          "Microsoft",
+          "Microsoft 365",
+          "Microsoft Office",
+          "NixOS",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-09-26T01:43:52.975Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Asus Vivobook Go 15 para estudos despenca de preço na melhor oferta recente",
+      "summary": "Notebook Asus Vivobook Go com RAM de 8 GB e SSD de 512 GB sai 24% mais barato com cupom em oferta relâmpago no Mercado Livre Asus Vivobook Go 15 para estudos despenca de preço na melhor oferta recente",
+      "link": "https://tecnoblog.net/achados/asus-vivobook-go-15-para-estudos-despenca-de-preco-para-melhor-oferta-recente/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Mercado Livre",
+          "Notebook ASUS VivoBook Go 15",
+          "Pix",
+          "SSD"
+        ]
+      },
+      "timestamp": "2026-09-26T01:43:53.300Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Carteira de Identidade Nacional libera conta Gov.br Ouro, reforça governo",
+      "summary": "Mais de 22 milhões de brasileiros com Carteira de Identidade Nacional (CIN) cadastrados no Gov.br ainda não usaram o documento para atingir o nível Ouro. Carteira de Identidade Nacional libera conta Gov.br Ouro, reforça governo",
+      "link": "https://tecnoblog.net/noticias/carteira-de-identidade-nacional-libera-conta-gov-br-ouro-reforca-governo/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Brasil",
+          "Carteira de identidade (RG)",
+          "gov.br"
+        ]
+      },
+      "timestamp": "2026-09-26T01:43:53.585Z"
     }
   ]
 }
