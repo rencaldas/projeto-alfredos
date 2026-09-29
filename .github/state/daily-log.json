@@ -8793,6 +8793,102 @@
         ]
       },
       "timestamp": "2026-09-29T08:45:14.250Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v12.69.2 → versão mais recente 13.34.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-29T15:10:49.838Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/console (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.8 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-29T15:10:49.838Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/error-handler (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.8 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-29T15:10:49.838Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/finder (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.8 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-29T15:10:49.838Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/http-foundation (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.8 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-29T15:10:49.838Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/http-kernel (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.8 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-29T15:10:49.838Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/routing (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.8 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-29T15:10:49.838Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/uid (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.8 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-09-29T15:10:49.838Z"
     }
   ]
 }
