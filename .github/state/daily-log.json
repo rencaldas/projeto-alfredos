@@ -2,60 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Esse truque pode te ajudar a rastrear o iPhone roubado com uma selfie do ladrão",
-      "summary": "O aplicativo Atalhos do iPhone permite criar automações que executam uma sequência de ações discretas após um gatilho, permitindo localizar o aparelho roubado Esse truque pode te ajudar a rastrear o iPhone roubado com uma selfie do ladrão",
-      "link": "https://tecnoblog.net/responde/esse-truque-pode-te-ajudar-a-rastrear-o-iphone-roubado-com-uma-selfie-do-ladrao/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-08-29T23:17:36.108Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Navegador Brave agora esconde seu e-mail na hora de preencher cadastros",
-      "summary": "Brave Alias oferece até cinco endereços aleatórios gratuitamente. Mensagens são encaminhadas para o e-mail verdadeiro do usuário e apagadas em seguida. Navegador Brave agora esconde seu e-mail na hora de preencher cadastros",
-      "link": "https://tecnoblog.net/noticias/navegador-brave-agora-esconde-seu-e-mail-na-hora-de-preencher-cadastros/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Brave"
-        ]
-      },
-      "timestamp": "2026-08-29T23:17:36.339Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Tablet custo-benefício: 8 modelos que valem o preço em 2026",
-      "summary": "Analisamos preços, especificações e compatibilidade com acessórios para selecionar os tablets com melhor custo-benefício em 2026; lista reúne modelos Samsung, Xiaomi, Lenovo e mais Tablet custo-benefício: 8 modelos que valem o preço em 2026",
-      "link": "https://tecnoblog.net/guias/tablet-custo-beneficio/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "custo-benefício",
-          "Tablet"
-        ]
-      },
-      "timestamp": "2026-08-29T23:17:37.052Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor tablet para jogos: 9 modelos que aguentam as jogatinas em 2026",
-      "summary": "Encontre o melhor tablet para jogos em diversas faixas de preço; lista inclui modelos RedMagic, Samsung, Xiaomi, Apple e Huawei Melhor tablet para jogos: 9 modelos que aguentam as jogatinas em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-tablet-para-jogos/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Redmagic",
-          "Xiaomi"
-        ]
-      },
-      "timestamp": "2026-08-29T23:17:37.288Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "NordVPN: conheça os principais recursos, velocidade, servidores e segurança",
       "summary": "Serviço combina VPN, rede global de servidores, protocolos de privacidade, Antivírus Next-Gen e proteção contra golpes em até 10 dispositivos NordVPN: conheça os principais recursos, velocidade, servidores e segurança",
       "link": "https://tecnoblog.net/publieditoriais/nordvpn-conheca-os-principais-recursos-velocidade-servidores-e-seguranca/",
@@ -8680,6 +8626,89 @@
         ]
       },
       "timestamp": "2026-09-28T22:30:59.865Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google: Chromebooks não morrerão com a chegada dos Googlebooks (ainda não)",
+      "summary": "Categoria Googlebook pode contribuir para o fim dos Chromebooks, mas não de imediato: o ChromeOS será suportado até 2034. Google: Chromebooks não morrerão com a chegada dos Googlebooks (ainda não)",
+      "link": "https://tecnoblog.net/noticias/google-chromebooks-nao-morrerao-com-a-chegada-dos-googlebooks-ainda-nao/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Chrome OS",
+          "Chromebook",
+          "Google",
+          "Google Livros",
+          "Googlebook"
+        ]
+      },
+      "timestamp": "2026-09-29T02:17:11.789Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gov.br sofre falha e fica fora do ar nesta segunda-feira",
+      "summary": "Plataforma de serviços governamentais passa por apagão. Gov.br sofre falha e fica fora do ar nesta segunda-feira",
+      "link": "https://tecnoblog.net/noticias/gov-br-sofre-falha-e-fica-fora-do-ar-nesta-segunda-feira/",
+      "meta": {
+        "categorias": [
+          "Internet",
+          "Gov.br",
+          "Governo Federal",
+          "Ministério da Gestão e da Inovação em Serviços Públicos"
+        ]
+      },
+      "timestamp": "2026-09-29T02:17:12.095Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple perde disputa de R$ 30 bilhões por patentes",
+      "summary": "Taction Technology alega que iPhones e Apple Watches usam tecnologia háptica sem licença. Apple contesta decisão. Apple perde disputa de R$ 30 bilhões por patentes",
+      "link": "https://tecnoblog.net/noticias/apple-perde-disputa-de-r-30-bilhoes-por-patentes/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Apple",
+          "Apple Watch",
+          "Estados Unidos (EUA)",
+          "iPhone",
+          "patentes",
+          "San Diego",
+          "Taptic Engine"
+        ]
+      },
+      "timestamp": "2026-09-29T02:17:12.402Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google acaba com o Gemini Gems e anuncia migração para nova ferramenta",
+      "summary": "Ferramenta será encerrada em novembro e dará lugar ao sistema de Habilidades introduzido com o Gemini Spark. Google acaba com o Gemini Gems e anuncia migração para nova ferramenta",
+      "link": "https://tecnoblog.net/noticias/google-acaba-com-o-gemini-gems-e-anuncia-migracao-para-nova-ferramenta/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini",
+          "Google"
+        ]
+      },
+      "timestamp": "2026-09-29T02:17:12.698Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple libera iOS 27.0.1 para corrigir bug que reinicia iPhones",
+      "summary": "Atualização deve resolver falha ligada ao Face ID. Update também soluciona problemas na câmera e na tela. Apple libera iOS 27.0.1 para corrigir bug que reinicia iPhones",
+      "link": "https://tecnoblog.net/noticias/apple-libera-ios-27-0-1-para-corrigir-bug-que-reinicia-iphones/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Apple",
+          "Face ID",
+          "iOS",
+          "iOS 27",
+          "iPhone 18 Pro",
+          "iPhone 18 Pro Max"
+        ]
+      },
+      "timestamp": "2026-09-29T02:17:12.990Z"
     }
   ]
 }
