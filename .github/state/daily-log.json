@@ -1,386 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @asamuzakjp/css-color (rencaldas/liac-club)",
-      "summary": "Versão instalada 3.2.0 → versão mais recente 7.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: lru-cache (rencaldas/liac-club)",
-      "summary": "Versão instalada 10.4.3 → versão mais recente 11.5.2 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/code-frame (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/compat-data (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/core (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.1 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/generator (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.8 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/helper-compilation-targets (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/helper-globals (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/helper-module-imports (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/helper-module-transforms (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.1 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/helper-plugin-utils (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.1 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/helper-string-parser (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/helper-validator-identifier (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.4 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/helper-validator-option (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/helpers (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/parser (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.8 → versão mais recente 8.0.4 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/runtime (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/template (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.7 → versão mais recente 8.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/traverse (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.8 → versão mais recente 8.0.4 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @babel/types (rencaldas/liac-club)",
-      "summary": "Versão instalada 7.29.8 → versão mais recente 8.0.4 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/color-helpers (rencaldas/liac-club)",
-      "summary": "Versão instalada 5.1.0 → versão mais recente 6.1.1 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-calc (rencaldas/liac-club)",
-      "summary": "Versão instalada 2.1.4 → versão mais recente 3.3.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/liac-club)",
-      "summary": "Versão instalada 3.1.0 → versão mais recente 4.2.2 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-parser-algorithms (rencaldas/liac-club)",
-      "summary": "Versão instalada 3.0.5 → versão mais recente 4.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-tokenizer (rencaldas/liac-club)",
-      "summary": "Versão instalada 3.0.4 → versão mais recente 4.0.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-08-31T16:27:06.534Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Kindle Colorsoft (16 GB) tem queda de 25% em até 10x na Kindle Week",
-      "summary": "Kindle Colorsoft tem tela colorida de 7\" e bateria para até 8 semanas; e-reader da Amazon sai 25% mais barato do que o preço original durante a Kindle Week Kindle Colorsoft (16 GB) tem queda de 25% em até 10x na Kindle Week",
-      "link": "https://tecnoblog.net/achados/kindle-colorsoft-16-gb-tem-queda-de-25-em-ate-10x-na-kindle-week/",
-      "meta": {
-        "categorias": [
-          "Gadgets",
-          "Amazon",
-          "Kindle",
-          "Kindle Colorsoft",
-          "Kindle Week"
-        ]
-      },
-      "timestamp": "2026-08-31T19:38:44.675Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Kindle Week: Kindle Paperwhite entra em promoção e tem 34% de desconto",
-      "summary": "Kindle Paperwhite de 16 GB com tela de 7 polegadas e bateria de até 12 semanas fica mais barato que o Kindle padrão na Amazon Kindle Week: Kindle Paperwhite entra em promoção e tem 34% de desconto",
-      "link": "https://tecnoblog.net/achados/kindle-week-kindle-paperwhite-entra-em-promocao-e-tem-34-de-desconto/",
-      "meta": {
-        "categorias": [
-          "Gadgets",
-          "Amazon",
-          "Kindle",
-          "Kindle Paperwhite",
-          "Kindle Week"
-        ]
-      },
-      "timestamp": "2026-08-31T19:38:45.015Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Baixou mais: iPhone 17 (512 GB) atinge 36% OFF na melhor oferta já vista",
-      "summary": "iPhone 17 (512 GB) com câmeras de 48 MP e tela OLED de 120 Hz atinge menor preço desde o lançamento, com desconto de 36% ao combinar Pix e cupom válido só hoje Baixou mais: iPhone 17 (512 GB) atinge 36% OFF na melhor oferta já vista",
-      "link": "https://tecnoblog.net/achados/baixou-mais-iphone-17-512-gb-atinge-36-off-na-melhor-oferta-ja-vista/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "iPhone 17",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-08-31T19:38:45.317Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Twitter volta em nova rede social com IA, mas cobra R$ 100 por acesso",
-      "summary": "Twitter.now resgata nome e identidade visual da antiga rede. Startup ainda disputa a marca com o X na Justiça. Twitter volta em nova rede social com IA, mas cobra R$ 100 por acesso",
-      "link": "https://tecnoblog.net/noticias/twitter-volta-em-nova-rede-social-com-ia-mas-cobra-r-100-por-acesso/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Elon Musk",
-          "Inteligência Artificial (IA)",
-          "Justiça",
-          "Startups",
-          "X (Twitter)",
-          "X Corp."
-        ]
-      },
-      "timestamp": "2026-08-31T19:38:45.625Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Debian Linux aprova uso de IA no projeto, mas com “responsabilidade”",
-      "summary": "Em votação, a comunidade Debian aprovou o uso \"responsável\" de IA na distribuição Linux. Os desenvolvedores deverão validar todo o código gerado. Debian Linux aprova uso de IA no projeto, mas com “responsabilidade”",
-      "link": "https://tecnoblog.net/noticias/debian-linux-aprova-uso-de-ia-no-projeto-mas-com-responsabilidade/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Debian",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-31T19:38:45.926Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Motorola Edge 70 (512 GB) recebe oferta histórica com 57% de desconto",
       "summary": "Edge 70 (512 GB) tem chip Snapdragon de ponta e câmeras de 50 MP; celular da Motorola alcança o menor preço histórico, com desconto de 57% no Pix com cupom Motorola Edge 70 (512 GB) recebe oferta histórica com 57% de desconto",
@@ -9207,6 +8827,91 @@
         ]
       },
       "timestamp": "2026-09-30T15:16:19.403Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Vazam imagens do novo Kindle, com mais cores e botão lateral",
+      "summary": "Kindle de 12ª geração deve ganhar cantos arredondados. Vazam imagens do novo Kindle, com mais cores e botão lateral",
+      "link": "https://tecnoblog.net/noticias/vazam-imagens-do-novo-kindle-com-mais-cores-e-botao-lateral/",
+      "meta": {
+        "categorias": [
+          "Gadgets",
+          "Amazon",
+          "e-ink",
+          "e-reader",
+          "Kindle",
+          "rumor"
+        ]
+      },
+      "timestamp": "2026-09-30T20:09:31.329Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como ver quem não te segue de volta no Instagram",
+      "summary": "Você pode saber quem não te segue no Instagram pelo aplicativo oficial, extensões para o Google Chrome ou cruzamento de dados do perfil via ChatGPT Como ver quem não te segue de volta no Instagram",
+      "link": "https://tecnoblog.net/responde/como-ver-quem-nao-me-segue-de-volta-no-instagram/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "ChatGPT",
+          "Google Chrome",
+          "Instagram"
+        ]
+      },
+      "timestamp": "2026-09-30T20:09:31.606Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Notebook Lenovo IdeaPad Slim 3 cai de preço com cupom no Mercado Livre",
+      "summary": "Modelo 83NS0002BR sai com 33% de desconto em oferta no Mercado Livre ao combinar pix e cupom. Notebook traz Core i5, SSD de 512 GB e tela de 15,3 polegadas Notebook Lenovo IdeaPad Slim 3 cai de preço com cupom no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/notebook-lenovo-ideapad-slim-3-cai-de-preco-com-cupom-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Lenovo IdeaPad Slim 3",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-09-30T20:09:31.887Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Dell 15 com tela de 120 Hz tem R$ 1.000 OFF em até 12x sem juros",
+      "summary": "Notebook Dell 15 com RAM de 8 GB e tela de 15,6 polegadas para trabalho e estudos está em oferta com possibilidade de parcelamento na Amazon Dell 15 com tela de 120 Hz tem R$ 1.000 OFF em até 12x sem juros",
+      "link": "https://tecnoblog.net/achados/dell-15-com-tela-de-120-hz-tem-r-1-000-off-em-ate-12x-sem-juros/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Amazon",
+          "Dell",
+          "Dell 15",
+          "Intel"
+        ]
+      },
+      "timestamp": "2026-09-30T20:09:32.164Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xbox ganha novo sistema de platina para quem zerar 100% dos games",
+      "summary": "Novidade era muito pedida pelos jogadores, segundo a empresa. Games completados desde o Xbox 360 também serão reconhecidos como Mythic. Xbox ganha novo sistema de platina para quem zerar 100% dos games",
+      "link": "https://tecnoblog.net/noticias/xbox-ganha-novo-sistema-de-platina-para-quem-zerar-100-dos-games/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Asha Sharma",
+          "Gears of War: E-Day",
+          "Playstation",
+          "PlayStation 4 (PS4)",
+          "PlayStation 5 (PS5)",
+          "Sony",
+          "Xbox",
+          "Xbox 360",
+          "Xbox Game Pass Ultimate",
+          "Xbox Series X e Series S"
+        ]
+      },
+      "timestamp": "2026-09-30T20:09:32.439Z"
     }
   ]
 }
