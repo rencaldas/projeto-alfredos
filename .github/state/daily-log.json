@@ -2,92 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 70 (512 GB) recebe oferta histórica com 57% de desconto",
-      "summary": "Edge 70 (512 GB) tem chip Snapdragon de ponta e câmeras de 50 MP; celular da Motorola alcança o menor preço histórico, com desconto de 57% no Pix com cupom Motorola Edge 70 (512 GB) recebe oferta histórica com 57% de desconto",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-512-gb-recebe-oferta-historica-com-57-de-desconto/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Motorola",
-          "Motorola Edge 70",
-          "Pix",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-08-31T23:21:30.995Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Instagram promete combater influenciadores fakes criados com IA",
-      "summary": "Rede social vai limitar alcance de perfis gerados com auxílio da tecnologia se eles não usarem selo de identificação. Instagram promete combater influenciadores fakes criados com IA",
-      "link": "https://tecnoblog.net/noticias/instagram-promete-combater-influenciadores-fakes-criados-com-ia/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Instagram",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-31T23:21:31.290Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Steam vaza 12 TB de arquivos; dados mostram projetos cancelados",
-      "summary": "Falha em servidor antigo da Valve expôs arquivos de 2003 a 2013, incluindo projetos de Half-Life, Portal e jogos de grandes estúdios. Steam vaza 12 TB de arquivos; dados mostram projetos cancelados",
-      "link": "https://tecnoblog.net/noticias/vazamento-de-12-tb-da-steam-revela-projetos-cancelados/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Counter-Strike",
-          "Half-Life",
-          "Left 4 Dead",
-          "PC",
-          "Portal",
-          "Segurança",
-          "Steam",
-          "Valve",
-          "Vazamento de dados"
-        ]
-      },
-      "timestamp": "2026-08-31T23:21:31.575Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Windows diz que antivírus do Microsoft Defender está desativado? É bug",
-      "summary": "O aviso de segurança desativada afeta o Windows 11, o Windows 10 e o Windows Server. Contudo, o Windows Defender continua funcionando normalmente. Windows diz que antivírus do Microsoft Defender está desativado? É bug",
-      "link": "https://tecnoblog.net/noticias/windows-diz-que-antivirus-do-microsoft-defender-esta-desativado-e-bug/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Microsoft Defender",
-          "Windows",
-          "Windows 10",
-          "Windows 11",
-          "Windows Server",
-          "Windows Server 2012",
-          "Windows Server 2016",
-          "Windows Server 2019",
-          "Windows Server 2022"
-        ]
-      },
-      "timestamp": "2026-08-31T23:21:31.858Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Coreia do Sul prepara programa nacional de IA gratuita integrada a serviços públicos",
-      "summary": "Programa \"AI for All\" pretende aumentar acesso a modelos locais e integrá-los a serviços públicos. Coreia do Sul prepara programa nacional de IA gratuita integrada a serviços públicos",
-      "link": "https://tecnoblog.net/noticias/coreia-do-sul-prepara-programa-nacional-de-ia-gratuita-integrada-a-servicos-publicos/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Coreia do Sul",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-08-31T23:21:32.150Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Tablet 512 GB: os 7 melhores modelos para quem prioriza armazenamento",
       "summary": "Precisa de espaço? Selecionamos os melhores tablets com 512 GB de memória interna para armazenar milhares de livros, vídeos e mais arquivos Tablet 512 GB: os 7 melhores modelos para quem prioriza armazenamento",
       "link": "https://tecnoblog.net/guias/tablet-512gb/",
@@ -8912,6 +8826,93 @@
         ]
       },
       "timestamp": "2026-09-30T20:09:32.439Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung libera One UI 9 para mais celulares brasileiros",
+      "summary": "Galaxy S26 passa a rodar o Android 17, com direito a Now Brief e Now Nudget aprimorados. Samsung libera One UI 9 para mais celulares brasileiros",
+      "link": "https://tecnoblog.net/noticias/nova-samsung-one-ui-chega-a-mais-celulares-brasileiros/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Android",
+          "Android 16",
+          "Brasil",
+          "Coreia do Sul",
+          "Galaxy",
+          "Galaxy S26",
+          "Galaxy S26 FE",
+          "Galaxy S26 Plus",
+          "Galaxy S26 Ultra",
+          "One UI",
+          "Samsung",
+          "Samsung Galaxy Z Fold 7"
+        ]
+      },
+      "timestamp": "2026-09-30T23:45:01.971Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Suas fotos podem “desaparecer”: Samsung encerra integração com Microsoft",
+      "summary": "Fotografias salvas na nuvem não ficarão mais disponíveis na galeria, mas podem ser baixadas no app da Microsoft. Suas fotos podem “desaparecer”: Samsung encerra integração com Microsoft",
+      "link": "https://tecnoblog.net/noticias/suas-fotos-podem-desaparecer-samsung-encerra-integracao-com-microsoft/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Gallery App Sync",
+          "Google Fotos",
+          "Microsoft",
+          "OneDrive",
+          "Samsung",
+          "Samsung Galaxy"
+        ]
+      },
+      "timestamp": "2026-09-30T23:45:02.233Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Qual o melhor notebook para carregar e ter praticidade no dia a dia?",
+      "summary": "Design fino, leveza e desempenho são primordiais para quem precisa contar com um computador a qualquer momento da rotina. Qual o melhor notebook para carregar e ter praticidade no dia a dia?",
+      "link": "https://tecnoblog.net/publieditoriais/qual-o-melhor-notebook-para-carregar-e-ter-praticidade-no-dia-a-dia/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Dell",
+          "Dell 14",
+          "Dell Inspiron 14 2 em 1",
+          "Dell XPS 13",
+          "Notebook"
+        ]
+      },
+      "timestamp": "2026-09-30T23:45:02.487Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "ChatGPT Dots: OpenAI lança assistente de IA para o dia a dia",
+      "summary": "Agente autônomo acompanha projetos, monitora serviços e executa tarefas sem depender de novos pedidos do usuário. ChatGPT Dots: OpenAI lança assistente de IA para o dia a dia",
+      "link": "https://tecnoblog.net/noticias/chatgpt-dots-openai-lanca-agentes-de-ia-que-trabalham-sozinhos/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "ChatGPT",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-09-30T23:45:02.741Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows 11 26H2 é oficial: veja o que muda e como instalar",
+      "summary": "Atualização 26H2 começou a ser liberada pela Microsoft para computadores com Windows 11 24H2 ou 25H2. Windows 11 26H2 é oficial: veja o que muda e como instalar",
+      "link": "https://tecnoblog.net/noticias/windows-11-26h2-e-oficial-veja-o-que-muda-e-como-instalar/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Microsoft",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-09-30T23:45:03.010Z"
     }
   ]
 }
