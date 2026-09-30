@@ -1,97 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "NordVPN: conheça os principais recursos, velocidade, servidores e segurança",
-      "summary": "Serviço combina VPN, rede global de servidores, protocolos de privacidade, Antivírus Next-Gen e proteção contra golpes em até 10 dispositivos NordVPN: conheça os principais recursos, velocidade, servidores e segurança",
-      "link": "https://tecnoblog.net/publieditoriais/nordvpn-conheca-os-principais-recursos-velocidade-servidores-e-seguranca/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "NordVPN"
-        ]
-      },
-      "timestamp": "2026-08-31T13:39:09.797Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Erro faz Claude e Codex executarem código malicioso em redes corporativas",
-      "summary": "Arquivos mal configurados enganam assistentes de programação, permitindo a entrada de malwares em sistemas grandes de empresas. Erro faz Claude e Codex executarem código malicioso em redes corporativas",
-      "link": "https://tecnoblog.net/noticias/erro-faz-claude-e-codex-executarem-codigo-malicioso-em-redes-corporativas/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Anthropic",
-          "cibersegurança",
-          "Claude",
-          "Codex",
-          "inteligência artificial",
-          "Malware",
-          "OpenAI",
-          "Programação",
-          "Segurança",
-          "Vulnerabilidade"
-        ]
-      },
-      "timestamp": "2026-08-31T13:39:10.056Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Gemini Notebook agora pode puxar informações de livros que você comprou",
-      "summary": "Antigo NotebookLM agora pode extrair trechos diretamente de obras compradas via Google Play Livros. Gemini Notebook agora pode puxar informações de livros que você comprou",
-      "link": "https://tecnoblog.net/noticias/gemini-notebook-agora-pode-puxar-informacoes-de-livros-que-voce-comprou/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Gemini Notebook",
-          "Google",
-          "Google Labs",
-          "Google Play Livros",
-          "NotebookLM"
-        ]
-      },
-      "timestamp": "2026-08-31T13:39:10.320Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Sony rebate ação e diz que PS Store não engana consumidores",
-      "summary": "Dona do PlayStation afirma à Justiça dos EUA que consumidores “razoáveis” entendem que jogos digitais são licenciados e não vendidos. Sony rebate ação e diz que PS Store não engana consumidores",
-      "link": "https://tecnoblog.net/noticias/sony-rebate-acao-e-diz-que-ps-store-nao-engana-consumidores/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "California",
-          "direitos do consumidor",
-          "Games",
-          "jogos digitais",
-          "Justiça",
-          "mídia física",
-          "Playstation",
-          "PlayStation Store",
-          "Sony"
-        ]
-      },
-      "timestamp": "2026-08-31T13:39:10.575Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Ainda dá tempo: Galaxy S26 sai mais barato com cupom no Mercado Livre",
-      "summary": "Galaxy S26 (256 GB) tem câmera principal de 50 MP e tela AMOLED de 120 Hz; celular da Samsung atinge um preço abaixo da média recente, com desconto de 48% no Pix com cupom Ainda dá tempo: Galaxy S26 sai mais barato com cupom no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/ainda-da-tempo-galaxy-s26-sai-mais-barato-com-cupom-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy",
-          "Galaxy S26",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-08-31T13:39:10.840Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: @asamuzakjp/css-color (rencaldas/liac-club)",
       "summary": "Versão instalada 3.2.0 → versão mais recente 7.0.0 (npm).",
@@ -9220,6 +9129,84 @@
         ]
       },
       "timestamp": "2026-09-30T08:31:38.556Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Mapa? Não: 90% dos brasileiros priorizam internet em viagens",
+      "summary": "Pesquisa da Airalo mostra que conexão móvel é o item que não pode faltar em viagens internacionais. 52% já ficaram em situação desconfortável por falta de internet. Mapa? Não: 90% dos brasileiros priorizam internet em viagens",
+      "link": "https://tecnoblog.net/noticias/mapa-nao-90-dos-brasileiros-priorizam-internet-em-viagens/",
+      "meta": {
+        "categorias": [
+          "Internet",
+          "Airgsm Pte. Ltd.",
+          "Brasileiros"
+        ]
+      },
+      "timestamp": "2026-09-30T15:16:18.368Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anthropic gasta mais dinheiro do que fatura para bancar IA",
+      "summary": "Dona do Claude teve receita de US$ 4,6 bilhões no último ano, mas prejuízo operacional foi praticamente o dobro. Anthropic gasta mais dinheiro do que fatura para bancar IA",
+      "link": "https://tecnoblog.net/noticias/anthropic-gasta-mais-dinheiro-do-que-fatura-para-bancar-ia/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Anthropic",
+          "Inteligência Artificial (IA)",
+          "IPO"
+        ]
+      },
+      "timestamp": "2026-09-30T15:16:18.635Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "AMD compra startup de IA que cria mundos 3D por R$ 43 bilhões",
+      "summary": "World Labs desenvolve modelos capazes de simular ambientes tridimensionais. Cofundadora e CEO, Fei-Fei Li vai integrar a AMD como cientista-chefe. AMD compra startup de IA que cria mundos 3D por R$ 43 bilhões",
+      "link": "https://tecnoblog.net/noticias/amd-compra-startup-de-ia-que-cria-mundos-3d-por-r-43-bilhoes/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "AMD",
+          "Chips",
+          "Data center",
+          "Fei-Fei Li",
+          "IA",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "World Labs"
+        ]
+      },
+      "timestamp": "2026-09-30T15:16:18.885Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Mozilla aposta no novo Firefox para conquistar usuários do Chrome",
+      "summary": "Chefe da divisão Firefox quer que navegador deixe de ser visto apenas como uma alternativa ao Chromium. Mozilla aposta no novo Firefox para conquistar usuários do Chrome",
+      "link": "https://tecnoblog.net/noticias/mozilla-aposta-no-novo-firefox-para-conquistar-usuarios-do-chrome/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Chromium",
+          "Firefox",
+          "Google Chrome",
+          "Mozilla"
+        ]
+      },
+      "timestamp": "2026-09-30T15:16:19.143Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TVs superam PCs e viram novo carrinho de compras",
+      "summary": "TV cresce frente aos desktops enquanto o celular se isola como meio preferido para compras online. TVs superam PCs e viram novo carrinho de compras",
+      "link": "https://tecnoblog.net/noticias/tvs-superam-pcs-e-viram-novo-carrinho-de-compras/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Televisão (transmissão)"
+        ]
+      },
+      "timestamp": "2026-09-30T15:16:19.403Z"
     }
   ]
 }
