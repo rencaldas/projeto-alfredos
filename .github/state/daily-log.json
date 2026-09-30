@@ -9146,6 +9146,80 @@
         ]
       },
       "timestamp": "2026-09-30T02:12:38.456Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como abrir a área de transferência do PC para ver o histórico do CTRL C",
+      "summary": "A área de transferência do Windows permite gerenciar o histórico do CTRL C, acessando até 25 conteúdos copiados anteriormente no PC Como abrir a área de transferência do PC para ver o histórico do CTRL C",
+      "link": "https://tecnoblog.net/responde/historico-de-links-da-area-de-transferencia-do-windows/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Ctrl+C",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-09-30T08:31:37.583Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "OpenAI desiste de lançar nova IA após problemas de segurança",
+      "summary": "GPT-6.1 Astra apresentou comportamento enganoso e realizou ações sem autorização. Modelo chegaria ao ChatGPT e ao Codex em outubro. OpenAI desiste de lançar nova IA após problemas de segurança",
+      "link": "https://tecnoblog.net/noticias/openai-desiste-de-lancar-nova-ia-apos-problemas-de-seguranca/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "ChatGPT",
+          "Codex",
+          "GPT-6 Astra",
+          "GPT-6.1 Astra",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-09-30T08:31:37.832Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Firefox ganha novo visual e traz o modo compacto de volta",
+      "summary": "Firefox 157 traz visual renovado baseado no Project Nova, o que inclui elementos arredondados e novos temas. Firefox ganha novo visual e traz o modo compacto de volta",
+      "link": "https://tecnoblog.net/noticias/firefox-ganha-nova-visual-e-traz-o-modo-compacto-de-volta/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Firefox"
+        ]
+      },
+      "timestamp": "2026-09-30T08:31:38.074Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Spotify fica fora do ar nesta terça e gera reclamações de usuários",
+      "summary": "Plataforma de streaming apresenta estabilidade nos aplicativos móveis e no desktop. Falha afeta usuários do Spotify em diversos países, inclusive no Brasil. Spotify fica fora do ar nesta terça e gera reclamações de usuários",
+      "link": "https://tecnoblog.net/noticias/spotify-fica-fora-do-ar-nesta-terca-e-gera-reclamacoes-de-usuarios/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Brasil",
+          "Spotify"
+        ]
+      },
+      "timestamp": "2026-09-30T08:31:38.318Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor notebook custo-benefício: 7 modelos para comprar em 2026",
+      "summary": "Orçamento apertado? Conheça os notebooks que entregam mais pelo menor preço, de modelos básicos a opções gamer com bom custo-benefício Melhor notebook custo-benefício: 7 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-custo-beneficio-7-modelos-para-comprar-em-2026/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "laptops",
+          "notebooks"
+        ]
+      },
+      "timestamp": "2026-09-30T08:31:38.556Z"
     }
   ]
 }
