@@ -8933,6 +8933,18 @@
         ]
       },
       "timestamp": "2026-10-01T09:13:23.623Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: stripe/stripe-php (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v19.4.1 → versão mais recente 22.1.0.0-beta1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-01T15:46:46.272Z"
     }
   ]
 }
