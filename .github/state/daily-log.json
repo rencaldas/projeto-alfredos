@@ -2,159 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
-      "summary": "Desenvolvedora também anuncia Mythos 5.1, que segue restrito a grupo de organizações confiáveis. Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
-      "link": "https://tecnoblog.net/noticias/anthropic-lanca-fable-5-1-com-menos-restricoes-e-promessa-de-economia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "Claude Fable 5.1",
-          "Claude Mythos 5.1"
-        ]
-      },
-      "timestamp": "2026-09-02T18:49:16.981Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 70 com corpo ultrafino tem 50% OFF no 9.9 da Amazon",
-      "summary": "Motorola Edge 70 de 256 GB com tela AMOLED, chipset premium e câmeras que filmam em 4K tem amplo desconto com pagamento via Pix na Amazon Motorola Edge 70 com corpo ultrafino tem 50% OFF no 9.9 da Amazon",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-com-corpo-ultrafino-tem-50-off-no-9-9-da-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "AMOLED",
-          "Motorola",
-          "Motorola Edge 70",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-02T18:49:17.318Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Z Flip 7 (256 GB) cai de preço em oferta por até 12x sem juros",
-      "summary": "Galaxy Z Flip 7 (256 GB) tem tela flexível de 120 Hz e câmera de 50 MP; dobrável quase igual ao novo Z Flip 8 sai quase pela metade do preço em até 12x sem juros no 9.9 Galaxy Z Flip 7 (256 GB) cai de preço em oferta por até 12x sem juros",
-      "link": "https://tecnoblog.net/achados/galaxy-z-flip-7-256-gb-cai-de-preco-em-oferta-por-ate-12x-sem-juros/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "AMOLED",
-          "Galaxy Z Flip 7",
-          "Samsung Galaxy Z Flip 7"
-        ]
-      },
-      "timestamp": "2026-09-02T18:49:17.582Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Governo pode proibir uso de IA para corrigir redações nas escolas; entenda as regras",
-      "summary": "Diretrizes aprovadas pelo CNE ainda precisam de homologação do MEC. Se forem confirmadas, instituições terão 12 meses para se adaptar. Governo pode proibir uso de IA para corrigir redações nas escolas; entenda as regras",
-      "link": "https://tecnoblog.net/noticias/cne-proibe-ia-para-corrigir-redacoes-nas-escolas-veja-o-que-muda/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Aluno",
-          "Conselho Nacional de Educação",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-09-02T18:49:17.839Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Para atletas: Garmin Forerunner 165 despenca 42% no Mercado Livre",
-      "summary": "Forerunner 165 tem GPS integrado e resiste a mergulhos de até 50 m; melhor oferta que já vimos traz um dos melhores smartwatches da Garmin com desconto de 42% no Pix Para atletas: Garmin Forerunner 165 despenca 42% no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/para-atletas-garmin-forerunner-165-despenca-42-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "Garmin",
-          "Garmin Forerunner 165",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-02T18:49:18.096Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Review do Lenovo Idea Tab Pro Gen 2: poderoso e com ótima autonomia",
-      "summary": "Testamos o tablet Lenovo com tela de 144 Hz, processador Snapdragon e com acessórios de produtividade no pacote; veja os prós e contras do modelo Review do Lenovo Idea Tab Pro Gen 2: poderoso e com ótima autonomia",
-      "link": "https://tecnoblog.net/testamos/review-do-lenovo-idea-tab-pro-gen-2-poderoso-e-com-otima-autonomia/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Lenovo"
-        ]
-      },
-      "timestamp": "2026-09-02T21:24:46.553Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Redmi 17 5G é homologado no Brasil com bateria de 7.500 mAh",
-      "summary": "Celular de entrada da Xiaomi perde resolução da tela e memória RAM em relação ao antecessor. Redmi Note 17 4G também foi aprovado pela Anatel. Redmi 17 5G é homologado no Brasil com bateria de 7.500 mAh",
-      "link": "https://tecnoblog.net/noticias/redmi-17-5g-e-homologado-no-brasil-com-bateria-de-7-500-mah/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Anatel",
-          "Brasil",
-          "Exclusivo",
-          "Xiaomi"
-        ]
-      },
-      "timestamp": "2026-09-02T21:24:46.802Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Uber vai demitir 3,3 mil funcionários em maior corte desde a pandemia",
-      "summary": "Empresa quer simplificar gestão e reduzir equipes. Economia deve ser usada para investimentos em robotáxis. Uber vai demitir 3,3 mil funcionários em maior corte desde a pandemia",
-      "link": "https://tecnoblog.net/noticias/uber-vai-demitir-33-mil-funcionarios-em-maior-corte-desde-a-pandemia/",
-      "meta": {
-        "categorias": [
-          "Mobilidade",
-          "CEO",
-          "Uber"
-        ]
-      },
-      "timestamp": "2026-09-02T21:24:47.067Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S10 FE atinge um dos menores preços recentes no AliExpress",
-      "summary": "Galaxy Tab S10 FE (128 GB) tem tela de 90 Hz e traz caneta S Pen; tablet da Samsung atinge um dos menores preços recentes com desconto de 41% em até 12x com cupom Galaxy Tab S10 FE atinge um dos menores preços recentes no AliExpress",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-atinge-um-dos-menores-precos-recentes-no-aliexpress/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "AliExpress",
-          "Galaxy Tab S10 FE",
-          "Magazine Luiza",
-          "Samsung",
-          "Stylus"
-        ]
-      },
-      "timestamp": "2026-09-02T21:24:47.307Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Windows 11 ativará uma proteção importante por padrão, mas há um porém",
-      "summary": "Microsoft expandirá a ativação automática da função Integridade de Memória no Windows 11 a partir de outubro. Mas usuários de PCs antigos devem observar o desempenho. Windows 11 ativará uma proteção importante por padrão, mas há um porém",
-      "link": "https://tecnoblog.net/noticias/windows-11-ativara-uma-protecao-importante-por-padrao-mas-ha-um-porem/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Microsoft",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-09-02T21:24:47.554Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Como compartilhar a localização em tempo real pelo Google Maps",
       "summary": "O compartilhamento em tempo real no Google Maps garante que amigos e familiares monitorem seu deslocamento e saibam o horário previsto de chegada ao destino Como compartilhar a localização em tempo real pelo Google Maps",
       "link": "https://tecnoblog.net/responde/como-compartilhar-a-localizacao-em-tempo-real-pelo-google-maps/",
@@ -9035,6 +8882,85 @@
         ]
       },
       "timestamp": "2026-10-02T18:01:12.009Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Huawei MatePad SE 11 com tela ampla para leitura cai 51% na Amazon",
+      "summary": "Huawei MatePad SE 11 tem modo eBook, proteção ocular e função de controle parental; tablet para presente de Dia das Crianças sai pela metade do preço na Amazon Huawei MatePad SE 11 com tela ampla para leitura cai 51% na Amazon",
+      "link": "https://tecnoblog.net/achados/huawei-matepad-se-11-com-tela-ampla-para-leitura-cai-50-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Amazon",
+          "Dia das Crianças",
+          "Dia das Crianças 2026",
+          "eBook",
+          "Huawei"
+        ]
+      },
+      "timestamp": "2026-10-02T22:09:28.605Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor Notebook HP: 7 modelos para comprar em 2026",
+      "summary": "Selecionamos os melhores notebooks HP para diversas necessidades, dos modelos básicos aos de maior desempenho Melhor Notebook HP: 7 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-hp/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Hewlett-Packard"
+        ]
+      },
+      "timestamp": "2026-10-02T22:09:28.884Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 Plus (512 GB) com cupom atinge menor preço em meses",
+      "summary": "Galaxy S25 Plus com chip Snapdragon e tela AMOLED com HDR10+ está com melhor oferta desde agosto, com desconto de 56% no Pix no Mercado Livre Galaxy S25 Plus (512 GB) com cupom atinge menor preço em meses",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-com-cupom-atinge-menor-preco-em-meses/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy S25 Plus",
+          "HDR10+",
+          "Mercado Livre",
+          "Pix",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-10-02T22:09:29.163Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor notebook Acer: 10 modelos para comprar em 2026",
+      "summary": "Encontre o melhor notebook Acer para trabalho, estudo e jogos; guia reúne modelos básicos, intermediários e avançados com preços a partir de R$ 2.700 Melhor notebook Acer: 10 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-acer/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Acer"
+        ]
+      },
+      "timestamp": "2026-10-02T22:09:29.460Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Tablet para criança: Galaxy Tab A11 cai 47% na melhor oferta desde julho",
+      "summary": "Galaxy Tab A11 (64 GB) traz tela de 8,7\" para assistir desenhos e estudar; tablet compacto da Samsung sai por quase metade do preço no Pix com cupom no Mercado Livre Tablet para criança: Galaxy Tab A11 cai 47% na melhor oferta desde julho",
+      "link": "https://tecnoblog.net/achados/tablet-para-crianca-galaxy-tab-a11-cai-47-na-melhor-oferta-desde-julho/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Dia das Crianças",
+          "Dia das Crianças 2026",
+          "Galaxy Tab A11",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-02T22:09:29.746Z"
     }
   ]
 }
