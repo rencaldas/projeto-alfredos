@@ -2,88 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Redata: Senado aprova incentivo bilionário para data centers no Brasil",
-      "summary": "O Redata isenta tributos sobre equipamentos para infraestrutura de IA e nuvem e prevê R$ 7,2 bilhões em renúncia fiscal. Redata: Senado aprova incentivo bilionário para data centers no Brasil",
-      "link": "https://tecnoblog.net/noticias/senado-aprova-incentivo-bilionario-para-data-centers-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Inteligência Artificial (IA)",
-          "Projeto de lei",
-          "Senado Federal"
-        ]
-      },
-      "timestamp": "2026-09-02T15:17:01.306Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "SUS terá controle de consultas médicas via WhatsApp",
-      "summary": "Sistema pretende reduzir faltas e permitir que vagas liberadas sejam reaproveitadas pela rede pública. SUS terá controle de consultas médicas via WhatsApp",
-      "link": "https://tecnoblog.net/noticias/sus-tera-funcao-no-whatsapp-para-controlar-consultas-medicas/",
-      "meta": {
-        "categorias": [
-          "Ciência e Saúde",
-          "Sistema Único de Saúde",
-          "WhatsApp"
-        ]
-      },
-      "timestamp": "2026-09-02T15:17:01.557Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Magalu lança delivery de comida para rivalizar com o iFood",
-      "summary": "Serviço usa tecnologia do Aiqfome e estreia em mais de 400 cidades de Minas Gerais, Paraná e São Paulo. Magalu lança delivery de comida para rivalizar com o iFood",
-      "link": "https://tecnoblog.net/noticias/magalu-lanca-delivery-de-comida-para-rivalizar-com-o-ifood/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "aiqfome LTDA.",
-          "iFood",
-          "Magazine Luiza",
-          "Minas Gerais",
-          "Paraná",
-          "São Paulo"
-        ]
-      },
-      "timestamp": "2026-09-02T15:17:01.815Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 17 Pro (512 GB) aparece em queda em oferta 9.9 na Amazon",
-      "summary": "iPhone 17 Pro (512 GB) com câmeras de 48 MP e tela OLED de 120 Hz atinge o menor preço que já vimos, com desconto de 29% sobre o preço original no Pix em oferta do 9.9 iPhone 17 Pro (512 GB) aparece em queda em oferta 9.9 na Amazon",
-      "link": "https://tecnoblog.net/achados/iphone-17-pro-512-gb-aparece-em-queda-em-oferta-9-9-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "Apple A19",
-          "iPhone 17 Pro",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-02T15:17:02.071Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "TCL processa Samsung por propaganda enganosa em TVs Mini LED",
-      "summary": "Ação da fabricante chinesa foi ajuizada nos Estados Unidos. TCL processa Samsung por propaganda enganosa em TVs Mini LED",
-      "link": "https://tecnoblog.net/noticias/tcl-processa-samsung-por-propaganda-enganosa-em-tvs-mini-led/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "LED",
-          "Mini LED",
-          "QLED",
-          "QLED870",
-          "Samsung",
-          "TCL"
-        ]
-      },
-      "timestamp": "2026-09-02T15:17:02.348Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
       "summary": "Desenvolvedora também anuncia Mythos 5.1, que segue restrito a grupo de organizações confiáveis. Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
       "link": "https://tecnoblog.net/noticias/anthropic-lanca-fable-5-1-com-menos-restricoes-e-promessa-de-economia/",
@@ -9041,6 +8959,82 @@
         "repositorio": "rencaldas/ideal-marketplace-project"
       },
       "timestamp": "2026-10-02T15:08:21.287Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S26 sofre reajuste e fica até R$ 1.300 mais caro",
+      "summary": "Samsung aumentou preços de todos os modelos da linha S26 na loja oficial. Galaxy S26 sofre reajuste e fica até R$ 1.300 mais caro",
+      "link": "https://tecnoblog.net/noticias/galaxy-s26-sofre-reajuste-e-fica-ate-r-1-300-mais-caro/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy S25",
+          "Galaxy S26",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-02T18:01:11.005Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Notebook com Windows 11: 10 modelos atualizados para comprar em 2026",
+      "summary": "Seu computador parou de atualizar? Veja a seleção com os melhores notebooks que rodam Windows 11 de fábrica, dos básicos aos avançados Notebook com Windows 11: 10 modelos atualizados para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/notebook-com-windows-11/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "notebooks",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-10-02T18:01:11.260Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Amazon anuncia controle remoto para avançar página no Kindle",
+      "summary": "Kindle Click é um controle remoto Bluetooth que permite mudar de página sem tocar na tela do Kindle. Amazon anuncia controle remoto para avançar página no Kindle",
+      "link": "https://tecnoblog.net/noticias/amazon-anuncia-controle-remoto-para-avancar-de-pagina-no-kindle/",
+      "meta": {
+        "categorias": [
+          "Periféricos",
+          "Amazon",
+          "Kindle",
+          "Kindle Paperwhite"
+        ]
+      },
+      "timestamp": "2026-10-02T18:01:11.511Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Buds On: Samsung anuncia fone de ouvido em formato de brinco",
+      "summary": "Dispositivo é indicado para quem sente desconforto com fones tradicionais. Preço equivale a R$ 1.150. Galaxy Buds On: Samsung anuncia fone de ouvido em formato de brinco",
+      "link": "https://tecnoblog.net/noticias/galaxy-buds-on-samsung-anuncia-fone-de-ouvido-em-formato-de-brinco/",
+      "meta": {
+        "categorias": [
+          "Gadgets",
+          "Galaxy Buds On",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-02T18:01:11.755Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 15 (256 GB) volta a cair de preço com cupom exclusivo Amazon Prime",
+      "summary": "iPhone 15 tem desconto exclusivo de 47% para assinantes do serviço ao combinar Pix e cupom; gadget ainda é uma das melhores opções custo-benefício de celulares da Apple iPhone 15 (256 GB) volta a cair de preço com cupom exclusivo Amazon Prime",
+      "link": "https://tecnoblog.net/achados/iphone-15-256-gb-volta-a-cair-de-preco-com-cupom-exclusivo-amazon-prime/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "A16 Bionic",
+          "Amazon",
+          "Apple",
+          "iPhone 15",
+          "Pix",
+          "Prime Video"
+        ]
+      },
+      "timestamp": "2026-10-02T18:01:12.009Z"
     }
   ]
 }
