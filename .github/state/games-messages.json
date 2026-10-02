@@ -3,7 +3,7 @@
     "3029": {
       "title": "Astrea: Six Sided Oracles (Epic Games) Giveaway",
       "endDate": "2026-10-01 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-02T07:37:30.722Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -18,7 +18,7 @@
     "3790": {
       "title": "Mechabellum (Epic Games) Giveaway",
       "endDate": "2026-10-01 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-02T07:37:31.584Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -27,6 +27,36 @@
         {
           "chatId": "726946412",
           "messageId": 263
+        }
+      ]
+    },
+    "3797": {
+      "title": "System Shock 2: 25th Anniversary Remaster (Epic Games) Giveaway",
+      "endDate": "2026-10-08 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 264
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 265
+        }
+      ]
+    },
+    "3798": {
+      "title": "BURIED STARS (Epic Games) Giveaway",
+      "endDate": "2026-10-08 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 266
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 267
         }
       ]
     }
