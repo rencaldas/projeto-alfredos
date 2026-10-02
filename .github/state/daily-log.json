@@ -2,73 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
-      "summary": "Tecnologia estreia com o game NBA 2K27. Recurso gerou polêmica sobre a direção artística dos jogos. Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
-      "link": "https://tecnoblog.net/noticias/nvidia-oficializa-dlss-5-para-deixar-jogos-mais-realistas-com-ia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Deep learning super sampling",
-          "DLSS",
-          "DLSS 5",
-          "Games",
-          "GeForce Now",
-          "GeForce RTX",
-          "GeForce RTX 50 series",
-          "Inteligência Artificial (IA)",
-          "Jogos para PC",
-          "NBA",
-          "NBA 2K27",
-          "Nvidia",
-          "Placa de Vídeo",
-          "Ray tracing",
-          "Renderização neural"
-        ]
-      },
-      "timestamp": "2026-09-02T01:45:19.203Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como funciona a Conta de Adolescente do Instagram? Veja o que é bloqueado por padrão",
-      "summary": "A conta de adolescente do Instagram protege jovens contra riscos digitais e interações com desconhecidos, além de facilitar o monitoramento pelos pais Como funciona a Conta de Adolescente do Instagram? Veja o que é bloqueado por padrão",
-      "link": "https://tecnoblog.net/responde/como-funciona-a-conta-de-adolescente-do-instagram-veja-o-que-e-bloqueado-por-padrao/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "ECA Digital",
-          "Instagram"
-        ]
-      },
-      "timestamp": "2026-09-02T01:45:19.468Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Oferta relâmpago: Tablet Vaio TL12 (256 GB) tem 33% OFF na Amazon",
-      "summary": "Vaio TL12 se destaca pela tela AMOLED de 12,6\", 8 GB de RAM e acessórios inclusos na caixa, como a Vaio Pen. Corra para aproveitar a promoção que acaba em poucas horas Oferta relâmpago: Tablet Vaio TL12 (256 GB) tem 33% OFF na Amazon",
-      "link": "https://tecnoblog.net/achados/oferta-relampago-tablet-vaio-tl12-256-gb-tem-33-off-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Tablets"
-        ]
-      },
-      "timestamp": "2026-09-02T01:45:19.725Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Tempestade solar causou falhas no GPS com extensão inédita",
-      "summary": "Erros de leitura passaram dos 10 metros e foram detectados em regiões distantes dos polos, onde problemas do tipo são mais comuns. Tempestade solar causou falhas no GPS com extensão inédita",
-      "link": "https://tecnoblog.net/noticias/tempestade-solar-causou-falhas-no-gps-com-extensao-inedita/",
-      "meta": {
-        "categorias": [
-          "Ciência e Saúde",
-          "Geophysical Research Letters",
-          "Sistema Solar"
-        ]
-      },
-      "timestamp": "2026-09-02T01:45:19.985Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Redata: Senado aprova incentivo bilionário para data centers no Brasil",
       "summary": "O Redata isenta tributos sobre equipamentos para infraestrutura de IA e nuvem e prevê R$ 7,2 bilhões em renúncia fiscal. Redata: Senado aprova incentivo bilionário para data centers no Brasil",
       "link": "https://tecnoblog.net/noticias/senado-aprova-incentivo-bilionario-para-data-centers-no-brasil/",
@@ -8913,6 +8846,89 @@
         ]
       },
       "timestamp": "2026-10-02T00:43:52.567Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como entrar em contato com o suporte do Instagram via chat",
+      "summary": "Enquanto os assinantes do Meta Verified podem acessar o chat de suporte do Instagram, os demais usuários devem entrar em contato com a rede social pela ferramenta de reportar bugs Como entrar em contato com o suporte do Instagram via chat",
+      "link": "https://tecnoblog.net/responde/como-entrar-em-contato-com-o-instagram-para-relatar-um-problema-ou-pedir-ajuda/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "Instagram"
+        ]
+      },
+      "timestamp": "2026-10-02T06:14:07.294Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 (256 GB) com 12 GB de RAM tem maior desconto com cupom",
+      "summary": "Galaxy S25 (256 GB) com alta performance em apps, games e IA atinge um dos menores preços recentes, com desconto de 54% no Pix com cupom no Mercado Livre Galaxy S25 (256 GB) com 12 GB de RAM tem maior desconto com cupom",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-256-gb-com-12-gb-de-ram-tem-maior-desconto-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Inteligência Artificial (IA)",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-02T06:14:07.533Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Kindle com design renovado chega ao Brasil; veja os preços",
+      "summary": "Leitor digital da Amazon ficou mais fino e ganhou novo acabamento. Modelos custam a partir de R$ 899. Kindle com design renovado chega ao Brasil; veja os preços",
+      "link": "https://tecnoblog.net/noticias/kindle-com-design-renovado-chega-ao-brasil-veja-os-precos/",
+      "meta": {
+        "categorias": [
+          "Gadgets",
+          "Amazon",
+          "Brasil",
+          "e-reader",
+          "eBook",
+          "Kindle",
+          "Kindle Paperwhite",
+          "Preço"
+        ]
+      },
+      "timestamp": "2026-10-02T06:14:07.777Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nintendo Switch OLED tem 2.ª melhor oferta do ano antes do Dia das Crianças",
+      "summary": "Pack com o Nintendo Switch OLED e o game Super Mario Bros. Wonder recebe desconto de 28% no Pix no Magalu, e chega a tempo de presentear no Dia das Crianças 2026 Nintendo Switch OLED tem 2.ª melhor oferta do ano antes do Dia das Crianças",
+      "link": "https://tecnoblog.net/achados/nintendo-switch-oled-tem-2-a-melhor-oferta-do-ano-antes-do-dia-das-criancas/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Dia das Crianças",
+          "Dia das Crianças 2026",
+          "Magazine Luiza",
+          "Nintendo",
+          "Nintendo Switch OLED",
+          "Nintendo Switch Online",
+          "Pix",
+          "Super Mario",
+          "Super Mario Bros. Wonder",
+          "Switch"
+        ]
+      },
+      "timestamp": "2026-10-02T06:14:08.016Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Pix por aproximação deixa de ter limite de R$ 500 (agora vai?)",
+      "summary": "Com a determinação do Banco Central, o cliente pode ajustar o limite de pagamento do Pix por aproximação junto ao banco em que tem conta. Pix por aproximação deixa de ter limite de R$ 500 (agora vai?)",
+      "link": "https://tecnoblog.net/noticias/pix-por-aproximacao-deixa-de-ter-limite-de-r-500-agora-vai/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-02T06:14:08.250Z"
     }
   ]
 }
