@@ -2,36 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Banco do Brasil adota Origem Verificada para identificar ligações e combater golpes",
-      "summary": "Serviço usa protocolo internacional para autenticar chamadas e mostrar ao cliente que o contato vem do banco. Banco do Brasil adota Origem Verificada para identificar ligações e combater golpes",
-      "link": "https://tecnoblog.net/noticias/banco-do-brasil-adota-origem-verificada-para-identificar-ligacoes-e-combater-golpes/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Banco do Brasil",
-          "Origem Verificada"
-        ]
-      },
-      "timestamp": "2026-09-03T01:14:55.685Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Edge 70 Fusion Plus (512 GB) fica mais barato com cupom de R$ 400 no Magalu",
-      "summary": "Motorola Edge 70 Fusion Plus de 512 GB possui tela AMOLED de 144 Hz, 12 GB de RAM e câmeras de 50 MP. Utilize o cupom válido até o final do dia para garantir 35% de desconto Edge 70 Fusion Plus (512 GB) fica mais barato com cupom de R$ 400 no Magalu",
-      "link": "https://tecnoblog.net/achados/edge-70-fusion-plus-512-gb-fica-mais-barato-com-cupom-de-r-400-no-magalu/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Magazine Luiza",
-          "Motorola",
-          "Motorola Edge 70 Fusion Plus",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-03T01:14:55.977Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "WhatsApp vai te lembrar de enviar mensagens esquecidas",
       "summary": "Recurso disponível na versão beta para Android alerta os usuários sobre textos não enviados após um minuto de inatividade fora do aplicativo. WhatsApp vai te lembrar de enviar mensagens esquecidas",
       "link": "https://tecnoblog.net/noticias/whatsapp-vai-te-lembrar-de-enviar-mensagens-esquecidas/",
@@ -8973,6 +8943,83 @@
         ]
       },
       "timestamp": "2026-10-03T01:09:16.063Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Micron prevê preços de memória “ainda mais altos” nos próximos anos",
+      "summary": "Fabricante registrou receita recorde, mas afirma que demanda continuará acima da oferta. Micron prevê preços de memória “ainda mais altos” nos próximos anos",
+      "link": "https://tecnoblog.net/noticias/micron-preve-precos-de-memoria-ainda-mais-altos-nos-proximos-anos/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "DRAM",
+          "HBM",
+          "IA",
+          "inteligência artificial",
+          "Memória RAM",
+          "Micron",
+          "Semicondutores"
+        ]
+      },
+      "timestamp": "2026-10-03T06:26:39.782Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nubank dá 3 meses grátis de Spotify Premium; veja como resgatar",
+      "summary": "Benefício gratuito é válido para clientes Nubank que nunca usaram o Spotify Premium. Nubank dá 3 meses grátis de Spotify Premium; veja como resgatar",
+      "link": "https://tecnoblog.net/noticias/nubank-da-3-meses-gratis-de-spotify-premium-veja-como-resgatar/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Nubank",
+          "Spotify"
+        ]
+      },
+      "timestamp": "2026-10-03T06:26:40.053Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nova York institui lei do cancelamento fácil",
+      "summary": "Empresas devem permitir que o consumidor cancele serviços pelo mesmo meio usado na contratação. Nova York institui lei do cancelamento fácil",
+      "link": "https://tecnoblog.net/noticias/nova-york-institui-lei-do-cancelamento-facil/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Nova York"
+        ]
+      },
+      "timestamp": "2026-10-03T06:26:40.332Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "YouTube vai complicar a vida de quem vive de “cortes” de outros canais",
+      "summary": "YouTube atualizou algoritmos do Shorts para reduzir o alcance de vídeos que apenas republicam trechos do conteúdo de outros criadores. YouTube vai complicar a vida de quem vive de “cortes” de outros canais",
+      "link": "https://tecnoblog.net/noticias/youtube-vai-complicar-a-vida-de-quem-vive-de-cortes-de-outros-canais/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "YouTube",
+          "YouTube Shorts"
+        ]
+      },
+      "timestamp": "2026-10-03T06:26:40.610Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Claro assume o controle de operadora regional",
+      "summary": "Desktop tem forte presença no litoral e interior de São Paulo. Claro assume o controle de operadora regional",
+      "link": "https://tecnoblog.net/noticias/claro-assume-o-controle-de-operadora-regional/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Brasil",
+          "Cade",
+          "Claro",
+          "Desktop (operadora)",
+          "São Paulo"
+        ]
+      },
+      "timestamp": "2026-10-03T06:26:40.887Z"
     }
   ]
 }
