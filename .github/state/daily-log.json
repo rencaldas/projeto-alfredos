@@ -2,25 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Novo aspirador robô da iRobot vale por dois (literalmente)",
-      "summary": "Roomba Duo foi apresentado durante feira na Alemanha. Novo aspirador robô da iRobot vale por dois (literalmente)",
-      "link": "https://tecnoblog.net/noticias/novo-aspirador-robo-da-irobot-vale-por-dois-literalmente/",
-      "meta": {
-        "categorias": [
-          "Robótica",
-          "IFA",
-          "IFA 2026",
-          "iRobot",
-          "J7 Combo",
-          "Roomba",
-          "Roomba Duo",
-          "Roomba Plus 757"
-        ]
-      },
-      "timestamp": "2026-09-05T16:01:37.598Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Nintendo Switch OLED fica mais barato com cupom no Mercado Livre",
       "summary": "Nintendo Switch OLED com tela melhorada de 7\", 64 GB de espaço e suporte a redes cabeadas sai 28% mais barato que o preço original no Pix com cupom que acaba hoje Nintendo Switch OLED fica mais barato com cupom no Mercado Livre",
       "link": "https://tecnoblog.net/achados/nintendo-switch-oled-fica-mais-barato-com-cupom-no-mercado-livre/",
@@ -8474,6 +8455,89 @@
         ]
       },
       "timestamp": "2026-10-05T15:02:26.514Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S27 Ultra pode corrigir problema da Tela de Privacidade",
+      "summary": "Rumor indica que a Samsung trabalha para deixar tela mais nítida e definida com o recurso ativado. Galaxy S27 Ultra pode corrigir problema da Tela de Privacidade",
+      "link": "https://tecnoblog.net/noticias/galaxy-s27-ultra-pode-corrigir-problema-da-tela-de-privacidade/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy S26 Ultra",
+          "Galaxy S27",
+          "Galaxy S27 Ultra",
+          "rumor",
+          "Samsung",
+          "Tela de Privacidade"
+        ]
+      },
+      "timestamp": "2026-10-05T21:59:15.269Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Razr 60 tem promoção exclusiva em até 12x para membros Prime",
+      "summary": "Razr 60 (256 GB) tem tela POLED flexível de 120 Hz e 12 GB de RAM; Mega Oferta Prime exclusiva para membros oferece dobrável da Motorola com desconto de 45% no prazo Motorola Razr 60 tem promoção exclusiva em até 12x para membros Prime",
+      "link": "https://tecnoblog.net/achados/motorola-razr-60-tem-promocao-exclusiva-em-ate-12x-para-membros-prime/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Amazon Prime",
+          "Motorola",
+          "Motorola RAZR (linha)",
+          "Motorola Razr 60"
+        ]
+      },
+      "timestamp": "2026-10-05T21:59:15.507Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apps de Android podem falhar em Googlebooks com chip Intel",
+      "summary": "Google admite que alguns aplicativos de Android podem ter instabilidades em Googlebooks com chip Intel, mas afirma que já trabalha na solução. Apps de Android podem falhar em Googlebooks com chip Intel",
+      "link": "https://tecnoblog.net/noticias/apps-de-android-podem-falhar-em-googlebooks-com-chip-intel/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Android",
+          "Google",
+          "Intel"
+        ]
+      },
+      "timestamp": "2026-10-05T21:59:15.757Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anthropic chama polícia após mulher ameaçar ataque em conversa",
+      "summary": "Mulher foi presa na Flórida após supostas ameaças registradas no chatbot Claude. Anthropic chama polícia após mulher ameaçar ataque em conversa",
+      "link": "https://tecnoblog.net/noticias/anthropic-chama-policia-apos-mulher-ameacar-ataque-em-conversa-com-claude/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "Claude",
+          "Flórida"
+        ]
+      },
+      "timestamp": "2026-10-05T21:59:16.007Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Z Flip 8 (512 GB) volta em melhor oferta de 37% OFF no Mercado Livre",
+      "summary": "Galaxy Z Flip 8 (512 GB) tem tela dobrável de 120 Hz e chip de alto desempenho; novo celular da Samsung atinge menor preço histórico no Pix com cupom Galaxy Z Flip 8 (512 GB) volta em melhor oferta de 37% OFF no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-z-flip-8-512-gb-volta-em-melhor-oferta-de-37-off-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy AI",
+          "Galaxy Z Flip 8",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-05T21:59:16.243Z"
     }
   ]
 }
