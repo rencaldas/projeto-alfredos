@@ -8538,6 +8538,85 @@
         ]
       },
       "timestamp": "2026-10-05T21:59:16.243Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Kindle despenca 42% para clientes Amazon Prime após anúncio da nova linha",
+      "summary": "Kindle de 11ª geração com tela de 6 polegadas e bateria de até seis semanas fica mais barato e traz opção de parcelamento Kindle despenca 42% para clientes Amazon Prime após anúncio da nova linha",
+      "link": "https://tecnoblog.net/achados/kindle-despenca-42-para-clientes-amazon-prime-apos-anuncio-da-nova-linha/",
+      "meta": {
+        "categorias": [
+          "Gadgets",
+          "Kindle"
+        ]
+      },
+      "timestamp": "2026-10-06T02:04:27.152Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gemini vai ficar mais limitado para usuários de contas gratuitas",
+      "summary": "Gemini gratuito deixará de oferecer os modelos Flash e Pro, ficando limitado ao Flash Lite. Também haverá mudanças no Google AI Plus. Gemini vai ficar mais limitado para usuários de contas gratuitas",
+      "link": "https://tecnoblog.net/noticias/gemini-vai-ficar-mais-limitado-para-usuarios-de-contas-gratuitas/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini",
+          "Google"
+        ]
+      },
+      "timestamp": "2026-10-06T02:04:27.407Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Presente para crianças: Nintendo Switch OLED alcança o menor preço de 2026",
+      "summary": "Bundle do Nintendo Switch OLED com Super Mario Wonder e 3 meses de Nintendo Switch Online fica mais acessível com pagamento via Pix Presente para crianças: Nintendo Switch OLED alcança o menor preço de 2026",
+      "link": "https://tecnoblog.net/achados/presente-para-criancas-nintendo-switch-oled-alcanca-o-menor-preco-de-2026/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Amazon",
+          "Dia das Crianças 2026",
+          "Nintendo",
+          "Nintendo Switch OLED",
+          "Nintendo Switch Online",
+          "Pix",
+          "Super Mario Bros. Wonder"
+        ]
+      },
+      "timestamp": "2026-10-06T02:04:27.662Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "ChatGPT começa a testar anúncios com imagens",
+      "summary": "Novo formato será testado de início durante a geração de imagens; OpenAI afirma que publicidade continuará separada das respostas. ChatGPT começa a testar anúncios com imagens",
+      "link": "https://tecnoblog.net/noticias/chatgpt-comeca-a-testar-anuncios-com-imagens/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Anúncios",
+          "ChatGPT",
+          "inteligência artificial",
+          "OpenAI",
+          "Publicidade"
+        ]
+      },
+      "timestamp": "2026-10-06T02:04:27.911Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "WhatsApp vai barrar o login em celulares com sistema desatualizado",
+      "summary": "Medida da Meta impede acesso à conta até que o usuário atualize o Android ou iOS do aparelho. WhatsApp vai barrar o login em celulares com sistema desatualizado",
+      "link": "https://tecnoblog.net/noticias/whatsapp-vai-barrar-o-login-em-celulares-com-sistema-operacional-desatualizado/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Android",
+          "iOS",
+          "Meta",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-10-06T02:04:28.161Z"
     }
   ]
 }
