@@ -8679,6 +8679,18 @@
         ]
       },
       "timestamp": "2026-10-06T08:55:03.912Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v12.69.2 → versão mais recente 13.35.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-06T15:30:26.945Z"
     }
   ]
 }
