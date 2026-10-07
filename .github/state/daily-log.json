@@ -2,140 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Motorola Razr 70 segue caro, mas tem a maior queda de preço registrada",
-      "summary": "Razr 70 (256 GB) tem tela AMOLED flexível de 120 Hz e câmeras de 50 MP; dobrável da Motorola atinge menor preço desde o lançamento, com desconto de 30% no Pix com cupom Motorola Razr 70 segue caro, mas tem a maior queda de preço registrada",
-      "link": "https://tecnoblog.net/achados/motorola-razr-70-segue-caro-mas-tem-a-maior-queda-de-preco-registrada/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Magazine Luiza",
-          "Motorola",
-          "Motorola RAZR (linha)",
-          "Motorola Razr 70",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-07T19:16:36.308Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Governo da Suíça quer se livrar do Microsoft 365",
-      "summary": "Governo suíço iniciou um projeto piloto para substituir o Microsoft 365 pelo pacote aberto openDesk em computadores públicos. Governo da Suíça quer se livrar do Microsoft 365",
-      "link": "https://tecnoblog.net/noticias/governo-da-suica-quer-se-livrar-do-microsoft-365/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Microsoft",
-          "Microsoft 365",
-          "OpenDesk",
-          "Suíça"
-        ]
-      },
-      "timestamp": "2026-09-07T19:16:36.619Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Fone de ouvido Anker Soundcore: 10 modelos para comprar em 2026",
-      "summary": "Selecionamos os melhores fones de ouvido Soundcore da Anker; veja modelos com cancelamento de ruído, para esportes, headphones e até fones para dormir Fone de ouvido Anker Soundcore: 10 modelos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-anker-soundcore/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "Anker",
-          "Bluetooth",
-          "Fones de Ouvido",
-          "Soundcore"
-        ]
-      },
-      "timestamp": "2026-09-07T19:16:36.920Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Fone de ouvido para corrida: os 10 melhores modelos para comprar em 2026",
-      "summary": "Selecionamos os melhores fones de ouvido para correr; encontre modelos para corrida ao ar livre ou em locais fechados, de marcas como JBL, Bose, Shokz e Anker Fone de ouvido para corrida: os 10 melhores modelos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/fone-de-ouvido-para-corrida/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "Controle ativo de ruído",
-          "Shokz"
-        ]
-      },
-      "timestamp": "2026-09-07T19:16:37.214Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Huawei Watch Fit 5 Pro com função Mini Treino cai 43% em até 12x na Amazon",
-      "summary": "Huawei Watch Fit 5 Pro traz tela AMOLED de 1,92\", bateria para até 10 dias e monitoramento contínuo de membros do corpo. Relógio premium está à venda em até 12x sem juros Huawei Watch Fit 5 Pro com função Mini Treino cai 43% em até 12x na Amazon",
-      "link": "https://tecnoblog.net/achados/huawei-watch-fit-5-pro-com-funcao-mini-treino-cai-43-em-ate-12x-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "Amazon",
-          "Huawei Watch Fit 5 Pro"
-        ]
-      },
-      "timestamp": "2026-09-07T22:07:33.639Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Os limites do open source: por que código aberto não é terra sem lei",
-      "summary": "Softwares de código-fonte aberto seguem regras. Três casos recentes mostram o que acontece quando licenças, direitos de marcas ou boas práticas são deixadas de lado. Os limites do open source: por que código aberto não é terra sem lei",
-      "link": "https://tecnoblog.net/especiais/os-limites-do-open-source-por-que-codigo-aberto-nao-e-terra-sem-lei/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "macOS",
-          "Notepad++"
-        ]
-      },
-      "timestamp": "2026-09-07T22:07:33.897Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Trend dos anos 80 viraliza na web; veja como fazer no ChatGPT",
-      "summary": "Nova moda usa inteligência artificial para transformar fotos atuais em retratos com estética retrô. Trend dos anos 80 viraliza na web; veja como fazer no ChatGPT",
-      "link": "https://tecnoblog.net/noticias/trend-dos-anos-80-viraliza-na-web-veja-como-fazer-no-chatgpt/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "ChatGPT"
-        ]
-      },
-      "timestamp": "2026-09-07T22:07:34.160Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Windows 11 terá widget que mostra status de bateria de acessórios",
-      "summary": "Windows 11 deve receber da Microsoft um widget para exibir o nível de bateria de acessórios como fones, teclados e mouses. Windows 11 terá widget que mostra status de bateria de acessórios",
-      "link": "https://tecnoblog.net/noticias/windows-11-tera-widget-que-mostra-status-de-bateria-de-acessorios/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Microsoft",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-09-07T22:07:34.410Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Huawei MatePad SE 11 surge 46% mais barato no Mercado Livre",
-      "summary": "Huawei MatePad SE 11 conta com recurso para dividir telas, certificação TÜV Rheinland que emite baixa emissão de luz azul e tela de 11 polegadas Huawei MatePad SE 11 surge 46% mais barato no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/huawei-matepad-se-11-surge-46-mais-barato-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Huawei",
-          "Huawei MatePad SE 11",
-          "Mercado Livre"
-        ]
-      },
-      "timestamp": "2026-09-07T22:07:34.669Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Melhor fone para academia em 2026: 10 modelos que resistem ao suor e barulho",
       "summary": "Selecionamos os melhores fones de ouvido Bluetooth e com fio para treino em academia; lista inclui modelos com ANC, certificação IP e bateria duradoura Melhor fone para academia em 2026: 10 modelos que resistem ao suor e barulho",
       "link": "https://tecnoblog.net/guias/melhor-fone-para-academia/",
@@ -9119,6 +8985,85 @@
         ]
       },
       "timestamp": "2026-10-07T18:56:07.584Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lenovo IdeaPad Slim 3 para estudos cai 36% com nosso cupom exclusivo",
+      "summary": "IdeaPad Slim 3 com processador Intel Core 3 e ampla tela recebe desconto atrativo combinando cupom e pagamento via Pix Lenovo IdeaPad Slim 3 para estudos cai 36% com nosso cupom exclusivo",
+      "link": "https://tecnoblog.net/achados/lenovo-ideapad-slim-3-para-estudos-cai-36-com-nosso-cupom-exclusivo/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Intel Core i3",
+          "LCD",
+          "Lenovo",
+          "Notebook",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-07T23:23:57.857Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 15 sai quase pela metade do preço em oferta no Mercado Livre",
+      "summary": "iPhone 15 (128 GB) traz tela OLED de 2.000 nits e câmera de 48 MP; celular da Apple recebe desconto de 48% sobre o preço original em oferta no Pix iPhone 15 sai quase pela metade do preço em oferta no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/iphone-15-sai-quase-pela-metade-do-preco-em-oferta-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "iPhone 15",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-07T23:23:58.097Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 70 (512 GB) tem oferta histórica em 12x sem juros na Amazon",
+      "summary": "Motorola Edge 70 com câmeras de 50 MP e tela POLED de 4.500 nits atinge o menor preço histórico; dispositivo tem desconto de 58% em promoção parcelada e com cupom Motorola Edge 70 (512 GB) tem oferta histórica em 12x sem juros na Amazon",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-512-gb-tem-oferta-historica-em-12x-sem-juros-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Motorola",
+          "Motorola Edge 70"
+        ]
+      },
+      "timestamp": "2026-10-07T23:23:58.360Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Mundo deveria aceitar “algumas coisas ruins” da IA, diz Altman",
+      "summary": "CEO da OpenAI afirma que erradicar totalmente golpes e invasões limitaria o potencial da tecnologia. Mundo deveria aceitar “algumas coisas ruins” da IA, diz Altman",
+      "link": "https://tecnoblog.net/noticias/mundo-deveria-aceitar-algumas-coisas-ruins-da-ia-diz-altman/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Inteligência Artificial (IA)",
+          "OpenAI",
+          "Sam Altman"
+        ]
+      },
+      "timestamp": "2026-10-07T23:23:58.605Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 17 (512 GB) com tela de 120 Hz registra queda de preço em oferta",
+      "summary": "iPhone 17 (512 GB) com tela OLED de 120 Hz e câmeras de 48 MP alcança preço abaixo da média recente, com desconto de 35% no Pix em promoção da Amazon iPhone 17 (512 GB) com tela de 120 Hz registra queda de preço em oferta",
+      "link": "https://tecnoblog.net/achados/iphone-17-512-gb-com-tela-de-120-hz-registra-queda-de-preco-em-oferta/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Apple",
+          "iPhone 17",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-07T23:23:58.895Z"
     }
   ]
 }
