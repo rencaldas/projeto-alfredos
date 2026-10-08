@@ -2,91 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Melhor fone para academia em 2026: 10 modelos que resistem ao suor e barulho",
-      "summary": "Selecionamos os melhores fones de ouvido Bluetooth e com fio para treino em academia; lista inclui modelos com ANC, certificação IP e bateria duradoura Melhor fone para academia em 2026: 10 modelos que resistem ao suor e barulho",
-      "link": "https://tecnoblog.net/guias/melhor-fone-para-academia/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "Bluetooth",
-          "Controle ativo de ruído"
-        ]
-      },
-      "timestamp": "2026-09-08T13:36:42.346Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Ainda dá tempo: Motorola Signature despenca 50% com cupom",
-      "summary": "Motorola Signature (512 GB) com câmeras de 50 MP e tela AMOLED de 165 Hz atinge o menor preço histórico, saindo pela metade do preço original no Pix com cupom Ainda dá tempo: Motorola Signature despenca 50% com cupom",
-      "link": "https://tecnoblog.net/achados/ainda-da-tempo-motorola-signature-despenca-50-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Signature",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-08T13:36:42.653Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy A37 5G (256 GB) atinge menor preço registrado no Mercado Livre",
-      "summary": "Galaxy A37 (256 GB) tem tela Super AMOLED de 120 Hz e câmera de 50 MP; celular da Samsung alcança o menor preço registrado, com desconto de 53% no Pix com cupom Galaxy A37 5G (256 GB) atinge menor preço registrado no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-a37-5g-256-gb-atinge-menor-preco-registrado-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy A37",
-          "Mercado Livre",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy A37 5G",
-          "Super AMOLED"
-        ]
-      },
-      "timestamp": "2026-09-08T13:36:42.959Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Acaba hoje: Motorola Razr 60 Ultra (1 TB) sai menos caro com este cupom",
-      "summary": "Motorola Razr 60 Ultra (1 TB) tem tela POLED flexível e câmeras do Razr 70 Ultra; celular dobrável sai 42% mais barato que o preço original no Pix com cupom Acaba hoje: Motorola Razr 60 Ultra (1 TB) sai menos caro com este cupom",
-      "link": "https://tecnoblog.net/achados/acaba-hoje-motorola-razr-60-ultra-1-tb-sai-menos-caro-com-este-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Motorola Razr 60 Ultra"
-        ]
-      },
-      "timestamp": "2026-09-08T13:36:43.273Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Sony diz que produção de discos do PlayStation cairá apenas 10%",
-      "summary": "Declaração sobre fabricação de mídias físicas foi mal interpretada; fim dos discos para novos jogos, no entanto, segue confirmado para 2028. Sony diz que produção de discos do PlayStation cairá apenas 10%",
-      "link": "https://tecnoblog.net/noticias/sony-diz-que-producao-de-discos-do-playstation-caira-apenas-10/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Colecionismo",
-          "Consoles",
-          "Games",
-          "Indústria de Games",
-          "Mercado",
-          "mídia física",
-          "Playstation",
-          "PS5",
-          "Sony",
-          "Sony Digital Audio Disc Corporation"
-        ]
-      },
-      "timestamp": "2026-09-08T13:36:43.587Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy Tab S10 FE Plus 5G para trabalho tem 49% OFF no Magalu",
       "summary": "Galaxy Tab S10 FE Plus 5G (128 GB) tem tela de 13,1\" e traz S Pen na caixa; tablet para trabalho da Samsung sai quase pela metade do preço original no Pix Galaxy Tab S10 FE Plus 5G para trabalho tem 49% OFF no Magalu",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-5g-para-trabalho-tem-49-off-no-magalu/",
@@ -9223,6 +9138,30 @@
         ]
       },
       "timestamp": "2026-10-08T09:38:46.881Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: pestphp/pest (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v4.7.8 → versão mais recente 5.3.1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-08T15:55:17.000Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: pestphp/pest-plugin-profanity (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v4.2.1 → versão mais recente 5.0.1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-08T15:55:17.000Z"
     }
   ]
 }

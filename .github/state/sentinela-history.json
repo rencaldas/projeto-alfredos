@@ -154,6 +154,8 @@
     "update|rencaldas/ideal-marketplace-project|Packagist|symfony/uid|v7.4.17|8.1.8",
     "update|rencaldas/ideal-marketplace-project|Packagist|stripe/stripe-php|v19.4.1|22.1.0.0-beta1",
     "update|rencaldas/ideal-marketplace-project|Packagist|pestphp/pest|v4.7.8|5.3.0",
-    "update|rencaldas/ideal-marketplace-project|Packagist|laravel/framework|v12.69.2|13.35.0"
+    "update|rencaldas/ideal-marketplace-project|Packagist|laravel/framework|v12.69.2|13.35.0",
+    "update|rencaldas/ideal-marketplace-project|Packagist|pestphp/pest|v4.7.8|5.3.1",
+    "update|rencaldas/ideal-marketplace-project|Packagist|pestphp/pest-plugin-profanity|v4.2.1|5.0.1"
   ]
 }
