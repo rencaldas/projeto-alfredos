@@ -9064,6 +9064,89 @@
         ]
       },
       "timestamp": "2026-10-07T23:23:58.895Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google libera detector de IA para qualquer pessoa",
+      "summary": "SynthID Detector verifica se arquivos contêm marcas d'água de IA. A novidade analisa imagens, vídeos e áudios. Google libera detector de IA para qualquer pessoa",
+      "link": "https://tecnoblog.net/noticias/google-libera-detector-de-ia-para-qualquer-pessoa/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Google",
+          "Inteligência Artificial (IA)",
+          "SynthID"
+        ]
+      },
+      "timestamp": "2026-10-08T02:46:29.513Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Clientes do Nubank relatam problemas com Pix nesta quarta-feira",
+      "summary": "Usuários do Nubank se queixavam de que não conseguiam realizar pagamentos ou transferências via Pix. Empresa afirma ter solucionado o problema. Clientes do Nubank relatam problemas com Pix nesta quarta-feira",
+      "link": "https://tecnoblog.net/noticias/clientes-do-nubank-relatam-problemas-com-pix-nesta-quarta-feira/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Nubank",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-08T02:46:29.782Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 16 (256 GB) atinge desconto histórico na Mega Oferta Amazon Prime",
+      "summary": "iPhone 16 de 256 GB fica 46% mais barato em oferta exclusiva para assinantes Prime; celular oferece bom custo-benefício entre os iPhones atuais iPhone 16 (256 GB) atinge desconto histórico na Mega Oferta Amazon Prime",
+      "link": "https://tecnoblog.net/achados/iphone-16-256-gb-atinge-desconto-historico-na-mega-oferta-amazon-prime/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "iPhone",
+          "iPhone 16",
+          "iPhone 17",
+          "Pix",
+          "Prime Video"
+        ]
+      },
+      "timestamp": "2026-10-08T02:46:30.044Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Novo ícone de 5G aparece em celulares da Vivo após testes de VoNR",
+      "summary": "Recurso Voice over New Radio leva chamadas de voz para a rede mais rápida e pode reduzir a latência nos aparelhos compatíveis. Novo ícone de 5G aparece em celulares da Vivo após testes de VoNR",
+      "link": "https://tecnoblog.net/noticias/novo-icone-de-5g-aparece-em-celulares-da-vivo-apos-testes-de-vonr/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "5G",
+          "5G SA",
+          "Exclusivo",
+          "Vivo",
+          "Voice over NR"
+        ]
+      },
+      "timestamp": "2026-10-08T02:46:30.308Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft nega exclusividade de GTA 6 no Xbox Cloud Gaming",
+      "summary": "Relato apontava acordo para streaming e acesso pelo PC já no lançamento. Executivo do Xbox afirma que informações não procedem. Microsoft nega exclusividade de GTA 6 no Xbox Cloud Gaming",
+      "link": "https://tecnoblog.net/noticias/microsoft-nega-exclusividade-de-gta-6-no-xbox-cloud-gaming/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "GTA 6",
+          "GTA VI",
+          "Microsoft",
+          "Rockstar Games",
+          "Xbox",
+          "Xbox Cloud Gaming",
+          "Xbox Series X e Series S"
+        ]
+      },
+      "timestamp": "2026-10-08T02:46:30.580Z"
     }
   ]
 }
