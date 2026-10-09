@@ -33,7 +33,7 @@
     "3797": {
       "title": "System Shock 2: 25th Anniversary Remaster (Epic Games) Giveaway",
       "endDate": "2026-10-08 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-09T08:04:46.882Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -48,7 +48,7 @@
     "3798": {
       "title": "BURIED STARS (Epic Games) Giveaway",
       "endDate": "2026-10-08 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-09T08:04:47.951Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -57,6 +57,36 @@
         {
           "chatId": "726946412",
           "messageId": 267
+        }
+      ]
+    },
+    "3806": {
+      "title": "Out of Sight (Epic Games) Giveaway",
+      "endDate": "2026-10-15 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 268
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 269
+        }
+      ]
+    },
+    "3807": {
+      "title": "TerraScape (Epic Games) Giveaway",
+      "endDate": "2026-10-15 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 270
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 271
         }
       ]
     }
