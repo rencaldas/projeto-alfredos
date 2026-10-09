@@ -2,22 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "GPT-6 Astra conclui jogo de Captcha e recebe “certificado” de humano",
-      "summary": "GPT-6 Astra foi apresentado como um modelo com grande capacidade de controle autônomo de computadores. GPT-6 Astra conclui jogo de Captcha e recebe “certificado” de humano",
-      "link": "https://tecnoblog.net/noticias/gpt-6-astra-conclui-jogo-de-captcha-e-recebe-certificado-de-humano/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Captcha",
-          "ChatGPT",
-          "GPT-6 Astra",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-09-08T22:36:39.152Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Evento do iPhone: como ver o lançamento ao vivo",
       "summary": "iPhone 18 Pro e dobrável iPhone Ultra serão apresentados nesta quarta-feira (09/09) a partir das 14h. Evento do iPhone: como ver o lançamento ao vivo",
       "link": "https://tecnoblog.net/noticias/evento-do-iphone-como-ver-o-lancamento-ao-vivo/",
@@ -9214,6 +9198,100 @@
         ]
       },
       "timestamp": "2026-10-08T21:38:04.385Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Forza Horizon 6 atrasa no PS5 e deve ficar para 2027",
+      "summary": "Lançamento pode ocorrer em 26 de janeiro, mas com versão em mídia física para o console da Sony. Forza Horizon 6 atrasa no PS5 e deve ficar para 2027",
+      "link": "https://tecnoblog.net/noticias/forza-horizon-6-atrasa-no-ps5-e-deve-ficar-para-2027/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Forza Horizon",
+          "Forza Horizon 6",
+          "Microsoft",
+          "PlayStation 5",
+          "PlayStation 5 (PS5)",
+          "PS5",
+          "rumor",
+          "Sony",
+          "Tom Warren",
+          "Xbox",
+          "Xbox Game Pass",
+          "Xbox Series X e Series S"
+        ]
+      },
+      "timestamp": "2026-10-09T01:25:31.811Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung pode cortar produção de celulares em até 30%",
+      "summary": "Fabricante sul-coreana já teria pedido redução nas entregas de componentes. Samsung pode cortar produção de celulares em até 30%",
+      "link": "https://tecnoblog.net/noticias/samsung-pode-cortar-producao-de-celulares-em-ate-30/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy",
+          "Galaxy A",
+          "LPDDR5X",
+          "Memória RAM",
+          "Samsung",
+          "Semicondutores",
+          "Smartphone"
+        ]
+      },
+      "timestamp": "2026-10-09T01:25:32.089Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Amazon abandona Fire OS e lança tablets com Android e Alexa+",
+      "summary": "Nova geração de tablets de empresa aposta na integração de funções de IA da Alexa com o Android. Amazon abandona Fire OS e lança tablets com Android e Alexa+",
+      "link": "https://tecnoblog.net/noticias/amazon-abandona-fire-os-e-lanca-tablets-com-android-e-alexa/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Alexa Internet",
+          "Amazon",
+          "Amazon Alexa",
+          "Android",
+          "Fire OS",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-10-09T01:25:32.333Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gemini fora do ar? Serviço exibe mensagens de erro nesta quinta-feira",
+      "summary": "Falha faz Gemini mostrar mensagem \"algo deu errado, tende de novo (1155)\" ou responder que não pode realizar a tarefa. Gemini fora do ar? Serviço exibe mensagens de erro nesta quinta-feira",
+      "link": "https://tecnoblog.net/noticias/gemini-fora-do-ar-servico-exibe-mensagens-de-erro-nesta-quinta-feira/",
+      "meta": {
+        "categorias": [
+          "Sem categoria",
+          "Gemini",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-10-09T01:25:32.583Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Oferta relâmpago: Galaxy Tab S10 FE Plus registra 2º melhor preço de 2026",
+      "summary": "Galaxy Tab S10 FE Plus com tela LCD, caneta S Pen e bateria de até 21 horas fica com preço reduzido com pagamento via Pix Oferta relâmpago: Galaxy Tab S10 FE Plus registra 2º melhor preço de 2026",
+      "link": "https://tecnoblog.net/achados/oferta-relampago-galaxy-tab-s10-fe-plus-registra-2o-melhor-preco-de-2026/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Galaxy AI",
+          "Galaxy Tab S10 FE Plus",
+          "LCD",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung",
+          "Stylus"
+        ]
+      },
+      "timestamp": "2026-10-09T01:25:32.825Z"
     }
   ]
 }
