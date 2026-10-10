@@ -2,63 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Desenvolvedor da Anthropic pede demissão e alerta para perigos da IA",
-      "summary": "Jacob Coxon publica carta aberta onde fala sobre irresponsabilidade das big techs sobre o tema. Outros devs republicam mensagem e reforçam críticas à tecnologia. Desenvolvedor da Anthropic pede demissão e alerta para perigos da IA",
-      "link": "https://tecnoblog.net/noticias/desenvolvedor-da-anthropic-pede-demissao-e-alerta-para-perigos-da-ia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "ChatGPT",
-          "Claude",
-          "Claude Mythos 5",
-          "Google DeepMind",
-          "GPT-5.6",
-          "Inteligência Artificial (IA)",
-          "Jacob Coxon",
-          "OpenAI",
-          "Twitter",
-          "WAICO",
-          "X"
-        ]
-      },
-      "timestamp": "2026-09-10T13:33:37.377Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Dois iPhones, um número só: Apple anuncia o iPhone Handoff",
-      "summary": "Ferramenta que facilita mobilidade de dados de um mesmo número de telefone, como ligações e mensagens, será lançada com o iOS 27. Dois iPhones, um número só: Apple anuncia o iPhone Handoff",
-      "link": "https://tecnoblog.net/noticias/dois-iphones-um-numero-so-apple-anuncia-o-iphone-hand-off/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "eSIM",
-          "iOS 27",
-          "iPhone",
-          "iPhone Handoff"
-        ]
-      },
-      "timestamp": "2026-09-10T13:33:37.632Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S25 (256 GB) tem queda agressiva de 54% com cupom no Mercado Livre",
-      "summary": "Galaxy S25 (256 GB) tem câmera de 50 MP e chip Snapdragon 8 Elite; celular da Samsung sai por menos da metade do preço original no Pix com cupom Galaxy S25 (256 GB) tem queda agressiva de 54% com cupom no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-queda-agressiva-de-54-com-cupom-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy S25",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-09-10T13:33:37.896Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "iPhone 17e (512 GB) atinge o menor preço atual com cupom no Magalu",
       "summary": "iPhone 17e com Apple Intelligence, câmera de 48 MP e tela OLED atinge o menor preço já visto desde maio iPhone 17e (512 GB) atinge o menor preço atual com cupom no Magalu",
       "link": "https://tecnoblog.net/achados/iphone-17e-512-gb-atinge-o-menor-preco-atual-com-cupom-no-magalu/",
@@ -9382,6 +9325,22 @@
         ]
       },
       "timestamp": "2026-10-10T09:01:46.999Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
+      "summary": "Smart TV 4K TCL C7L 65\" traz painel com Mini LED bom para jogos e tem Gemini integrado; preço baixa 24% com o cupom RESSACA200 TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
+      "link": "https://tecnoblog.net/achados/tv-tcl-c7l-65-registra-o-menor-preco-desde-lancamento-em-oferta-no-magalu/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "Gemini",
+          "Magazine Luiza",
+          "Pix",
+          "Smart TV TCL C7L"
+        ]
+      },
+      "timestamp": "2026-10-10T15:18:58.278Z"
     }
   ]
 }
