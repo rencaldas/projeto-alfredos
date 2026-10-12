@@ -8562,6 +8562,18 @@
         ]
       },
       "timestamp": "2026-10-12T17:52:23.353Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: pestphp/pest (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v4.7.8 → versão mais recente 5.3.2 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-12T18:17:32.960Z"
     }
   ]
 }
