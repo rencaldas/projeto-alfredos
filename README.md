@@ -2,7 +2,7 @@
 
 Automações para enviar notícias de tecnologia, jogos grátis, alertas de segurança e um relatório executivo diário ao Telegram e por e-mail. O projeto nasceu em n8n self-hosted com Docker e foi migrado para GitHub Actions, sem servidor ligado 24/7.
    
-## O que roda hoje
+## O que roda hoje  
 
 [![Alfredo Jornalista](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-jornalista.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-jornalista.yml)
 [![Alfredo Gamer](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-gamer.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-gamer.yml)
