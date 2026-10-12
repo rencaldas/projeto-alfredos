@@ -1,61 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "WhatsApp quer facilitar a organização de eventos",
-      "summary": "Nova tela reúne compromissos e convites. Ferramenta está em teste na versão do WhatsApp para Android. WhatsApp quer facilitar a organização de eventos",
-      "link": "https://tecnoblog.net/noticias/whatsapp-quer-facilitar-a-organizacao-de-eventos/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "WhatsApp"
-        ]
-      },
-      "timestamp": "2026-09-12T18:31:38.953Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhores AirPods em 2026: qual fone de ouvido da Apple comprar?",
-      "summary": "Veja as diferenças entre as gerações de AirPods da Apple antes de decidir qual fone de ouvido tem os melhores recursos para o seu dia a dia Melhores AirPods em 2026: qual fone de ouvido da Apple comprar?",
-      "link": "https://tecnoblog.net/guias/melhores-airpods-fone-de-ouvido-apple/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "AirPods",
-          "Apple"
-        ]
-      },
-      "timestamp": "2026-09-12T18:31:39.260Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Você teria? Vaza o dispositivo diferentão da Meta para usar no rosto",
-      "summary": "Imagem revela headset em estrutura mais parecida com óculos tradicionais. Você teria? Vaza o dispositivo diferentão da Meta para usar no rosto",
-      "link": "https://tecnoblog.net/noticias/voce-teria-vaza-o-dispositivo-diferentao-da-meta-para-usar-no-rosto/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "Fotografia",
-          "Meta"
-        ]
-      },
-      "timestamp": "2026-09-12T18:31:39.541Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor fone de ouvido Philips: 10 modelos que valem a pena em 2026",
-      "summary": "Encontre fones de ouvido Philips para o seu dia a dia; lista inclui modelos Bluetooth e com fio, com ANC, bateria duradoura e preço acessível Melhor fone de ouvido Philips: 10 modelos que valem a pena em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-philips/",
-      "meta": {
-        "categorias": [
-          "Gadgets",
-          "Controle ativo de ruído",
-          "Philips"
-        ]
-      },
-      "timestamp": "2026-09-12T18:31:39.835Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: @csstools/css-calc (rencaldas/liac-club)",
       "summary": "Versão instalada 2.1.4 → versão mais recente 3.4.0 (npm).",
@@ -8574,6 +8519,94 @@
         "repositorio": "rencaldas/ideal-marketplace-project"
       },
       "timestamp": "2026-10-12T18:17:32.960Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Brasileiros já criaram 1 bilhão de chaves Pix; a maioria é aleatória",
+      "summary": "Chaves aleatórias representam mais de metade dos cadastros no Pix. CPF e celular correspondem a 15,3% e 16,5% das chaves, respectivamente. Brasileiros já criaram 1 bilhão de chaves Pix; a maioria é aleatória",
+      "link": "https://tecnoblog.net/noticias/brasileiros-ja-criaram-1-bilhao-de-chaves-pix-a-maioria-e-aleatoria/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Banco central",
+          "Brasileiros",
+          "CPF"
+        ]
+      },
+      "timestamp": "2026-10-12T23:54:09.133Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Novo “rival” do Office foi criado com auxílio da IA",
+      "summary": "WordCraft, GridCraft e DeckCraft são projetos de código aberto criados com auxílio do Claude. Novo “rival” do Office foi criado com auxílio da IA",
+      "link": "https://tecnoblog.net/noticias/novo-rival-do-office-foi-criado-com-auxilio-da-ia/",
+      "meta": {
+        "categorias": [
+          "Produtividade",
+          "Claude",
+          "Inteligência Artificial (IA)",
+          "Microsoft Office",
+          "Word"
+        ]
+      },
+      "timestamp": "2026-10-12T23:54:09.438Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Despencou: Galaxy A57 (256 GB) cai 55% e tem bom custo-benefício",
+      "summary": "Samsung Galaxy A57 5G de 256 GB com tela AMOLED de 120 Hz e câmera de 50 MP recebe melhor oferta histórica com cupom no Mercado Livre Despencou: Galaxy A57 (256 GB) cai 55% e tem bom custo-benefício",
+      "link": "https://tecnoblog.net/achados/despencou-galaxy-a57-256-gb-cai-55-e-tem-bom-custo-beneficio/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy A57",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-12T23:54:09.733Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Buds 4 nunca esteve tão barato: 45% OFF no Mercado Livre",
+      "summary": "Galaxy Buds 4 com ANC, áudio Hi-Fi de 24 bits e recursos de IA atingem o menor preço já registrado, com desconto de 45% no Pix com cupom Galaxy Buds 4 nunca esteve tão barato: 45% OFF no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-buds-4-nunca-esteve-tao-barato-45-off-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "Controle ativo de ruído",
+          "Galaxy",
+          "Galaxy AI",
+          "Galaxy Buds",
+          "Galaxy Buds 4",
+          "High fidelity",
+          "Inteligência Artificial (IA)",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-12T23:54:10.027Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S26 Plus (512 GB) com tela ampla atinge menor preço desde maio na Amazon",
+      "summary": "Samsung Galaxy S26 Plus (512 GB) com tela de 6,7\", maior e com mais resolução que a do S26, tem redução de 55% no preço em oferta na Amazon Galaxy S26 Plus (512 GB) com tela ampla atinge menor preço desde maio na Amazon",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-plus-512-gb-com-tela-ampla-atinge-menor-preco-desde-maio-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "AMOLED",
+          "Galaxy AI",
+          "Galaxy S26",
+          "Galaxy S26 Plus",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-12T23:54:10.319Z"
     }
   ]
 }
