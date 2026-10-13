@@ -2,21 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Claro segue Vivo e entra na guerra contra o telemarketing",
-      "summary": "Empresa promete serviço que filtra chamadas com ofertas na própria rede. Claro segue Vivo e entra na guerra contra o telemarketing",
-      "link": "https://tecnoblog.net/noticias/claro-segue-vivo-e-entra-na-guerra-contra-o-telemarketing/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Claro Brasil",
-          "Telemarketing",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-09-13T19:38:24.405Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Associação do telemarketing pede que Anatel revise regras antispam",
       "summary": "Setor pede ampliação do debate sobre ferramentas contra ligações inconvenientes e pede aperfeiçoamento dos critérios. Associação do telemarketing pede que Anatel revise regras antispam",
       "link": "https://tecnoblog.net/noticias/associacao-do-telemarketing-pede-que-anatel-revise-regras-antispam/",
@@ -8750,6 +8735,87 @@
         ]
       },
       "timestamp": "2026-10-13T18:51:15.175Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 60 (512 GB) tem 12 GB de RAM e cai 46% com cupom",
+      "summary": "Edge 60 (512 GB) traz 12 GB de RAM e câmeras de 50 MP; celular da Motorola sai por quase metade do preço original, no Pix com cupom no Mercado Livre Motorola Edge 60 (512 GB) tem 12 GB de RAM e cai 46% com cupom",
+      "link": "https://tecnoblog.net/achados/motorola-edge-60-512-gb-tem-12-gb-de-ram-e-cai-46-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 60",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-13T23:08:44.601Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple renova linha HomePod mini após seis anos sem novidades",
+      "summary": "Caixa de som compacta ganha suporte à Apple Intelligence, novo recurso de luz e áudio surround com a Apple TV 4K. Apple renova linha HomePod mini após seis anos sem novidades",
+      "link": "https://tecnoblog.net/noticias/apple-atualiza-linha-homepod-mini-apos-seis-anos/",
+      "meta": {
+        "categorias": [
+          "Casa Conectada e IoT",
+          "Apple",
+          "Apple Intelligence"
+        ]
+      },
+      "timestamp": "2026-10-13T23:08:44.851Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Exclusivo Prime: Motorola Razr 60 tem 2.º menor preço do ano em até 12x",
+      "summary": "Motorola Razr 60 (256 GB) com tela POLED flexível de 120 Hz e 12 GB de RAM sai por menos da metade do preço original, em oferta do Amazon Prime no prazo Exclusivo Prime: Motorola Razr 60 tem 2.º menor preço do ano em até 12x",
+      "link": "https://tecnoblog.net/achados/exclusivo-prime-motorola-razr-60-tem-2-o-menor-preco-do-ano-em-ate-12x/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Amazon Prime",
+          "Motorola",
+          "Motorola Razr 60"
+        ]
+      },
+      "timestamp": "2026-10-13T23:08:45.103Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Character.ai entra com pedido de falência e pode encerrar app",
+      "summary": "Empresa recebeu oferta de US$ 20 milhões da Disney por parte dos ativos. Continuidade da plataforma depende de comprador. Character.ai entra com pedido de falência e pode encerrar app",
+      "link": "https://tecnoblog.net/noticias/character-ai-entra-com-pedido-de-falencia-e-pode-encerrar-app/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Character.ai",
+          "Character.AI",
+          "Disney",
+          "Estados Unidos (EUA)",
+          "inteligência artificial"
+        ]
+      },
+      "timestamp": "2026-10-13T23:08:45.366Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Oportunidade: AirPods 4 com ANC aparece pelo menor preço que já vimos",
+      "summary": "Apple AirPods 4 com cancelamento ativo de ruído, Áudio Espacial e bateria de até 30 horas têm menor preço divulgado pelo Achados, com desconto de 37% no Pix na Amazon Oportunidade: AirPods 4 com ANC aparece pelo menor preço que já vimos",
+      "link": "https://tecnoblog.net/achados/oportunidade-airpods-4-com-anc-aparece-pelo-menor-preco-que-ja-vimos/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "AirPods",
+          "AirPods 4",
+          "Amazon",
+          "Apple",
+          "Controle ativo de ruído",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-13T23:08:45.620Z"
     }
   ]
 }
