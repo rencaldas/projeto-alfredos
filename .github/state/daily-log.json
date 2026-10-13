@@ -8607,6 +8607,75 @@
         ]
       },
       "timestamp": "2026-10-12T23:54:10.319Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "A estratégia do Nubank com o novo programa de pontos",
+      "summary": "Vice-presidente Arthur Valadão concede entrevista exclusiva ao Tecnoblog. A estratégia do Nubank com o novo programa de pontos",
+      "link": "https://tecnoblog.net/noticias/a-estrategia-do-nubank-com-o-novo-programa-de-pontos/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Arthur Valadão",
+          "Exclusivo",
+          "Nubank",
+          "Nubank Croma",
+          "Nubank Ultravioleta",
+          "NuCoin"
+        ]
+      },
+      "timestamp": "2026-10-13T04:16:45.626Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 FE (256 GB) com três câmeras traseiras tem 44% OFF no Mercado Livre",
+      "summary": "Galaxy S25 FE (256 GB) conta com câmeras iguais às do novo S26 FE; premium acessível da Samsung recebe desconto com cupom no Mercado Livre Galaxy S25 FE (256 GB) com três câmeras traseiras tem 44% OFF no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-fe-256-gb-com-tres-cameras-traseiras-tem-44-off-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy AI",
+          "Galaxy S25 FE",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-13T04:16:45.864Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "O Ubuntu Linux 26.10 está chegando e estas são as novidades",
+      "summary": "Ubuntu 26.10 \"Stonking Stingray\" traz o Gnome 51 como ambiente de desktop e é baseado no kernel Linux 7.3. O Ubuntu Linux 26.10 está chegando e estas são as novidades",
+      "link": "https://tecnoblog.net/noticias/o-ubuntu-linux-26-10-esta-chegando-e-estas-sao-as-novidades/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Canonical",
+          "Gnome",
+          "Linux",
+          "Ubuntu"
+        ]
+      },
+      "timestamp": "2026-10-13T04:16:46.110Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 15 (256 GB) recebe uma das melhores ofertas recentes na Amazon",
+      "summary": "iPhone 15 (256 GB) tem câmera traseira dupla e painel com Dynamic Island; atual celular custo-benefício da Apple está 48% mais barato iPhone 15 (256 GB) recebe uma das melhores ofertas recentes na Amazon",
+      "link": "https://tecnoblog.net/achados/iphone-15-256-gb-recebe-uma-das-melhores-ofertas-recentes-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Apple",
+          "Dynamic Island",
+          "iPhone",
+          "iPhone 15",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-13T04:16:46.348Z"
     }
   ]
 }
