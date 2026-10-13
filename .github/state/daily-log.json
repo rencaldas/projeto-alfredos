@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-calc (rencaldas/liac-club)",
-      "summary": "Versão instalada 2.1.4 → versão mais recente 3.4.0 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-09-13T13:29:59.243Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @csstools/css-color-parser (rencaldas/liac-club)",
-      "summary": "Versão instalada 3.1.0 → versão mais recente 4.2.3 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-09-13T13:29:59.243Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Claro segue Vivo e entra na guerra contra o telemarketing",
       "summary": "Empresa promete serviço que filtra chamadas com ofertas na própria rede. Claro segue Vivo e entra na guerra contra o telemarketing",
@@ -8676,6 +8652,18 @@
         ]
       },
       "timestamp": "2026-10-13T04:16:46.348Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v12.69.2 → versão mais recente 13.36.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-13T16:31:43.939Z"
     }
   ]
 }
