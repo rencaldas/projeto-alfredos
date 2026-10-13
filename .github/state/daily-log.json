@@ -8664,6 +8664,92 @@
         "repositorio": "rencaldas/ideal-marketplace-project"
       },
       "timestamp": "2026-10-13T16:31:43.939Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "IA tem menos regras que uma caixa de leite, diz Microsoft",
+      "summary": "Presidente Brad Smith compara IAs a produtos cotidianos, enquanto CEO Satya Nadella defende um “freio de emergência” para interromper modelos. IA tem menos regras que uma caixa de leite, diz Microsoft",
+      "link": "https://tecnoblog.net/noticias/ia-tem-menos-regras-que-uma-caixa-de-leite-diz-microsoft/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Brad Smith",
+          "Inteligência Artificial (IA)",
+          "Microsoft"
+        ]
+      },
+      "timestamp": "2026-10-13T18:51:14.143Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Funcionária é demitida após recusar “sentinela” que tira foto a cada 3 minutos",
+      "summary": "Monitoramento com IA previa até 160 fotos por dia durante o trabalho no home office. Caso deu origem a processo judicial nos EUA. Funcionária é demitida após recusar “sentinela” que tira foto a cada 3 minutos",
+      "link": "https://tecnoblog.net/noticias/funcionaria-e-demitida-apos-recusar-sentinela-que-tira-foto-a-cada-3-minutos/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Estados Unidos (EUA)",
+          "home office",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Monitoramento",
+          "Nova Jersey",
+          "Privacidade",
+          "Trabalho remoto",
+          "Webcam"
+        ]
+      },
+      "timestamp": "2026-10-13T18:51:14.447Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta lança o Muse Wonder, sua IA mais avançada até agora",
+      "summary": "Novos modelos focam em agentes capazes de lembrar informações, usar computadores e executar tarefas. Meta lança o Muse Wonder, sua IA mais avançada até agora",
+      "link": "https://tecnoblog.net/noticias/meta-lanca-o-muse-wonder-sua-ia-mais-avancada-ate-agora/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Agentes de IA",
+          "IA",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Meta",
+          "Meta AI",
+          "Muse",
+          "Muse Wonder"
+        ]
+      },
+      "timestamp": "2026-10-13T18:51:14.696Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 (256 GB) surge com 50% OFF em até 12x sem juros na Amazon",
+      "summary": "Galaxy S25 (256 GB) tem chip Snapdragon de ponta e 12 GB de RAM; premium da Samsung sai pela metade do preço em rara oferta no prazo Galaxy S25 (256 GB) surge com 50% OFF em até 12x sem juros na Amazon",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-256-gb-surge-com-50-off-em-ate-12x-sem-juros-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-10-13T18:51:14.935Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple lança HomeView, tela inteligente para controlar a casa",
+      "summary": "Dispositivo de 7 polegadas reúne FaceTime, música e automação residencial. Empresa também apresentou acessórios para casa conectada em parceria com a LG. Apple lança HomeView, tela inteligente para controlar a casa",
+      "link": "https://tecnoblog.net/noticias/apple-lanca-homeview-tela-inteligente-para-controlar-a-casa/",
+      "meta": {
+        "categorias": [
+          "Casa Conectada e IoT",
+          "Apple",
+          "LG",
+          "retina"
+        ]
+      },
+      "timestamp": "2026-10-13T18:51:15.175Z"
     }
   ]
 }
