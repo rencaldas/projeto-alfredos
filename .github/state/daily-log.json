@@ -2,89 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 60 Pro (512 GB) roda jogos e tem queda de 47% com cupom",
-      "summary": "Motorola Edge 60 Pro (512 GB) tem até 24 GB de RAM e tela POLED de 120 Hz; celular para jogos recebe desconto de 47% sobre o preço original com cupom no Mercado Livre Motorola Edge 60 Pro (512 GB) roda jogos e tem queda de 47% com cupom",
-      "link": "https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-roda-jogos-e-tem-queda-de-47-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Motorola Edge 60 Pro",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-14T22:10:39.536Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft anuncia regras para desenvolver uma IA “humanista”",
-      "summary": "Novo código estabelece que modelos de IA não têm consciência ou direitos legais; documento prioriza a supervisão humana após incidentes com agentes autônomos. Microsoft anuncia regras para desenvolver uma IA “humanista”",
-      "link": "https://tecnoblog.net/noticias/microsoft-anuncia-regras-para-desenvolver-uma-ia-humanista/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "IA",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Microsoft",
-          "OpenAI",
-          "Sam Altman",
-          "Satya Nadella",
-          "Segurança",
-          "Tecnologia"
-        ]
-      },
-      "timestamp": "2026-09-14T22:10:39.773Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Alerta: Galaxy Watch 9 recebe 30% OFF em até 12x sem juros na Amazon",
-      "summary": "Galaxy Watch 9 BT (40 mm) tem tela Super AMOLED e recurso \"levante para falar\"; smartwatch da Samsung recebe desconto de 30% em até 12x sem juros Alerta: Galaxy Watch 9 recebe 30% OFF em até 12x sem juros na Amazon",
-      "link": "https://tecnoblog.net/achados/alerta-galaxy-watch-9-recebe-30-off-em-ate-12x-sem-juros-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "Amazon",
-          "Galaxy Watch 9",
-          "Samsung",
-          "Super AMOLED"
-        ]
-      },
-      "timestamp": "2026-09-14T22:10:40.010Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Windows 11: novas atualizações causam falhas em notebooks Lenovo e HP",
-      "summary": "Outra falha faz o Windows 11 não reconhecer corretamente dispositivos de som que usam o padrão USB Audio Class 1.0. Windows 11: novas atualizações causam falhas em notebooks Lenovo e HP",
-      "link": "https://tecnoblog.net/noticias/windows-11-novas-atualizacoes-causam-falhas-em-notebooks-lenovo-e-hp/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Hewlett-Packard",
-          "Lenovo",
-          "Microsoft",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-09-14T22:10:40.250Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "O que é AI Slop? Entenda a gíria que vai contra o uso desenfreado de inteligência artificial",
-      "summary": "Os tipos de AI Slop, ou lixo de IA, variam de textos automatizados, imagens hiper-realistas bizarras até vídeos e músicas genéricas produzidas em massa O que é AI Slop? Entenda a gíria que vai contra o uso desenfreado de inteligência artificial",
-      "link": "https://tecnoblog.net/responde/o-que-e-ai-slop-entenda-a-giria-que-vai-contra-o-uso-desenfreado-de-inteligencia-artificial/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "AI slop",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-09-14T22:10:40.483Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Samsung revela tela de 10 mil nits usada nos novos iPhones",
       "summary": "Painel OLED M16 foi oficializado nesta segunda-feira (14) e consome até 30% menos energia. Tecnologia da Samsung Display está nos novos iPhone 18 Pro e iPhone Duo. Samsung revela tela de 10 mil nits usada nos novos iPhones",
       "link": "https://tecnoblog.net/noticias/samsung-revela-tela-de-10-mil-nits-usada-nos-novos-iphones/",
@@ -9184,6 +9101,91 @@
         ]
       },
       "timestamp": "2026-10-14T20:57:18.770Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xbox anuncia o controle compacto que nós revelamos em primeira mão",
+      "summary": "Nano Controller da Microsoft chega ao Brasil em novembro por R$ 379. Tecnoblog obteve imagens do produto em maio. Xbox anuncia o controle compacto que nós revelamos em primeira mão",
+      "link": "https://tecnoblog.net/noticias/xbox-anuncia-o-controle-compacto-que-nos-revelamos-em-primeira-mao/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Brasil",
+          "Microsoft",
+          "Xbox",
+          "Xbox Cloud Gaming"
+        ]
+      },
+      "timestamp": "2026-10-14T23:35:40.742Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta AI barra Lula, mas gera imagens com referência a Flávio",
+      "summary": "Empresa trabalha para implementar novos filtros em sistema de inteligência artificial. Meta AI barra Lula, mas gera imagens com referência a Flávio",
+      "link": "https://tecnoblog.net/noticias/meta-ai-barra-lula-mas-gera-imagens-com-referencia-a-flavio/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Flávio Bolsonaro",
+          "Lula",
+          "Meta",
+          "Meta AI",
+          "Palácio do Planalto",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-10-14T23:35:41.051Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Notebook Acer Aspire 5 com RAM de 16 GB cai 45% em até 12x sem juros",
+      "summary": "Acer Aspire 5 oferece bom desempenho para tarefas do cotidiano; oferta exclusiva Amazon Prime reduz preço quase pela metade Notebook Acer Aspire 5 com RAM de 16 GB cai 45% em até 12x sem juros",
+      "link": "https://tecnoblog.net/achados/notebook-acer-aspire-5-com-ram-de-16-gb-cai-45-em-ate-12x-sem-juros/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Acer Aspire",
+          "Amazon",
+          "Notebook Acer Aspire 5",
+          "Prime Video"
+        ]
+      },
+      "timestamp": "2026-10-14T23:35:41.361Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como escanear o QR code do WhatsApp Web para entrar na sua conta",
+      "summary": "O WhatsApp Web possibilita usar o mensageiro diretamente pelo navegador do PC, simplificando o acesso às conversas com os contatos em uma tela maior Como escanear o QR code do WhatsApp Web para entrar na sua conta",
+      "link": "https://tecnoblog.net/responde/whatsapp-web-escanear-codigo-qr/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Android",
+          "Câmera",
+          "iPhone",
+          "QR Code",
+          "WhatsApp",
+          "WhatsApp Web"
+        ]
+      },
+      "timestamp": "2026-10-14T23:35:41.665Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S11 tem oferta para quem busca tablet para jogos",
+      "summary": "Galaxy Tab S11 leva tela AMOLED de 120 Hz, 12 GB de RAM e GPU com ray tracing para gráficos mais realistas; tablet premium da Samsung sai com 32% OFF no Mercado Livre Galaxy Tab S11 tem oferta para quem busca tablet para jogos",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-tem-oferta-para-quem-busca-tablet-para-jogos/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "AMOLED",
+          "Mercado Livre",
+          "Pix",
+          "Samsung",
+          "Samsung Galaxy Tab S11"
+        ]
+      },
+      "timestamp": "2026-10-14T23:35:41.980Z"
     }
   ]
 }
