@@ -2,23 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Associação do telemarketing pede que Anatel revise regras antispam",
-      "summary": "Setor pede ampliação do debate sobre ferramentas contra ligações inconvenientes e pede aperfeiçoamento dos critérios. Associação do telemarketing pede que Anatel revise regras antispam",
-      "link": "https://tecnoblog.net/noticias/associacao-do-telemarketing-pede-que-anatel-revise-regras-antispam/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Anatel",
-          "Associação Brasileira de Telemarketing",
-          "STIR/SHAKEN",
-          "TIM",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-09-14T13:19:22.003Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy S25 Plus (512 GB) tem a melhor oferta atual no Magazine Luiza",
       "summary": "Galaxy S25 Plus (512 GB) com chip Snapdragon 8 Elite e tela AMOLED de 120 Hz surge na melhor oferta do momento, por menos da metade do preço original no Pix Galaxy S25 Plus (512 GB) tem a melhor oferta atual no Magazine Luiza",
       "link": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-tem-a-melhor-oferta-atual-no-magazine-luiza/",
@@ -9047,6 +9030,90 @@
         ]
       },
       "timestamp": "2026-10-14T12:32:01.375Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/console (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.9 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-14T14:07:02.684Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/http-foundation (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.9 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-14T14:07:02.684Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/http-kernel (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.9 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-14T14:07:02.684Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/process (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.9 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-14T14:07:02.684Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/routing (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.9 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-14T14:07:02.684Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/uid (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.9 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-14T14:07:02.684Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/var-dumper (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.9 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-14T14:07:02.684Z"
     }
   ]
 }
