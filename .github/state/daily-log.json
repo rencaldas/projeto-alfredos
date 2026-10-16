@@ -2,42 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Celulares da Samsung ganham backup via Google Fotos",
-      "summary": "Mudança começa a valer em outubro. Novidade fica disponível após encerramento do suporte ao OneDrive. Celulares da Samsung ganham backup via Google Fotos",
-      "link": "https://tecnoblog.net/noticias/celulares-da-samsung-ganham-backup-via-google-fotos/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Gallery Cloud Sync",
-          "Google",
-          "Google Drive",
-          "Google Fotos",
-          "Microsoft",
-          "One UI",
-          "OneDrive",
-          "Samsung",
-          "Samsung Cloud"
-        ]
-      },
-      "timestamp": "2026-09-16T12:49:04.482Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Data center bilionário TikTok no Ceará pode ser embargado",
-      "summary": "Pedido de paralisação foi ajuizado pelo Ministério Público e pela Defensoria Pública da União. Data center bilionário TikTok no Ceará pode ser embargado",
-      "link": "https://tecnoblog.net/noticias/data-center-bilionario-tiktok-no-ceara-pode-ser-embargado/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Data center",
-          "Ministério Público",
-          "TikTok"
-        ]
-      },
-      "timestamp": "2026-09-16T12:49:04.747Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Redata é sancionado pelo governo para trazer data centers ao Brasil",
       "summary": "Redata prevê a suspensão de tributos por cinco anos para incentivar a expansão e a instalação de data centers no país. Redata é sancionado pelo governo para trazer data centers ao Brasil",
       "link": "https://tecnoblog.net/noticias/redata-e-sancionado-pelo-governo-para-trazer-data-centers-ao-brasil/",
@@ -9193,6 +9157,18 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6ad0eb85db498.jpg"
       },
       "timestamp": "2026-10-16T06:29:52.864Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v12.69.2 → versão mais recente 13.37.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-16T13:35:17.728Z"
     }
   ]
 }
