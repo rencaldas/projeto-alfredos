@@ -2,104 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Redata é sancionado pelo governo para trazer data centers ao Brasil",
-      "summary": "Redata prevê a suspensão de tributos por cinco anos para incentivar a expansão e a instalação de data centers no país. Redata é sancionado pelo governo para trazer data centers ao Brasil",
-      "link": "https://tecnoblog.net/noticias/redata-e-sancionado-pelo-governo-para-trazer-data-centers-ao-brasil/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Brasil",
-          "Lula",
-          "Projeto de lei",
-          "Senado Federal"
-        ]
-      },
-      "timestamp": "2026-09-16T17:21:42.928Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Após críticas, Amazon corrige bug de sideloading no Fire TV",
-      "summary": "Atualização no Fire OS desativou acidentalmente a instalação de apps de fontes externas. Após críticas, Amazon corrige bug de sideloading no Fire TV",
-      "link": "https://tecnoblog.net/noticias/apos-criticas-amazon-reve-restricao-contra-sideloading-no-fire-tv/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Amazon",
-          "Amazon Fire TV",
-          "Android",
-          "APK",
-          "atualização de software",
-          "Fire OS",
-          "Fire TV",
-          "Fire TV Stick",
-          "Linux",
-          "sideload",
-          "Streaming"
-        ]
-      },
-      "timestamp": "2026-09-16T17:21:43.227Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Z Flip 8 surge em queda com R$ 2 mil de desconto no Mercado Livre",
-      "summary": "Galaxy Z Flip 8 (256 GB) tem tela dobrável de 120 Hz e chip de 2 nanômetros; lançamento da Samsung já recebe desconto de 23% no Pix com cupom Galaxy Z Flip 8 surge em queda com R$ 2 mil de desconto no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-z-flip-8-surge-em-queda-com-r-2-mil-de-desconto-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy Z Flip 8",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-09-16T17:21:43.516Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung lança Galaxy S26 FE no Brasil; veja preço",
-      "summary": "Smartphone tem processador Exynos 2500, memória RAM a partir de 8 GB e One UI 9. Samsung lança Galaxy S26 FE no Brasil; veja preço",
-      "link": "https://tecnoblog.net/noticias/samsung-lanca-galaxy-s26-fe-no-brasil-veja-preco/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Brasil",
-          "Exynos",
-          "Exynos 2500",
-          "Galaxy",
-          "Galaxy S26 FE",
-          "Motorola Edge 70 Pro",
-          "Renato Citrini",
-          "Samsung",
-          "Samsung Galaxy S26",
-          "Samsung Galaxy Z Flip 7",
-          "Xiaomi 17T"
-        ]
-      },
-      "timestamp": "2026-09-16T17:21:43.812Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 17e (256 GB) cai de preço e fica mais barato que iPhone 16e",
-      "summary": "iPhone 17e com chip A19, câmera de 48 MP e carregamento MagSafe sai 32% mais barato Mercado Livre por pagamento no Pix iPhone 17e (256 GB) cai de preço e fica mais barato que iPhone 16e",
-      "link": "https://tecnoblog.net/achados/iphone-17e-256-gb-cai-de-preco-e-fica-mais-barato-que-iphone-16e/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "iPhone",
-          "iPhone 16e",
-          "iPhone 17e",
-          "MagSafe",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-16T17:21:44.107Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy S26 Ultra volta a ficar em promoção para quem busca topo de linha",
       "summary": "Galaxy S26 Ultra (256 GB) tem câmera de 200 MP e tela à prova de espiadinhas; celular topo de linha da Samsung sai 41% mais barato no Pix com cupom no Mercado Livre Galaxy S26 Ultra volta a ficar em promoção para quem busca topo de linha",
       "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-volta-a-ficar-em-promocao-para-quem-busca-topo-de-linha/",
@@ -9256,6 +9158,86 @@
         ]
       },
       "timestamp": "2026-10-16T15:00:33.754Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Novo streaming gratuito oferece filmes, séries e canais de TV ao vivo",
+      "summary": "Innova TV combina canais lineares, emissoras de rádio e conteúdo sob demanda em formato financiado por anúncios. Novo streaming gratuito oferece filmes, séries e canais de TV ao vivo",
+      "link": "https://tecnoblog.net/noticias/novo-streaming-gratuito-oferece-filmes-series-e-canais-de-tv-ao-vivo/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Brasil",
+          "Innova TV"
+        ]
+      },
+      "timestamp": "2026-10-16T18:46:07.912Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Book 6 para produtividade tem R$ 1,5 mil de desconto parcelável em até 10x",
+      "summary": "Galaxy Book 6 com Intel Ultra 5, tela IPS e ampla bateria fica mais barato usando cupom exclusivo para clientes Prime da Amazon Galaxy Book 6 para produtividade tem R$ 1,5 mil de desconto parcelável em até 10x",
+      "link": "https://tecnoblog.net/achados/galaxy-book-6-para-produtividade-tem-r-15-mil-de-desconto-parcelavel-em-ate-10x/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Amazon",
+          "Galaxy AI",
+          "Intel",
+          "Samsung Galaxy Book"
+        ]
+      },
+      "timestamp": "2026-10-16T18:46:08.247Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone Duo começa a ser vendido no Brasil; veja os preços",
+      "summary": "Primeiro dobrável da Apple tem tela interna de 7,6 polegadas, chip A20 Pro e começa a ser entregue em 23 de outubro. iPhone Duo começa a ser vendido no Brasil; veja os preços",
+      "link": "https://tecnoblog.net/noticias/iphone-duo-comeca-a-ser-vendido-no-brasil-veja-os-precos/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "Brasil"
+        ]
+      },
+      "timestamp": "2026-10-16T18:46:08.491Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Agente de IA apagou programa de TV? Emissora esclarece",
+      "summary": "Emissora TV4 nega envolvimento de agente de IA; edição será refeita e estreia passou para 2027. Agente de IA apagou programa de TV? Emissora esclarece",
+      "link": "https://tecnoblog.net/noticias/agente-de-ia-apagou-programa-de-tv-emissora-esclarece/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Aftonbladet",
+          "Agentes de IA",
+          "Backup",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "The Challenge",
+          "The Challenge Sverige",
+          "TV4"
+        ]
+      },
+      "timestamp": "2026-10-16T18:46:08.743Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Reino Unido estuda cobrar taxa até de quem assiste ao YouTube",
+      "summary": "Governo avalia ampliar cobrança anual de 180 libras para usuários de serviços de streaming. Reino Unido estuda cobrar taxa até de quem assiste ao YouTube",
+      "link": "https://tecnoblog.net/noticias/reino-unido-estuda-cobrar-taxa-ate-de-quem-assiste-ao-youtube/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "BBC",
+          "Netflix",
+          "Reino Unido",
+          "YouTube"
+        ]
+      },
+      "timestamp": "2026-10-16T18:46:08.979Z"
     }
   ]
 }
