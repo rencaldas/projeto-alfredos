@@ -63,7 +63,7 @@
     "3806": {
       "title": "Out of Sight (Epic Games) Giveaway",
       "endDate": "2026-10-15 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-16T06:29:50.909Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -78,7 +78,7 @@
     "3807": {
       "title": "TerraScape (Epic Games) Giveaway",
       "endDate": "2026-10-15 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-16T06:29:51.823Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -87,6 +87,36 @@
         {
           "chatId": "726946412",
           "messageId": 271
+        }
+      ]
+    },
+    "3816": {
+      "title": "Bad Cheese (Epic Games) Giveaway",
+      "endDate": "2026-10-22 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 272
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 273
+        }
+      ]
+    },
+    "3817": {
+      "title": "Agent A: A puzzle in disguise (Epic Games) Giveaway",
+      "endDate": "2026-10-22 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 274
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 275
         }
       ]
     }
