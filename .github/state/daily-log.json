@@ -2,85 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy S26 Ultra volta a ficar em promoção para quem busca topo de linha",
-      "summary": "Galaxy S26 Ultra (256 GB) tem câmera de 200 MP e tela à prova de espiadinhas; celular topo de linha da Samsung sai 41% mais barato no Pix com cupom no Mercado Livre Galaxy S26 Ultra volta a ficar em promoção para quem busca topo de linha",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-volta-a-ficar-em-promocao-para-quem-busca-topo-de-linha/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy AI",
-          "Galaxy S26 Ultra",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-09-16T20:16:32.838Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Quarta maior operadora do Brasil lança plano com 40 GB por R$ 35",
-      "summary": "Algar Muito+ tem preço competitivo, mas oferta está disponível em poucas cidades. Operadora prevê expansão nacional até o fim do ano. Quarta maior operadora do Brasil lança plano com 40 GB por R$ 35",
-      "link": "https://tecnoblog.net/noticias/quarta-maior-operadora-do-brasil-lanca-plano-digital-de-40-gb-por-r-35/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Algar Telecom",
-          "Nomo",
-          "Oferta"
-        ]
-      },
-      "timestamp": "2026-09-16T20:16:33.071Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 16 recebe 42% de desconto em oferta na Amazon",
-      "summary": "iPhone 16 (128 GB) tem tela OLED de 2.000 nits e câmera wide de 48 MP; celular da Apple sai 42% mais barato que o preço de lançamento no Pix iPhone 16 recebe 42% de desconto em oferta na Amazon",
-      "link": "https://tecnoblog.net/achados/iphone-16-recebe-42-de-desconto-em-oferta-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "iPhone",
-          "iPhone 16",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-16T20:16:33.305Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple pode voltar a ter servidores e reviver os velhos tempos do Xserve",
-      "summary": "Rumores apontam que a Apple estuda voltar ao mercado de servidores corporativos com máquinas equipadas com o futuro chip M8 Ultra. Apple pode voltar a ter servidores e reviver os velhos tempos do Xserve",
-      "link": "https://tecnoblog.net/noticias/apple-pode-voltar-a-ter-servidores-e-reviver-os-velhos-tempos-do-xserve/",
-      "meta": {
-        "categorias": [
-          "Hardware e Componentes",
-          "Apple",
-          "Apple Workgroup Server",
-          "Mac",
-          "Xserve"
-        ]
-      },
-      "timestamp": "2026-09-16T20:16:33.533Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Fone de ouvido gamer para celular: 10 opções para comprar em 2026",
-      "summary": "Selecionamos os melhores fones de ouvido para jogar no celular; modelos têm opção de baixa latência, design portátil e som poderoso para suas partidas Fone de ouvido gamer para celular: 10 opções para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/fone-gamer-para-celular/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "Edifier",
-          "Sony"
-        ]
-      },
-      "timestamp": "2026-09-16T20:16:33.766Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Zuckerberg rejeita apelos para frear desenvolvimento da IA",
       "summary": "CEO da Meta argumenta que pressões de mercado e riscos legais já garantem a segurança da inteligência artificial. Zuckerberg rejeita apelos para frear desenvolvimento da IA",
       "link": "https://tecnoblog.net/noticias/zuckerberg-rejeita-apelos-para-frear-desenvolvimento-da-ia/",
@@ -9238,6 +9159,86 @@
         ]
       },
       "timestamp": "2026-10-16T18:46:08.979Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "O que é uma memória HBM? Conheça as vantagens e desvantagens da High Bandwidth Memory",
+      "summary": "A memória HBM supera o gargalo de transferência de dados, garantindo alta largura de banda e eficiência energética em aceleradores de IA e supercomputadores O que é uma memória HBM? Conheça as vantagens e desvantagens da High Bandwidth Memory",
+      "link": "https://tecnoblog.net/responde/o-que-e-uma-memoria-hbm-conheca-as-vantagens-e-desvantagens-da-high-bandwidth-memory/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-10-16T21:48:08.399Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TIM libera combos de streamings e promete economia de 50%",
+      "summary": "Pacote mais completo tem Netflix, Globoplay, Disney+ e outros seis serviços. TIM libera combos de streamings e promete economia de 50%",
+      "link": "https://tecnoblog.net/noticias/tim-libera-combos-de-streamings-e-promete-economia-de-50/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Disney+ (Disney Plus)",
+          "Globoplay",
+          "HBO Max",
+          "Netflix",
+          "TIM",
+          "TIM Play"
+        ]
+      },
+      "timestamp": "2026-10-16T21:48:08.650Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S27 Ultra: Samsung pode abandonar chip da Qualcomm",
+      "summary": "Samsung teria encontrado problemas de temperatura no Snapdragon 8 Elite Extreme Gen 6. Galaxy S27 Ultra: Samsung pode abandonar chip da Qualcomm",
+      "link": "https://tecnoblog.net/noticias/galaxy-s27-ultra-samsung-pode-abandonar-chip-da-qualcomm/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Exynos",
+          "Galaxy S27",
+          "Galaxy S27 Ultra",
+          "Qualcomm",
+          "rumor",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-16T21:48:08.902Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta pode coletar notícias para treinar IA sem pagar por licenças",
+      "summary": "Novos termos comerciais autorizam a coleta automatizada de páginas vinculadas a contas empresariais. Atualização entra em vigor em 30 de outubro. Meta pode coletar notícias para treinar IA sem pagar por licenças",
+      "link": "https://tecnoblog.net/noticias/meta-pode-coletar-noticias-para-treinar-ia-sem-pagar-por-licencas/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Inteligência Artificial (IA)",
+          "Meta"
+        ]
+      },
+      "timestamp": "2026-10-16T21:48:09.158Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lenovo Idea Tab (256 GB) atinge melhor preço com cupom e inclui acessórios",
+      "summary": "Lenovo Idea Tab, que inclui capa com teclado e caneta, entrega bom custo-benefício para entretenimento e trabalho. Tablet da Lenovo está com 33% de desconto no Mercado Livre ao combinar pix e cupom Lenovo Idea Tab (256 GB) atinge melhor preço com cupom e inclui acessórios",
+      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-256-gb-atinge-melhor-preco-com-cupom-e-inclui-acessorios/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Dolby Atmos",
+          "Lenovo",
+          "Lenovo IdeaPad tablets",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-16T21:48:09.412Z"
     }
   ]
 }
