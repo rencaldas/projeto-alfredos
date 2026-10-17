@@ -2,93 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Zuckerberg rejeita apelos para frear desenvolvimento da IA",
-      "summary": "CEO da Meta argumenta que pressões de mercado e riscos legais já garantem a segurança da inteligência artificial. Zuckerberg rejeita apelos para frear desenvolvimento da IA",
-      "link": "https://tecnoblog.net/noticias/zuckerberg-rejeita-apelos-para-frear-desenvolvimento-da-ia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "Elon Musk",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Mark Zuckerberg",
-          "Mercado",
-          "Meta",
-          "Nvidia",
-          "OpenAI",
-          "Regulamentação",
-          "Sam Altman",
-          "Segurança"
-        ]
-      },
-      "timestamp": "2026-09-16T23:03:54.718Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "XP lança novo assistente direto no WhatsApp",
-      "summary": "Clientes do banco podem fazer movimentações financeiras diretamente no mensageiro. Tecnoblog antecipa as novidades. XP lança novo assistente direto no WhatsApp",
-      "link": "https://tecnoblog.net/noticias/xp-lanca-novo-assistente-direto-no-whatsapp/",
-      "meta": {
-        "categorias": [
-          "Serviços Financeiros",
-          "Android",
-          "Exclusivo",
-          "iPhone (iOS)",
-          "Meta",
-          "Meta AI",
-          "Pix",
-          "WhatsApp",
-          "XP",
-          "XP Investimentos"
-        ]
-      },
-      "timestamp": "2026-09-16T23:03:54.989Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como descobrir a fonte a partir de uma imagem? Use esses métodos para PC ou celular",
-      "summary": "Conheça três ferramentas online para reconhecer tipografias em fotos, cartazes e outras artes gráficas Como descobrir a fonte a partir de uma imagem? Use esses métodos para PC ou celular",
-      "link": "https://tecnoblog.net/responde/descobrir-fonte-letra-imagem-online/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "WhatTheFont"
-        ]
-      },
-      "timestamp": "2026-09-16T23:03:55.287Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor fone de ouvido com fio: 10 modelos para comprar em 2026",
-      "summary": "Selecionamos os melhores fones de ouvido com fio para ouvir músicas, jogos e podcasts com áudio de qualidade, menor latência e sem depender de bateria Melhor fone de ouvido com fio: 10 modelos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-fone-de-ouvido-com-fio/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "Apple headphones",
-          "USB-C"
-        ]
-      },
-      "timestamp": "2026-09-16T23:03:55.551Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "O Fedora Linux 45 está vindo aí e estes são seus destaques",
-      "summary": "Versões beta do Fedora Linux 45 já podem ser baixadas. Novidades incluem kernel Linux 7.2 e ambiente Gnome 51 na versão principal. O Fedora Linux 45 está vindo aí e estes são seus destaques",
-      "link": "https://tecnoblog.net/noticias/o-fedora-linux-45-esta-vindo-ai-e-estes-sao-seus-destaques/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Fedora",
-          "Gnome",
-          "Linux"
-        ]
-      },
-      "timestamp": "2026-09-16T23:03:55.823Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Anatel prorroga testes da Starlink com a Vivo",
       "summary": "Decisão estende ambiente regulatório experimental e permite testes comerciais com a tecnologia D2D até 2029. Anatel prorroga testes da Starlink com a Vivo",
       "link": "https://tecnoblog.net/noticias/anatel-prorroga-testes-da-starlink-com-a-vivo/",
@@ -9239,6 +9152,79 @@
         ]
       },
       "timestamp": "2026-10-16T21:48:09.412Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta admite que seus óculos gravaram conversas mesmo sem comando",
+      "summary": "Óculos Ray-Ban Meta registraram áudios e transcrições no aplicativo Meta AI. Meta admite que seus óculos gravaram conversas mesmo sem comando",
+      "link": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Meta",
+          "Meta AI"
+        ]
+      },
+      "timestamp": "2026-10-17T00:00:51.003Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor Smart TV 4K: 10 modelos para comprar em 2026",
+      "summary": "Encontre a melhor TV com alta resolução para reproduzir seus filmes, séries e jogos favoritos; guia analisa os prós e contras dos principais modelos de TVs Samsung, LG, TCL e Hisense Melhor Smart TV 4K: 10 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-smart-tv-4k/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "Smart TV"
+        ]
+      },
+      "timestamp": "2026-10-17T00:00:51.292Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Garmin Forerunner 55 para corridas custa menos de R$ 1 mil no Mercado Livre",
+      "summary": "Smartwatch tem funções específicas para melhorar a performance nas corridas, além de GPS e bateria para até 14 dias. Garanta 56% OFF no Pix e com o cupom que vai acabar Garmin Forerunner 55 para corridas custa menos de R$ 1 mil no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/garmin-forerunner-55-para-corridas-custa-menos-de-r-1-mil-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Garmin",
+          "Garmin Forerunner",
+          "Garmin Forerunner 55",
+          "Mercado Livre",
+          "Pix",
+          "Smartwatch"
+        ]
+      },
+      "timestamp": "2026-10-17T00:00:51.582Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como baixar um aplicativo na TV da LG",
+      "summary": "Você pode instalar diferentes programas disponíveis na LG Content Store, como plataformas de streaming, jogos e outros apps de entretenimento Como baixar um aplicativo na TV da LG",
+      "link": "https://tecnoblog.net/responde/como-baixar-um-aplicativo-na-tv-da-lg/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "LG",
+          "webOS"
+        ]
+      },
+      "timestamp": "2026-10-17T00:00:51.871Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor TV LG em 2026: 10 modelos para comprar no Brasil",
+      "summary": "Selecionamos as melhores smart TVs da LG em diversos tamanhos e faixas de preço; veja modelos 4K, OLED, QNED, MiniLED e Nanocell Melhor TV LG em 2026: 10 modelos para comprar no Brasil",
+      "link": "https://tecnoblog.net/guias/melhor-tv-lg/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "LG",
+          "TVs LG"
+        ]
+      },
+      "timestamp": "2026-10-17T00:00:52.159Z"
     }
   ]
 }
