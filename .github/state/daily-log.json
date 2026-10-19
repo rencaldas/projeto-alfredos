@@ -8389,6 +8389,85 @@
         ]
       },
       "timestamp": "2026-10-19T19:16:19.148Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anthropic quer barrar IAs apenas diante de riscos extremos",
+      "summary": "Projeto prevê bloqueio de modelos que ameacem causar mais de 50 mortes ou ferimentos graves, ou prejuízos acima de US$ 1 bilhão. Anthropic quer barrar IAs apenas diante de riscos extremos",
+      "link": "https://tecnoblog.net/noticias/anthropic-quer-barrar-ias-apenas-diante-de-riscos-extremos/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "Claude",
+          "Estados Unidos (EUA)",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "regulação de IA"
+        ]
+      },
+      "timestamp": "2026-10-19T22:56:28.589Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Usuários recorrem à IA para remover anúncios e mudar interfaces de TVs",
+      "summary": "Projetos usam ferramentas como Claude Code para criar launchers personalizados. Usuários recorrem à IA para remover anúncios e mudar interfaces de TVs",
+      "link": "https://tecnoblog.net/noticias/usuarios-usam-ia-para-remover-anuncios-e-mudar-interfaces-de-tvs/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Android",
+          "Inteligência Artificial (IA)",
+          "TV (televisor)"
+        ]
+      },
+      "timestamp": "2026-10-19T22:56:28.868Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Chefe do Instagram admite que ainda não sabe como combater deep fakes",
+      "summary": "Perfis usam avatares gerados por inteligência artificial para reproduzir conteúdo original. Chefe do Instagram admite que ainda não sabe como combater deep fakes",
+      "link": "https://tecnoblog.net/noticias/chefe-do-instagram-admite-que-ainda-nao-sabe-como-combater-deep-fakes/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Adam Mosseri",
+          "Instagram",
+          "Inteligência Artificial (IA)"
+        ]
+      },
+      "timestamp": "2026-10-19T22:56:29.153Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S10 Lite (256 GB) alcança menor preço em meses com cupom",
+      "summary": "Galaxy Tab S10 Lite com tela LCD, S Pen e chip intermediário fica mais barato ao combinar cupom e pagamento via Pix no Mercado Livre Galaxy Tab S10 Lite (256 GB) alcança menor preço em meses com cupom",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-alcanca-menor-preco-em-meses-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Galaxy AI",
+          "LCD",
+          "Mercado Livre",
+          "Pix",
+          "S Pen",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-19T22:56:29.433Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor TV de 50 polegadas: 10 modelos para comprar em 2026",
+      "summary": "Analisamos prós e contras das principais Smart TVs de 50 polegadas de marcas como Samsung, LG e TCL; descubra qual é a ideal para você Melhor TV de 50 polegadas: 10 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-tv-50-polegadas/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "smart TVs"
+        ]
+      },
+      "timestamp": "2026-10-19T22:56:29.816Z"
     }
   ]
 }
