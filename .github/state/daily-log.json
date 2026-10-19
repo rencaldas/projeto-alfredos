@@ -2,30 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Valve libera ferramenta open-source para adaptar jogos de Android no Steam",
-      "summary": "Lepton fica disponível no GitHub e permite transformar games VR de celular no novo óculos Steam Frame. Valve libera ferramenta open-source para adaptar jogos de Android no Steam",
-      "link": "https://tecnoblog.net/noticias/valve-libera-ferramenta-open-source-para-adaptar-jogos-de-android-no-steam/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Android",
-          "GitHub",
-          "Lepton",
-          "Linux",
-          "Meta Ques 3",
-          "MIT",
-          "Proton",
-          "Steam",
-          "Steam Frame",
-          "Steam Machine",
-          "SteamOS",
-          "Valve"
-        ]
-      },
-      "timestamp": "2026-09-19T18:07:34.019Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Gemini invade três empresas durante teste de segurança",
       "summary": "IA do Google acessou redes reais, descobriu senhas e encontrou credenciais vazadas durante um exercício de cibersegurança. Gemini invade três empresas durante teste de segurança",
       "link": "https://tecnoblog.net/noticias/gemini-invade-tres-empresas-durante-teste-de-seguranca/",
@@ -8320,6 +8296,99 @@
         "repositorio": "rencaldas/ideal-marketplace-project"
       },
       "timestamp": "2026-10-19T15:56:04.301Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Sony pode gastar R$ 3,4 mil só com as memórias de cada PS6",
+      "summary": "RAM e armazenamento NAND podem custar mais de US$ 680 por unidade. Alta nos preços dos chips deve pressionar o custo da próxima geração do console. Sony pode gastar R$ 3,4 mil só com as memórias de cada PS6",
+      "link": "https://tecnoblog.net/noticias/sony-pode-gastar-r-34-mil-so-com-as-memorias-de-cada-ps6/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Armazenamento",
+          "Consoles",
+          "Memória RAM",
+          "PlayStation 6",
+          "PS6",
+          "rumor",
+          "Sony"
+        ]
+      },
+      "timestamp": "2026-10-19T19:16:18.046Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Watch 8 LTE tem a maior queda que já vimos de 65% OFF na Amazon",
+      "summary": "Galaxy Watch 8 LTE (40 mm) com tela AMOLED e sensores avançados para esportes sai 65% mais barato que o preço original, em oferta histórica no Pix Galaxy Watch 8 LTE tem a maior queda que já vimos de 65% OFF na Amazon",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-tem-a-maior-queda-que-ja-vimos-de-65-off-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Amazon",
+          "AMOLED",
+          "Galaxy Watch 8",
+          "LTE",
+          "Pix",
+          "Samsung Galaxy Watch"
+        ]
+      },
+      "timestamp": "2026-10-19T19:16:18.314Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 Plus (512 GB) surge por até 10x sem juros no Mercado Livre",
+      "summary": "Galaxy S25 Plus (512 GB) traz chip Snapdragon de ponta e câmeras que filmam em 8K; celular premium da Samsung sai com 54% OFF no prazo combinado com cupom Galaxy S25 Plus (512 GB) surge por até 10x sem juros no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-surge-por-ate-10x-sem-juros-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "8K",
+          "Galaxy AI",
+          "Galaxy S25 Plus",
+          "Mercado Livre",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-10-19T19:16:18.582Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Aproveite: Nintendo Switch 2 entra em oferta relâmpago no Mercado Livre",
+      "summary": "Switch 2 com proposta multiuso e acesso a jogos exclusivos da Nintendo recebe raro desconto de 15% no Pix, mas promoção acaba ao meio-dia de hoje! Aproveite: Nintendo Switch 2 entra em oferta relâmpago no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/aproveite-nintendo-switch-2-entra-em-oferta-relampago-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Mercado Livre",
+          "Nintendo",
+          "Nintendo Switch 2",
+          "Nintendo Switch Online",
+          "Pix",
+          "Switch"
+        ]
+      },
+      "timestamp": "2026-10-19T19:16:18.856Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Buds 4 têm promoção histórica com queda de 50% de desconto",
+      "summary": "Galaxy Buds 4 têm ANC e áudio Hi-Fi de 24 bits; fones da Samsung saem pela metade do preço em oferta histórica no Pix com cupom do Mercado Livre, que vai acabar logo Galaxy Buds 4 têm promoção histórica com queda de 50% de desconto",
+      "link": "https://tecnoblog.net/achados/galaxy-buds-4-tem-promocao-historica-com-queda-de-50-de-desconto/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "Controle ativo de ruído",
+          "Galaxy",
+          "Galaxy AI",
+          "Galaxy Buds 4",
+          "High fidelity",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-19T19:16:19.148Z"
     }
   ]
 }
