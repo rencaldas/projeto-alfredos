@@ -8619,6 +8619,18 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6ad63cd807641.jpg"
       },
       "timestamp": "2026-10-20T06:46:24.045Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v12.69.2 → versão mais recente 13.38.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-20T13:55:13.028Z"
     }
   ]
 }
