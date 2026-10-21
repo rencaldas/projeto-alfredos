@@ -2,56 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Gemini invade três empresas durante teste de segurança",
-      "summary": "IA do Google acessou redes reais, descobriu senhas e encontrou credenciais vazadas durante um exercício de cibersegurança. Gemini invade três empresas durante teste de segurança",
-      "link": "https://tecnoblog.net/noticias/gemini-invade-tres-empresas-durante-teste-de-seguranca/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "cibersegurança",
-          "Gemini",
-          "Google",
-          "Hacking",
-          "IA",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Segurança da Informação",
-          "Tecnologia",
-          "Vulnerabilidade"
-        ]
-      },
-      "timestamp": "2026-09-21T13:19:13.834Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Redmi Note 17 chega ao Brasil com preço inicial de R$ 3.999",
-      "summary": "Xiaomi apresenta três novos modelos, que custam entre R$ 3.999 e R$ 6.999. Destaque é o Redmi Note 17 Pro Max, com bateria de 9.210 mAh. Redmi Note 17 chega ao Brasil com preço inicial de R$ 3.999",
-      "link": "https://tecnoblog.net/noticias/redmi-note-17-chega-ao-brasil-com-preco-inicial-de-r-3-999/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Brasil",
-          "Redmi Note 17",
-          "smartphones",
-          "Xiaomi"
-        ]
-      },
-      "timestamp": "2026-09-21T13:19:14.070Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: @asamuzakjp/css-color (rencaldas/liac-club)",
-      "summary": "Versão instalada 3.2.0 → versão mais recente 7.0.1 (npm).",
-      "link": "https://github.com/rencaldas/liac-club",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/liac-club"
-      },
-      "timestamp": "2026-09-21T15:23:33.809Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy S26 Ultra tem queda repentina e recebe maior desconto com cupom",
       "summary": "Galaxy S26 (256 GB) traz câmera de 200 MP e tela de Privacidade exclusiva; topo de linha da Samsung sai 43% mais em conta no Pix com cupom no Mercado Livre Galaxy S26 Ultra tem queda repentina e recebe maior desconto com cupom",
       "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-tem-queda-repentina-e-recebe-maior-desconto-com-cupom/",
@@ -9013,6 +8963,53 @@
         ]
       },
       "timestamp": "2026-10-21T10:26:27.462Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "summary": "Empresa de segurança digital localizou quase 7 mil links com potenciais dados sensíveis. Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "link": "https://tecnoblog.net/noticias/muse-agente-de-ia-da-meta-expos-contratos-e-planilhas-na-internet/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Claroc",
+          "DNS",
+          "Google Docs",
+          "Meta",
+          "Meta Muse",
+          "Power Point"
+        ]
+      },
+      "timestamp": "2026-10-21T15:26:34.891Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Uber lança recurso para facilitar embarque de idosos e pessoas com deficiência",
+      "summary": "Novidade permite informar características para identificação e escolher como o motorista deve sinalizar a chegada. Uber lança recurso para facilitar embarque de idosos e pessoas com deficiência",
+      "link": "https://tecnoblog.net/noticias/uber-lanca-recurso-para-facilitar-embarque-de-idosos-e-pessoas-com-deficiencia/",
+      "meta": {
+        "categorias": [
+          "Mobilidade",
+          "Uber"
+        ]
+      },
+      "timestamp": "2026-10-21T15:26:35.152Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Rival chinesa da Starlink homologa equipamento no Brasil",
+      "summary": "SpaceSail deve oferecer conexão via satélite com velocidades de até 400 Mb/s de download. Preços e disponibilidade ainda não são conhecidos. Rival chinesa da Starlink homologa equipamento no Brasil",
+      "link": "https://tecnoblog.net/noticias/rival-chinesa-da-starlink-homologa-equipamento-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Anatel",
+          "Brasil",
+          "Elon Musk",
+          "Starlink"
+        ]
+      },
+      "timestamp": "2026-10-21T15:26:35.408Z"
     }
   ]
 }
