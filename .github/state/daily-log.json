@@ -2,107 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Os primeiros celulares do Brasil com a Samsung One UI 9",
-      "summary": "Linha do Galaxy S26 recebe atualização de sistema nesta semana. Tecnoblog apurou o cronograma para o país. Os primeiros celulares do Brasil com a Samsung One UI 9",
-      "link": "https://tecnoblog.net/noticias/os-primeiros-celulares-do-brasil-com-a-one-ui-9/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Android 17",
-          "Brasil",
-          "Exclusivo",
-          "Galaxy",
-          "Galaxy A57",
-          "Galaxy S24",
-          "Galaxy S24 FE",
-          "Galaxy S24 Plus",
-          "Galaxy S24 Ultra",
-          "Galaxy S25",
-          "Galaxy S25 FE",
-          "Galaxy S25 Plus",
-          "Galaxy S25 Ultra",
-          "Galaxy S26",
-          "Galaxy S26 Plus",
-          "Galaxy S26 Ultra",
-          "Galaxy Z Flip 6",
-          "Galaxy Z Flip 7",
-          "Galaxy Z Fold 6",
-          "Galaxy Z Fold 7",
-          "Galaxy Z Fold 8",
-          "One UI",
-          "One UI 9",
-          "Samsung",
-          "Samsung Galaxy Z Flip 7"
-        ]
-      },
-      "timestamp": "2026-09-21T22:21:25.396Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google leva multa de 403 milhões de euros por coletar dados de localização",
-      "summary": "Órgão de proteção de dados da Irlanda concluiu que configurações violaram as regras europeias de privacidade entre 2018 e 2020. Google leva multa de 403 milhões de euros por coletar dados de localização",
-      "link": "https://tecnoblog.net/noticias/google-leva-multa-de-403-milhoes-de-euros-por-coletar-dados-de-localizacao/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "GDPR",
-          "Google",
-          "Inglês"
-        ]
-      },
-      "timestamp": "2026-09-21T22:21:25.673Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Sua chance: Motorola Edge 60 Pro (256 GB) registra menor preço do ano",
-      "summary": "Edge 60 Pro (256 GB) tem câmeras de 50 MP e tela de 120 Hz; celular da Motorola atinge o menor preço de 2026, com desconto de 57% no Pix com cupom no Mercado Livre Sua chance: Motorola Edge 60 Pro (256 GB) registra menor preço do ano",
-      "link": "https://tecnoblog.net/achados/sua-chance-motorola-edge-60-pro-256-gb-registra-menor-preco-do-ano/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Edge 60 Pro",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-21T22:21:25.960Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S25 com chip Snapdragon 8 Elite tem 54% OFF no Mercado Livre",
-      "summary": "Galaxy S25 (256 GB) traz chip Snapdragon 8 Elite e câmera de 50 MP; celular da Samsung sai por menos da metade do preço original no Pix com cupom Galaxy S25 com chip Snapdragon 8 Elite tem 54% OFF no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-com-chip-snapdragon-8-elite-tem-54-off-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Qualcomm",
-          "Snapdragon 8 Elite"
-        ]
-      },
-      "timestamp": "2026-09-21T22:21:26.234Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "É oficial: Google lança os primeiros Googlebooks",
-      "summary": "Google iniciou pré-venda dos laptops da categoria Googlebook. Eles são produzidos por marcas como Acer, Asus, Dell, HP e Lenovo. É oficial: Google lança os primeiros Googlebooks",
-      "link": "https://tecnoblog.net/noticias/e-oficial-google-lanca-os-primeiros-googlebooks/",
-      "meta": {
-        "categorias": [
-          "Hardware e Componentes",
-          "Acer",
-          "Asus",
-          "Dell",
-          "Google",
-          "Googlebook",
-          "Hewlett-Packard",
-          "Lenovo"
-        ]
-      },
-      "timestamp": "2026-09-21T22:21:26.513Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
       "summary": "Modelo de IA pode ter decifrado mensagem que relatava chegada de navio britânico a Sebastopol, na Crimeia. GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
       "link": "https://tecnoblog.net/noticias/gpt-6-astra-decifra-mensagem-do-exercito-alemao-apos-108-anos/",
@@ -9010,6 +8909,93 @@
         ]
       },
       "timestamp": "2026-10-21T19:26:02.302Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
+      "summary": "Demis Hassabis encurtou previsão anterior e afirma que a inteligência artificial geral vai acelerar descobertas científicas. Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
+      "link": "https://tecnoblog.net/noticias/chefe-do-google-deepmind-diz-que-agi-chegara-em-ate-3-anos/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "AGI",
+          "Alphabet",
+          "DeepMind",
+          "Demis Hassabis",
+          "Google",
+          "Google DeepMind",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Inteligência artificial geral"
+        ]
+      },
+      "timestamp": "2026-10-21T22:32:33.453Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S26 (256 GB) enfim volta a aparecer em promoção",
+      "summary": "Galaxy S26 (256 GB) filma em 8K e traz tela AMOLED de 120 Hz; celular premium da Samsung volta a entrar em oferta após meses, com desconto de 47% no Pix na Amazon Galaxy S26 (256 GB) enfim volta a aparecer em promoção",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-256-gb-enfim-volta-a-aparecer-em-promocao/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "8K",
+          "Amazon",
+          "AMOLED",
+          "Galaxy AI",
+          "Galaxy S26",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-21T22:32:33.762Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Z Fold 8 em formato passaporte já tem R$ 1.900 OFF com cupom",
+      "summary": "Galaxy Z Fold 8 com telas AMOLED, bateria de 26 horas e câmera de 50 MP tem desconto com cupom exclusivo do app Magalu Galaxy Z Fold 8 em formato passaporte já tem R$ 1.900 OFF com cupom",
+      "link": "https://tecnoblog.net/achados/galaxy-z-fold-8-em-formato-passaporte-ja-tem-r-1-900-off-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy",
+          "Galaxy AI",
+          "Galaxy Fold",
+          "Galaxy Z Fold 8",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-21T22:32:34.075Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Falha grave no PHP fez sites e serviços públicos saírem do ar",
+      "summary": "Cloudflare ativou proteções, mas servidores precisam ser atualizados. Falha grave no PHP fez sites e serviços públicos saírem do ar",
+      "link": "https://tecnoblog.net/noticias/falha-grave-no-php-pode-tirar-sites-e-servicos-publicos-do-ar/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Cloudflare",
+          "PHP"
+        ]
+      },
+      "timestamp": "2026-10-21T22:32:34.392Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Claro proíbe vendas da quarta maior fabricante de celulares do mundo",
+      "summary": "Aparelhos da Oppo saíram das lojas físicas e do site da operadora. Comunicado interno determina a suspensão por tempo indeterminado. Claro proíbe vendas da quarta maior fabricante de celulares do mundo",
+      "link": "https://tecnoblog.net/noticias/claro-proibe-vendas-da-quarta-maior-fabricante-de-celulares-do-mundo/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Exclusivo"
+        ]
+      },
+      "timestamp": "2026-10-21T22:32:34.703Z"
     }
   ]
 }
