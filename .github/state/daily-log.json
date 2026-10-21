@@ -8954,6 +8954,65 @@
         ]
       },
       "timestamp": "2026-10-21T00:54:02.572Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S23 do Brasil recebe Android 17/One UI 9",
+      "summary": "Empresa libera update no modelo lançado em 2023. Software baseado no Android 17 tem expansão do Galaxy AI como principal novidade. Galaxy S23 do Brasil recebe Android 17/One UI 9",
+      "link": "https://tecnoblog.net/noticias/galaxy-s23-do-brasil-recebe-android-17-one-ui-9/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Android",
+          "Apple Intelligence",
+          "Galaxy AI",
+          "Galaxy S23",
+          "iOS 18",
+          "iPhone",
+          "My FanCam",
+          "Now Brief",
+          "Now Nudge",
+          "One UI",
+          "One UI 8",
+          "One UI 9",
+          "Photo Assist",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-21T10:26:26.966Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Falha em certificados digitais coloca internet em alerta",
+      "summary": "Chaves privadas fracas poderiam permitir a criação de certificados falsos para qualquer site. Falha em certificados digitais coloca internet em alerta",
+      "link": "https://tecnoblog.net/noticias/falha-em-certificados-digitais-coloca-internet-em-alerta/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "cibersegurança",
+          "Firefox",
+          "Google Chrome",
+          "HTTPS",
+          "Segurança",
+          "TLS"
+        ]
+      },
+      "timestamp": "2026-10-21T10:26:27.215Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "OpenAI agora permite trancar conversas sensíveis no ChatGPT",
+      "summary": "Recurso “esconde” interações selecionadas pelo usuário do histórico. OpenAI agora permite trancar conversas sensíveis no ChatGPT",
+      "link": "https://tecnoblog.net/noticias/openai-agora-permite-trancar-conversas-sensiveis-no-chatgpt/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "ChatGPT",
+          "FaceID",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-10-21T10:26:27.462Z"
     }
   ]
 }
