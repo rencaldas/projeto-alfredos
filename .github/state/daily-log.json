@@ -2,93 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Filtro de telemarketing gera guerra entre Vivo e TIM",
-      "summary": "Novo serviço estaria bloqueando apenas as ligações com ofertas da concorrente. Filtro de telemarketing gera guerra entre Vivo e TIM",
-      "link": "https://tecnoblog.net/noticias/vivo-e-tim-estao-em-pe-de-guerra-por-causa-do-telemarketing/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Exclusivo",
-          "Telemarketing",
-          "TIM",
-          "Truecaller",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-09-22T21:42:56.971Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "LibreOffice 26.8 lida melhor com gráficos do Microsoft Office (mas sem exibi-los)",
-      "summary": "The Document Foundation explica que formato proprietário da Microsoft dificulta compatibilidade plena na plataforma de código aberto. LibreOffice 26.8 lida melhor com gráficos do Microsoft Office (mas sem exibi-los)",
-      "link": "https://tecnoblog.net/noticias/libreoffice-26-8-lida-melhor-com-graficos-do-microsoft-office-mas-sem-exibi-los/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "LibreOffice",
-          "Microsoft",
-          "Microsoft Office",
-          "The Document Foundation"
-        ]
-      },
-      "timestamp": "2026-09-22T21:42:57.291Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Xiaomi afunda 34% no Brasil após crise de componentes",
-      "summary": "Vendas de empresas chinesas caem no primeiro semestre. Xiaomi afunda 34% no Brasil após crise de componentes",
-      "link": "https://tecnoblog.net/noticias/xiaomi-afunda-34-no-brasil-apos-crise-de-componentes/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Brasil",
-          "Motorola",
-          "Samsung",
-          "Xiaomi"
-        ]
-      },
-      "timestamp": "2026-09-22T21:42:57.610Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy A57 (256 GB) atinge 48% OFF com cupom na melhor oferta já registrada",
-      "summary": "Galaxy A57 com tela de 120 Hz, câmera de 50 MP e bateria de até 29 horas recebe amplo desconto com cupom no Magazine Luiza Galaxy A57 (256 GB) atinge 48% OFF com cupom na melhor oferta já registrada",
-      "link": "https://tecnoblog.net/achados/galaxy-a57-256-gb-atinge-48-off-com-cupom-na-melhor-oferta-ja-registrada/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy",
-          "Magazine Luiza",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-09-22T21:42:57.932Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S10 Lite (256 GB) com S Pen fica mais barato na Magalu",
-      "summary": "Galaxy Tab S10 com tela de 10,9\", Galaxy AI e bateria de até 16 horas recebe ótimo desconto às vesperas do Dia das Crianças 2026 Galaxy Tab S10 Lite (256 GB) com S Pen fica mais barato na Magalu",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-com-s-pen-fica-mais-barato-na-magalu/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Dia das Crianças 2026",
-          "Galaxy AI",
-          "Galaxy Tab S10",
-          "LCD",
-          "Magazine Luiza",
-          "Pix",
-          "S Pen",
-          "Samsung",
-          "Stylus"
-        ]
-      },
-      "timestamp": "2026-09-22T21:42:58.252Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Perfil perdeu alcance? X agora vai te mostrar o motivo",
       "summary": "Atualização na rede social vai revelar restrições de visibilidade impostas por exigências legais e informar qual país está relacionado à medida. Perfil perdeu alcance? X agora vai te mostrar o motivo",
       "link": "https://tecnoblog.net/noticias/perfil-perdeu-alcance-x-agora-vai-te-mostrar-o-motivo/",
@@ -8851,6 +8764,93 @@
         ]
       },
       "timestamp": "2026-10-22T19:27:59.207Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "O que é a Conta Meta no Instagram, WhatsApp e Facebook?",
+      "summary": "A Conta Meta pode unificar o login entre as plataformas por meio da chave de acesso, além de centralizar a gestão de privacidade e preferências em um único local O que é a Conta Meta no Instagram, WhatsApp e Facebook?",
+      "link": "https://tecnoblog.net/responde/o-que-e-a-conta-meta-no-instagram-whatsapp-e-facebook/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Instagram",
+          "Meta",
+          "Meta AI",
+          "Oculus Quest",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-10-22T22:35:11.116Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S10 Lite para estudantes tem menor preço em meses",
+      "summary": "Galaxy Tab S10 Lite (128 GB) tem tela de 90 Hz e traz caneta S Pen na caixa; tablet da Samsung ideal para a sala de aula sai 31% mais em conta no Pix no Mercado Livre Galaxy Tab S10 Lite para estudantes tem menor preço em meses",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-para-estudantes-tem-menor-preco-em-meses/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Galaxy Tab S10 Lite",
+          "Mercado Livre",
+          "Pix",
+          "Samsung",
+          "Stylus"
+        ]
+      },
+      "timestamp": "2026-10-22T22:35:11.416Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 70 Pro com RAM de 12 GB fica mais em conta no Mercado Livre",
+      "summary": "Edge 70 Pro (256 GB) tem 12 GB de RAM e tela AMOLED de 144 Hz; celular da Motorola recebe desconto de 30% sobre o preço original em oferta no Pix Motorola Edge 70 Pro com RAM de 12 GB fica mais em conta no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-pro-com-ram-de-12-gb-fica-mais-em-conta-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 70 Pro",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-22T22:35:11.697Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xbox testa venda de horas para jogar na nuvem sem o Game Pass",
+      "summary": "Pacotes custam até US$ 11,99 para 50 horas de jogo. Microsoft ainda não informou os preços para o Brasil. Xbox testa venda de horas para jogar na nuvem sem o Game Pass",
+      "link": "https://tecnoblog.net/noticias/xbox-game-pass-testa-venda-de-horas-para-jogar-na-nuvem-sem-assinatura/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Microsoft",
+          "Xbox",
+          "Xbox Cloud Gaming",
+          "Xbox Game Pass",
+          "Xbox One"
+        ]
+      },
+      "timestamp": "2026-10-22T22:35:11.978Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Hackers tentaram explorar falhas no PHP antes do alerta",
+      "summary": "AWS detectou primeira tentativa quatro dias antes da divulgação oficial. Hackers tentaram explorar falhas no PHP antes do alerta",
+      "link": "https://tecnoblog.net/noticias/hackers-tentaram-explorar-falhas-no-php-antes-do-alerta/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Amazon Web Services (AWS)",
+          "AWS",
+          "cibersegurança",
+          "PHP",
+          "Segurança",
+          "Vulnerabilidade",
+          "WordPress"
+        ]
+      },
+      "timestamp": "2026-10-22T22:35:12.261Z"
     }
   ]
 }
