@@ -2,26 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy Buds 4 tem funções avançadas e está 38% mais barato no Mercado Livre",
-      "summary": "Galaxy Buds 4 suporta áudio Hi-Fi de 24 bits, assistentes de IA por comando de voz e ANC adaptativo. Fones de ouvido estão mais baratos com cupom que encerra em algumas horas Galaxy Buds 4 tem funções avançadas e está 38% mais barato no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-tem-funcoes-avancadas-e-esta-38-mais-barato-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "Bixby",
-          "Galaxy",
-          "Galaxy Buds",
-          "Galaxy Buds 4",
-          "Inteligência Artificial (IA)",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-09-22T10:20:00.165Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Medo da IA no Brasil supera média global, diz pesquisa",
       "summary": "Pesquisa aponta 52% da população receosa com o futuro da tecnologia, mas um quarto da população nunca nem ouviu falar. Medo da IA no Brasil supera média global, diz pesquisa",
       "link": "https://tecnoblog.net/noticias/medo-da-ia-no-brasil-supera-media-global-diz-pesquisa/",
@@ -8851,6 +8831,28 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6ad9256e3eef5.jpg"
       },
       "timestamp": "2026-10-22T06:43:45.116Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta leva multa de US$ 25 bilhões em processo do Cambridge Analytica",
+      "summary": "Processo na Justiça dos Estados Unidos aponta mais de 43 milhões de violações. Meta leva multa de US$ 25 bilhões em processo do Cambridge Analytica",
+      "link": "https://tecnoblog.net/noticias/meta-leva-multa-de-us-25-bilhoes-em-processo-do-cambridge-analytica/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Brexit",
+          "Cambridge Analytica",
+          "Donald Trump",
+          "Estados Unidos (EUA)",
+          "Facebook",
+          "Instagram",
+          "Jair Bolsonaro",
+          "Mark Zuckerberg",
+          "Meta",
+          "Novo México"
+        ]
+      },
+      "timestamp": "2026-10-22T10:37:07.208Z"
     }
   ]
 }
