@@ -134,6 +134,21 @@
           "messageId": 277
         }
       ]
+    },
+    "3822": {
+      "title": "Terraspace (Epic Games) Giveaway",
+      "endDate": "2026-10-27 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 278
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 279
+        }
+      ]
     }
   }
 }
