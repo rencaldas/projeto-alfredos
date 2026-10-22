@@ -2,97 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy Z Flip 8 (256 GB) baixa preço com cupom no Mercado Livre",
-      "summary": "Galaxy Z Flip 8 (256 GB) tem tela dobrável de 120 Hz e 12 GB de RAM; novo celular da Samsung recebe desconto de 26% sobre o preço original no Pix com cupom Galaxy Z Flip 8 (256 GB) baixa preço com cupom no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-z-flip-8-256-gb-baixa-preco-com-cupom-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy Z Flip 8",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-09-22T18:50:23.082Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Watch 9 para treinos tem mais de R$ 1.000 OFF em oferta",
-      "summary": "Galaxy Watch 9 BT (40 mm) tem chip Snapdragon e suporta vários exercícios; oferta do Marcado Livre traz smartwatch da Samsung com desconto de 36% no Pix com cupom Galaxy Watch 9 para treinos tem mais de R$ 1.000 OFF em oferta",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-9-para-treinos-tem-mais-de-r-1-000-off-em-oferta/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Galaxy Watch 9",
-          "Mercado Livre",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy Watch 9",
-          "Snapdragon",
-          "Super AMOLED"
-        ]
-      },
-      "timestamp": "2026-09-22T18:50:23.398Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "WhatsApp testa atalho para compartilhar mídias do Instagram e Facebook",
-      "summary": "Novidade permite acessar mídias das redes da Meta pelo seletor de arquivos. WhatsApp testa atalho para compartilhar mídias do Instagram e Facebook",
-      "link": "https://tecnoblog.net/noticias/whatsapp-testa-atalho-para-compartilhar-midias-do-instagram-e-facebook/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Facebook",
-          "Instagram",
-          "Meta",
-          "WhatsApp"
-        ]
-      },
-      "timestamp": "2026-09-22T18:50:23.717Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft anuncia demissões no Xbox e pode fechar estúdio",
-      "summary": "Halo Studios perdeu 268 funcionários, enquanto o estúdio de Hellblade entrou em consulta sobre possível fechamento. Microsoft anuncia demissões no Xbox e pode fechar estúdio",
-      "link": "https://tecnoblog.net/noticias/microsoft-anuncia-demissoes-no-xbox-e-pode-fechar-estudio/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "343 Industries",
-          "Asha Sharma",
-          "Bethesda",
-          "Demissões",
-          "Microsoft",
-          "Phil Spencer",
-          "Xbox",
-          "Xbox Game Pass",
-          "Xbox Game Studios"
-        ]
-      },
-      "timestamp": "2026-09-22T18:50:24.021Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 18 Pro: falha no Face ID faz smartphones reiniciarem sozinhos",
-      "summary": "Problema aparece ao repetir a autenticação em apps protegidos. Apple ainda não confirmou a causa. iPhone 18 Pro: falha no Face ID faz smartphones reiniciarem sozinhos",
-      "link": "https://tecnoblog.net/noticias/iphone-18-pro-falha-no-face-id-faz-smartphones-reiniciarem-sozinhos/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "Face ID",
-          "iOS",
-          "iPhone",
-          "iPhone 18 Pro",
-          "iPhone 18 Pro Max"
-        ]
-      },
-      "timestamp": "2026-09-22T18:50:24.336Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Filtro de telemarketing gera guerra entre Vivo e TIM",
       "summary": "Novo serviço estaria bloqueando apenas as ligações com ofertas da concorrente. Filtro de telemarketing gera guerra entre Vivo e TIM",
       "link": "https://tecnoblog.net/noticias/vivo-e-tim-estao-em-pe-de-guerra-por-causa-do-telemarketing/",
@@ -8860,6 +8769,88 @@
         ]
       },
       "timestamp": "2026-10-22T15:37:53.058Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor TV OLED em 2026: 8 modelos para comprar em 2026",
+      "summary": "Encontre a melhor Smart TV com painel OLED para maiores contrastes, cores realistas e amplo ângulo de visão; guia reúne modelos Samsung, LG e Toshiba Melhor TV OLED em 2026: 8 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-tv-oled/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "OLED"
+        ]
+      },
+      "timestamp": "2026-10-22T19:27:57.910Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Review do Realme C100x: bateria gigante com design que chama atenção",
+      "summary": "O Realme C100x é celular de entrada da marca que se destaca pela bateria gigante de 8.000 mAh e por um design diferenciado, que inclui em LED para notificações na […] Review do Realme C100x: bateria gigante com design que chama atenção",
+      "link": "https://tecnoblog.net/testamos/review-do-realme-c100x-bateria-gigante-com-design-que-chama-atencao/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Android",
+          "Bateria de silício-carbono",
+          "Realme",
+          "Review",
+          "Smartphone"
+        ]
+      },
+      "timestamp": "2026-10-22T19:27:58.276Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Kindle+ é o novo nome do serviço de assinatura da Amazon",
+      "summary": "Empresa abandonou a marca Kindle Unlimited, mas mantém a proposta e o preço da assinatura. Kindle+ é o novo nome do serviço de assinatura da Amazon",
+      "link": "https://tecnoblog.net/noticias/kindle-e-o-novo-nome-do-servico-de-assinatura-da-amazon/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Amazon",
+          "Brasil",
+          "Estados Unidos (EUA)",
+          "Kindle",
+          "Kindle Unlimited",
+          "Kindle+"
+        ]
+      },
+      "timestamp": "2026-10-22T19:27:58.588Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Despencou: Galaxy Z Flip 8 fica R$ 4 mil mais barato com cupom",
+      "summary": "Galaxy Z Flip 8 (256 GB) com tela dobrável de 120 Hz e 12 GB de RAM atinge o menor preço desde o lançamento, com desconto de 44% no Pix com cupom apenas no app Magalu Despencou: Galaxy Z Flip 8 fica R$ 4 mil mais barato com cupom",
+      "link": "https://tecnoblog.net/achados/despencou-galaxy-z-flip-8-fica-r-4-mil-mais-barato-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Galaxy AI",
+          "Galaxy Z Flip 8",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-22T19:27:58.896Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Z Fold 8 Ultra com mais câmeras já cai 42% em promoção",
+      "summary": "Z Fold 8 Ultra (256 GB) com tela dobrável de 120 Hz e câmera de 200 MP atinge o menor preço desde o lançamento, com desconto de 42% no Pix com cupom só no app Magalu Galaxy Z Fold 8 Ultra com mais câmeras já cai 42% em promoção",
+      "link": "https://tecnoblog.net/achados/galaxy-z-fold-8-ultra-com-mais-cameras-ja-cai-42-em-promocao/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy Z Fold 8 Ultra",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-22T19:27:59.207Z"
     }
   ]
 }
