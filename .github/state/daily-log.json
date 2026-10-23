@@ -2,338 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
-      "summary": "Modelo promete igualar desempenho do Mythos 5.1 para trabalhos de cibersegurança e biologia. Recursos de segurança também são reforçados. Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
-      "link": "https://tecnoblog.net/noticias/anthropic-anuncia-novo-claude-opus-5-5-com-capacidade-ainda-maior/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "Claude",
-          "Claude Fable 5.1",
-          "Claude Mythos 5.1",
-          "Claude Opus 5",
-          "Claude Opus 5.5",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-09-23T13:00:42.049Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Meta colocou seres humanos para concluírem tarefas de agentes de IA",
-      "summary": "Empresa suspendeu testes no Muse após funcionários apontarem riscos à privacidade dos usuários. Meta colocou seres humanos para concluírem tarefas de agentes de IA",
-      "link": "https://tecnoblog.net/noticias/meta-colocou-seres-humanos-para-concluirem-tarefas-de-agentes-de-ia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-09-23T13:00:42.323Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: brick/math (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada 0.14.8 → versão mais recente 1.0.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: guzzlehttp/guzzle (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada 7.15.5 → versão mais recente 8.2.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: guzzlehttp/promises (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada 2.5.3 → versão mais recente 3.0.2 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: guzzlehttp/psr7 (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada 2.13.1 → versão mais recente 3.1.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: guzzlehttp/uri-template (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v1.0.11 → versão mais recente 2.0.1 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v12.69.2 → versão mais recente 13.33.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: laravel/tinker (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v2.11.1 → versão mais recente 3.0.2 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: stripe/stripe-php (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v19.4.1 → versão mais recente 21.4.0.0-beta1 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/console (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/error-handler (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.5 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/finder (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/http-foundation (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/http-kernel (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/mailer (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/mime (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/process (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.7 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/routing (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.6 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/uid (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.5 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/var-dumper (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.7 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: pestphp/pest (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v4.7.8 → versão mais recente 5.2.1 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: pestphp/pest-plugin (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v4.0.0 → versão mais recente 5.0.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: pestphp/pest-plugin-arch (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v4.0.2 → versão mais recente 5.0.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: pestphp/pest-plugin-laravel (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v4.1.0 → versão mais recente 5.0.1 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: pestphp/pest-plugin-mutate (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v4.0.1 → versão mais recente 5.0.2 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: pestphp/pest-plugin-profanity (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v4.2.1 → versão mais recente 5.0.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-23T13:54:38.538Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Programa de pontos do Nubank estreia níveis, sorteios e descontos",
       "summary": "Novo NuCoin passa a funcionar na mecânica de temporadas com três meses de duração. Vice-presidente antecipa novidades ao Tecnoblog. Programa de pontos do Nubank estreia níveis, sorteios e descontos",
       "link": "https://tecnoblog.net/noticias/programa-de-pontos-do-nubank-estreia-niveis-sorteios-e-descontos/",
@@ -8870,6 +8538,88 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/sker.jpg"
       },
       "timestamp": "2026-10-23T06:38:14.957Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Clientes do Airbnb não vão mais precisar lavar a louça",
+      "summary": "Mudanças nas regras da casa colocam limites nas exigências dos anfitriões. Além da louça, quem aluga a casa não pode mais ser obrigado a retirar o lixo. Clientes do Airbnb não vão mais precisar lavar a louça",
+      "link": "https://tecnoblog.net/noticias/clientes-do-airbnb-nao-vao-mais-precisar-lavar-a-louca/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Airbnb"
+        ]
+      },
+      "timestamp": "2026-10-23T15:20:58.299Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nintendo Switch 2 é desbloqueado via software pela primeira vez",
+      "summary": "Pesquisador identificou falha que permite rodar aplicativos não oficiais e modificar jogos no console. Nintendo Switch 2 é desbloqueado via software pela primeira vez",
+      "link": "https://tecnoblog.net/noticias/nintendo-switch-2-e-desbloqueado-via-software-pela-primeira-vez/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Games",
+          "Homebrew",
+          "Jailbreak",
+          "Nintendo",
+          "Nintendo Switch 2",
+          "Switch 2"
+        ]
+      },
+      "timestamp": "2026-10-23T15:20:58.566Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S26 FE filma em 8K e está em promoção no Magalu",
+      "summary": "Galaxy S26 FE com tela de 120 Hz, Galaxy AI e Android 17 fica mais barato apenas um mês após a chegada no Brasil Galaxy S26 FE filma em 8K e está em promoção no Magalu",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-fe-filma-em-8k-e-esta-em-promocao-no-magalu/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "1080p (Full HD)",
+          "AMOLED",
+          "Brasil",
+          "Galaxy AI",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-23T15:20:58.839Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 Ultra (512 GB) com tela premium tem desconto generoso",
+      "summary": "Galaxy S25 Ultra traz display brilhante com ótimos ângulos de visão, alto desempenho e preço mais acessível comparado ao Galaxy S26 Ultra Galaxy S25 Ultra (512 GB) com tela premium tem desconto generoso",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-com-tela-premium-tem-desconto-generoso/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy S25 Ultra",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-23T15:20:59.097Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Operadoras brasileiras vão liberar internet via satélite no celular",
+      "summary": "Brisanet, Unifique e Iez! Telecom assinaram com a AST SpaceMobile. Operadoras brasileiras vão liberar internet via satélite no celular",
+      "link": "https://tecnoblog.net/noticias/operadoras-brasileiras-vao-liberar-internet-via-satelite-no-celular/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "AST SpaceMobile",
+          "Brasil",
+          "Brisanet",
+          "Iez! Telecom",
+          "Unifique"
+        ]
+      },
+      "timestamp": "2026-10-23T15:20:59.362Z"
     }
   ]
 }
