@@ -2,83 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Programa de pontos do Nubank estreia níveis, sorteios e descontos",
-      "summary": "Novo NuCoin passa a funcionar na mecânica de temporadas com três meses de duração. Vice-presidente antecipa novidades ao Tecnoblog. Programa de pontos do Nubank estreia níveis, sorteios e descontos",
-      "link": "https://tecnoblog.net/noticias/programa-de-pontos-do-nubank-estreia-niveis-sorteios-e-descontos/",
-      "meta": {
-        "categorias": [
-          "Serviços Financeiros",
-          "Allianz Parque",
-          "Exclusivo",
-          "Nubank",
-          "Nubank Croma",
-          "Nubank Ultravioleta",
-          "NuCoin"
-        ]
-      },
-      "timestamp": "2026-09-23T17:50:17.994Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
-      "summary": "OpenAI revelou os modelos GPT-6 Sol e GPT-6 Luna, que trazem menor custo e foco em diferentes níveis de complexidade em relação ao GPT-6 Astra. OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
-      "link": "https://tecnoblog.net/noticias/openai-expande-gpt-6-com-modelos-sol-e-luna-vejas-as-diferencas/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "ChatGPT",
-          "GPT",
-          "GPT-5.6",
-          "GPT-6 Astra",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-09-23T17:50:18.274Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 70 (256 GB) tem 54% OFF na melhor oferta desde julho",
-      "summary": "Motorola Edge 70 (256 GB) com câmeras de 50 MP e tela POLED de 4.500 nits alcança o menor preço em meses, com desconto de 54% no Pix com cupom no Magalu Motorola Edge 70 (256 GB) tem 54% OFF na melhor oferta desde julho",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-256-gb-tem-54-off-na-melhor-oferta-desde-julho/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Magazine Luiza",
-          "Motorola",
-          "Motorola Edge 70",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-23T17:50:18.554Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como recuperar um SSD corrompido (guia prático)",
-      "summary": "Você não consegue acessar seu SSD ou os arquivos armazenados nele sumiram? Este guia mostra como recuperar os dados perdidos e reparar a unidade. Como recuperar um SSD corrompido (guia prático)",
-      "link": "https://tecnoblog.net/publieditoriais/como-recuperar-um-ssd-corrompido-guia-pratico/",
-      "meta": {
-        "categorias": [
-          "Hardware e Componentes",
-          "SSD"
-        ]
-      },
-      "timestamp": "2026-09-23T17:50:18.836Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "YouTube vai deixar você criar feeds próprios na página inicial",
-      "summary": "Novidade permite criar abas com vídeos sobre temas escolhidos. Recurso chega ao celular e desktop em outubro. YouTube vai deixar você criar feeds próprios na página inicial",
-      "link": "https://tecnoblog.net/noticias/youtube-vai-deixar-voce-criar-feeds-proprios-na-pagina-inicial/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "YouTube"
-        ]
-      },
-      "timestamp": "2026-09-23T17:50:19.115Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy Watch Ultra suporta sensores do Watch Ultra 2 e tem 63% OFF na Amazon",
       "summary": "Galaxy Watch Ultra tem sensores e corpo de titânio do novo Watch Ultra 2; smartwatch da Samsung volta a ficar 63% mais barato que preço original no Pix Galaxy Watch Ultra suporta sensores do Watch Ultra 2 e tem 63% OFF na Amazon",
       "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-suporta-sensores-do-watch-ultra-2-e-tem-63-off-na-amazon/",
@@ -8620,6 +8543,92 @@
         ]
       },
       "timestamp": "2026-10-23T15:20:59.362Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Huawei Watch Fit 5 Pro para treinos sai R$ 900 mais barato com cupom",
+      "summary": "Huawei Watch Fit 5 Pro traz modo \"Mini Treino\", sensores de saúde avançados e GPS integrado; smartwatch da Huawei está com desconto de 45% no aplicativo Magalu Huawei Watch Fit 5 Pro para treinos sai R$ 900 mais barato com cupom",
+      "link": "https://tecnoblog.net/achados/huawei-watch-fit-5-pro-para-treinos-sai-r-900-mais-barato-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Huawei",
+          "Huawei Watch Fit 5 Pro",
+          "Magazine Luiza",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-23T19:21:52.203Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Austrália decide: Apple deve abrir iPhone a apps de outras lojas",
+      "summary": "Decisão do Tribunal Federal do país obriga Apple a tirar exclusividade da App Store dos dispositivos, assim como já acontece aqui no Brasil. Austrália decide: Apple deve abrir iPhone a apps de outras lojas",
+      "link": "https://tecnoblog.net/noticias/australia-decide-que-apple-deve-abrir-iphone-a-apps-de-outras-lojas/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "App Store",
+          "Apple",
+          "Cade",
+          "Epic Games",
+          "iPad",
+          "iPhone",
+          "Tim Sweeney"
+        ]
+      },
+      "timestamp": "2026-10-23T19:21:52.484Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TIM Beta começa a mudar para clientes antigos",
+      "summary": "Operadora dá acesso ao BetaCreator por meio de convite. Novo plano oferece 50 GB e permite acumular internet. TIM Beta começa a mudar para clientes antigos",
+      "link": "https://tecnoblog.net/noticias/tim-beta-comeca-a-mudar-para-clientes-antigos/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "TIM",
+          "TIM Beta",
+          "TIM BetaCreator"
+        ]
+      },
+      "timestamp": "2026-10-23T19:21:52.810Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Vivo envia comunicado que mais confunde do que explica",
+      "summary": "Email fala em “readequação” a partir de 22/11, mas sem detalhes sobre mudanças. Vivo envia comunicado que mais confunde do que explica",
+      "link": "https://tecnoblog.net/noticias/vivo-envia-comunicado-que-mais-confunde-do-que-explica/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Vivo"
+        ]
+      },
+      "timestamp": "2026-10-23T19:21:53.080Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy A36 e mais celulares Samsung recebem a One UI 9",
+      "summary": "Atualização também chegou ao Galaxy A27 e Z Fold 5. Galaxy A56 começou a receber nova versão nesta semana. Galaxy A36 e mais celulares Samsung recebem a One UI 9",
+      "link": "https://tecnoblog.net/noticias/galaxy-a36-e-mais-celulares-samsung-recebem-a-one-ui-9/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Brasil",
+          "Galaxy",
+          "Galaxy A36",
+          "Galaxy A56",
+          "Galaxy Z Flip 5",
+          "Galaxy Z Fold 5",
+          "Galaxy Z Fold 8",
+          "One UI",
+          "One UI 9",
+          "Samsung",
+          "Samsung Galaxy Z series"
+        ]
+      },
+      "timestamp": "2026-10-23T19:21:53.385Z"
     }
   ]
 }
