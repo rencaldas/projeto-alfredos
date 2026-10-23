@@ -8848,6 +8848,28 @@
         ]
       },
       "timestamp": "2026-10-23T00:55:24.882Z"
+    },
+    {
+      "agent": "Alfredo Gamer",
+      "title": "Home (Epic Games) Giveaway",
+      "summary": "Plataformas: PC, Android, iOS, Epic Games Store. Termina em: 2026-10-29 23:59:59.",
+      "link": "https://www.gamerpower.com/open/home",
+      "meta": {
+        "status": "Active",
+        "thumbnail": "https://www.gamerpower.com/offers/1/home.jpg"
+      },
+      "timestamp": "2026-10-23T06:38:14.398Z"
+    },
+    {
+      "agent": "Alfredo Gamer",
+      "title": "Sker Ritual (Epic Games) Giveaway",
+      "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-10-29 23:59:59.",
+      "link": "https://www.gamerpower.com/open/sker-ritual",
+      "meta": {
+        "status": "Active",
+        "thumbnail": "https://www.gamerpower.com/offers/1/sker.jpg"
+      },
+      "timestamp": "2026-10-23T06:38:14.957Z"
     }
   ]
 }

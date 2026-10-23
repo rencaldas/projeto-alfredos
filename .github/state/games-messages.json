@@ -93,7 +93,7 @@
     "3816": {
       "title": "Bad Cheese (Epic Games) Giveaway",
       "endDate": "2026-10-22 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-23T06:38:12.806Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -108,7 +108,7 @@
     "3817": {
       "title": "Agent A: A puzzle in disguise (Epic Games) Giveaway",
       "endDate": "2026-10-22 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-23T06:38:13.782Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -147,6 +147,36 @@
         {
           "chatId": "726946412",
           "messageId": 279
+        }
+      ]
+    },
+    "3823": {
+      "title": "Home (Epic Games) Giveaway",
+      "endDate": "2026-10-29 23:59:59",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 280
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 281
+        }
+      ]
+    },
+    "3824": {
+      "title": "Sker Ritual (Epic Games) Giveaway",
+      "endDate": "2026-10-29 23:59:59",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 282
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 283
         }
       ]
     }
