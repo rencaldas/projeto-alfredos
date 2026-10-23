@@ -2,89 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Perfil perdeu alcance? X agora vai te mostrar o motivo",
-      "summary": "Atualização na rede social vai revelar restrições de visibilidade impostas por exigências legais e informar qual país está relacionado à medida. Perfil perdeu alcance? X agora vai te mostrar o motivo",
-      "link": "https://tecnoblog.net/noticias/perfil-perdeu-alcance-x-agora-vai-te-mostrar-o-motivo/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "X (Twitter)"
-        ]
-      },
-      "timestamp": "2026-09-22T23:48:49.105Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "AirPods Pro 3 com sensor cardíaco tem a maior queda de preço desde julho",
-      "summary": "AirPods Pro 3 com ANC eficiente, novas funções de saúde e Tradução ao Vivo estão com 26% de desconto via Pix na Amazon AirPods Pro 3 com sensor cardíaco tem a maior queda de preço desde julho",
-      "link": "https://tecnoblog.net/achados/airpods-pro-3-com-sensor-cardiaco-tem-a-maior-queda-de-preco-desde-julho/",
-      "meta": {
-        "categorias": [
-          "Gadgets",
-          "AirPods Pro 3",
-          "Amazon",
-          "Apple",
-          "Controle ativo de ruído",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-22T23:48:49.414Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como traçar rotas ponto a ponto no Google Maps (a pé ou com veículos)",
-      "summary": "A opção de traçar rota no Google Maps ajuda indicar com precisão como chegar a um destino, oferecendo os melhores trajetos a pé, de transporte público ou de veículo Como traçar rotas ponto a ponto no Google Maps (a pé ou com veículos)",
-      "link": "https://tecnoblog.net/responde/como-criar-rotas-no-google-maps-pc-e-celular/",
-      "meta": {
-        "categorias": [
-          "Mobilidade",
-          "Android",
-          "Google Maps",
-          "iOS",
-          "Mapa",
-          "PC"
-        ]
-      },
-      "timestamp": "2026-09-22T23:48:49.693Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple pensa em lançar pulseira fitness sem tela",
-      "summary": "Protótipo usa faixa de tecido com módulo de sensores. Apple pensa em lançar pulseira fitness sem tela",
-      "link": "https://tecnoblog.net/noticias/apple-pensa-em-lancar-pulseira-fitness-sem-tela/",
-      "meta": {
-        "categorias": [
-          "Wearables",
-          "Apple",
-          "Apple Watch",
-          "rumor",
-          "Saúde",
-          "Wearable"
-        ]
-      },
-      "timestamp": "2026-09-22T23:48:49.978Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola mostra o Signature 27, com Snapdragon Extreme e câmera periscópica de 200 MP",
-      "summary": "Modelo top de linha terá áudio da B&O e promessa de sete atualizações do sistema operacional. Motorola mostra o Signature 27, com Snapdragon Extreme e câmera periscópica de 200 MP",
-      "link": "https://tecnoblog.net/noticias/motorola-mostra-o-signature-27-com-snapdragon-extreme-e-camera-periscopica-de-200-mp/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Android",
-          "Google Gemini",
-          "Motorola",
-          "Motorola Signature",
-          "Motorola Signature 27",
-          "Qualcomm",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-09-22T23:48:50.300Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
       "summary": "Modelo promete igualar desempenho do Mythos 5.1 para trabalhos de cibersegurança e biologia. Recursos de segurança também são reforçados. Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
       "link": "https://tecnoblog.net/noticias/anthropic-anuncia-novo-claude-opus-5-5-com-capacidade-ainda-maior/",
@@ -8851,6 +8768,86 @@
         ]
       },
       "timestamp": "2026-10-22T22:35:12.261Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "App Store ganha selo para apps adaptados ao iPhone Duo",
+      "summary": "Desenvolvedores têm de usar o kit de desenvolvimento mais recente para iOS para evitar bordas pretas. App Store ganha selo para apps adaptados ao iPhone Duo",
+      "link": "https://tecnoblog.net/noticias/app-store-ganha-selo-para-apps-adaptados-ao-iphone-duo/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "App Store",
+          "Apple",
+          "iOS",
+          "iPhone"
+        ]
+      },
+      "timestamp": "2026-10-23T00:55:23.821Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 15 tem uma das melhores ofertas recentes na Amazon",
+      "summary": "iPhone 15 com processador A16 e câmera traseira dupla ainda entrega performance para quem busca celular custo-benefício da Apple; desconto é de 42% em promoção iPhone 15 tem uma das melhores ofertas recentes na Amazon",
+      "link": "https://tecnoblog.net/achados/iphone-15-tem-uma-das-melhores-ofertas-recentes-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Apple",
+          "iPhone",
+          "iPhone 15",
+          "iPhone 17",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-23T00:55:24.067Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft diz que IA superou médicos em testes de diagnóstico",
+      "summary": "Sistema acertou 83% dos casos mais complexos, mas ainda precisa passar por validação em hospitais. Microsoft diz que IA superou médicos em testes de diagnóstico",
+      "link": "https://tecnoblog.net/noticias/microsoft-diz-que-ia-superou-medicos-em-testes-de-diagnostico/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Copilot",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Microsoft",
+          "Microsoft AI",
+          "Saúde"
+        ]
+      },
+      "timestamp": "2026-10-23T00:55:24.321Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lenovo Idea Tab Pro Gen 2 para jogos tem oferta em até 12x sem juros",
+      "summary": "Lenovo Idea Tab Pro Gen 2 traz Snapdragon 8s Gen 4 e tela de 144 Hz; tablet topo de linha pode ser parcelado em até 12x de R$ 275 na Amazon Lenovo Idea Tab Pro Gen 2 para jogos tem oferta em até 12x sem juros",
+      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-pro-gen-2-para-jogos-tem-oferta-em-ate-12x-sem-juros/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Amazon",
+          "Lenovo Idea Tab Pro Gen 2",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-10-23T00:55:24.637Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TV Aiwa é boa? Conheça 5 modelos para comprar em 2026",
+      "summary": "Descubra os prós e contras das principais smart TVs Aiwa disponíveis no Brasil em 2026; guia inclui modelos Full HD e 4K com Android TV em diversos tamanhos TV Aiwa é boa? Conheça 5 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-tv-aiwa/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "Aiwa"
+        ]
+      },
+      "timestamp": "2026-10-23T00:55:24.882Z"
     }
   ]
 }
