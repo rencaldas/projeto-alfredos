@@ -179,6 +179,21 @@
           "messageId": 283
         }
       ]
+    },
+    "3825": {
+      "title": "MAFIA HOTEL (Epic Games) Giveaway",
+      "endDate": "2026-11-01 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 284
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 285
+        }
+      ]
     }
   }
 }
