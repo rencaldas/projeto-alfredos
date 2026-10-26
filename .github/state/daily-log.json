@@ -2,37 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Bill Gates cobra regras para empresas de IA",
-      "summary": "Cofundador da Microsoft afirma que governos devem exigir garantias e monitoramento das empresas sem frear drasticamente o avanço da tecnologia. Bill Gates cobra regras para empresas de IA",
-      "link": "https://tecnoblog.net/noticias/bill-gates-cobra-regras-para-empresas-de-ia/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Bill Gates",
-          "Estados Unidos",
-          "Inteligência Artificial (IA)",
-          "Microsoft",
-          "Regulação"
-        ]
-      },
-      "timestamp": "2026-09-26T21:32:35.910Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola diz que segue regras de transparência, mas as evidências mostram o contrário",
-      "summary": "Loja oficial só passou por mudanças após decisão do Conar e reportagem exclusiva do Tecnoblog. Motorola diz que segue regras de transparência, mas as evidências mostram o contrário",
-      "link": "https://tecnoblog.net/noticias/motorola-diz-que-segue-regras-de-transparencia-mas-as-evidencias-mostram-o-contrario/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Conar",
-          "Motorola"
-        ]
-      },
-      "timestamp": "2026-09-26T21:32:36.235Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "TV 3.0: por que uma CDN importa na nova geração da TV brasileira",
       "summary": "Com a união entre a transmissão tradicional e a banda larga, a nova geração da TV brasileira exige infraestrutura especializada. TV 3.0: por que uma CDN importa na nova geração da TV brasileira",
       "link": "https://tecnoblog.net/publieditoriais/tv-3-0-por-que-uma-cdn-importa-na-nova-geracao-da-tv-brasileira/",
@@ -7648,6 +7617,91 @@
         ]
       },
       "timestamp": "2026-10-26T19:32:14.792Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple lança iPad Mini com tela OLED e chip A20 Pro; veja preços no Brasil",
+      "summary": "Novo iPad Mini traz tela ligeiramente maior, de 8,5 polegadas, e tem até 512 GB de armazenamento. Apple lança iPad Mini com tela OLED e chip A20 Pro; veja preços no Brasil",
+      "link": "https://tecnoblog.net/noticias/apple-lanca-ipad-mini-com-tela-oled-e-chip-a20-pro-veja-precos-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Apple",
+          "Brasil",
+          "iPad Mini",
+          "OLED"
+        ]
+      },
+      "timestamp": "2026-10-26T23:18:46.455Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "OpenAI desiste de treinar modelos de IA com acesso à internet",
+      "summary": "Restrição ocorre após modelos encontrarem formas de ultrapassar barreiras durante testes de segurança. OpenAI desiste de treinar modelos de IA com acesso à internet",
+      "link": "https://tecnoblog.net/noticias/openai-desiste-de-treinar-modelos-de-ia-com-acesso-a-internet/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-10-26T23:18:46.716Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Itaú compra startup de IA por R$ 2,9 bilhões",
+      "summary": "Banco já tinha participação na NeoSpace; negócio ainda depende de aprovação do Cade e do Banco Central. Itaú compra startup de IA por R$ 2,9 bilhões",
+      "link": "https://tecnoblog.net/noticias/itau-compra-startup-de-ia-por-r-29-bilhoes/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Banco central",
+          "Bancos",
+          "Cade",
+          "IA Generativa",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Itaú",
+          "NeoSpace",
+          "Serviços financeiros",
+          "Startups"
+        ]
+      },
+      "timestamp": "2026-10-26T23:18:46.995Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft prepara medidor de internet “real” no Windows 11",
+      "summary": "Teste de velocidade de conexão do Windows 11 atual é, na verdade, apenas um atalho para o Bing. Microsoft prepara medidor de internet “real” no Windows 11",
+      "link": "https://tecnoblog.net/noticias/microsoft-prepara-medidor-de-internet-real-no-windows-11/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Bing",
+          "Microsoft",
+          "Windows 11",
+          "Windows Insider"
+        ]
+      },
+      "timestamp": "2026-10-26T23:18:47.386Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 16 (512 GB) chega ao menor preço desde julho na Amazon",
+      "summary": "iPhone 16 (512 GB) tem tela OLED de 2.000 nits e câmera wide de 48 MP; celular da Apple com espaço de sobra sai por menos da metade do preço original no Pix iPhone 16 (512 GB) chega ao menor preço desde julho na Amazon",
+      "link": "https://tecnoblog.net/achados/iphone-16-512-gb-chega-ao-menor-preco-desde-julho-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Apple",
+          "Apple Intelligence",
+          "iPhone 16",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-26T23:18:47.756Z"
     }
   ]
 }
