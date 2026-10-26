@@ -7562,6 +7562,92 @@
         "repositorio": "rencaldas/ideal-marketplace-project"
       },
       "timestamp": "2026-10-26T15:33:02.528Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "16 anos depois, alguns roteadores ainda têm vulnerabilidade",
+      "summary": "Modelos da Broadcom teriam bug desde 2010 e, mesmo com correção feita há 8 anos, diversas unidades ainda estariam desatualizadas. 16 anos depois, alguns roteadores ainda têm vulnerabilidade",
+      "link": "https://tecnoblog.net/noticias/16-anos-depois-alguns-roteadores-ainda-tem-vulnerabilidade/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Broadcom",
+          "Cisco",
+          "Netgear",
+          "Nokia",
+          "Orange Belgium",
+          "Quentin Kaiser",
+          "Sagemcom",
+          "TP-Link",
+          "ZTE"
+        ]
+      },
+      "timestamp": "2026-10-26T19:32:13.662Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google quer usar seus dados no Gmail e Fotos para anúncios; veja como evitar",
+      "summary": "Nova política permite que informações compartilhadas com recursos de Inteligência Personalizada influenciem anúncios. Google quer usar seus dados no Gmail e Fotos para anúncios; veja como evitar",
+      "link": "https://tecnoblog.net/noticias/google-quer-usar-seus-dados-no-gmail-e-fotos-para-anuncios-veja-como-evitar/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Gmail",
+          "Google",
+          "Google Drive"
+        ]
+      },
+      "timestamp": "2026-10-26T19:32:13.933Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Vivo e Starlink lançam rede via satélite de graça no Brasil",
+      "summary": "Celulares de clientes da Vivo vão se conectar diretamente à constelação de satélites de Elon Musk. Vivo e Starlink lançam rede via satélite de graça no Brasil",
+      "link": "https://tecnoblog.net/noticias/vivo-e-starlink-lancam-rede-via-satelite-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Brasil",
+          "Elon Musk",
+          "Exclusivo",
+          "Starlink",
+          "Vivo",
+          "Vivo Easy",
+          "Vivo Satélite",
+          "Vivo Total"
+        ]
+      },
+      "timestamp": "2026-10-26T19:32:14.219Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Crise na Apple: iPhone Duo tem tela que quebra fácil",
+      "summary": "Compradores mostram danos na região da dobradiça. Apple ainda não confirmou a causa. Crise na Apple: iPhone Duo tem tela que quebra fácil",
+      "link": "https://tecnoblog.net/noticias/iphone-duo-tem-relatos-de-tela-rachada-poucos-dias-apos-lancamento/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "celulares",
+          "iPhone",
+          "iPhone Duo",
+          "smartphones"
+        ]
+      },
+      "timestamp": "2026-10-26T19:32:14.499Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Em meio a aumento de preços, Netflix vê audiência cair",
+      "summary": "Levantamento interno indica que usuários passam menos tempo e dias acessando o aplicativo da Netflix. Em meio a aumento de preços, Netflix vê audiência cair",
+      "link": "https://tecnoblog.net/noticias/em-meio-a-aumento-de-precos-netflix-ve-audiencia-cair/",
+      "meta": {
+        "categorias": [
+          "Streaming",
+          "Netflix"
+        ]
+      },
+      "timestamp": "2026-10-26T19:32:14.792Z"
     }
   ]
 }
