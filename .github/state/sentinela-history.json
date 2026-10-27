@@ -172,6 +172,8 @@
     "update|rencaldas/ideal-marketplace-project|Packagist|guzzlehttp/guzzle|7.15.5|8.3.0",
     "update|rencaldas/ideal-marketplace-project|Packagist|pestphp/pest|v4.7.8|5.3.3",
     "update|rencaldas/ideal-marketplace-project|Packagist|laravel/framework|v12.69.2|13.38.0",
-    "update|rencaldas/ideal-marketplace-project|Packagist|guzzlehttp/guzzle|7.15.5|8.3.1"
+    "update|rencaldas/ideal-marketplace-project|Packagist|guzzlehttp/guzzle|7.15.5|8.3.1",
+    "update|rencaldas/ideal-marketplace-project|Packagist|laravel/framework|v12.69.2|13.39.0",
+    "update|rencaldas/ideal-marketplace-project|Packagist|pestphp/pest|v4.7.8|5.3.4"
   ]
 }
