@@ -8001,6 +8001,85 @@
         ]
       },
       "timestamp": "2026-10-27T18:58:04.872Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iOS 27.2 libera nova Siri em português no Brasil",
+      "summary": "Siri AI ganha acesso a mais informações pessoais. Atualização também traz novidades para Mensagens, Fotos e Apple Music. iOS 27.2 libera nova Siri em português no Brasil",
+      "link": "https://tecnoblog.net/noticias/ios-27-2-libera-nova-siri-em-portugues-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Apple",
+          "Apple Intelligence",
+          "Apple Music",
+          "Brasil",
+          "iOS",
+          "Português",
+          "Siri"
+        ]
+      },
+      "timestamp": "2026-10-27T22:49:57.193Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "PowerToys 0.102: “canivete suíço” do Windows agora facilita uso do mouse",
+      "summary": "Novo PowerToys para Windows permite manter um botão do mouse pressionado virtualmente e pode ocultar o cursor em certos momentos. PowerToys 0.102: “canivete suíço” do Windows agora facilita uso do mouse",
+      "link": "https://tecnoblog.net/noticias/powertoys-0-102-canivete-suico-do-windows-agora-facilita-uso-do-mouse/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Microsoft",
+          "Microsoft PowerToys",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-10-27T22:49:57.430Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google Docs agora edita arquivos Markdown nativamente",
+      "summary": "Arquivos continuam no formato original e ganham colaboração em tempo real e histórico de versões. Google Docs agora edita arquivos Markdown nativamente",
+      "link": "https://tecnoblog.net/noticias/google-docs-agora-edita-arquivos-markdown-nativamente/",
+      "meta": {
+        "categorias": [
+          "Produtividade",
+          "Google",
+          "Google Docs",
+          "Markdown"
+        ]
+      },
+      "timestamp": "2026-10-27T22:49:57.670Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft Authenticator tem falha grave; correção já foi liberada",
+      "summary": "Vulnerabilidade no Microsoft Authenticator para Android permite que invasores obtenham credenciais de autenticação do usuário. Microsoft Authenticator tem falha grave; correção já foi liberada",
+      "link": "https://tecnoblog.net/noticias/microsoft-authenticator-tem-falha-grave-correcao-ja-foi-liberada/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Android",
+          "Microsoft",
+          "Microsoft Authenticator"
+        ]
+      },
+      "timestamp": "2026-10-27T22:49:57.911Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "iPhone 18e deve manter tela de 60 Hz mesmo com novo chip",
+      "summary": "Celular de entrada da Apple é esperado com chip A20 de 2 nanômetros. Modelo deve trazer avanços em câmera frontal e desempenho. iPhone 18e deve manter tela de 60 Hz mesmo com novo chip",
+      "link": "https://tecnoblog.net/noticias/iphone-18e-deve-manter-tela-de-60-hz-mesmo-com-novo-chip/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Apple",
+          "iPhone",
+          "iPhone Air"
+        ]
+      },
+      "timestamp": "2026-10-27T22:49:58.242Z"
     }
   ]
 }
