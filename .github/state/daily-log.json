@@ -2,86 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "TV 3.0: por que uma CDN importa na nova geração da TV brasileira",
-      "summary": "Com a união entre a transmissão tradicional e a banda larga, a nova geração da TV brasileira exige infraestrutura especializada. TV 3.0: por que uma CDN importa na nova geração da TV brasileira",
-      "link": "https://tecnoblog.net/publieditoriais/tv-3-0-por-que-uma-cdn-importa-na-nova-geracao-da-tv-brasileira/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "ATSC 3.0",
-          "Brasil",
-          "Rede de fornecimento de conteúdo"
-        ]
-      },
-      "timestamp": "2026-09-28T17:07:08.057Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Anatel: internet irrestrita nas eleições pode derrubar redes",
-      "summary": "Afirmação da Anatel vem em resposta ao STF sobre uma ação que pede internet liberada nas 72 horas que antecedem as próximas eleições. Anatel: internet irrestrita nas eleições pode derrubar redes",
-      "link": "https://tecnoblog.net/noticias/anatel-internet-irrestrita-nas-eleicoes-pode-derrubar-redes/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Anatel",
-          "Supremo Tribunal Federal"
-        ]
-      },
-      "timestamp": "2026-09-28T17:07:08.304Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 70 (512 GB) com cristais Swarovski entra em promoção",
-      "summary": "Edição especial do Motorola Edge 70 (512 GB) com 14 cristais Swarovski na traseira alcança o 2.º menor preço desde o lançamento, com desconto de 49% no Pix na Amazon Motorola Edge 70 (512 GB) com cristais Swarovski entra em promoção",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-512-gb-com-cristais-swarovski-entra-em-promocao/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Motorola",
-          "Motorola Edge 70",
-          "Pix",
-          "Swarovski"
-        ]
-      },
-      "timestamp": "2026-09-28T17:07:08.548Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Huawei Watch GT 6 Pro atinge menor preço em meses após anúncio do GT 7 Pro",
-      "summary": "Huawei Watch GT 6 Pro com tela AMOLED e corpo de titânio é bem parecido com o novo GT 7 Pro; smartwatch sai por menos da metade do preço no Pix com cupom no Mercado Livre Huawei Watch GT 6 Pro atinge menor preço em meses após anúncio do GT 7 Pro",
-      "link": "https://tecnoblog.net/achados/huawei-watch-gt-6-pro-atinge-menor-preco-em-meses-apos-anuncio-do-gt-7-pro/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "AMOLED",
-          "Huawei Watch GT 6 Pro",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-28T17:07:08.796Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Agentes da OpenAI tentaram burlar restrições em site da ONU",
-      "summary": "Sistemas teriam realizado mais de 16,5 mil varreduras em plataforma de estatísticas. ONU diz que nenhuma informação confidencial foi comprometida. Agentes da OpenAI tentaram burlar restrições em site da ONU",
-      "link": "https://tecnoblog.net/noticias/agentes-da-openai-tentaram-burlar-restricoes-em-site-da-onu/",
-      "meta": {
-        "categorias": [
-          "Sem categoria",
-          "Agentes de IA",
-          "cibersegurança",
-          "Inteligência Artificial (IA)",
-          "ONU",
-          "OpenAI",
-          "Segurança"
-        ]
-      },
-      "timestamp": "2026-09-28T17:07:09.039Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "iPhone 17 Pro (1 TB) registra queda agressiva de 37% no Mercado Livre",
       "summary": "iPhone 17 Pro com tela OLED do iPhone 18 Pro, câmeras de 48 MP e amplo espaço interno atinge um dos menores preços já vistos, com desconto de 37% no Pix iPhone 17 Pro (1 TB) registra queda agressiva de 37% no Mercado Livre",
       "link": "https://tecnoblog.net/achados/iphone-17-pro-1-tb-registra-queda-agressiva-de-34-no-mercado-livre/",
@@ -8263,6 +8183,98 @@
         ]
       },
       "timestamp": "2026-10-28T14:28:46.394Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Criminosos falsificam até sinais de GPS para roubar cargas de data centers",
+      "summary": "Quadrilhas roubaram mais de R$ 534 milhões em equipamentos de tecnologia desde junho. Criminosos falsificam até sinais de GPS para roubar cargas de data centers",
+      "link": "https://tecnoblog.net/noticias/criminosos-falsificam-ate-sinais-de-gps-para-roubar-cargas-de-data-centers/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Estados Unidos (EUA)"
+        ]
+      },
+      "timestamp": "2026-10-28T19:44:23.664Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gemini Notebook agora tem gravador de áudio para palestras e reuniões",
+      "summary": "Novo recurso do Gemini Notebook (antigo NotebookLM) permite gravar até uma hora de áudio e transcrever o conteúdo resultante. Gemini Notebook agora tem gravador de áudio para palestras e reuniões",
+      "link": "https://tecnoblog.net/noticias/gemini-notebook-agora-tem-gravador-de-audio-para-palestras-e-reunioes/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini Notebook",
+          "Google",
+          "NotebookLM"
+        ]
+      },
+      "timestamp": "2026-10-28T19:44:23.933Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy A55 entra na lista de celulares com One UI 9 no Brasil",
+      "summary": "Samsung liberou a atualização baseada no Android 17 para o modelo de 2024. Galaxy A37 também recebeu o update. Galaxy A55 entra na lista de celulares com One UI 9 no Brasil",
+      "link": "https://tecnoblog.net/noticias/galaxy-a55-entra-na-lista-de-celulares-com-one-ui-9-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Android",
+          "Android 17",
+          "Atualizações",
+          "Brasil",
+          "Galaxy A",
+          "Galaxy A37",
+          "Galaxy A55",
+          "Galaxy AI",
+          "One UI",
+          "One UI 9",
+          "Samsung",
+          "Samsung Galaxy A55 5G"
+        ]
+      },
+      "timestamp": "2026-10-28T19:44:24.204Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nintendo Switch Lite fica mais barato com cupom no Mercado Livre",
+      "summary": "Nintendo Switch Lite com tela LCD de 5,5\" e experiência 100% portátil atinge desconto de 31% no Pix com cupom Nintendo Switch Lite fica mais barato com cupom no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/nintendo-switch-lite-fica-mais-barato-com-cupom-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Mercado Livre",
+          "Nintendo",
+          "Nintendo Switch Lite",
+          "Nintendo Switch Online",
+          "Nintendo Switch Pro Controller",
+          "Pix",
+          "Switch"
+        ]
+      },
+      "timestamp": "2026-10-28T19:44:24.475Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Buds 4 com ANC cai para quase metade do preço em oferta",
+      "summary": "Galaxy Buds 4 trazem cancelamento ativo de ruído e áudio Hi-Fi de 24 bits; fones sem fio da Samsung recebem desconto de 47% no Pix com cupom no Mercado Livre Galaxy Buds 4 com ANC cai para quase metade do preço em oferta",
+      "link": "https://tecnoblog.net/achados/galaxy-buds-4-com-anc-cai-para-metade-do-preco-em-oferta-historica/",
+      "meta": {
+        "categorias": [
+          "Fones de ouvido",
+          "Controle ativo de ruído",
+          "Galaxy",
+          "Galaxy AI",
+          "Galaxy Buds",
+          "Galaxy Buds 4",
+          "High fidelity",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-28T19:44:24.746Z"
     }
   ]
 }
