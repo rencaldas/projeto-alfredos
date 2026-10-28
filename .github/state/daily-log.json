@@ -2,84 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "iPhone 17 Pro (1 TB) registra queda agressiva de 37% no Mercado Livre",
-      "summary": "iPhone 17 Pro com tela OLED do iPhone 18 Pro, câmeras de 48 MP e amplo espaço interno atinge um dos menores preços já vistos, com desconto de 37% no Pix iPhone 17 Pro (1 TB) registra queda agressiva de 37% no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/iphone-17-pro-1-tb-registra-queda-agressiva-de-34-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "iPhone 17 Pro",
-          "iPhone 18 Pro",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-28T22:30:58.721Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft quebra regra do Excel que existia há 40 anos",
-      "summary": "Excel agora permite armazenar listas e matrizes em uma única célula. Mudança rompe uma regra mantida há 40 anos na ferramenta. Microsoft quebra regra do Excel que existia há 40 anos",
-      "link": "https://tecnoblog.net/noticias/microsoft-quebra-regra-do-excel-que-existia-ha-40-anos/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "Microsoft",
-          "Microsoft Excel"
-        ]
-      },
-      "timestamp": "2026-09-28T22:30:59.083Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nvidia lança plataforma para barrar agentes de IA",
-      "summary": "Open Agent Safety Platform combina software e hardware para interromper tentativas de contornar restrições. Sistema foi criado com Microsoft, Oracle e Dell. Nvidia lança plataforma para barrar agentes de IA",
-      "link": "https://tecnoblog.net/noticias/nvidia-lanca-plataforma-para-barrar-agentes-de-ia/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Dell",
-          "Inteligência Artificial (IA)",
-          "Microsoft",
-          "Nvidia",
-          "Oracle"
-        ]
-      },
-      "timestamp": "2026-09-28T22:30:59.340Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como tirar o visto das mensagens do Instagram",
-      "summary": "Remover a visualização nas DMs do Instagram oferece mais liberdade e privacidade para os usuários que não desejam responder às mensagens imediatamente Como tirar o visto das mensagens do Instagram",
-      "link": "https://tecnoblog.net/responde/como-visualizar-mensagem-do-instagram-e-nao-ser-visto/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Instagram"
-        ]
-      },
-      "timestamp": "2026-09-28T22:30:59.599Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Watch 9 com nova função surge com 34% OFF por até 12x sem juros",
-      "summary": "Galaxy Watch 9 BT (40 mm) tem chip Snapdragon e recurso \"levante para falar\"; smartwatch da Samsung recebe desconto de 34% em até 12x sem juros na Amazon Galaxy Watch 9 com nova função surge com 34% OFF por até 12x sem juros",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-9-com-nova-funcao-surge-com-34-off-por-ate-12x-sem-juros/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Amazon",
-          "Galaxy Watch 9",
-          "Samsung",
-          "Samsung Galaxy Watch 9",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-09-28T22:30:59.865Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Google: Chromebooks não morrerão com a chegada dos Googlebooks (ainda não)",
       "summary": "Categoria Googlebook pode contribuir para o fim dos Chromebooks, mas não de imediato: o ChromeOS será suportado até 2034. Google: Chromebooks não morrerão com a chegada dos Googlebooks (ainda não)",
       "link": "https://tecnoblog.net/noticias/google-chromebooks-nao-morrerao-com-a-chegada-dos-googlebooks-ainda-nao/",
@@ -8275,6 +8197,83 @@
         ]
       },
       "timestamp": "2026-10-28T19:44:24.746Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Após vazamento, Smart Sampa terá reconhecimento facial para acessar sistema",
+      "summary": "Prefeitura de São Paulo anunciou nova camada de autenticação após exposição de credenciais. Após vazamento, Smart Sampa terá reconhecimento facial para acessar sistema",
+      "link": "https://tecnoblog.net/noticias/apos-vazamento-smart-sampa-tera-reconhecimento-facial-para-acessar-sistema/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "São Paulo"
+        ]
+      },
+      "timestamp": "2026-10-28T23:34:05.690Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy A57 despenca 58% para quem busca custo-benefício",
+      "summary": "Galaxy A57 (128 GB) tem tela Super AMOLED+ e câmera wide de 50 MP; celular acessível da Samsung sai muito mais em conta no Pix com cupom no Mercado Livre Galaxy A57 despenca 58% para quem busca custo-benefício",
+      "link": "https://tecnoblog.net/achados/galaxy-a57-despenca-58-para-quem-busca-custo-beneficio/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy A57",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-28T23:34:05.937Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple anuncia MacBook Pro com tela OLED sensível a toques; veja preços",
+      "summary": "MacBooks Pro de 14 e 16 polegadas agora podem ser equipados com a nova tela ProLED XDR, com painel \"touch\". Apple anuncia MacBook Pro com tela OLED sensível a toques; veja preços",
+      "link": "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-com-tela-oled-sensivel-a-toques/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Apple",
+          "iMac",
+          "iPad Mini",
+          "MacBook Pro",
+          "OLED"
+        ]
+      },
+      "timestamp": "2026-10-28T23:34:06.180Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lenovo Idea Tab Pro Gen 2 tem R$ 1.500 OFF em até 12x na Amazon",
+      "summary": "Idea Tab Pro Gen 2 vem com caneta Tab Pen Plus e tem tela de 13\" com taxa de 144 Hz; tablet para jogos da Lenovo sai 32% mais barato no prazo Lenovo Idea Tab Pro Gen 2 tem R$ 1.500 OFF em até 12x na Amazon",
+      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-pro-gen-2-tem-r-1-500-off-em-ate-12x-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Amazon",
+          "Lenovo",
+          "Lenovo Idea Tab Pro Gen 2",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-10-28T23:34:06.421Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Topo de linha: Galaxy S26 Ultra com Snapdragon tem desconto competitivo",
+      "summary": "Galaxy S26 Ultra (256 GB) tem 43% OFF no Mercado Livre e é opção certeira para quem busca um celular ultra premium equilibrado Topo de linha: Galaxy S26 Ultra com Snapdragon tem desconto competitivo",
+      "link": "https://tecnoblog.net/achados/topo-de-linha-galaxy-s26-ultra-com-snapdragon-tem-desconto-competitivo/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy S26 Ultra",
+          "Mercado Livre",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-28T23:34:06.661Z"
     }
   ]
 }
