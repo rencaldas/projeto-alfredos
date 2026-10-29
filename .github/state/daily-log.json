@@ -8162,6 +8162,95 @@
         "repositorio": "rencaldas/ideal-marketplace-project"
       },
       "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TVs da LG perdem acesso à IA da Microsoft",
+      "summary": "Integração com o Copilot acaba até o final do ano, mas ainda não tem dia certo para acontecer. Decisão impacta o Brasil. TVs da LG perdem acesso à IA da Microsoft",
+      "link": "https://tecnoblog.net/noticias/microsoft-encerra-suporte-ao-copilot-em-smart-tvs-da-lg/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "CES 2025",
+          "Copilot",
+          "Inteligência Artificial (IA)",
+          "LG",
+          "Microsoft",
+          "Microsoft 365 Copilot",
+          "Microsoft Copilot",
+          "Samsung",
+          "Tizen",
+          "webOS"
+        ]
+      },
+      "timestamp": "2026-10-29T16:02:42.762Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "SK Hynix esgota estoques e prevê escassez de memória até 2030",
+      "summary": "Falta de componentes pressiona os preços de eletrônicos de consumo. SK Hynix esgota estoques e prevê escassez de memória até 2030",
+      "link": "https://tecnoblog.net/noticias/sk-hynix-esgota-estoques-e-preve-escassez-de-memoria-ate-2030/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "DRAM",
+          "High Bandwidth Memory",
+          "SK Hynix"
+        ]
+      },
+      "timestamp": "2026-10-29T16:02:43.027Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google lança Gemini 4 Carbon com avanços em cibersegurança, mas você ainda não pode usá-lo",
+      "summary": "Modelo supera números da Anthropic e OpenAI em testes gerais da Artificial Analysis e avança em capacidades de segurança. Google lança Gemini 4 Carbon com avanços em cibersegurança, mas você ainda não pode usá-lo",
+      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-4-carbon-com-avancos-em-ciberseguranca-mas-voce-ainda-nao-pode-usa-lo/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "Gemini 4 Argon",
+          "Gemini 4 Carbon",
+          "Google",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-10-29T16:02:43.285Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft é acusada de trapacear para promover o Edge",
+      "summary": "Browser Choice Alliance (BCA) acusa Microsoft de usar \"dark patterns\" para induzir o uso do Edge. Veja a lista das tais táticas. Microsoft é acusada de trapacear para promover o Edge",
+      "link": "https://tecnoblog.net/noticias/microsoft-e-acusada-de-trapacear-para-promover-o-edge/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Microsoft",
+          "Microsoft Edge"
+        ]
+      },
+      "timestamp": "2026-10-29T16:02:43.576Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google fatura menos com Modo IA do que com a busca tradicional",
+      "summary": "Buscas com IA ajudam a aumentar o número de consultas, mas ainda geram menos receita. Google fatura menos com Modo IA do que com a busca tradicional",
+      "link": "https://tecnoblog.net/noticias/google-fatura-menos-com-modo-ia-do-que-com-a-busca-tradicional/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "AI Mode",
+          "Alphabet",
+          "Gemini",
+          "Google",
+          "Google Busca",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Modo IA",
+          "Publicidade"
+        ]
+      },
+      "timestamp": "2026-10-29T16:02:43.835Z"
     }
   ]
 }
