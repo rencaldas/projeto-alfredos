@@ -2,89 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Google: Chromebooks não morrerão com a chegada dos Googlebooks (ainda não)",
-      "summary": "Categoria Googlebook pode contribuir para o fim dos Chromebooks, mas não de imediato: o ChromeOS será suportado até 2034. Google: Chromebooks não morrerão com a chegada dos Googlebooks (ainda não)",
-      "link": "https://tecnoblog.net/noticias/google-chromebooks-nao-morrerao-com-a-chegada-dos-googlebooks-ainda-nao/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Chrome OS",
-          "Chromebook",
-          "Google",
-          "Google Livros",
-          "Googlebook"
-        ]
-      },
-      "timestamp": "2026-09-29T02:17:11.789Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Gov.br sofre falha e fica fora do ar nesta segunda-feira",
-      "summary": "Plataforma de serviços governamentais passa por apagão. Gov.br sofre falha e fica fora do ar nesta segunda-feira",
-      "link": "https://tecnoblog.net/noticias/gov-br-sofre-falha-e-fica-fora-do-ar-nesta-segunda-feira/",
-      "meta": {
-        "categorias": [
-          "Internet",
-          "Gov.br",
-          "Governo Federal",
-          "Ministério da Gestão e da Inovação em Serviços Públicos"
-        ]
-      },
-      "timestamp": "2026-09-29T02:17:12.095Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple perde disputa de R$ 30 bilhões por patentes",
-      "summary": "Taction Technology alega que iPhones e Apple Watches usam tecnologia háptica sem licença. Apple contesta decisão. Apple perde disputa de R$ 30 bilhões por patentes",
-      "link": "https://tecnoblog.net/noticias/apple-perde-disputa-de-r-30-bilhoes-por-patentes/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Apple",
-          "Apple Watch",
-          "Estados Unidos (EUA)",
-          "iPhone",
-          "patentes",
-          "San Diego",
-          "Taptic Engine"
-        ]
-      },
-      "timestamp": "2026-09-29T02:17:12.402Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google acaba com o Gemini Gems e anuncia migração para nova ferramenta",
-      "summary": "Ferramenta será encerrada em novembro e dará lugar ao sistema de Habilidades introduzido com o Gemini Spark. Google acaba com o Gemini Gems e anuncia migração para nova ferramenta",
-      "link": "https://tecnoblog.net/noticias/google-acaba-com-o-gemini-gems-e-anuncia-migracao-para-nova-ferramenta/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Gemini",
-          "Google"
-        ]
-      },
-      "timestamp": "2026-09-29T02:17:12.698Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple libera iOS 27.0.1 para corrigir bug que reinicia iPhones",
-      "summary": "Atualização deve resolver falha ligada ao Face ID. Update também soluciona problemas na câmera e na tela. Apple libera iOS 27.0.1 para corrigir bug que reinicia iPhones",
-      "link": "https://tecnoblog.net/noticias/apple-libera-ios-27-0-1-para-corrigir-bug-que-reinicia-iphones/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Apple",
-          "Face ID",
-          "iOS",
-          "iOS 27",
-          "iPhone 18 Pro",
-          "iPhone 18 Pro Max"
-        ]
-      },
-      "timestamp": "2026-09-29T02:17:12.990Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Como acessar a área de transferência no celular",
       "summary": "O histórico de copiar e colar está disponível nos dispositivos Android, enquanto o iPhone armazena somente o último item copiado pelo usuário Como acessar a área de transferência no celular",
       "link": "https://tecnoblog.net/responde/onde-e-e-como-acessar-a-area-de-transferencia-do-celular/",
@@ -8274,6 +8191,37 @@
         ]
       },
       "timestamp": "2026-10-28T23:34:06.661Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Uber Moto agora tem viagens com preço fixo de R$ 4,98",
+      "summary": "Modalidade Preço Fixo do Uber Moto chega a 38 cidades brasileiras, incluindo algumas capitais. Uber Moto agora tem viagens com preço fixo de R$ 4,98",
+      "link": "https://tecnoblog.net/noticias/uber-moto-agora-tem-viagens-com-preco-fixo-de-r-498/",
+      "meta": {
+        "categorias": [
+          "Mobilidade",
+          "Brasil",
+          "Motocicleta",
+          "Uber"
+        ]
+      },
+      "timestamp": "2026-10-29T02:50:09.998Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Ainda dá tempo: Motorola Edge 70 Fusion Plus (512 GB) pelo menor preço",
+      "summary": "Motorola Edge 70 Fusion Plus tem RAM de 12 GB e tela de 144 Hz; desconto de 38% com cupom no Magalu é o melhor já registrado Ainda dá tempo: Motorola Edge 70 Fusion Plus (512 GB) pelo menor preço",
+      "link": "https://tecnoblog.net/achados/ainda-da-tempo-motorola-edge-70-fusion-plus-512-gb-pelo-menor-preco/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Magazine Luiza",
+          "Memória RAM",
+          "Motorola",
+          "Motorola Edge 70 Fusion Plus"
+        ]
+      },
+      "timestamp": "2026-10-29T02:50:10.290Z"
     }
   ]
 }
