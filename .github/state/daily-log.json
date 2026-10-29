@@ -2,186 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Como acessar a área de transferência no celular",
-      "summary": "O histórico de copiar e colar está disponível nos dispositivos Android, enquanto o iPhone armazena somente o último item copiado pelo usuário Como acessar a área de transferência no celular",
-      "link": "https://tecnoblog.net/responde/onde-e-e-como-acessar-a-area-de-transferencia-do-celular/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Android",
-          "Área de Transferência",
-          "iPhone",
-          "Smartphone"
-        ]
-      },
-      "timestamp": "2026-09-29T08:45:13.209Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "TSE vai usar Starlink para transmitir resultados das eleições",
-      "summary": "Justiça Eleitoral deve usar até 1.113 terminais em 13 estados para enviar dados de locais sem infraestrutura tradicional de comunicação. TSE vai usar Starlink para transmitir resultados das eleições",
-      "link": "https://tecnoblog.net/noticias/tse-vai-usar-starlink-para-transmitir-resultados-das-eleicoes/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Eleições 2026",
-          "Internet",
-          "Internet via Satélite",
-          "Justiça Eleitoral",
-          "Satélites",
-          "Starlink",
-          "TSE",
-          "Urna eletrônica"
-        ]
-      },
-      "timestamp": "2026-09-29T08:45:13.471Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy A57 sai 55% mais barato para quem prioriza custo-benefício",
-      "summary": "O Galaxy A57 com 128 GB, tela Super AMOLED e câmera de 50 MP sai por menos da metade do preço no Pix Galaxy A57 sai 55% mais barato para quem prioriza custo-benefício",
-      "link": "https://tecnoblog.net/achados/galaxy-a57-sai-55-mais-barato-para-quem-prioriza-custo-beneficio/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy",
-          "Mercado Livre",
-          "Pix",
-          "Samsung",
-          "Super AMOLED"
-        ]
-      },
-      "timestamp": "2026-09-29T08:45:13.725Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Notebooks bons e baratos: 8 modelos que valem a pena em 2026",
-      "summary": "Selecionamos notebooks com recursos modernos pelo menor preço; confira modelos para estudo e navegação de marcas como Asus, Lenovo, Samsung, Acer e mais Notebooks bons e baratos: 8 modelos que valem a pena em 2026",
-      "link": "https://tecnoblog.net/guias/notebooks-bons-e-baratos/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Acer",
-          "Intel"
-        ]
-      },
-      "timestamp": "2026-09-29T08:45:13.981Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Lançamento: TV LG 50″ com Mini LED cai de preço com cupom em oferta",
-      "summary": "Smart TV LG QNED70 de 2026 conta com Mini LED para trazer cores mais precisas e pretos mais profundos, e está com 30% de desconto no Mercado Livre Lançamento: TV LG 50″ com Mini LED cai de preço com cupom em oferta",
-      "link": "https://tecnoblog.net/achados/lancamento-tv-lg-50-com-mini-led-cai-de-preco-com-cupom-em-oferta/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "LG",
-          "Mercado Livre",
-          "Pix",
-          "Smart TV LG QNED70"
-        ]
-      },
-      "timestamp": "2026-09-29T08:45:14.250Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v12.69.2 → versão mais recente 13.34.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-29T15:10:49.838Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/console (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.8 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-29T15:10:49.838Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/error-handler (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.8 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-29T15:10:49.838Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/finder (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.8 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-29T15:10:49.838Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/http-foundation (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.8 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-29T15:10:49.838Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/http-kernel (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.8 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-29T15:10:49.838Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/routing (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.8 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-29T15:10:49.838Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/uid (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.8 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-09-29T15:10:49.838Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy Buds 4 com ANC volta a receber 38% de desconto no Mercado Livre",
       "summary": "Galaxy Buds 4 traz agentes de IA integrados, cancelamento ativo de ruido e função para chamadas; pague no Pix e use o cupom HOJETEMPROMO válido somente até o final do dia Galaxy Buds 4 com ANC volta a receber 38% de desconto no Mercado Livre",
       "link": "https://tecnoblog.net/achados/galaxy-buds-4-com-anc-volta-a-receber-38-de-desconto-no-mercado-livre/",
@@ -8222,6 +8042,126 @@
         ]
       },
       "timestamp": "2026-10-29T02:50:10.290Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/console (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/error-handler (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/finder (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/http-foundation (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/http-kernel (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/mailer (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/mime (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/process (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/routing (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: symfony/var-dumper (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.10 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-29T15:40:51.523Z"
     }
   ]
 }
