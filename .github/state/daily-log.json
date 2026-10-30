@@ -2,80 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Como abrir a área de transferência do PC para ver o histórico do CTRL C",
-      "summary": "A área de transferência do Windows permite gerenciar o histórico do CTRL C, acessando até 25 conteúdos copiados anteriormente no PC Como abrir a área de transferência do PC para ver o histórico do CTRL C",
-      "link": "https://tecnoblog.net/responde/historico-de-links-da-area-de-transferencia-do-windows/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Ctrl+C",
-          "Windows"
-        ]
-      },
-      "timestamp": "2026-09-30T08:31:37.583Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "OpenAI desiste de lançar nova IA após problemas de segurança",
-      "summary": "GPT-6.1 Astra apresentou comportamento enganoso e realizou ações sem autorização. Modelo chegaria ao ChatGPT e ao Codex em outubro. OpenAI desiste de lançar nova IA após problemas de segurança",
-      "link": "https://tecnoblog.net/noticias/openai-desiste-de-lancar-nova-ia-apos-problemas-de-seguranca/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "ChatGPT",
-          "Codex",
-          "GPT-6 Astra",
-          "GPT-6.1 Astra",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-09-30T08:31:37.832Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Firefox ganha novo visual e traz o modo compacto de volta",
-      "summary": "Firefox 157 traz visual renovado baseado no Project Nova, o que inclui elementos arredondados e novos temas. Firefox ganha novo visual e traz o modo compacto de volta",
-      "link": "https://tecnoblog.net/noticias/firefox-ganha-nova-visual-e-traz-o-modo-compacto-de-volta/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "Firefox"
-        ]
-      },
-      "timestamp": "2026-09-30T08:31:38.074Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Spotify fica fora do ar nesta terça e gera reclamações de usuários",
-      "summary": "Plataforma de streaming apresenta estabilidade nos aplicativos móveis e no desktop. Falha afeta usuários do Spotify em diversos países, inclusive no Brasil. Spotify fica fora do ar nesta terça e gera reclamações de usuários",
-      "link": "https://tecnoblog.net/noticias/spotify-fica-fora-do-ar-nesta-terca-e-gera-reclamacoes-de-usuarios/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Brasil",
-          "Spotify"
-        ]
-      },
-      "timestamp": "2026-09-30T08:31:38.318Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor notebook custo-benefício: 7 modelos para comprar em 2026",
-      "summary": "Orçamento apertado? Conheça os notebooks que entregam mais pelo menor preço, de modelos básicos a opções gamer com bom custo-benefício Melhor notebook custo-benefício: 7 modelos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-notebook-custo-beneficio-7-modelos-para-comprar-em-2026/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "laptops",
-          "notebooks"
-        ]
-      },
-      "timestamp": "2026-09-30T08:31:38.556Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Mapa? Não: 90% dos brasileiros priorizam internet em viagens",
       "summary": "Pesquisa da Airalo mostra que conexão móvel é o item que não pode faltar em viagens internacionais. 52% já ficaram em situação desconfortável por falta de internet. Mapa? Não: 90% dos brasileiros priorizam internet em viagens",
       "link": "https://tecnoblog.net/noticias/mapa-nao-90-dos-brasileiros-priorizam-internet-em-viagens/",
@@ -8230,6 +8156,86 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/69481a230819b.jpg"
       },
       "timestamp": "2026-10-30T07:48:52.511Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta pode pagar R$ 50 milhões por posts que incentivam demissão política",
+      "summary": "Ministério Público do Trabalho pede remoção de publicações e multa de R$ 500 mil por conteúdo mantido nas redes sociais da empresa. Meta pode pagar R$ 50 milhões por posts que incentivam demissão política",
+      "link": "https://tecnoblog.net/noticias/meta-pode-pagar-r-50-milhoes-por-posts-que-incentivam-demissao-politica/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "Facebook",
+          "Instagram",
+          "Mark Zuckerberg",
+          "Meta",
+          "Ministério Público do Trabalho",
+          "Threads",
+          "TSE"
+        ]
+      },
+      "timestamp": "2026-10-30T13:30:33.697Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Caiu mais: Galaxy S25 Ultra (512 GB) atinge menor preço recente no Mercado Livre",
+      "summary": "Galaxy S25 Ultra (512 GB) tem câmera de 200 MP e chip Snapdragon de ponta; celular premium da Samsung sai por menos da metade do preço no Pix com cupom Caiu mais: Galaxy S25 Ultra (512 GB) atinge menor preço recente no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/caiu-mais-galaxy-s25-ultra-512-gb-atinge-menor-preco-recente-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy AI",
+          "Galaxy S25 Ultra",
+          "Mercado Livre",
+          "Pix",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-10-30T13:30:33.975Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Reddit exigirá login após 20 anos de acesso aberto",
+      "summary": "Mudança busca reduzir scraping não autorizado e ampliar a personalização da experiência e dos anúncios. Reddit exigirá login após 20 anos de acesso aberto",
+      "link": "https://tecnoblog.net/noticias/reddit-exigira-login-apos-20-anos-de-acesso-aberto/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Reddit"
+        ]
+      },
+      "timestamp": "2026-10-30T13:30:34.244Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Binance perde US$ 6,3 bilhões no maior roubo de criptomoedas do mundo",
+      "summary": "A Binance é a maior corretora de criptoativos do mercado. Empresa prometeu cobrir os prejuízos integralmente. Binance perde US$ 6,3 bilhões no maior roubo de criptomoedas do mundo",
+      "link": "https://tecnoblog.net/noticias/binance-perde-us-63-bilhoes-no-maior-roubo-de-criptomoedas-do-mundo/",
+      "meta": {
+        "categorias": [
+          "Blockchain",
+          "Binance",
+          "Empresa"
+        ]
+      },
+      "timestamp": "2026-10-30T13:30:34.508Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S26 Plus cai para quase metade do preço com cupom",
+      "summary": "Galaxy S26 Plus (256 GB) traz tela de 120 Hz e câmera de 50 MP; celular premium da Samsung recebe desconto de 53% em oferta do Mercado Livre no Pix com cupom Galaxy S26 Plus cai para quase metade do preço com cupom",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-plus-cai-para-quase-metade-do-preco-com-cupom/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Galaxy S26 Plus",
+          "Mercado Livre",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-10-30T13:30:34.785Z"
     }
   ]
 }
