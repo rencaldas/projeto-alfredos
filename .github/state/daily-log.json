@@ -2,91 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Vazam imagens do novo Kindle, com mais cores e botão lateral",
-      "summary": "Kindle de 12ª geração deve ganhar cantos arredondados. Vazam imagens do novo Kindle, com mais cores e botão lateral",
-      "link": "https://tecnoblog.net/noticias/vazam-imagens-do-novo-kindle-com-mais-cores-e-botao-lateral/",
-      "meta": {
-        "categorias": [
-          "Gadgets",
-          "Amazon",
-          "e-ink",
-          "e-reader",
-          "Kindle",
-          "rumor"
-        ]
-      },
-      "timestamp": "2026-09-30T20:09:31.329Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como ver quem não te segue de volta no Instagram",
-      "summary": "Você pode saber quem não te segue no Instagram pelo aplicativo oficial, extensões para o Google Chrome ou cruzamento de dados do perfil via ChatGPT Como ver quem não te segue de volta no Instagram",
-      "link": "https://tecnoblog.net/responde/como-ver-quem-nao-me-segue-de-volta-no-instagram/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "ChatGPT",
-          "Google Chrome",
-          "Instagram"
-        ]
-      },
-      "timestamp": "2026-09-30T20:09:31.606Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Notebook Lenovo IdeaPad Slim 3 cai de preço com cupom no Mercado Livre",
-      "summary": "Modelo 83NS0002BR sai com 33% de desconto em oferta no Mercado Livre ao combinar pix e cupom. Notebook traz Core i5, SSD de 512 GB e tela de 15,3 polegadas Notebook Lenovo IdeaPad Slim 3 cai de preço com cupom no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/notebook-lenovo-ideapad-slim-3-cai-de-preco-com-cupom-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Lenovo IdeaPad Slim 3",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-30T20:09:31.887Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Dell 15 com tela de 120 Hz tem R$ 1.000 OFF em até 12x sem juros",
-      "summary": "Notebook Dell 15 com RAM de 8 GB e tela de 15,6 polegadas para trabalho e estudos está em oferta com possibilidade de parcelamento na Amazon Dell 15 com tela de 120 Hz tem R$ 1.000 OFF em até 12x sem juros",
-      "link": "https://tecnoblog.net/achados/dell-15-com-tela-de-120-hz-tem-r-1-000-off-em-ate-12x-sem-juros/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Amazon",
-          "Dell",
-          "Dell 15",
-          "Intel"
-        ]
-      },
-      "timestamp": "2026-09-30T20:09:32.164Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Xbox ganha novo sistema de platina para quem zerar 100% dos games",
-      "summary": "Novidade era muito pedida pelos jogadores, segundo a empresa. Games completados desde o Xbox 360 também serão reconhecidos como Mythic. Xbox ganha novo sistema de platina para quem zerar 100% dos games",
-      "link": "https://tecnoblog.net/noticias/xbox-ganha-novo-sistema-de-platina-para-quem-zerar-100-dos-games/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Asha Sharma",
-          "Gears of War: E-Day",
-          "Playstation",
-          "PlayStation 4 (PS4)",
-          "PlayStation 5 (PS5)",
-          "Sony",
-          "Xbox",
-          "Xbox 360",
-          "Xbox Game Pass Ultimate",
-          "Xbox Series X e Series S"
-        ]
-      },
-      "timestamp": "2026-09-30T20:09:32.439Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Samsung libera One UI 9 para mais celulares brasileiros",
       "summary": "Galaxy S26 passa a rodar o Android 17, com direito a Now Brief e Now Nudget aprimorados. Samsung libera One UI 9 para mais celulares brasileiros",
       "link": "https://tecnoblog.net/noticias/nova-samsung-one-ui-chega-a-mais-celulares-brasileiros/",
@@ -8269,6 +8184,89 @@
         ]
       },
       "timestamp": "2026-10-30T18:50:05.419Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Amazon prorroga acesso grátis à Alexa turbinada",
+      "summary": "Tecnoblog apurou que o chamado “acesso antecipado” à Alexa+ vai até fevereiro de 2027. Amazon prorroga acesso grátis à Alexa turbinada",
+      "link": "https://tecnoblog.net/noticias/amazon-prorroga-acesso-gratis-a-alexa-turbinada/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Alexa+",
+          "Amazon",
+          "Amazon Alexa",
+          "Exclusividade",
+          "Inteligência artificial generativa"
+        ]
+      },
+      "timestamp": "2026-10-30T22:41:54.384Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "PS5 desbloqueado vira “Steam Machine” e roda jogos de PC",
+      "summary": "Projeto instala Bazzite com interface da Steam, suporte ao Proton e até desbloqueio experimental de unidades da GPU. PS5 desbloqueado vira “Steam Machine” e roda jogos de PC",
+      "link": "https://tecnoblog.net/noticias/ps5-desbloqueado-vira-steam-machine-e-roda-jogos-de-pc/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Bazzite",
+          "Linux",
+          "Linux Bazzite",
+          "PlayStation 5",
+          "PlayStation 5 (PS5)",
+          "Proton",
+          "PS5",
+          "Sony",
+          "Steam",
+          "Steam Deck",
+          "Steam Machines",
+          "SteamOS",
+          "Valve"
+        ]
+      },
+      "timestamp": "2026-10-30T22:41:54.655Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "SpaceX quer comprar casas de vizinhos incomodados com seus data centers",
+      "summary": "SpaceXSI estaria comprando casas próximas a uma usina que gera energia para seus data centers para tentar evitar queixas por ruído. SpaceX quer comprar casas de vizinhos incomodados com seus data centers",
+      "link": "https://tecnoblog.net/noticias/spacex-quer-comprar-casas-de-vizinhos-incomodados-com-seus-data-centers/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "SpaceX",
+          "SpaceXSI"
+        ]
+      },
+      "timestamp": "2026-10-30T22:41:54.900Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Cursor diz que extensão falsa do Claude Code afetou até 5 mil usuários",
+      "summary": "Versão maliciosa tentava roubar dados do computador e abrir acesso remoto por SSH. Cursor diz que extensão falsa do Claude Code afetou até 5 mil usuários",
+      "link": "https://tecnoblog.net/noticias/cursor-diz-que-extensao-falsa-do-claude-code-afetou-ate-5-mil-usuarios/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Anthropic",
+          "Cursor"
+        ]
+      },
+      "timestamp": "2026-10-30T22:41:55.198Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Itaú Pay: novo serviço do banco permite pagar em lojas online sem cartão",
+      "summary": "Com Itaú Pay, clientes podem pagar compras online a partir do aplicativo do banco, podendo escolher entre débito em conta ou crédito. Itaú Pay: novo serviço do banco permite pagar em lojas online sem cartão",
+      "link": "https://tecnoblog.net/noticias/itau-pay-novo-servico-do-banco-permite-pagar-em-lojas-online-sem-cartao/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Itaú"
+        ]
+      },
+      "timestamp": "2026-10-30T22:41:55.442Z"
     }
   ]
 }
