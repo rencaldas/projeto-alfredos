@@ -15,6 +15,21 @@
         }
       ]
     },
+    "3426": {
+      "title": "Sorry We're Closed (Epic Games) Giveaway",
+      "endDate": "2026-11-05 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 286
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 287
+        }
+      ]
+    },
     "3790": {
       "title": "Mechabellum (Epic Games) Giveaway",
       "endDate": "2026-10-01 23:59:00",
@@ -153,7 +168,7 @@
     "3823": {
       "title": "Home (Epic Games) Giveaway",
       "endDate": "2026-10-29 23:59:59",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-30T07:48:50.703Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -168,7 +183,7 @@
     "3824": {
       "title": "Sker Ritual (Epic Games) Giveaway",
       "endDate": "2026-10-29 23:59:59",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-10-30T07:48:51.655Z",
       "messages": [
         {
           "chatId": "7829764630",
