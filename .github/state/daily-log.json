@@ -2,84 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Mapa? Não: 90% dos brasileiros priorizam internet em viagens",
-      "summary": "Pesquisa da Airalo mostra que conexão móvel é o item que não pode faltar em viagens internacionais. 52% já ficaram em situação desconfortável por falta de internet. Mapa? Não: 90% dos brasileiros priorizam internet em viagens",
-      "link": "https://tecnoblog.net/noticias/mapa-nao-90-dos-brasileiros-priorizam-internet-em-viagens/",
-      "meta": {
-        "categorias": [
-          "Internet",
-          "Airgsm Pte. Ltd.",
-          "Brasileiros"
-        ]
-      },
-      "timestamp": "2026-09-30T15:16:18.368Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Anthropic gasta mais dinheiro do que fatura para bancar IA",
-      "summary": "Dona do Claude teve receita de US$ 4,6 bilhões no último ano, mas prejuízo operacional foi praticamente o dobro. Anthropic gasta mais dinheiro do que fatura para bancar IA",
-      "link": "https://tecnoblog.net/noticias/anthropic-gasta-mais-dinheiro-do-que-fatura-para-bancar-ia/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Anthropic",
-          "Inteligência Artificial (IA)",
-          "IPO"
-        ]
-      },
-      "timestamp": "2026-09-30T15:16:18.635Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "AMD compra startup de IA que cria mundos 3D por R$ 43 bilhões",
-      "summary": "World Labs desenvolve modelos capazes de simular ambientes tridimensionais. Cofundadora e CEO, Fei-Fei Li vai integrar a AMD como cientista-chefe. AMD compra startup de IA que cria mundos 3D por R$ 43 bilhões",
-      "link": "https://tecnoblog.net/noticias/amd-compra-startup-de-ia-que-cria-mundos-3d-por-r-43-bilhoes/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "AMD",
-          "Chips",
-          "Data center",
-          "Fei-Fei Li",
-          "IA",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "World Labs"
-        ]
-      },
-      "timestamp": "2026-09-30T15:16:18.885Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Mozilla aposta no novo Firefox para conquistar usuários do Chrome",
-      "summary": "Chefe da divisão Firefox quer que navegador deixe de ser visto apenas como uma alternativa ao Chromium. Mozilla aposta no novo Firefox para conquistar usuários do Chrome",
-      "link": "https://tecnoblog.net/noticias/mozilla-aposta-no-novo-firefox-para-conquistar-usuarios-do-chrome/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "Chromium",
-          "Firefox",
-          "Google Chrome",
-          "Mozilla"
-        ]
-      },
-      "timestamp": "2026-09-30T15:16:19.143Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "TVs superam PCs e viram novo carrinho de compras",
-      "summary": "TV cresce frente aos desktops enquanto o celular se isola como meio preferido para compras online. TVs superam PCs e viram novo carrinho de compras",
-      "link": "https://tecnoblog.net/noticias/tvs-superam-pcs-e-viram-novo-carrinho-de-compras/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Televisão (transmissão)"
-        ]
-      },
-      "timestamp": "2026-09-30T15:16:19.403Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Vazam imagens do novo Kindle, com mais cores e botão lateral",
       "summary": "Kindle de 12ª geração deve ganhar cantos arredondados. Vazam imagens do novo Kindle, com mais cores e botão lateral",
       "link": "https://tecnoblog.net/noticias/vazam-imagens-do-novo-kindle-com-mais-cores-e-botao-lateral/",
@@ -8236,6 +8158,18 @@
         ]
       },
       "timestamp": "2026-10-30T13:30:34.785Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: stripe/stripe-php (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v19.4.1 → versão mais recente 22.2.0.0-beta1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-10-30T15:23:47.263Z"
     }
   ]
 }
