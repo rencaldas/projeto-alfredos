@@ -2,97 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy S26 Plus (512 GB) chega ao menor preço dos últimos meses",
-      "summary": "Galaxy S26 Plus com tela AMOLED, câmera de 50 MP e Galaxy AI fica próximo da metade do preço com desconto histórico no Meli Galaxy S26 Plus (512 GB) chega ao menor preço dos últimos meses",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-plus-512-gb-chega-ao-menor-preco-dos-ultimos-meses/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy AI",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-09-30T02:12:37.231Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Primeiro God of War com protagonista mulher entra em pré-venda",
-      "summary": "Jogo traz aventura da guerreira Faye, esposa de Kratos, logo após sua morte. Título será lançado em 2027 e já está à venda na PS Store. Primeiro God of War com protagonista mulher entra em pré-venda",
-      "link": "https://tecnoblog.net/noticias/primeiro-god-of-war-com-protagonista-mulher-entra-em-pre-venda/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "God of War",
-          "God of War: Laufey",
-          "God of War: Ragnarok",
-          "GTA 6",
-          "Playstation",
-          "PlayStation 5 (PS5)",
-          "PlayStation Store",
-          "PS Store",
-          "Rockstar",
-          "Santa Monica Studio",
-          "Sony",
-          "State of Play"
-        ]
-      },
-      "timestamp": "2026-09-30T02:12:37.553Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Moto G86 (512 GB) tem 12 GB de RAM e o melhor preço desde julho com cupom",
-      "summary": "Moto G86 (512 GB) tem tela POLED de 120 Hz e 12 GB de RAM física; celular da Motorola alcança o menor preço em meses, no Pix com cupom no Mercado Livre Moto G86 (512 GB) tem 12 GB de RAM e o melhor preço desde julho com cupom",
-      "link": "https://tecnoblog.net/achados/moto-g86-512-gb-tem-12-gb-de-ram-e-o-melhor-preco-desde-julho-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Moto G86",
-          "Motorola",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-30T02:12:37.848Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 60 (512 GB) com frontal de 50 MP sai 48% mais barato",
-      "summary": "Motorola Edge 60 (512 GB) com câmera frontal de 50 MP e tela POLED de 120 Hz sai por quase metade do preço original no Mercado Livre, no Pix com cupom que acaba hoje Motorola Edge 60 (512 GB) com frontal de 50 MP sai 48% mais barato",
-      "link": "https://tecnoblog.net/achados/motorola-edge-60-512-gb-com-frontal-de-50-mp-sai-48-mais-barato/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Edge 60",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-09-30T02:12:38.155Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Bug do Google fez milhares de apps para iPhone travarem",
-      "summary": "Falha no Google Analytics for Firebase enviou dados incorretos a aplicativos para iOS. Correção foi feita nos servidores e não exige atualização dos apps. Bug do Google fez milhares de apps para iPhone travarem",
-      "link": "https://tecnoblog.net/noticias/bug-do-google-fez-milhares-de-apps-para-iphone-travarem/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "aplicativos",
-          "Firebase",
-          "Google",
-          "Google Analytics",
-          "iOS",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-09-30T02:12:38.456Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Como abrir a área de transferência do PC para ver o histórico do CTRL C",
       "summary": "A área de transferência do Windows permite gerenciar o histórico do CTRL C, acessando até 25 conteúdos copiados anteriormente no PC Como abrir a área de transferência do PC para ver o histórico do CTRL C",
       "link": "https://tecnoblog.net/responde/historico-de-links-da-area-de-transferencia-do-windows/",
@@ -8263,6 +8172,53 @@
         ]
       },
       "timestamp": "2026-10-30T00:53:56.531Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gemini agora permite editar PDFs e documentos em sua própria interface",
+      "summary": "O Google atualizou o Gemini para permitir a edição direta de arquivos na interface. O recurso abrange PDFs, documentos, planilhas e códigos de programação. Gemini agora permite editar PDFs e documentos em sua própria interface",
+      "link": "https://tecnoblog.net/noticias/gemini-agora-permite-editar-pdfs-e-documentos-em-sua-propria-interface/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini",
+          "Google",
+          "Google Docs",
+          "Google Sheets",
+          "PDF"
+        ]
+      },
+      "timestamp": "2026-10-30T06:34:46.156Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Android 17: Jovi começa a liberar OriginOS 7 no Brasil",
+      "summary": "Sistema baseado no Android 17 estreia na linha X300 e traz mais integração com outros aparelhos e assistente de IA próprio. Android 17: Jovi começa a liberar OriginOS 7 no Brasil",
+      "link": "https://tecnoblog.net/noticias/android-17-jovi-comeca-a-liberar-originos-7-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Android",
+          "Android 17",
+          "Brasil",
+          "OriginOS"
+        ]
+      },
+      "timestamp": "2026-10-30T06:34:46.454Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor Tablet TCL: 6 modelos para comprar em 2026",
+      "summary": "Tablets TCL são opções acessíveis para estudo, leitura e produtividade leve; veja a lista com os 6 melhores modelos à venda no Brasil Melhor Tablet TCL: 6 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-tablet-tcl/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Tablet",
+          "TCL"
+        ]
+      },
+      "timestamp": "2026-10-30T06:34:46.754Z"
     }
   ]
 }
