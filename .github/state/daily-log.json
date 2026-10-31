@@ -2,93 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Samsung libera One UI 9 para mais celulares brasileiros",
-      "summary": "Galaxy S26 passa a rodar o Android 17, com direito a Now Brief e Now Nudget aprimorados. Samsung libera One UI 9 para mais celulares brasileiros",
-      "link": "https://tecnoblog.net/noticias/nova-samsung-one-ui-chega-a-mais-celulares-brasileiros/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Android",
-          "Android 16",
-          "Brasil",
-          "Coreia do Sul",
-          "Galaxy",
-          "Galaxy S26",
-          "Galaxy S26 FE",
-          "Galaxy S26 Plus",
-          "Galaxy S26 Ultra",
-          "One UI",
-          "Samsung",
-          "Samsung Galaxy Z Fold 7"
-        ]
-      },
-      "timestamp": "2026-09-30T23:45:01.971Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Suas fotos podem “desaparecer”: Samsung encerra integração com Microsoft",
-      "summary": "Fotografias salvas na nuvem não ficarão mais disponíveis na galeria, mas podem ser baixadas no app da Microsoft. Suas fotos podem “desaparecer”: Samsung encerra integração com Microsoft",
-      "link": "https://tecnoblog.net/noticias/suas-fotos-podem-desaparecer-samsung-encerra-integracao-com-microsoft/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Gallery App Sync",
-          "Google Fotos",
-          "Microsoft",
-          "OneDrive",
-          "Samsung",
-          "Samsung Galaxy"
-        ]
-      },
-      "timestamp": "2026-09-30T23:45:02.233Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Qual o melhor notebook para carregar e ter praticidade no dia a dia?",
-      "summary": "Design fino, leveza e desempenho são primordiais para quem precisa contar com um computador a qualquer momento da rotina. Qual o melhor notebook para carregar e ter praticidade no dia a dia?",
-      "link": "https://tecnoblog.net/publieditoriais/qual-o-melhor-notebook-para-carregar-e-ter-praticidade-no-dia-a-dia/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Dell",
-          "Dell 14",
-          "Dell Inspiron 14 2 em 1",
-          "Dell XPS 13",
-          "Notebook"
-        ]
-      },
-      "timestamp": "2026-09-30T23:45:02.487Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "ChatGPT Dots: OpenAI lança assistente de IA para o dia a dia",
-      "summary": "Agente autônomo acompanha projetos, monitora serviços e executa tarefas sem depender de novos pedidos do usuário. ChatGPT Dots: OpenAI lança assistente de IA para o dia a dia",
-      "link": "https://tecnoblog.net/noticias/chatgpt-dots-openai-lanca-agentes-de-ia-que-trabalham-sozinhos/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "ChatGPT",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-09-30T23:45:02.741Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Windows 11 26H2 é oficial: veja o que muda e como instalar",
-      "summary": "Atualização 26H2 começou a ser liberada pela Microsoft para computadores com Windows 11 24H2 ou 25H2. Windows 11 26H2 é oficial: veja o que muda e como instalar",
-      "link": "https://tecnoblog.net/noticias/windows-11-26h2-e-oficial-veja-o-que-muda-e-como-instalar/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Microsoft",
-          "Windows 11"
-        ]
-      },
-      "timestamp": "2026-09-30T23:45:03.010Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy S25 Ultra registra queda abrupta de preço e tem 59% OFF na Amazon",
       "summary": "Galaxy S25 Ultra (256 GB) traz câmera de 200 MP, corpo de titânio e desempenho de sobra; celular premium da Samsung tem preço mais baixo com pagamento no Pix Galaxy S25 Ultra registra queda abrupta de preço e tem 59% OFF na Amazon",
       "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-registra-queda-abrupta-de-preco-e-tem-59-off-na-amazon/",
@@ -8267,6 +8180,84 @@
         ]
       },
       "timestamp": "2026-10-30T22:41:55.442Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Entire, do ex-CEO do GitHub, já hospeda códigos no Brasil",
+      "summary": "Rival do GitHub, Entire expandiu suas operações para o Brasil com infraestrutura de servidores locais para hospedagem e colaboração Git. Entire, do ex-CEO do GitHub, já hospeda códigos no Brasil",
+      "link": "https://tecnoblog.net/noticias/entire-do-ex-ceo-do-github-ja-hospeda-codigos-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Brasil",
+          "Git",
+          "GitHub",
+          "Thomas Dohmke"
+        ]
+      },
+      "timestamp": "2026-10-31T01:47:28.494Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Razr 70 Ultra não é barato, mas atinge 45% OFF nessa oferta",
+      "summary": "Motorola Razr 70 Ultra recebe desconto de mais de R$ 5 mil no Magalu; este é o menor preço já registrado pelo celular dobrável da Motorola Motorola Razr 70 Ultra não é barato, mas atinge 45% OFF nessa oferta",
+      "link": "https://tecnoblog.net/achados/motorola-razr-70-ultra-nao-e-barato-mas-atinge-45-off-nessa-oferta/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Magazine Luiza",
+          "Motorola",
+          "Motorola Razr 70 Ultra",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-10-31T01:47:28.804Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Review da Sabala DR-500: uma caixa para festas em alto e bom som",
+      "summary": "Caixa de som Bluetooth da Sabala se destaca pelos 500 W de potência, proteção contra água e bateria gigante; confira a análise Review da Sabala DR-500: uma caixa para festas em alto e bom som",
+      "link": "https://tecnoblog.net/testamos/review-da-sabala-dr-500-uma-caixa-para-festas-em-alto-e-bom-som/",
+      "meta": {
+        "categorias": [
+          "Periféricos",
+          "Amplificador de Som",
+          "YouTube"
+        ]
+      },
+      "timestamp": "2026-10-31T01:47:29.102Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung pode lançar tablet dobrável com tela de 17 polegadas",
+      "summary": "Rumores indicam que projeto avançou e pode dar origem ao Galaxy Z Tab. Dispositivo teria 8 polegadas quando fechado. Samsung pode lançar tablet dobrável com tela de 17 polegadas",
+      "link": "https://tecnoblog.net/noticias/samsung-pode-lancar-tablet-dobravel-com-tela-de-17-polegadas/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Galaxy Fold",
+          "Galaxy Tab",
+          "Samsung",
+          "Samsung Display"
+        ]
+      },
+      "timestamp": "2026-10-31T01:47:29.408Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como cancelar o Kindle+ (antigo Kindle Unlimited)",
+      "summary": "Assinatura do Kindle Unlimited, agora chamado de Kindle+, pode ser cancelada pelo celular ou computador em poucos passos Como cancelar o Kindle+ (antigo Kindle Unlimited)",
+      "link": "https://tecnoblog.net/responde/como-cancelar-o-kindle-unlimited/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Amazon",
+          "Kindle",
+          "Kindle Unlimited",
+          "Kindle+"
+        ]
+      },
+      "timestamp": "2026-10-31T01:47:29.708Z"
     }
   ]
 }
