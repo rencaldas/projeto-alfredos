@@ -209,6 +209,36 @@
           "messageId": 285
         }
       ]
+    },
+    "3837": {
+      "title": "Quiztopia: The Ultimate Trivia (Epic Games) Giveaway",
+      "endDate": "2026-11-08 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 288
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 289
+        }
+      ]
+    },
+    "3838": {
+      "title": "Gladiator: Blades of Fury (Epic Games) Giveaway",
+      "endDate": "2026-11-08 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 290
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 291
+        }
+      ]
     }
   }
 }
