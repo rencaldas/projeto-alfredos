@@ -198,7 +198,7 @@
     "3825": {
       "title": "MAFIA HOTEL (Epic Games) Giveaway",
       "endDate": "2026-11-01 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-11-02T08:29:44.874Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -237,6 +237,66 @@
         {
           "chatId": "726946412",
           "messageId": 291
+        }
+      ]
+    },
+    "3839": {
+      "title": "Epic World - Hunt For Quest (Epic Games) Giveaway",
+      "endDate": "2026-11-08 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 292
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 293
+        }
+      ]
+    },
+    "3840": {
+      "title": "Horse Racing (Epic Games) Giveaway",
+      "endDate": "2026-11-08 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 294
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 295
+        }
+      ]
+    },
+    "3841": {
+      "title": "Dark Mystery (Epic Games) Giveaway",
+      "endDate": "2026-11-08 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 296
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 297
+        }
+      ]
+    },
+    "3842": {
+      "title": "Highway Driving (Epic Games) Giveaway",
+      "endDate": "2026-11-08 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 298
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 299
         }
       ]
     }
