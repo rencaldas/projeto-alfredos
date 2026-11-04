@@ -7676,6 +7676,85 @@
         ]
       },
       "timestamp": "2026-11-03T21:14:37.032Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+      "summary": "Pelo menos nove passageiros se feriram em acidente na capital da Estônia. Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+      "link": "https://tecnoblog.net/noticias/robo-de-entregas-ignora-sinal-vermelho-e-e-atropelado-por-onibus/",
+      "meta": {
+        "categorias": [
+          "Robótica",
+          "Bolt",
+          "Estônia",
+          "Europa",
+          "Tallinn"
+        ]
+      },
+      "timestamp": "2026-11-04T01:20:56.785Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Polícia e gigantes de tecnologia derrubam botnet com 1,3 milhão de TV boxes",
+      "summary": "Operação coordenada com a polícia japonesa desmantelou esquema atribuído à fabricante chinesa Videostrong. Polícia e gigantes de tecnologia derrubam botnet com 1,3 milhão de TV boxes",
+      "link": "https://tecnoblog.net/noticias/policia-e-gigantes-de-tecnologia-derrubam-botnet-com-13-milhao-de-tv-boxes/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Android",
+          "Brasil",
+          "Google",
+          "Japão"
+        ]
+      },
+      "timestamp": "2026-11-04T01:20:57.069Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Brave é processado por coleta de dados para IA e funções contra paywall",
+      "summary": "Ferramenta de busca com inteligência artificial também é alvo da ação. Brave é processado por coleta de dados para IA e funções contra paywall",
+      "link": "https://tecnoblog.net/noticias/navegador-brave-e-processado-por-coleta-de-dados-para-ia-e-ferramentas-anti-paywall/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Brave",
+          "Brave Search",
+          "Inteligência Artificial (IA)",
+          "The New York Times"
+        ]
+      },
+      "timestamp": "2026-11-04T01:20:57.356Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Windows fica até 40% mais rápido em PCs com 8 GB de RAM",
+      "summary": "Atualização do Windows 11 diminui alocação de dados no armazenamento e economiza até 900 MB em cenário de uso intenso. Windows fica até 40% mais rápido em PCs com 8 GB de RAM",
+      "link": "https://tecnoblog.net/noticias/windows-fica-ate-40-mais-rapido-em-pcs-com-8-gb-de-ram/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Microsoft",
+          "Windows",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-11-04T01:20:57.642Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "TV LG OLED 55″ recebe oferta histórica em até 12x na Amazon",
+      "summary": "Smart TV LG OLED C6 de 55 polegadas traz pretos profundos, taxa de até 165 Hz e recursos de IA; preço cai 30% no mês da Black Friday TV LG OLED 55″ recebe oferta histórica em até 12x na Amazon",
+      "link": "https://tecnoblog.net/achados/tv-lg-oled-55-recebe-oferta-historica-em-ate-12x-na-amazon/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "Black Friday",
+          "Black November 2026",
+          "Inteligência Artificial (IA)",
+          "LG"
+        ]
+      },
+      "timestamp": "2026-11-04T01:20:57.920Z"
     }
   ]
 }
