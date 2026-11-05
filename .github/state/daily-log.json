@@ -2,89 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy S27 Ultra pode corrigir problema da Tela de Privacidade",
-      "summary": "Rumor indica que a Samsung trabalha para deixar tela mais nítida e definida com o recurso ativado. Galaxy S27 Ultra pode corrigir problema da Tela de Privacidade",
-      "link": "https://tecnoblog.net/noticias/galaxy-s27-ultra-pode-corrigir-problema-da-tela-de-privacidade/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy S26 Ultra",
-          "Galaxy S27",
-          "Galaxy S27 Ultra",
-          "rumor",
-          "Samsung",
-          "Tela de Privacidade"
-        ]
-      },
-      "timestamp": "2026-10-05T21:59:15.269Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Razr 60 tem promoção exclusiva em até 12x para membros Prime",
-      "summary": "Razr 60 (256 GB) tem tela POLED flexível de 120 Hz e 12 GB de RAM; Mega Oferta Prime exclusiva para membros oferece dobrável da Motorola com desconto de 45% no prazo Motorola Razr 60 tem promoção exclusiva em até 12x para membros Prime",
-      "link": "https://tecnoblog.net/achados/motorola-razr-60-tem-promocao-exclusiva-em-ate-12x-para-membros-prime/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Amazon Prime",
-          "Motorola",
-          "Motorola RAZR (linha)",
-          "Motorola Razr 60"
-        ]
-      },
-      "timestamp": "2026-10-05T21:59:15.507Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apps de Android podem falhar em Googlebooks com chip Intel",
-      "summary": "Google admite que alguns aplicativos de Android podem ter instabilidades em Googlebooks com chip Intel, mas afirma que já trabalha na solução. Apps de Android podem falhar em Googlebooks com chip Intel",
-      "link": "https://tecnoblog.net/noticias/apps-de-android-podem-falhar-em-googlebooks-com-chip-intel/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Android",
-          "Google",
-          "Intel"
-        ]
-      },
-      "timestamp": "2026-10-05T21:59:15.757Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Anthropic chama polícia após mulher ameaçar ataque em conversa",
-      "summary": "Mulher foi presa na Flórida após supostas ameaças registradas no chatbot Claude. Anthropic chama polícia após mulher ameaçar ataque em conversa",
-      "link": "https://tecnoblog.net/noticias/anthropic-chama-policia-apos-mulher-ameacar-ataque-em-conversa-com-claude/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Anthropic",
-          "Claude",
-          "Flórida"
-        ]
-      },
-      "timestamp": "2026-10-05T21:59:16.007Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Z Flip 8 (512 GB) volta em melhor oferta de 37% OFF no Mercado Livre",
-      "summary": "Galaxy Z Flip 8 (512 GB) tem tela dobrável de 120 Hz e chip de alto desempenho; novo celular da Samsung atinge menor preço histórico no Pix com cupom Galaxy Z Flip 8 (512 GB) volta em melhor oferta de 37% OFF no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-z-flip-8-512-gb-volta-em-melhor-oferta-de-37-off-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy AI",
-          "Galaxy Z Flip 8",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-05T21:59:16.243Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Kindle despenca 42% para clientes Amazon Prime após anúncio da nova linha",
       "summary": "Kindle de 11ª geração com tela de 6 polegadas e bateria de até seis semanas fica mais barato e traz opção de parcelamento Kindle despenca 42% para clientes Amazon Prime após anúncio da nova linha",
       "link": "https://tecnoblog.net/achados/kindle-despenca-42-para-clientes-amazon-prime-apos-anuncio-da-nova-linha/",
@@ -7991,6 +7908,98 @@
         ]
       },
       "timestamp": "2026-11-04T21:29:47.224Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xbox vai sortear Series X escondido em réplica de jacaré",
+      "summary": "Batizado de Series X-BITE, edição única do console foi instalada em uma escultura de 1,5 metro. Versão será sorteada nos EUA. Xbox vai sortear Series X escondido em réplica de jacaré",
+      "link": "https://tecnoblog.net/noticias/xbox-vai-sortear-series-x-escondido-em-replica-de-jacare/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Microsoft",
+          "Xbox One",
+          "Xbox Series X e Series S"
+        ]
+      },
+      "timestamp": "2026-11-05T01:40:19.276Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Tab S10 FE Plus 5G tem melhor oferta de 2026",
+      "summary": "Galaxy Tab S10 FE Plus 5G (128 GB) com tela de 13,1\" e S Pen na caixa alcança o menor preço do ano durante o Black November, com desconto de 53% no Pix na Amazon Galaxy Tab S10 FE Plus 5G tem melhor oferta de 2026",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-5g-tem-melhor-oferta-de-2026/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Amazon",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Galaxy AI",
+          "Galaxy Tab S10 FE Plus 5G",
+          "Pix",
+          "Samsung",
+          "Stylus"
+        ]
+      },
+      "timestamp": "2026-11-05T01:40:19.521Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung libera One UI 9 para mais smartphones no Brasil",
+      "summary": "Modelos de entrada e intermediários da fabricante sul-coreana ganham Android 17 com One UI 9. Samsung libera One UI 9 para mais smartphones no Brasil",
+      "link": "https://tecnoblog.net/noticias/samsung-libera-one-ui-9-para-mais-smartphones/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Android",
+          "Android 17",
+          "Galaxy",
+          "Galaxy A35",
+          "Galaxy AI",
+          "Galaxy M35",
+          "Galaxy M54 5G",
+          "One UI",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-11-05T01:40:19.774Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Garmin Forerunner 70 com 5 ATM cai 38% com cupom no Mercado Livre",
+      "summary": "Garmin Forerunner 70 resiste à água e possui bateria que dura até 28 dias; smartwatch para treinos recebe desconto com cupom no mês da Black Friday Garmin Forerunner 70 com 5 ATM cai 38% com cupom no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/garmin-forerunner-70-com-5-atm-cai-38-com-cupom-no-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Garmin",
+          "Garmin Forerunner",
+          "Garmin Forerunner 70",
+          "Mercado Livre",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-05T01:40:20.021Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nova tecnologia deixa o Bluetooth 4 vezes mais rápido",
+      "summary": "Padrão HDT permite que conexões Bluetooth LE alcance até 7,5 Mb/s, sendo útil para fones de ouvido avançados, por exemplo. Nova tecnologia deixa o Bluetooth 4 vezes mais rápido",
+      "link": "https://tecnoblog.net/noticias/nova-tecnologia-deixa-o-bluetooth-4-vezes-mais-rapido/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "Bluetooth",
+          "Bluetooth Low Energy",
+          "Bluetooth SIG"
+        ]
+      },
+      "timestamp": "2026-11-05T01:40:20.262Z"
     }
   ]
 }
