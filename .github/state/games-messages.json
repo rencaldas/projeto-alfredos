@@ -18,7 +18,7 @@
     "3426": {
       "title": "Sorry We're Closed (Epic Games) Giveaway",
       "endDate": "2026-11-05 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-11-06T08:38:42.231Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -297,6 +297,36 @@
         {
           "chatId": "726946412",
           "messageId": 299
+        }
+      ]
+    },
+    "3845": {
+      "title": "Flotsam (Epic Games) Giveaway",
+      "endDate": "2026-11-12 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 300
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 301
+        }
+      ]
+    },
+    "3847": {
+      "title": "GMH - Good Morning Human (Epic Games) Giveaways",
+      "endDate": "2026-11-08 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 302
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 303
         }
       ]
     }
