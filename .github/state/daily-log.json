@@ -2,85 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Lenovo IdeaPad Slim 3 para estudos cai 36% com nosso cupom exclusivo",
-      "summary": "IdeaPad Slim 3 com processador Intel Core 3 e ampla tela recebe desconto atrativo combinando cupom e pagamento via Pix Lenovo IdeaPad Slim 3 para estudos cai 36% com nosso cupom exclusivo",
-      "link": "https://tecnoblog.net/achados/lenovo-ideapad-slim-3-para-estudos-cai-36-com-nosso-cupom-exclusivo/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Intel Core i3",
-          "LCD",
-          "Lenovo",
-          "Notebook",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-07T23:23:57.857Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 15 sai quase pela metade do preço em oferta no Mercado Livre",
-      "summary": "iPhone 15 (128 GB) traz tela OLED de 2.000 nits e câmera de 48 MP; celular da Apple recebe desconto de 48% sobre o preço original em oferta no Pix iPhone 15 sai quase pela metade do preço em oferta no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/iphone-15-sai-quase-pela-metade-do-preco-em-oferta-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "iPhone 15",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-07T23:23:58.097Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 70 (512 GB) tem oferta histórica em 12x sem juros na Amazon",
-      "summary": "Motorola Edge 70 com câmeras de 50 MP e tela POLED de 4.500 nits atinge o menor preço histórico; dispositivo tem desconto de 58% em promoção parcelada e com cupom Motorola Edge 70 (512 GB) tem oferta histórica em 12x sem juros na Amazon",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-512-gb-tem-oferta-historica-em-12x-sem-juros-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Motorola",
-          "Motorola Edge 70"
-        ]
-      },
-      "timestamp": "2026-10-07T23:23:58.360Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Mundo deveria aceitar “algumas coisas ruins” da IA, diz Altman",
-      "summary": "CEO da OpenAI afirma que erradicar totalmente golpes e invasões limitaria o potencial da tecnologia. Mundo deveria aceitar “algumas coisas ruins” da IA, diz Altman",
-      "link": "https://tecnoblog.net/noticias/mundo-deveria-aceitar-algumas-coisas-ruins-da-ia-diz-altman/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)",
-          "OpenAI",
-          "Sam Altman"
-        ]
-      },
-      "timestamp": "2026-10-07T23:23:58.605Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 17 (512 GB) com tela de 120 Hz registra queda de preço em oferta",
-      "summary": "iPhone 17 (512 GB) com tela OLED de 120 Hz e câmeras de 48 MP alcança preço abaixo da média recente, com desconto de 35% no Pix em promoção da Amazon iPhone 17 (512 GB) com tela de 120 Hz registra queda de preço em oferta",
-      "link": "https://tecnoblog.net/achados/iphone-17-512-gb-com-tela-de-120-hz-registra-queda-de-preco-em-oferta/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "iPhone 17",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-07T23:23:58.895Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Google libera detector de IA para qualquer pessoa",
       "summary": "SynthID Detector verifica se arquivos contêm marcas d'água de IA. A novidade analisa imagens, vídeos e áudios. Google libera detector de IA para qualquer pessoa",
       "link": "https://tecnoblog.net/noticias/google-libera-detector-de-ia-para-qualquer-pessoa/",
@@ -7986,6 +7907,92 @@
         ]
       },
       "timestamp": "2026-11-06T21:56:12.370Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft quer patentear IA que altera falas ao vivo",
+      "summary": "Sistema poderia traduzir discursos e substituir palavras com poucos segundos de atraso e sincronia labial. Microsoft quer patentear IA que altera falas ao vivo",
+      "link": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Inteligência Artificial (IA)",
+          "Microsoft"
+        ]
+      },
+      "timestamp": "2026-11-07T01:28:04.888Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft Paint tem falha grave que permite ataques remotos",
+      "summary": "Microsoft já liberou uma correção para o Paint, mas talvez você tenha que ir atrás dela. Microsoft Paint tem falha grave que permite ataques remotos",
+      "link": "https://tecnoblog.net/noticias/microsoft-paint-tem-falha-grave-que-permite-ataques-remotos/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Microsoft",
+          "Microsoft Paint",
+          "Microsoft Store",
+          "Windows 11"
+        ]
+      },
+      "timestamp": "2026-11-07T01:28:05.154Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Após supermercados, hackers atacam freezers de bancos de sangue na França",
+      "summary": "Invasores alteraram remotamente a temperatura de equipamentos que armazenavam plasma e amostras. Após supermercados, hackers atacam freezers de bancos de sangue na França",
+      "link": "https://tecnoblog.net/noticias/apos-supermercados-hackers-atacam-freezers-de-bancos-de-sangue-na-franca/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Ciberataque",
+          "cibersegurança",
+          "França",
+          "Hackers"
+        ]
+      },
+      "timestamp": "2026-11-07T01:28:05.427Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Tesla vai sacrificar Cybertruck para fabricar mais robotáxis",
+      "summary": "Picape terá produção reduzida no Texas a partir de 2027, após vendas muito abaixo do esperado. Fábrica será destinada ao Cybercab, veículo autônomo da marca. Tesla vai sacrificar Cybertruck para fabricar mais robotáxis",
+      "link": "https://tecnoblog.net/noticias/tesla-vai-sacrificar-cybertruck-para-fabricar-mais-robotaxis/",
+      "meta": {
+        "categorias": [
+          "Mobilidade",
+          "carros elétricos",
+          "Cybercab",
+          "Cybertruck",
+          "Elon Musk",
+          "fábrica",
+          "mobilidade",
+          "Pickup truck",
+          "robotáxis",
+          "Tesla",
+          "Tesla Cybercab",
+          "Texas",
+          "Veículos Autônomos"
+        ]
+      },
+      "timestamp": "2026-11-07T01:28:05.681Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "AMD agora prioriza data centers; mas e os jogos e os PCs?",
+      "summary": "Aplicações de IA aumentaram demanda por data centers que, por sua vez, agora são principal fonte de receita para a AMD. AMD agora prioriza data centers; mas e os jogos e os PCs?",
+      "link": "https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "AMD",
+          "CEO",
+          "Lisa Su",
+          "PC"
+        ]
+      },
+      "timestamp": "2026-11-07T01:28:05.951Z"
     }
   ]
 }
