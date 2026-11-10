@@ -7328,6 +7328,96 @@
         ]
       },
       "timestamp": "2026-11-09T20:05:35.404Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "PCs com 32 GB e 64 GB de RAM recuam pela primeira vez",
+      "summary": "Dados do CPU-Z mostram queda nas configurações de maior capacidade em meio à alta dos preços da memória. PCs com 32 GB e 64 GB de RAM recuam pela primeira vez",
+      "link": "https://tecnoblog.net/noticias/pcs-com-32-gb-e-64-gb-de-ram-recuam-pela-primeira-vez/",
+      "meta": {
+        "categorias": [
+          "Hardware e Componentes",
+          "AMD",
+          "CPU-Z",
+          "Data center",
+          "DDR4",
+          "DDR5",
+          "Hardware",
+          "Intel",
+          "inteligência artificial",
+          "Memória RAM",
+          "PCs"
+        ]
+      },
+      "timestamp": "2026-11-10T02:41:50.985Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nova tendência? Jovi pode seguir Huawei e apostar em celular mais largo",
+      "summary": "Fabricante estaria desenvolvendo smartphone convencional com proporções próximas às telas externas de novos dobráveis. Nova tendência? Jovi pode seguir Huawei e apostar em celular mais largo",
+      "link": "https://tecnoblog.net/noticias/nova-tendencia-jovi-pode-seguir-huawei-e-apostar-em-celular-mais-largo/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Huawei",
+          "Jovi",
+          "Vivo (fabricante de celular)"
+        ]
+      },
+      "timestamp": "2026-11-10T02:41:51.242Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Edge 70 Fusion com 12 GB de RAM sai mais barato com cupom na Black November",
+      "summary": "Edge 70 Fusion (256 GB) tem tela de 144 Hz e 12 GB de RAM; celular da Motorola sai por menos da metade do preço no Pix com cupom no Mercado Livre Edge 70 Fusion com 12 GB de RAM sai mais barato com cupom na Black November",
+      "link": "https://tecnoblog.net/achados/edge-70-fusion-com-12-gb-de-ram-sai-mais-barato-com-cupom-na-black-november/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 70 Fusion",
+          "Pix",
+          "Sony"
+        ]
+      },
+      "timestamp": "2026-11-10T02:41:51.521Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Linus Torvalds já vê “paz” entre Linux e ferramentas de IA que caçam bugs",
+      "summary": "Linus Torvalds relatou que, em alguns pontos do Linux, o número de correções começou a superar os relatórios de bugs gerados por IA. Linus Torvalds já vê “paz” entre Linux e ferramentas de IA que caçam bugs",
+      "link": "https://tecnoblog.net/noticias/linus-torvalds-ja-ve-paz-entre-linux-e-ferramentas-de-ia-que-cacam-bugs/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Inteligência Artificial (IA)",
+          "Linus Torvalds",
+          "Linux"
+        ]
+      },
+      "timestamp": "2026-11-10T02:41:51.819Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Garmin Forerunner 265 armazena músicas e surge em queda por 10x sem juros",
+      "summary": "Garmin Forerunner 265 (46 mm) armazena músicas localmente e tem ampla bateria; smartwatch sai 36% mais barato no prazo em oferta da Amazon no mês da Black Friday Garmin Forerunner 265 armazena músicas e surge em queda por 10x sem juros",
+      "link": "https://tecnoblog.net/achados/garmin-forerunner-265-armazena-musicas-e-surge-em-queda-por-10x-sem-juros/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "Amazon",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Garmin",
+          "Garmin Forerunner 265"
+        ]
+      },
+      "timestamp": "2026-11-10T02:41:52.065Z"
     }
   ]
 }
