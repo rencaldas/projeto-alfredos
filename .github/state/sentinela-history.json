@@ -213,6 +213,8 @@
     "update|rencaldas/hyperframes-jpix|npm|unicode-properties|1.4.1|2.0.2",
     "update|rencaldas/hyperframes-jpix|npm|unicode-trie|2.0.0|3.0.0",
     "update|rencaldas/hyperframes-jpix|npm|wrap-ansi|9.0.2|10.0.2",
-    "update|rencaldas/hyperframes-jpix|npm|wsl-utils|0.1.0|1.0.1"
+    "update|rencaldas/hyperframes-jpix|npm|wsl-utils|0.1.0|1.0.1",
+    "update|rencaldas/hyperframes-jpix|npm|chromium-bidi|157.0.8090-0|159.0.8154-0",
+    "update|rencaldas/ideal-marketplace-project|Packagist|laravel/framework|v12.69.2|13.42.0"
   ]
 }
