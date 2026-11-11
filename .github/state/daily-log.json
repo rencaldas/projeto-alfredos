@@ -2,108 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Notebooks devem ficar mais caros em 2027, aponta relatório",
-      "summary": "TrendForce relaciona aumento de preços causado por encarecimento de componentes e menor demanda de computadores. Notebooks devem ficar mais caros em 2027, aponta relatório",
-      "link": "https://tecnoblog.net/noticias/notebooks-devem-ficar-mais-caros-em-2027-aponta-relatorio/",
-      "meta": {
-        "categorias": [
-          "Hardware e Componentes",
-          "Apple",
-          "CPU",
-          "RAM",
-          "Samsung",
-          "SSD",
-          "TrendForce",
-          "TrendForce Corp."
-        ]
-      },
-      "timestamp": "2026-10-12T17:52:22.176Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple deve lançar smart hub; veja o que esperar de evento",
-      "summary": "Empresa deve trazer produtos focados em casa conectada feitos em parceria com a LG, além de atualizar sua linha de dispositivos integrados à Siri AI. Apple deve lançar smart hub; veja o que esperar de evento",
-      "link": "https://tecnoblog.net/noticias/apple-deve-lancar-smart-hub-veja-o-que-esperar-de-evento/",
-      "meta": {
-        "categorias": [
-          "Casa Conectada e IoT",
-          "Alexa",
-          "Amazon",
-          "Apple",
-          "Apple Intelligence",
-          "Apple TV 4K",
-          "HomeKit",
-          "HomePod Mini",
-          "iMac G4",
-          "LG",
-          "rumor"
-        ]
-      },
-      "timestamp": "2026-10-12T17:52:22.467Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "LineageOS 24.0 é lançado com Android 17 e novo visual; veja mais novidades",
-      "summary": "LineageOS 24.0 está sendo liberado gradualmente para diversos celulares. Lista inclui modelos da Samsung, Motorola e Xiaomi. LineageOS 24.0 é lançado com Android 17 e novo visual; veja mais novidades",
-      "link": "https://tecnoblog.net/noticias/lineageos-24-0-e-lancado-com-android-17-e-novo-visual-veja-mais-novidades/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Android",
-          "Android 17",
-          "LineageOS",
-          "Motorola",
-          "Samsung",
-          "Xiaomi"
-        ]
-      },
-      "timestamp": "2026-10-12T17:52:22.756Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Um pornozinho de noite e uma cobrança de R$ 15 mil",
-      "summary": "Produtoras de conteúdo adulto do Japão enviam notificações para usuários de BitTorrent. Um pornozinho de noite e uma cobrança de R$ 15 mil",
-      "link": "https://tecnoblog.net/noticias/um-pornozinho-de-noite-e-uma-cobranca-de-r-15-mil/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Japão",
-          "Tóquio",
-          "Torrent"
-        ]
-      },
-      "timestamp": "2026-10-12T17:52:23.048Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nintendo contraria Sony e diz que não tem planos de abandonar jogos físicos",
-      "summary": "“Sabemos o quanto os fãs gostam”, afirma executivo. Nintendo contraria Sony e diz que não tem planos de abandonar jogos físicos",
-      "link": "https://tecnoblog.net/noticias/nintendo-contraria-sony-e-diz-que-nao-tem-planos-de-abandonar-jogos-fisicos/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "América Latina",
-          "Bill Van Zyll",
-          "Nintendo",
-          "Nintendo Switch 2"
-        ]
-      },
-      "timestamp": "2026-10-12T17:52:23.353Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: pestphp/pest (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v4.7.8 → versão mais recente 5.3.2 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-12T18:17:32.960Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Brasileiros já criaram 1 bilhão de chaves Pix; a maioria é aleatória",
       "summary": "Chaves aleatórias representam mais de metade dos cadastros no Pix. CPF e celular correspondem a 15,3% e 16,5% das chaves, respectivamente. Brasileiros já criaram 1 bilhão de chaves Pix; a maioria é aleatória",
       "link": "https://tecnoblog.net/noticias/brasileiros-ja-criaram-1-bilhao-de-chaves-pix-a-maioria-e-aleatoria/",
@@ -8011,6 +7909,102 @@
         ]
       },
       "timestamp": "2026-11-11T17:26:44.909Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Dois terços das empresas investem em IA sem calcular o retorno financeiro",
+      "summary": "Ainda assim, perspectiva é positiva para 67% das companhias do Brasil. Dois terços das empresas investem em IA sem calcular o retorno financeiro",
+      "link": "https://tecnoblog.net/noticias/dois-tercos-das-empresas-investem-em-ia-sem-calcular-o-retorno-financeiro/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Accenture",
+          "Avanade",
+          "Inteligência Artificial (IA)",
+          "Microsoft"
+        ]
+      },
+      "timestamp": "2026-11-11T23:34:44.551Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Cupons do 11.11 no AliExpress: veja como conseguir até R$ 750 OFF",
+      "summary": "11.11 do AliExpress traz cupons de até 20% em Sony, Nintendo, Samsung e outras marcas; veja como aplicar e onde encontrar as melhores ofertas Cupons do 11.11 no AliExpress: veja como conseguir até R$ 750 OFF",
+      "link": "https://tecnoblog.net/achados/cupons-do-11-11-no-aliexpress-veja-como-conseguir-ate-r-750-off/",
+      "meta": {
+        "categorias": [
+          "Internet",
+          "11.11",
+          "AliExpress",
+          "Black November 2026",
+          "Nintendo",
+          "Samsung",
+          "Sony"
+        ]
+      },
+      "timestamp": "2026-11-11T23:34:44.809Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Starlink Mini 2 chega com bateria para até 4,5 horas de uso",
+      "summary": "Nova antena portátil da SpaceX tem bateria removível e carregamento USB-C, mas ainda não tem previsão de lançamento no Brasil. Starlink Mini 2 chega com bateria para até 4,5 horas de uso",
+      "link": "https://tecnoblog.net/noticias/starlink-mini-2-chega-com-bateria-para-ate-45-horas-de-uso/",
+      "meta": {
+        "categorias": [
+          "Gadgets",
+          "Bateria",
+          "Brasil",
+          "Elon Musk",
+          "Internet via Satélite",
+          "SpaceX",
+          "Starlink",
+          "Starlink Mini",
+          "telecomunicações",
+          "Wi-Fi 6"
+        ]
+      },
+      "timestamp": "2026-11-11T23:34:45.067Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "11.11: iPhone 17 (256 GB) registra alta queda de preço na Amazon",
+      "summary": "iPhone 17 (256 GB) traz câmeras de 48 MP e tela OLED de 120 Hz; celular custo-benefício da Apple sai 36% mais em conta em oferta no Pix 11.11: iPhone 17 (256 GB) registra alta queda de preço na Amazon",
+      "link": "https://tecnoblog.net/achados/11-11-iphone-17-256-gb-registra-alta-queda-de-preco-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "11.11",
+          "Amazon",
+          "Apple",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "iPhone 17",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-11T23:34:45.325Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 Ultra tem mega oferta em até 12x sem juros no 11.11",
+      "summary": "Galaxy S25 Ultra (256 GB) com câmera de 200 MP e chip Snapdragon de ponta atinge 62% OFF em oferta com parcelamento graças a cupom de R$ 750 no AliExpress Galaxy S25 Ultra tem mega oferta em até 12x sem juros no 11.11",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-tem-preco-imbativel-com-cupom-de-r-500-off-no-11-11/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "11.11",
+          "Amazon",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Galaxy S25 Ultra",
+          "Pix",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-11-11T23:34:45.583Z"
     }
   ]
 }
