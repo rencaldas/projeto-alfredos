@@ -7878,6 +7878,54 @@
         ]
       },
       "timestamp": "2026-11-11T09:38:33.719Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: chromium-bidi (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 157.0.8090-0 → versão mais recente 160.0.8155-0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-11T16:42:04.848Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: string-width (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 7.2.0 → versão mais recente 9.0.0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-11T16:42:04.848Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: string-width (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 8.3.0 → versão mais recente 9.0.0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-11T16:42:04.848Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/tinker (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v2.11.1 → versão mais recente 3.1.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-11T16:42:04.848Z"
     }
   ]
 }
