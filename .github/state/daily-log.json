@@ -2,92 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "IA tem menos regras que uma caixa de leite, diz Microsoft",
-      "summary": "Presidente Brad Smith compara IAs a produtos cotidianos, enquanto CEO Satya Nadella defende um “freio de emergência” para interromper modelos. IA tem menos regras que uma caixa de leite, diz Microsoft",
-      "link": "https://tecnoblog.net/noticias/ia-tem-menos-regras-que-uma-caixa-de-leite-diz-microsoft/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Brad Smith",
-          "Inteligência Artificial (IA)",
-          "Microsoft"
-        ]
-      },
-      "timestamp": "2026-10-13T18:51:14.143Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Funcionária é demitida após recusar “sentinela” que tira foto a cada 3 minutos",
-      "summary": "Monitoramento com IA previa até 160 fotos por dia durante o trabalho no home office. Caso deu origem a processo judicial nos EUA. Funcionária é demitida após recusar “sentinela” que tira foto a cada 3 minutos",
-      "link": "https://tecnoblog.net/noticias/funcionaria-e-demitida-apos-recusar-sentinela-que-tira-foto-a-cada-3-minutos/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Estados Unidos (EUA)",
-          "home office",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Monitoramento",
-          "Nova Jersey",
-          "Privacidade",
-          "Trabalho remoto",
-          "Webcam"
-        ]
-      },
-      "timestamp": "2026-10-13T18:51:14.447Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Meta lança o Muse Wonder, sua IA mais avançada até agora",
-      "summary": "Novos modelos focam em agentes capazes de lembrar informações, usar computadores e executar tarefas. Meta lança o Muse Wonder, sua IA mais avançada até agora",
-      "link": "https://tecnoblog.net/noticias/meta-lanca-o-muse-wonder-sua-ia-mais-avancada-ate-agora/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Agentes de IA",
-          "IA",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Meta",
-          "Meta AI",
-          "Muse",
-          "Muse Wonder"
-        ]
-      },
-      "timestamp": "2026-10-13T18:51:14.696Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S25 (256 GB) surge com 50% OFF em até 12x sem juros na Amazon",
-      "summary": "Galaxy S25 (256 GB) tem chip Snapdragon de ponta e 12 GB de RAM; premium da Samsung sai pela metade do preço em rara oferta no prazo Galaxy S25 (256 GB) surge com 50% OFF em até 12x sem juros na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-256-gb-surge-com-50-off-em-ate-12x-sem-juros-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Samsung",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-10-13T18:51:14.935Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple lança HomeView, tela inteligente para controlar a casa",
-      "summary": "Dispositivo de 7 polegadas reúne FaceTime, música e automação residencial. Empresa também apresentou acessórios para casa conectada em parceria com a LG. Apple lança HomeView, tela inteligente para controlar a casa",
-      "link": "https://tecnoblog.net/noticias/apple-lanca-homeview-tela-inteligente-para-controlar-a-casa/",
-      "meta": {
-        "categorias": [
-          "Casa Conectada e IoT",
-          "Apple",
-          "LG",
-          "retina"
-        ]
-      },
-      "timestamp": "2026-10-13T18:51:15.175Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Motorola Edge 60 (512 GB) tem 12 GB de RAM e cai 46% com cupom",
       "summary": "Edge 60 (512 GB) traz 12 GB de RAM e câmeras de 50 MP; celular da Motorola sai por quase metade do preço original, no Pix com cupom no Mercado Livre Motorola Edge 60 (512 GB) tem 12 GB de RAM e cai 46% com cupom",
       "link": "https://tecnoblog.net/achados/motorola-edge-60-512-gb-tem-12-gb-de-ram-e-cai-46-com-cupom/",
@@ -8078,6 +7992,99 @@
         "repositorio": "rencaldas/ideal-marketplace-project"
       },
       "timestamp": "2026-11-12T17:10:57.300Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Z Fold 8 tem melhor oferta já vista no 11.11 e novo design é destaque",
+      "summary": "Galaxy Z Fold 8 (256 GB) com tela AMOLED flexível e câmera de 50 MP atinge o menor preço que já vimos, com desconto de 18% no Pix com cupom na Amazon durante o 11.11 Galaxy Z Fold 8 tem melhor oferta já vista no 11.11 e novo design é destaque",
+      "link": "https://tecnoblog.net/achados/galaxy-z-fold-8-tem-melhor-oferta-ja-vista-no-11-11-e-novo-design-e-destaque/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "11.11",
+          "Amazon",
+          "AMOLED",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Galaxy Z Fold 8",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-11-12T20:25:36.955Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Muito barato: Galaxy A37 atinge 62% OFF histórico no 11.11",
+      "summary": "Galaxy A37 (128 GB) tem câmera de 50 MP e tela Super AMOLED de 120 Hz; celular da Samsung alcança o menor preço histórico, com desconto de 62% no Pix com cupom no Magalu Muito barato: Galaxy A37 atinge 62% OFF histórico no 11.11",
+      "link": "https://tecnoblog.net/achados/muito-barato-galaxy-a37-atinge-62-off-historico-no-11-11/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "11.11",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Galaxy A37",
+          "Magazine Luiza",
+          "Pix",
+          "Samsung",
+          "Samsung Galaxy A37 5G",
+          "Super AMOLED"
+        ]
+      },
+      "timestamp": "2026-11-12T20:25:37.305Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "11.11: Galaxy S26 Ultra tem maior queda desde o Prime Day 2026",
+      "summary": "Galaxy S26 (256 GB) tem câmera de 200 MP e tela à prova de espiadinhas; topo de linha da Samsung atinge o menor preço em meses durante o 11.11 com cupom 11.11: Galaxy S26 Ultra tem maior queda desde o Prime Day 2026",
+      "link": "https://tecnoblog.net/achados/11-11-galaxy-s26-ultra-tem-maior-queda-desde-o-prime-day-2026/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "11.11",
+          "AMOLED",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Galaxy S26 Ultra",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-11-12T20:25:37.623Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apple vai encerrar Comunidade de Suporte após 28 anos",
+      "summary": "Plataforma já deixou de aceitar novas publicações e será desativada definitivamente em 20 de novembro. Apple vai encerrar Comunidade de Suporte após 28 anos",
+      "link": "https://tecnoblog.net/noticias/apple-vai-encerrar-comunidade-de-suporte-apos-28-anos/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "Apple"
+        ]
+      },
+      "timestamp": "2026-11-12T20:25:37.921Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy Watch 9 tem promoção histórica com 50% OFF no 11.11 do Mercado Livre",
+      "summary": "Galaxy Watch 9 BT (40 mm) sai pela metade do preço com cupom relâmpago; relógio inteligente da Samsung tem processador Snapdragon e monitora treinos e saúde Galaxy Watch 9 tem promoção histórica com 50% OFF no 11.11 do Mercado Livre",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-9-tem-promocao-historica-com-50-off-no-11-11-do-mercado-livre/",
+      "meta": {
+        "categorias": [
+          "Wearables",
+          "11.11",
+          "Black November 2026",
+          "Galaxy Watch 9",
+          "Mercado Livre",
+          "Pix",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-11-12T20:25:38.221Z"
     }
   ]
 }
