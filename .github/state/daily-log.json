@@ -2,169 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Como escolher o melhor eSIM para ter internet móvel na sua Eurotrip",
-      "summary": "Chip deve ter cobertura suficiente para sua viagem, além de um bom volume de dados para não ficar na mão durante o passeio. Como escolher o melhor eSIM para ter internet móvel na sua Eurotrip",
-      "link": "https://tecnoblog.net/publieditoriais/como-escolher-o-melhor-esim-para-ter-internet-movel-na-sua-eurotrip/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Android",
-          "eSIM",
-          "Europa",
-          "iOS",
-          "iPhone",
-          "Orange Travel"
-        ]
-      },
-      "timestamp": "2026-10-14T12:32:00.634Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Governo publica medida provisória para combater golpes em ligações",
-      "summary": "Novidade acelera regulamentação anti-spam prevista pela Anatel e prevê autenticação de chamadas por parte das operadoras. Governo publica medida provisória para combater golpes em ligações",
-      "link": "https://tecnoblog.net/noticias/governo-publica-medida-provisoria-para-combater-golpes-em-ligacoes/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Anatel",
-          "Anti-spam",
-          "STIR/SHAKEN",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-10-14T12:32:00.875Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Entenda a “explosão” de jailbreaks e pirataria no PS5",
-      "summary": "Casos recentes mostram app no console com jogos gratuitos, acesso a games do Xbox Game Pass e até emulador do PlayStation para PCs. Entenda a “explosão” de jailbreaks e pirataria no PS5",
-      "link": "https://tecnoblog.net/noticias/entenda-a-explosao-de-jailbreaks-e-pirataria-no-ps5/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Astro Bot",
-          "Call of Duty",
-          "Claude Opus 5.5",
-          "Fallout",
-          "GitHub",
-          "GTA: Vice City",
-          "Inteligência Artificial (IA)",
-          "Playstation",
-          "PlayStation 5 (PS5)",
-          "PS2",
-          "PS3",
-          "PS5",
-          "Reddit",
-          "Sony",
-          "X/Twitter",
-          "Xbox",
-          "Xbox Game Pass",
-          "Xbox Series X"
-        ]
-      },
-      "timestamp": "2026-10-14T12:32:01.125Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Xiaomi lança Redmi Watch 6 Lite e Active no Brasil",
-      "summary": "Novos smartwatches têm telas Amoled, chamadas por Bluetooth e bateria de até 18 dias. Xiaomi lança Redmi Watch 6 Lite e Active no Brasil",
-      "link": "https://tecnoblog.net/noticias/xiaomi-lanca-redmi-watch-6-lite-e-active-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "AMOLED",
-          "Brasil",
-          "Xiaomi"
-        ]
-      },
-      "timestamp": "2026-10-14T12:32:01.375Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/console (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.9 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-14T14:07:02.684Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/http-foundation (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.9 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-14T14:07:02.684Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/http-kernel (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.9 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-14T14:07:02.684Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/process (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.19 → versão mais recente 8.1.9 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-14T14:07:02.684Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/routing (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.9 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-14T14:07:02.684Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/uid (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.17 → versão mais recente 8.1.9 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-14T14:07:02.684Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: symfony/var-dumper (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v7.4.18 → versão mais recente 8.1.9 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-14T14:07:02.684Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "“Black” da 99 terá carros melhores e água de cortesia",
       "summary": "Executivo promete preço menor que na Uber. “Black” da 99 terá carros melhores e água de cortesia",
       "link": "https://tecnoblog.net/noticias/black-da-99-comeca-em-outubro/",
@@ -8034,6 +7871,100 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6af5f33e49913.jpg"
       },
       "timestamp": "2026-11-13T08:50:37.458Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Black November: Motorola Edge 70 (512 GB) com cristais Swarovski tem 54% OFF",
+      "summary": "Motorola Edge 70 (512 GB) com 14 cristais Swarovski e tela POLED de 120 Hz volta a atingir o 2.º menor preço que já vimos, com desconto de 54% no Pix na Amazon Black November: Motorola Edge 70 (512 GB) com cristais Swarovski tem 54% OFF",
+      "link": "https://tecnoblog.net/achados/black-november-motorola-edge-70-512-gb-com-cristais-swarovski-tem-54-off/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Motorola",
+          "Motorola Edge 70",
+          "Pix",
+          "Swarovski"
+        ]
+      },
+      "timestamp": "2026-11-13T16:22:58.646Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalos",
+      "summary": "Cofundador deixa o comando da empresa após denúncias de casos extraconjugais e investigação sobre possível espionagem. Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalos",
+      "link": "https://tecnoblog.net/noticias/nvidia-avalia-demissao-de-jensen-huang-apos-novas-denuncias/",
+      "meta": {
+        "categorias": [
+          "Negócios e Mercado",
+          "CEO",
+          "China",
+          "Espionagem",
+          "Estados Unidos",
+          "inteligência artificial",
+          "Jensen Huang",
+          "mercado financeiro",
+          "Nvidia",
+          "Semicondutores",
+          "Tecnologia"
+        ]
+      },
+      "timestamp": "2026-11-13T16:22:58.926Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Senado vai fornecer iPhones 18 Pro a senadores em contrato de R$ 6 milhões",
+      "summary": "Pregão Eletrônico prevê comodato de 95 unidades do iPhone 18 Pro para senadores e diretores. Licitação também inclui 330 celulares Android a servidores. Senado vai fornecer iPhones 18 Pro a senadores em contrato de R$ 6 milhões",
+      "link": "https://tecnoblog.net/noticias/senado-vai-fornecer-iphones-18-pro-a-senadores-em-contrato-de-r-6-milhoes/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "iPhone 18 Pro",
+          "Senado Federal"
+        ]
+      },
+      "timestamp": "2026-11-13T16:22:59.204Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Signature despenca 50% com cupom exclusivo na Black da Amazon",
+      "summary": "Motorola Signature (512 GB) com tela AMOLED de 165 Hz e câmeras de 50 MP fica pela metade do preço no Pix com cupom, em oferta da Black November 2026 Motorola Signature despenca 50% com cupom exclusivo na Black da Amazon",
+      "link": "https://tecnoblog.net/achados/motorola-signature-despenca-50-com-cupom-exclusivo-na-black-da-amazon/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "AMOLED",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Motorola Signature",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-13T16:22:59.475Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Moto G86 (256 GB) cai ao menor preço dos últimos meses na Black November",
+      "summary": "Moto G86 (256 GB) traz câmera wide de 50 MP e tela POLED de 120 Hz; celular acessível da Motorola sai 42% mais em conta no Pix em oferta da Amazon Moto G86 (256 GB) cai ao menor preço dos últimos meses na Black November",
+      "link": "https://tecnoblog.net/achados/moto-g86-256-gb-cai-ao-menor-preco-dos-ultimos-meses-na-black-november/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Mercado Livre",
+          "Moto G86",
+          "Motorola",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-13T16:22:59.744Z"
     }
   ]
 }
