@@ -2,133 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Xbox anuncia o controle compacto que nós revelamos em primeira mão",
-      "summary": "Nano Controller da Microsoft chega ao Brasil em novembro por R$ 379. Tecnoblog obteve imagens do produto em maio. Xbox anuncia o controle compacto que nós revelamos em primeira mão",
-      "link": "https://tecnoblog.net/noticias/xbox-anuncia-o-controle-compacto-que-nos-revelamos-em-primeira-mao/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Brasil",
-          "Microsoft",
-          "Xbox",
-          "Xbox Cloud Gaming"
-        ]
-      },
-      "timestamp": "2026-10-14T23:35:40.742Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Meta AI barra Lula, mas gera imagens com referência a Flávio",
-      "summary": "Empresa trabalha para implementar novos filtros em sistema de inteligência artificial. Meta AI barra Lula, mas gera imagens com referência a Flávio",
-      "link": "https://tecnoblog.net/noticias/meta-ai-barra-lula-mas-gera-imagens-com-referencia-a-flavio/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Flávio Bolsonaro",
-          "Lula",
-          "Meta",
-          "Meta AI",
-          "Palácio do Planalto",
-          "WhatsApp"
-        ]
-      },
-      "timestamp": "2026-10-14T23:35:41.051Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Notebook Acer Aspire 5 com RAM de 16 GB cai 45% em até 12x sem juros",
-      "summary": "Acer Aspire 5 oferece bom desempenho para tarefas do cotidiano; oferta exclusiva Amazon Prime reduz preço quase pela metade Notebook Acer Aspire 5 com RAM de 16 GB cai 45% em até 12x sem juros",
-      "link": "https://tecnoblog.net/achados/notebook-acer-aspire-5-com-ram-de-16-gb-cai-45-em-ate-12x-sem-juros/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Acer Aspire",
-          "Amazon",
-          "Notebook Acer Aspire 5",
-          "Prime Video"
-        ]
-      },
-      "timestamp": "2026-10-14T23:35:41.361Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como escanear o QR code do WhatsApp Web para entrar na sua conta",
-      "summary": "O WhatsApp Web possibilita usar o mensageiro diretamente pelo navegador do PC, simplificando o acesso às conversas com os contatos em uma tela maior Como escanear o QR code do WhatsApp Web para entrar na sua conta",
-      "link": "https://tecnoblog.net/responde/whatsapp-web-escanear-codigo-qr/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Android",
-          "Câmera",
-          "iPhone",
-          "QR Code",
-          "WhatsApp",
-          "WhatsApp Web"
-        ]
-      },
-      "timestamp": "2026-10-14T23:35:41.665Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S11 tem oferta para quem busca tablet para jogos",
-      "summary": "Galaxy Tab S11 leva tela AMOLED de 120 Hz, 12 GB de RAM e GPU com ray tracing para gráficos mais realistas; tablet premium da Samsung sai com 32% OFF no Mercado Livre Galaxy Tab S11 tem oferta para quem busca tablet para jogos",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-tem-oferta-para-quem-busca-tablet-para-jogos/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "AMOLED",
-          "Mercado Livre",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy Tab S11"
-        ]
-      },
-      "timestamp": "2026-10-14T23:35:41.980Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Netflix demite 1.000 funcionários em maior corte desde 2022",
-      "summary": "Redução atinge áreas de produto, tecnologia, jurídico e RH. Empresa cita foco estratégico. Netflix demite 1.000 funcionários em maior corte desde 2022",
-      "link": "https://tecnoblog.net/noticias/netflix-demite-1-000-funcionarios-em-maior-corte-desde-2022/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Netflix"
-        ]
-      },
-      "timestamp": "2026-10-15T01:49:03.582Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Meta confirma roubo de código e dados pessoais no GitHub",
-      "summary": "Incidente afetou cerca de 1.500 pessoas, principalmente funcionários nos EUA; empresa não detalhou dados pessoais expostos. Meta confirma roubo de código e dados pessoais no GitHub",
-      "link": "https://tecnoblog.net/noticias/meta-confirma-roubo-de-codigo-e-dados-pessoais-no-github/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Estados Unidos (EUA)",
-          "GitHub",
-          "Meta",
-          "Vazamento de dados"
-        ]
-      },
-      "timestamp": "2026-10-15T01:49:03.841Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Review do Motorola Edge 70: equilíbrio para o dia a dia",
-      "summary": "Celular intermediário da Motorola se destaca pela resistência, tela de qualidade e design ultrafino; confira a análise completa Review do Motorola Edge 70: equilíbrio para o dia a dia",
-      "link": "https://tecnoblog.net/testamos/review-do-motorola-edge-70-equilibrio-para-o-dia-a-dia/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Motorola"
-        ]
-      },
-      "timestamp": "2026-10-15T01:49:04.091Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Tem eletrônico parado? Correios agora fazem o descarte gratuito",
       "summary": "Estatal vai descartar seu lixo eletrônico gratuitamente e de maneira correta. Iniciativa fica disponível em mais de 6 mil agências pelo país. Tem eletrônico parado? Correios agora fazem o descarte gratuito",
       "link": "https://tecnoblog.net/noticias/tem-eletronico-parado-correios-agora-fazem-o-descarte-gratuito/",
@@ -7938,6 +7811,91 @@
         ]
       },
       "timestamp": "2026-11-13T22:02:24.528Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Alerta: vazamento na Caixa expõe dados de 7,6 milhões de clientes",
+      "summary": "Dados como nome, CPF, e-mail e telefone de clientes vazaram em invasão à Caixa Vida e Previdência. Alerta: vazamento na Caixa expõe dados de 7,6 milhões de clientes",
+      "link": "https://tecnoblog.net/noticias/alerta-vazamento-na-caixa-expoe-dados-de-76-milhoes-de-clientes/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Caixa Econômica Federal",
+          "Caixa Seguridade"
+        ]
+      },
+      "timestamp": "2026-11-14T02:21:10.444Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Outlook fora do ar: e-mails começam a voltar após horas de pane",
+      "summary": "Microsoft atribuiu apagão a uma atualização da capacidade da rede e descartou relação com sistemas de IA. Outlook fora do ar: e-mails começam a voltar após horas de pane",
+      "link": "https://tecnoblog.net/noticias/outlook-fica-fora-do-ar-e-dificulta-acesso-a-e-mails/",
+      "meta": {
+        "categorias": [
+          "Internet",
+          "fora do ar",
+          "Microsoft",
+          "Microsoft 365",
+          "Microsoft Defender",
+          "Microsoft Outlook",
+          "Microsoft Teams",
+          "Outlook"
+        ]
+      },
+      "timestamp": "2026-11-14T02:21:10.752Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft reconhece bug que impede atualização do Windows",
+      "summary": "Erro afeta a instalação do pacote de segurança de novembro nas versões 24H2, 25H2 e 26H2. Microsoft reconhece bug que impede atualização do Windows",
+      "link": "https://tecnoblog.net/noticias/microsoft-reconhece-bug-que-impede-atualizacao-do-windows/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Microsoft",
+          "Windows",
+          "Windows 11",
+          "Windows Update"
+        ]
+      },
+      "timestamp": "2026-11-14T02:21:11.053Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Custo-benefício: iPhone 17e chega a 33% OFF em até 12x no mês da Black Friday",
+      "summary": "Celular da Apple lançado em 2026 alia desempenho sólido a um preço mais competitivo. Oferta da loja Magalu Oficial concede parcelamento em 12x sem juros Custo-benefício: iPhone 17e chega a 33% OFF em até 12x no mês da Black Friday",
+      "link": "https://tecnoblog.net/achados/custo-beneficio-iphone-17e-chega-a-33-off-em-ate-12x-no-mes-da-black-friday/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AliExpress",
+          "Apple",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "iPhone 17e",
+          "Magazine Luiza"
+        ]
+      },
+      "timestamp": "2026-11-14T02:21:11.362Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "summary": "Novo modelo substitui o Gemini 3.8 Flash e chega gratuitamente ao aplicativo Gemini e à Busca do Google. Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "link": "https://tecnoblog.net/noticias/gemini-4-hydrogen-e-o-novo-modelo-do-google-para-tarefas-do-dia-a-dia/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Gemini",
+          "Gemini 4 Argon",
+          "Gemini 4 Carbon",
+          "Gemini 4 Hydrogen",
+          "Google"
+        ]
+      },
+      "timestamp": "2026-11-14T02:21:11.698Z"
     }
   ]
 }
