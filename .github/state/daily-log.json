@@ -2,22 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Tem eletrônico parado? Correios agora fazem o descarte gratuito",
-      "summary": "Estatal vai descartar seu lixo eletrônico gratuitamente e de maneira correta. Iniciativa fica disponível em mais de 6 mil agências pelo país. Tem eletrônico parado? Correios agora fazem o descarte gratuito",
-      "link": "https://tecnoblog.net/noticias/tem-eletronico-parado-correios-agora-fazem-o-descarte-gratuito/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Circular Brain",
-          "Correios",
-          "Global E-waste Statistics Partnership",
-          "USP"
-        ]
-      },
-      "timestamp": "2026-10-15T12:05:34.159Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "FBI fecha fazendas de notebooks usadas em fraude norte-coreana",
       "summary": "Ação no Texas atingiu mais de 40 endereços. Esquema usava identidades falsas para obter empregos remotos em empresas dos EUA. FBI fecha fazendas de notebooks usadas em fraude norte-coreana",
       "link": "https://tecnoblog.net/noticias/fbi-fecha-fazendas-de-notebooks-usadas-em-fraude-norte-coreana/",
@@ -7977,6 +7961,18 @@
         ]
       },
       "timestamp": "2026-11-14T09:09:02.320Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: chromium-bidi (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 157.0.8090-0 → versão mais recente 160.0.8161-0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-14T15:23:48.316Z"
     }
   ]
 }
