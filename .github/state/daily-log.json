@@ -2,93 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico",
-      "summary": "Galaxy Watch 8 LTE permite iniciar exercícios por comandos de voz e traz sensor BioActive; smartwatch da Samsung despenca 64% em oferta na Amazon Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-com-gemini-atinge-preco-historico/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Amazon",
-          "Galaxy Watch 8",
-          "Gemini",
-          "Pix",
-          "Samsung",
-          "Samsung Galaxy Watch"
-        ]
-      },
-      "timestamp": "2026-10-15T23:02:19.406Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nintendo Switch 2 aparece mais barato em uma das melhores ofertas vistas",
-      "summary": "Nintendo Switch 2 com tela de 120 Hz, ampla bateria e novos controles tem queda no preço com pagamento via Pix Nintendo Switch 2 aparece mais barato em uma das melhores ofertas vistas",
-      "link": "https://tecnoblog.net/achados/nintendo-switch-2-aparece-mais-barato-em-uma-das-melhores-ofertas-vistas/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Amazon",
-          "LCD",
-          "Nintendo",
-          "Nintendo eShop",
-          "Nintendo Switch 2",
-          "Pix",
-          "Ray tracing",
-          "Switch"
-        ]
-      },
-      "timestamp": "2026-10-15T23:02:19.746Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "YouTube pode lançar serviço próprio de audiolivros",
-      "summary": "Plataforma pode estrear no segmento em 2027. Empresa estaria avaliando incluir livros narrados no YouTube Premium. YouTube pode lançar serviço próprio de audiolivros",
-      "link": "https://tecnoblog.net/noticias/youtube-pode-lancar-servico-proprio-de-audiolivros/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "YouTube",
-          "YouTube Music",
-          "YouTube Premium"
-        ]
-      },
-      "timestamp": "2026-10-15T23:02:20.077Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft dará 25 jogos grátis na compra de PCs com Windows",
-      "summary": "Promoção começa em novembro nos EUA e não tem previsão no Brasil. Pacote inclui Halo, Skyrim e Gears of War. Microsoft dará 25 jogos grátis na compra de PCs com Windows",
-      "link": "https://tecnoblog.net/noticias/microsoft-dara-25-jogos-gratis-na-compra-de-pcs-com-windows/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Age of Empires",
-          "Estados Unidos (EUA)",
-          "Halo",
-          "Microsoft",
-          "Skyrim",
-          "Windows 11",
-          "Xbox"
-        ]
-      },
-      "timestamp": "2026-10-15T23:02:20.386Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Mais Microsoft no Linux: antivírus Defender chega aos desktops",
-      "summary": "Recurso usa a mesma estrutura usada no Defender para servidores com Linux e depende de planos corporativos. Mais Microsoft no Linux: antivírus Defender chega aos desktops",
-      "link": "https://tecnoblog.net/noticias/mais-microsoft-no-linux-antivirus-defender-chega-aos-desktops/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Linux",
-          "Microsoft",
-          "Microsoft Defender"
-        ]
-      },
-      "timestamp": "2026-10-15T23:02:20.774Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Netflix fica até 23,9% mais cara no Brasil",
       "summary": "Todos os planos de assinatura ficaram mais caros no país. Premium passa a custar R$ 71,90 por mês. Netflix fica até 23,9% mais cara no Brasil",
       "link": "https://tecnoblog.net/noticias/netflix-fica-mais-cara-no-brasil-premium-chega-a-r-7190/",
@@ -7975,6 +7888,96 @@
         ]
       },
       "timestamp": "2026-11-14T20:12:18.709Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Tesouro Nacional alerta para vazamento de dados pessoais e chaves Pix",
+      "summary": "Secretaria do Tesouro Nacional identificou um incidente no portal e-Serviços. O ataque expôs dados cadastrais de 30 mil pessoas e 4 mil chaves Pix. Tesouro Nacional alerta para vazamento de dados pessoais e chaves Pix",
+      "link": "https://tecnoblog.net/noticias/tesouro-nacional-alerta-para-vazamento-de-dados-pessoais-e-chaves-pix/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Pix",
+          "Secretaria do Tesouro Nacional"
+        ]
+      },
+      "timestamp": "2026-11-14T23:53:18.741Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Xbox amplia retrocompatibilidade com mais 21 jogos antigos no PC",
+      "summary": "Clássicos de Star Wars e Morrowind estão entre as novidades. Três títulos não foram liberados no Brasil. Xbox amplia retrocompatibilidade com mais 21 jogos antigos no PC",
+      "link": "https://tecnoblog.net/noticias/xbox-amplia-retrocompatibilidade-com-mais-21-jogos-antigos-no-pc/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Brasil",
+          "Microsoft",
+          "retrocompatibilidade",
+          "ROG Xbox Ally",
+          "Star Wars",
+          "Star Wars: Knights of the Old Republic",
+          "The Elder Scrolls III: Morrowind",
+          "TimeSplitters 2",
+          "Windows 11",
+          "Xbox",
+          "Xbox Game Pass",
+          "Xbox One",
+          "Xbox Series X e Series S"
+        ]
+      },
+      "timestamp": "2026-11-14T23:53:18.969Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "ChatGPT Wallet permite que um agente de IA compre e pague por você",
+      "summary": "OpenAI anunciou ChatGPT Wallet, sistema que permite que Dots (agentes de IA) paguem compras online em nome do usuário com mais segurança. ChatGPT Wallet permite que um agente de IA compre e pague por você",
+      "link": "https://tecnoblog.net/noticias/chatgpt-wallet-permite-que-um-agente-de-ia-compre-e-pague-por-voce/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Google Wallet",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-11-14T23:53:19.196Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft vai encerrar suporte a documentos antigos do Word",
+      "summary": "Mudança começa em dezembro no Windows e pode desconfigurar arquivos criados no Word 2007 e 2010. Microsoft vai encerrar suporte a documentos antigos do Word",
+      "link": "https://tecnoblog.net/noticias/microsoft-vai-encerrar-suporte-a-documentos-antigos-do-word/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Mac",
+          "macOS",
+          "Microsoft",
+          "PDF",
+          "Windows",
+          "Word",
+          "Word 2007",
+          "Word 2010",
+          "Word 2013",
+          "Word 2016"
+        ]
+      },
+      "timestamp": "2026-11-14T23:53:19.429Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor TV 65 polegadas: 13 modelos para comprar em 2026",
+      "summary": "Encontre as melhores smart TVs de 65\" da Samsung, LG, TCL e mais marcas; lista reúne modelos com resolução 4K em diversas faixas de preço Melhor TV 65 polegadas: 13 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-tv-65-polegadas/",
+      "meta": {
+        "categorias": [
+          "TVs",
+          "LG",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-11-14T23:53:19.671Z"
     }
   ]
 }
