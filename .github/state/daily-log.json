@@ -2,84 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Netflix fica até 23,9% mais cara no Brasil",
-      "summary": "Todos os planos de assinatura ficaram mais caros no país. Premium passa a custar R$ 71,90 por mês. Netflix fica até 23,9% mais cara no Brasil",
-      "link": "https://tecnoblog.net/noticias/netflix-fica-mais-cara-no-brasil-premium-chega-a-r-7190/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Brasil",
-          "Netflix"
-        ]
-      },
-      "timestamp": "2026-10-16T01:16:59.018Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Edge 70 Pro (512 GB) com câmeras de 50 MP tem oferta expressiva na Amazon",
-      "summary": "Motorola Edge 70 Pro está com 36% de desconto via Pix na Amazon. Celular premium traz bateria de 6500 mAh, quatro câmeras de 50 MP e tela AMOLED de 144 Hz Edge 70 Pro (512 GB) com câmeras de 50 MP tem oferta expressiva na Amazon",
-      "link": "https://tecnoblog.net/achados/edge-70-pro-512-gb-com-cameras-de-50-mp-tem-oferta-expressiva-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Motorola Edge 70 Pro",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-16T01:16:59.290Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone Duo: reparo pode custar até R$ 16,5 mil no Brasil",
-      "summary": "Sem suporte ao AppleCare+ no país, assistência oficial da Apple cobra R$ 10.990 pela tela flexível interna. iPhone Duo: reparo pode custar até R$ 16,5 mil no Brasil",
-      "link": "https://tecnoblog.net/noticias/conserto-do-iphone-duo-pode-custar-ate-r-165-mil-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "AppleCare",
-          "Brasil",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-10-16T01:16:59.578Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Bom e barato: Galaxy Buds Core recebe 44% de desconto depois de meses",
-      "summary": "Fones de ouvido acessíveis da Samsung contam com cancelamento ativo de ruído, Galaxy AI e até 35 horas de autonomia. Oferta na Amazon traz o melhor preço desde julho Bom e barato: Galaxy Buds Core recebe 44% de desconto depois de meses",
-      "link": "https://tecnoblog.net/achados/bom-e-barato-galaxy-buds-core-recebe-44-de-desconto-depois-de-meses/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "Amazon",
-          "Galaxy",
-          "Galaxy AI",
-          "Galaxy Buds Core",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-16T01:16:59.848Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google vai dar mais destaque aos links nos resumos de IA",
-      "summary": "Inteligência artificial no buscador vem prejudicando publicadores. Empresa promete nova exibição dos links e novo carrossel com principais notícias. Google vai dar mais destaque aos links nos resumos de IA",
-      "link": "https://tecnoblog.net/noticias/google-vai-dar-mais-destaque-aos-links-nos-resumos-de-ia/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Gemini",
-          "Google",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-10-16T01:17:00.107Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Notebook com RTX 4060: 5 modelos para comprar em 2026",
       "summary": "Buscando por um notebook com GPU Nvidia RTX 4060 em 2026? Encontre modelos que ainda trazem a placa de vídeo dedicada Notebook com RTX 4060: 5 modelos para comprar em 2026",
       "link": "https://tecnoblog.net/guias/melhor-notebook-rtx-4060/",
@@ -7978,6 +7900,97 @@
         ]
       },
       "timestamp": "2026-11-14T23:53:19.671Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Black da Amazon: iPhone 16 (512 GB) volta a registrar menor preço em meses",
+      "summary": "iPhone 16 traz chip de alta performance, tela OLED de 6,1\" e câmera principal de 48 MP. Celular da Apple registra melhor oferta desde agosto antes da Black Friday 2026 Black da Amazon: iPhone 16 (512 GB) volta a registrar menor preço em meses",
+      "link": "https://tecnoblog.net/achados/black-da-amazon-iphone-16-512-gb-volta-a-registrar-menor-preco-em-meses/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Apple",
+          "Apple A18",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "iPhone 16",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-15T03:33:35.159Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Euro-Office libera versões para Windows, Mac e Linux",
+      "summary": "Pacotes da suíte de escritório Euro-Office para desktops chegam sob o nome Nextcloud Office. Euro-Office libera versões para Windows, Mac e Linux",
+      "link": "https://tecnoblog.net/noticias/euro-office-libera-versoes-para-windows-mac-e-linux/",
+      "meta": {
+        "categorias": [
+          "Produtividade",
+          "Euro-Office",
+          "Europa",
+          "Linux",
+          "macOS",
+          "Microsoft 365",
+          "Microsoft Office",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-11-15T03:33:35.441Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Soundbar JBL para amplificar o som tem desconto com cupom de Black Friday",
+      "summary": "JBL SB180 tem potência de 110 W RMS, saída HDMI ARC e três modos de som. Soundbar de custo-benefício para melhorar o som da TV está com 47% OFF no Mercado Livre Soundbar JBL para amplificar o som tem desconto com cupom de Black Friday",
+      "link": "https://tecnoblog.net/achados/soundbar-jbl-para-amplificar-o-som-tem-desconto-com-cupom-de-black-friday/",
+      "meta": {
+        "categorias": [
+          "Periféricos",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Pix",
+          "Soundbar JBL SB180"
+        ]
+      },
+      "timestamp": "2026-11-15T03:33:35.722Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Black November: Notebook ASUS Vivobook Go 15 despenca 46% na Amazon",
+      "summary": "Modelo E1504FA-NJ732 traz como destaques o processador AMD Ryzen 5 e SSD de 512 GB uma das melhores relações custo-benefício. Oferta traz o menor preço dos últimos meses Black November: Notebook ASUS Vivobook Go 15 despenca 46% na Amazon",
+      "link": "https://tecnoblog.net/achados/black-november-notebook-asus-vivobook-go-15-despenca-46-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Amazon",
+          "AMD",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Notebook ASUS VivoBook Go 15",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-15T03:33:36.007Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anatel manda TIM desligar função que bloqueia telemarketing",
+      "summary": "Serviço gratuito filtra chamadas massivas dentro da rede de telecomunicações. Anatel cobra mais transparência. Anatel manda TIM desligar função que bloqueia telemarketing",
+      "link": "https://tecnoblog.net/noticias/anatel-manda-tim-desligar-funcao-que-bloqueia-telemarketing/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "Anatel",
+          "antispam",
+          "Telemarketing",
+          "TIM"
+        ]
+      },
+      "timestamp": "2026-11-15T03:33:36.305Z"
     }
   ]
 }
