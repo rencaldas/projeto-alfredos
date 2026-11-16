@@ -1,239 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Novo streaming gratuito oferece filmes, séries e canais de TV ao vivo",
-      "summary": "Innova TV combina canais lineares, emissoras de rádio e conteúdo sob demanda em formato financiado por anúncios. Novo streaming gratuito oferece filmes, séries e canais de TV ao vivo",
-      "link": "https://tecnoblog.net/noticias/novo-streaming-gratuito-oferece-filmes-series-e-canais-de-tv-ao-vivo/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Brasil",
-          "Innova TV"
-        ]
-      },
-      "timestamp": "2026-10-16T18:46:07.912Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Book 6 para produtividade tem R$ 1,5 mil de desconto parcelável em até 10x",
-      "summary": "Galaxy Book 6 com Intel Ultra 5, tela IPS e ampla bateria fica mais barato usando cupom exclusivo para clientes Prime da Amazon Galaxy Book 6 para produtividade tem R$ 1,5 mil de desconto parcelável em até 10x",
-      "link": "https://tecnoblog.net/achados/galaxy-book-6-para-produtividade-tem-r-15-mil-de-desconto-parcelavel-em-ate-10x/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Amazon",
-          "Galaxy AI",
-          "Intel",
-          "Samsung Galaxy Book"
-        ]
-      },
-      "timestamp": "2026-10-16T18:46:08.247Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone Duo começa a ser vendido no Brasil; veja os preços",
-      "summary": "Primeiro dobrável da Apple tem tela interna de 7,6 polegadas, chip A20 Pro e começa a ser entregue em 23 de outubro. iPhone Duo começa a ser vendido no Brasil; veja os preços",
-      "link": "https://tecnoblog.net/noticias/iphone-duo-comeca-a-ser-vendido-no-brasil-veja-os-precos/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "Brasil"
-        ]
-      },
-      "timestamp": "2026-10-16T18:46:08.491Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Agente de IA apagou programa de TV? Emissora esclarece",
-      "summary": "Emissora TV4 nega envolvimento de agente de IA; edição será refeita e estreia passou para 2027. Agente de IA apagou programa de TV? Emissora esclarece",
-      "link": "https://tecnoblog.net/noticias/agente-de-ia-apagou-programa-de-tv-emissora-esclarece/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Aftonbladet",
-          "Agentes de IA",
-          "Backup",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "The Challenge",
-          "The Challenge Sverige",
-          "TV4"
-        ]
-      },
-      "timestamp": "2026-10-16T18:46:08.743Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Reino Unido estuda cobrar taxa até de quem assiste ao YouTube",
-      "summary": "Governo avalia ampliar cobrança anual de 180 libras para usuários de serviços de streaming. Reino Unido estuda cobrar taxa até de quem assiste ao YouTube",
-      "link": "https://tecnoblog.net/noticias/reino-unido-estuda-cobrar-taxa-ate-de-quem-assiste-ao-youtube/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "BBC",
-          "Netflix",
-          "Reino Unido",
-          "YouTube"
-        ]
-      },
-      "timestamp": "2026-10-16T18:46:08.979Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "O que é uma memória HBM? Conheça as vantagens e desvantagens da High Bandwidth Memory",
-      "summary": "A memória HBM supera o gargalo de transferência de dados, garantindo alta largura de banda e eficiência energética em aceleradores de IA e supercomputadores O que é uma memória HBM? Conheça as vantagens e desvantagens da High Bandwidth Memory",
-      "link": "https://tecnoblog.net/responde/o-que-e-uma-memoria-hbm-conheca-as-vantagens-e-desvantagens-da-high-bandwidth-memory/",
-      "meta": {
-        "categorias": [
-          "Hardware e Componentes",
-          "Inteligência Artificial (IA)"
-        ]
-      },
-      "timestamp": "2026-10-16T21:48:08.399Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "TIM libera combos de streamings e promete economia de 50%",
-      "summary": "Pacote mais completo tem Netflix, Globoplay, Disney+ e outros seis serviços. TIM libera combos de streamings e promete economia de 50%",
-      "link": "https://tecnoblog.net/noticias/tim-libera-combos-de-streamings-e-promete-economia-de-50/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Disney+ (Disney Plus)",
-          "Globoplay",
-          "HBO Max",
-          "Netflix",
-          "TIM",
-          "TIM Play"
-        ]
-      },
-      "timestamp": "2026-10-16T21:48:08.650Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S27 Ultra: Samsung pode abandonar chip da Qualcomm",
-      "summary": "Samsung teria encontrado problemas de temperatura no Snapdragon 8 Elite Extreme Gen 6. Galaxy S27 Ultra: Samsung pode abandonar chip da Qualcomm",
-      "link": "https://tecnoblog.net/noticias/galaxy-s27-ultra-samsung-pode-abandonar-chip-da-qualcomm/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Exynos",
-          "Galaxy S27",
-          "Galaxy S27 Ultra",
-          "Qualcomm",
-          "rumor",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-16T21:48:08.902Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Meta pode coletar notícias para treinar IA sem pagar por licenças",
-      "summary": "Novos termos comerciais autorizam a coleta automatizada de páginas vinculadas a contas empresariais. Atualização entra em vigor em 30 de outubro. Meta pode coletar notícias para treinar IA sem pagar por licenças",
-      "link": "https://tecnoblog.net/noticias/meta-pode-coletar-noticias-para-treinar-ia-sem-pagar-por-licencas/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)",
-          "Meta"
-        ]
-      },
-      "timestamp": "2026-10-16T21:48:09.158Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Lenovo Idea Tab (256 GB) atinge melhor preço com cupom e inclui acessórios",
-      "summary": "Lenovo Idea Tab, que inclui capa com teclado e caneta, entrega bom custo-benefício para entretenimento e trabalho. Tablet da Lenovo está com 33% de desconto no Mercado Livre ao combinar pix e cupom Lenovo Idea Tab (256 GB) atinge melhor preço com cupom e inclui acessórios",
-      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-256-gb-atinge-melhor-preco-com-cupom-e-inclui-acessorios/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Dolby Atmos",
-          "Lenovo",
-          "Lenovo IdeaPad tablets",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-16T21:48:09.412Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Meta admite que seus óculos gravaram conversas mesmo sem comando",
-      "summary": "Óculos Ray-Ban Meta registraram áudios e transcrições no aplicativo Meta AI. Meta admite que seus óculos gravaram conversas mesmo sem comando",
-      "link": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Meta",
-          "Meta AI"
-        ]
-      },
-      "timestamp": "2026-10-17T00:00:51.003Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor Smart TV 4K: 10 modelos para comprar em 2026",
-      "summary": "Encontre a melhor TV com alta resolução para reproduzir seus filmes, séries e jogos favoritos; guia analisa os prós e contras dos principais modelos de TVs Samsung, LG, TCL e Hisense Melhor Smart TV 4K: 10 modelos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-smart-tv-4k/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Smart TV"
-        ]
-      },
-      "timestamp": "2026-10-17T00:00:51.292Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Garmin Forerunner 55 para corridas custa menos de R$ 1 mil no Mercado Livre",
-      "summary": "Smartwatch tem funções específicas para melhorar a performance nas corridas, além de GPS e bateria para até 14 dias. Garanta 56% OFF no Pix e com o cupom que vai acabar Garmin Forerunner 55 para corridas custa menos de R$ 1 mil no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/garmin-forerunner-55-para-corridas-custa-menos-de-r-1-mil-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Garmin",
-          "Garmin Forerunner",
-          "Garmin Forerunner 55",
-          "Mercado Livre",
-          "Pix",
-          "Smartwatch"
-        ]
-      },
-      "timestamp": "2026-10-17T00:00:51.582Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como baixar um aplicativo na TV da LG",
-      "summary": "Você pode instalar diferentes programas disponíveis na LG Content Store, como plataformas de streaming, jogos e outros apps de entretenimento Como baixar um aplicativo na TV da LG",
-      "link": "https://tecnoblog.net/responde/como-baixar-um-aplicativo-na-tv-da-lg/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "LG",
-          "webOS"
-        ]
-      },
-      "timestamp": "2026-10-17T00:00:51.871Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor TV LG em 2026: 10 modelos para comprar no Brasil",
-      "summary": "Selecionamos as melhores smart TVs da LG em diversos tamanhos e faixas de preço; veja modelos 4K, OLED, QNED, MiniLED e Nanocell Melhor TV LG em 2026: 10 modelos para comprar no Brasil",
-      "link": "https://tecnoblog.net/guias/melhor-tv-lg/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "LG",
-          "TVs LG"
-        ]
-      },
-      "timestamp": "2026-10-17T00:00:52.159Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: guzzlehttp/promises (rencaldas/ideal-marketplace-project)",
       "summary": "Versão instalada 2.5.3 → versão mais recente 3.1.0 (Packagist).",
@@ -7895,6 +7662,23 @@
         ]
       },
       "timestamp": "2026-11-15T17:54:16.082Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nubank agora é banco de fato",
+      "summary": "Antes exclusivamente digital, o roxinho tem aprovação do Banco Central para oficializar a denominação no país. Nubank agora é banco de fato",
+      "link": "https://tecnoblog.net/noticias/nubank-agora-e-banco-de-fato/",
+      "meta": {
+        "categorias": [
+          "Serviços Financeiros",
+          "Banco central",
+          "Banco Porto Real",
+          "Conselho Monetário Nacional",
+          "Nubank",
+          "Reclame Aqui"
+        ]
+      },
+      "timestamp": "2026-11-16T02:03:01.016Z"
     }
   ]
 }
