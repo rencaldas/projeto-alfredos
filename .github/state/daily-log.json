@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: guzzlehttp/promises (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada 2.5.3 → versão mais recente 3.1.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-18T12:50:09.686Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: guzzlehttp/psr7 (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada 2.13.1 → versão mais recente 3.2.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-18T12:50:09.686Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Salários em tecnologia se aproximam dos R$ 40 mil; veja principais cargos",
       "summary": "Guia Salarial 2027 da Michael Page mostra que IA é diferencial no mercado de tecnologia, mas não significa maior salário. Salários em tecnologia se aproximam dos R$ 40 mil; veja principais cargos",
@@ -7939,6 +7915,66 @@
         ]
       },
       "timestamp": "2026-11-17T11:06:15.392Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: chromium-bidi (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 157.0.8090-0 → versão mais recente 160.0.8168-0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-17T17:56:57.469Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: ignore (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 5.3.2 → versão mais recente 7.0.16 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-17T17:56:57.469Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/guzzle (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 7.15.5 → versão mais recente 8.5.2 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-17T17:56:57.469Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v12.69.2 → versão mais recente 13.43.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-17T17:56:57.469Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/tinker (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v2.11.1 → versão mais recente 3.2.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-17T17:56:57.469Z"
     }
   ]
 }
