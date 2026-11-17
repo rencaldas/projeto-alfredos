@@ -7858,6 +7858,87 @@
         ]
       },
       "timestamp": "2026-11-17T02:40:12.992Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Apagão da Microsoft leva à contaminação por gás cloro; entenda",
+      "summary": "Falha no dosador elevou o nível de cloro na piscina de um hotel na Alemanha. Alerta enviado por e-mail não chegou aos funcionários durante a pane do Outlook. Apagão da Microsoft leva à contaminação por gás cloro; entenda",
+      "link": "https://tecnoblog.net/noticias/apagao-da-microsoft-leva-a-contaminacao-por-gas-cloro-entenda/",
+      "meta": {
+        "categorias": [
+          "Internet",
+          "Alemanha",
+          "Microsoft"
+        ]
+      },
+      "timestamp": "2026-11-17T11:06:14.319Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Microsoft explica “apagão” que derrubou o Outlook (não foi hacker)",
+      "summary": "Microsoft informou que o \"apagão\" recente no Outlook e em outros serviços foi causado por uma falha em uma atualização de software aplicada em julho. Microsoft explica “apagão” que derrubou o Outlook (não foi hacker)",
+      "link": "https://tecnoblog.net/noticias/microsoft-explica-apagao-que-derrubou-o-outlook-nao-foi-hacker/",
+      "meta": {
+        "categorias": [
+          "Internet",
+          "Microsoft",
+          "Microsoft 365"
+        ]
+      },
+      "timestamp": "2026-11-17T11:06:14.584Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "EUA impõem restrições ao Brasil para compra de chips de IA",
+      "summary": "Governo Trump incluiu Brasil na lista de países que precisam de licença para importar chips avançados de data centers. Medida também afeta Singapura, Malásia, Tailândia e Indonésia. EUA impõem restrições ao Brasil para compra de chips de IA",
+      "link": "https://tecnoblog.net/noticias/eua-impoem-restricoes-ao-brasil-para-compra-de-chips-de-ia/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Brasil",
+          "Departamento de Comércio",
+          "Donald Trump",
+          "Estados Unidos (EUA)",
+          "Indonésia",
+          "Inteligência Artificial (IA)",
+          "Malásia",
+          "Singapura",
+          "Tailândia"
+        ]
+      },
+      "timestamp": "2026-11-17T11:06:14.850Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Moto G77 (256 GB) registra desconto agressivo de 40% na Black November",
+      "summary": "Moto G77 conta com tela AMOLED de 5.000 nits, câmera principal de 108 MP e bateria prometida para até 37 horas de uso. Oferta com pagamento no Pix pelo Mercado Livre Moto G77 (256 GB) registra desconto agressivo de 40% na Black November",
+      "link": "https://tecnoblog.net/achados/moto-g77-256-gb-registra-desconto-agressivo-de-40-na-black-november/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AMOLED",
+          "Black November 2026",
+          "Mercado Livre",
+          "Moto G77",
+          "Motorola",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-17T11:06:15.123Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nubank libera período de teste grátis do NuCel",
+      "summary": "Clientes podem testar a operadora do Nubank com número provisório e sem custo. Oferta inclui até 5 GB de internet e WhatsApp ilimitado. Nubank libera período de teste grátis do NuCel",
+      "link": "https://tecnoblog.net/noticias/nubank-libera-periodo-de-teste-gratis-do-nucel/",
+      "meta": {
+        "categorias": [
+          "Telecomunicações",
+          "eSIM",
+          "Nubank"
+        ]
+      },
+      "timestamp": "2026-11-17T11:06:15.392Z"
     }
   ]
 }
