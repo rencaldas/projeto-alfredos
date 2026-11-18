@@ -344,6 +344,21 @@
           "messageId": 305
         }
       ]
+    },
+    "3852": {
+      "title": "Contractor: The Clean Up Part 2 (Epic Games) Giveaway",
+      "endDate": "2026-12-02 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 306
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 307
+        }
+      ]
     }
   }
 }
