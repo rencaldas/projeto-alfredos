@@ -2,44 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Salários em tecnologia se aproximam dos R$ 40 mil; veja principais cargos",
-      "summary": "Guia Salarial 2027 da Michael Page mostra que IA é diferencial no mercado de tecnologia, mas não significa maior salário. Salários em tecnologia se aproximam dos R$ 40 mil; veja principais cargos",
-      "link": "https://tecnoblog.net/noticias/salarios-em-tecnologia-se-aproximam-dos-r-40-mil-veja-principais-cargos/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Inteligência Artificial (IA)",
-          "Michael Page"
-        ]
-      },
-      "timestamp": "2026-10-19T13:01:48.438Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: guzzlehttp/guzzle (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada 7.15.5 → versão mais recente 8.3.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-19T15:56:04.301Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: pestphp/pest (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v4.7.8 → versão mais recente 5.3.3 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-19T15:56:04.301Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Sony pode gastar R$ 3,4 mil só com as memórias de cada PS6",
       "summary": "RAM e armazenamento NAND podem custar mais de US$ 680 por unidade. Alta nos preços dos chips deve pressionar o custo da próxima geração do console. Sony pode gastar R$ 3,4 mil só com as memórias de cada PS6",
       "link": "https://tecnoblog.net/noticias/sony-pode-gastar-r-34-mil-so-com-as-memorias-de-cada-ps6/",
@@ -8249,6 +8211,30 @@
         ]
       },
       "timestamp": "2026-11-18T09:25:21.774Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: chromium-bidi (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 157.0.8090-0 → versão mais recente 160.0.8169-0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-18T17:39:06.502Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/psr7 (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 2.13.1 → versão mais recente 3.5.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-18T17:39:06.503Z"
     }
   ]
 }
