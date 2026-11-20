@@ -2,65 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy S23 do Brasil recebe Android 17/One UI 9",
-      "summary": "Empresa libera update no modelo lançado em 2023. Software baseado no Android 17 tem expansão do Galaxy AI como principal novidade. Galaxy S23 do Brasil recebe Android 17/One UI 9",
-      "link": "https://tecnoblog.net/noticias/galaxy-s23-do-brasil-recebe-android-17-one-ui-9/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Android",
-          "Apple Intelligence",
-          "Galaxy AI",
-          "Galaxy S23",
-          "iOS 18",
-          "iPhone",
-          "My FanCam",
-          "Now Brief",
-          "Now Nudge",
-          "One UI",
-          "One UI 8",
-          "One UI 9",
-          "Photo Assist",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-21T10:26:26.966Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Falha em certificados digitais coloca internet em alerta",
-      "summary": "Chaves privadas fracas poderiam permitir a criação de certificados falsos para qualquer site. Falha em certificados digitais coloca internet em alerta",
-      "link": "https://tecnoblog.net/noticias/falha-em-certificados-digitais-coloca-internet-em-alerta/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "cibersegurança",
-          "Firefox",
-          "Google Chrome",
-          "HTTPS",
-          "Segurança",
-          "TLS"
-        ]
-      },
-      "timestamp": "2026-10-21T10:26:27.215Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "OpenAI agora permite trancar conversas sensíveis no ChatGPT",
-      "summary": "Recurso “esconde” interações selecionadas pelo usuário do histórico. OpenAI agora permite trancar conversas sensíveis no ChatGPT",
-      "link": "https://tecnoblog.net/noticias/openai-agora-permite-trancar-conversas-sensiveis-no-chatgpt/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "ChatGPT",
-          "FaceID",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-10-21T10:26:27.462Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Muse: agente de IA da Meta expôs contratos e planilhas na internet",
       "summary": "Empresa de segurança digital localizou quase 7 mil links com potenciais dados sensíveis. Muse: agente de IA da Meta expôs contratos e planilhas na internet",
       "link": "https://tecnoblog.net/noticias/muse-agente-de-ia-da-meta-expos-contratos-e-planilhas-na-internet/",
@@ -8124,6 +8065,77 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6aff1d0e4942d.jpg"
       },
       "timestamp": "2026-11-20T09:17:26.288Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "App do Gemini agora funciona até em celulares Android com pouca RAM",
+      "summary": "Google otimizou aplicativo do Gemini para funcionar em celulares Android básicos com pelo menos 2 GB de RAM. App do Gemini agora funciona até em celulares Android com pouca RAM",
+      "link": "https://tecnoblog.net/noticias/app-do-gemini-agora-funciona-ate-em-celulares-android-com-pouca-ram/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Android",
+          "Gemini",
+          "Google",
+          "Memória RAM"
+        ]
+      },
+      "timestamp": "2026-11-20T12:47:48.255Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Códigos de GTA 6: todos os cheats liberados para PS5 e Xbox",
+      "summary": "Saiba os truques do GTA 6 para obter dinheiro, foco ilimitado, munição infinita e outras vantagens durante o jogo Códigos de GTA 6: todos os cheats liberados para PS5 e Xbox",
+      "link": "https://tecnoblog.net/responde/codigos-de-gta-6-todos-os-cheats-liberados-para-ps5-e-xbox/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "GTA 6"
+        ]
+      },
+      "timestamp": "2026-11-20T12:47:48.503Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhor antena digital interna para TV: 7 modelos para comprar em 2026",
+      "summary": "Encontre a antena digital interna ideal para transmitir o sinal da TV aberta para sua televisão; modelos se destacam por baixo custo e fácil instalação Melhor antena digital interna para TV: 7 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-antena-digital-interna-para-tv/",
+      "meta": {
+        "categorias": [
+          "Periféricos",
+          "Intelbras",
+          "Ultra High Frequency"
+        ]
+      },
+      "timestamp": "2026-11-20T12:47:48.766Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "GTA 6 coloca provedores de internet no Brasil em alerta",
+      "summary": "Com 212 GB, jogo já provocou picos de tráfego no exterior durante o pré-download. Ao Tecnoblog, operadoras afirmam que monitoram a demanda. GTA 6 coloca provedores de internet no Brasil em alerta",
+      "link": "https://tecnoblog.net/noticias/gta-6-pressiona-provedores-brasileiros-de-internet/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Brasil",
+          "Club Atlético de Madrid",
+          "GTA 6"
+        ]
+      },
+      "timestamp": "2026-11-20T12:47:49.023Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Melhores monitores gamer: 10 modelos que valem a pena em 2026",
+      "summary": "Encontre o monitor gamer ideal com baixo tempo de resposta, altas taxas de atualização e resolução até QHD; lista inclui modelos AOC, LG e Samsung em diferentes faixas de preço Melhores monitores gamer: 10 modelos que valem a pena em 2026",
+      "link": "https://tecnoblog.net/guias/melhores-monitores-gamer/",
+      "meta": {
+        "categorias": [
+          "Periféricos",
+          "monitores gamer"
+        ]
+      },
+      "timestamp": "2026-11-20T12:47:49.276Z"
     }
   ]
 }
