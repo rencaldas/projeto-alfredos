@@ -2,53 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Muse: agente de IA da Meta expôs contratos e planilhas na internet",
-      "summary": "Empresa de segurança digital localizou quase 7 mil links com potenciais dados sensíveis. Muse: agente de IA da Meta expôs contratos e planilhas na internet",
-      "link": "https://tecnoblog.net/noticias/muse-agente-de-ia-da-meta-expos-contratos-e-planilhas-na-internet/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Claroc",
-          "DNS",
-          "Google Docs",
-          "Meta",
-          "Meta Muse",
-          "Power Point"
-        ]
-      },
-      "timestamp": "2026-10-21T15:26:34.891Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Uber lança recurso para facilitar embarque de idosos e pessoas com deficiência",
-      "summary": "Novidade permite informar características para identificação e escolher como o motorista deve sinalizar a chegada. Uber lança recurso para facilitar embarque de idosos e pessoas com deficiência",
-      "link": "https://tecnoblog.net/noticias/uber-lanca-recurso-para-facilitar-embarque-de-idosos-e-pessoas-com-deficiencia/",
-      "meta": {
-        "categorias": [
-          "Mobilidade",
-          "Uber"
-        ]
-      },
-      "timestamp": "2026-10-21T15:26:35.152Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Rival chinesa da Starlink homologa equipamento no Brasil",
-      "summary": "SpaceSail deve oferecer conexão via satélite com velocidades de até 400 Mb/s de download. Preços e disponibilidade ainda não são conhecidos. Rival chinesa da Starlink homologa equipamento no Brasil",
-      "link": "https://tecnoblog.net/noticias/rival-chinesa-da-starlink-homologa-equipamento-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Anatel",
-          "Brasil",
-          "Elon Musk",
-          "Starlink"
-        ]
-      },
-      "timestamp": "2026-10-21T15:26:35.408Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Custo-benefício: iPhone 16e volta a receber desconto de 43% na Amazon",
       "summary": "iPhone 16e (128 GB) tem chip A18 e suporta Apple Intelligence; celular \"baratinho\" da maçã recebe desconto de 43% sobre o preço original no Pix Custo-benefício: iPhone 16e volta a receber desconto de 43% na Amazon",
       "link": "https://tecnoblog.net/achados/custo-beneficio-iphone-16e-volta-a-receber-desconto-de-43-na-amazon/",
@@ -8136,6 +8089,54 @@
         ]
       },
       "timestamp": "2026-11-20T12:47:49.276Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: chromium-bidi (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 157.0.8090-0 → versão mais recente 160.0.8173-0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-20T17:23:38.328Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: undici (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 7.30.2 → versão mais recente 8.13.0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-20T17:23:38.328Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/promises (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 2.5.3 → versão mais recente 3.1.1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-20T17:23:38.328Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/psr7 (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 2.13.1 → versão mais recente 3.5.1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-20T17:23:38.328Z"
     }
   ]
 }
