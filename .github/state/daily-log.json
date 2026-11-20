@@ -2,87 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Ainda dá tempo: AirPods 4 ANC com 37% OFF na melhor oferta que já vimos",
-      "summary": "AirPods 4 ANC cancela ruídos externos e oferece modo ambiente e áudio adaptativo; fones intermediários da Apple são opção para quem não pensa em investir no AirPods Pro Ainda dá tempo: AirPods 4 ANC com 37% OFF na melhor oferta que já vimos",
-      "link": "https://tecnoblog.net/achados/ainda-da-tempo-airpods-4-anc-com-37-off-na-melhor-oferta-que-ja-vimos/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "AirPods",
-          "AirPods 4",
-          "AirPods Pro",
-          "Amazon",
-          "Apple",
-          "Controle ativo de ruído",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-21T00:54:01.467Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google Chrome vai exibir novo alerta para sites suspeitos",
-      "summary": "Navegador usa Gemini para identificar possíveis golpes e adiciona proteção contra comandos maliciosos. Google Chrome vai exibir novo alerta para sites suspeitos",
-      "link": "https://tecnoblog.net/noticias/google-chrome-vai-exibir-novo-alerta-para-sites-suspeitos/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Browser (navegador)",
-          "Gemini",
-          "Google",
-          "Google Chrome"
-        ]
-      },
-      "timestamp": "2026-10-21T00:54:01.744Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Novo Xbox pode chegar mais tarde e com preço mais alto",
-      "summary": "Reportagem aponta lançamento só para 2028 e posicionamento mais premium para o Project Helix. Novo Xbox pode chegar mais tarde e com preço mais alto",
-      "link": "https://tecnoblog.net/noticias/novo-xbox-pode-chegar-mais-tarde-e-com-preco-mais-alto/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Consoles",
-          "Microsoft",
-          "Project Helix",
-          "rumor",
-          "Xbox",
-          "Xbox Game Pass",
-          "Xbox One"
-        ]
-      },
-      "timestamp": "2026-10-21T00:54:02.026Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor TV Toshiba em 2026: 6 modelos para comprar",
-      "summary": "Guia detalha prós e contras das principais TVs Toshiba disponíveis no mercado; veja as diferenças antes de encontrar o modelo ideal para sua casa ou escritório Melhor TV Toshiba em 2026: 6 modelos para comprar",
-      "link": "https://tecnoblog.net/guias/melhor-tv-toshiba/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Toshiba"
-        ]
-      },
-      "timestamp": "2026-10-21T00:54:02.295Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor TV Multilaser: qual modelo comprar em 2026?",
-      "summary": "Encontre as melhores smart TVs da Multilaser em diversos tamanhos e faixas de preço, de modelos Full HD a 4K Melhor TV Multilaser: qual modelo comprar em 2026?",
-      "link": "https://tecnoblog.net/guias/melhor-tv-multilaser/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Multi (Multilaser)",
-          "Multilaser"
-        ]
-      },
-      "timestamp": "2026-10-21T00:54:02.572Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Galaxy S23 do Brasil recebe Android 17/One UI 9",
       "summary": "Empresa libera update no modelo lançado em 2023. Software baseado no Android 17 tem expansão do Galaxy AI como principal novidade. Galaxy S23 do Brasil recebe Android 17/One UI 9",
       "link": "https://tecnoblog.net/noticias/galaxy-s23-do-brasil-recebe-android-17-one-ui-9/",
@@ -8111,6 +8030,89 @@
         ]
       },
       "timestamp": "2026-11-19T23:18:39.682Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Como baixar vídeos de qualquer site",
+      "summary": "Fazer download de vídeos de sites da internet permite criar uma biblioteca offline no seu dispositivo, ficando menos dependente de conexões Como baixar vídeos de qualquer site",
+      "link": "https://tecnoblog.net/responde/como-baixar-videos-de-qualquer-site/",
+      "meta": {
+        "categorias": [
+          "Software",
+          "Chrome Web Store",
+          "Google Chrome"
+        ]
+      },
+      "timestamp": "2026-11-20T04:05:11.675Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google alerta: era de ataques cibernéticos autônomos já começou",
+      "summary": "Relatório de segurança identificou sistemas de IA que encontram falhas e criam ataques sem intervenção humana. Google alerta: era de ataques cibernéticos autônomos já começou",
+      "link": "https://tecnoblog.net/noticias/google-alerta-era-de-ataques-ciberneticos-autonomos-ja-comecou/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "cibersegurança",
+          "Gemini",
+          "Google",
+          "Google Cloud",
+          "Hacker",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Malware",
+          "Mandiant",
+          "Vulnerabilidades"
+        ]
+      },
+      "timestamp": "2026-11-20T04:05:11.960Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "WhatsApp começa a testar backup nas nuvens com 2 GB grátis",
+      "summary": "Por ora, armazenamento online de 2 GB do WhatsApp está disponível apenas para alguns usuários do Android. Haverá planos pagos para quem precisa de mais capacidade. WhatsApp começa a testar backup nas nuvens com 2 GB grátis",
+      "link": "https://tecnoblog.net/noticias/whatsapp-comeca-a-testar-backup-nas-nuvens-com-2-gb-gratis/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Android",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-11-20T04:05:12.241Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Voltou: Galaxy Watch 8 LTE (44 mm) com menor preço na Black November do Magalu",
+      "summary": "Galaxy Watch 8 com conexão 4G LTE, tela AMOLED e GPS integrado sai por menos da metade do preço, combinando cupom e pagamento via Pix Voltou: Galaxy Watch 8 LTE (44 mm) com menor preço na Black November do Magalu",
+      "link": "https://tecnoblog.net/achados/voltou-galaxy-watch-8-lte-44-mm-com-menor-preco-na-black-november-do-magalu/",
+      "meta": {
+        "categorias": [
+          "Smartwatches",
+          "AMOLED",
+          "Black November 2026",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-11-20T04:05:12.890Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "PlayStation 5 baixa de preço na Black November com oferta relâmpago",
+      "summary": "PS5 Slim Digital (825 GB) com os jogos ASTRO BOT e Gran Turismo 7 recebe oferta relâmpago durante a Black November 2026 PlayStation 5 baixa de preço na Black November com oferta relâmpago",
+      "link": "https://tecnoblog.net/achados/playstation-5-baixa-de-preco-na-black-november-com-cupom-exclusivo-prime/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Pix",
+          "Playstation 5 Slim Digital",
+          "Sony"
+        ]
+      },
+      "timestamp": "2026-11-20T04:05:14.235Z"
     }
   ]
 }
