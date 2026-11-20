@@ -2,93 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Custo-benefício: iPhone 16e volta a receber desconto de 43% na Amazon",
-      "summary": "iPhone 16e (128 GB) tem chip A18 e suporta Apple Intelligence; celular \"baratinho\" da maçã recebe desconto de 43% sobre o preço original no Pix Custo-benefício: iPhone 16e volta a receber desconto de 43% na Amazon",
-      "link": "https://tecnoblog.net/achados/custo-beneficio-iphone-16e-volta-a-receber-desconto-de-43-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "Apple A18",
-          "Apple Intelligence",
-          "Inteligência Artificial (IA)",
-          "iPhone",
-          "iPhone 16e",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-21T19:26:01.149Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Melhor TV Semp em 2026: qual modelo comprar?",
-      "summary": "Encontre a melhor TV Semp para o dia a dia; lista reúne modelos com Google TV ou Roku TV, 4K ou Full HD em diversos tamanhos Melhor TV Semp em 2026: qual modelo comprar?",
-      "link": "https://tecnoblog.net/guias/melhor-tv-semp/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Google TV",
-          "Semp",
-          "Semp TCL"
-        ]
-      },
-      "timestamp": "2026-10-21T19:26:01.441Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 17 (512 GB) de última geração entra em promoção na Amazon",
-      "summary": "iPhone 17 (512 GB) traz chip A19 de ponta, câmeras de 48 MP e tela OLED de 120 Hz; celular da Apple sai 37% mais em conta em oferta no Pix iPhone 17 (512 GB) de última geração entra em promoção na Amazon",
-      "link": "https://tecnoblog.net/achados/iphone-17-512-gb-de-ultima-geracao-entra-em-promocao-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "Apple A19",
-          "iPhone 17",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-21T19:26:01.723Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 17 Pro para fotografia profissional tem menor preço recente",
-      "summary": "iPhone 17 Pro (256 GB) com câmeras de 48 MP e chip A19 Pro de alto desempenho alcança o menor preço em meses, em oferta no Pix no Mercado Livre iPhone 17 Pro para fotografia profissional tem menor preço recente",
-      "link": "https://tecnoblog.net/achados/iphone-17-pro-para-fotografia-profissional-tem-menor-preco-recente/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "Apple A19",
-          "iPhone 17 Pro",
-          "Mercado Livre",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-21T19:26:02.010Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Jovi prepara celular com superbateria de 9.800 mAh no Brasil",
-      "summary": "Homologado na Anatel, possível Jovi Y600 Pro 5G terá bateria menor que a versão chinesa. Jovi prepara celular com superbateria de 9.800 mAh no Brasil",
-      "link": "https://tecnoblog.net/noticias/jovi-prepara-celular-com-bateria-de-9-800-mah-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Anatel",
-          "Brasil",
-          "Jovi Y600 Pro",
-          "Jovi Y600 Pro 5G",
-          "Vivo V80 Lite 5G",
-          "Vivo Y600 Pro 5G"
-        ]
-      },
-      "timestamp": "2026-10-21T19:26:02.302Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
       "summary": "Demis Hassabis encurtou previsão anterior e afirma que a inteligência artificial geral vai acelerar descobertas científicas. Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
       "link": "https://tecnoblog.net/noticias/chefe-do-google-deepmind-diz-que-agi-chegara-em-ate-3-anos/",
@@ -8137,6 +8050,91 @@
         "repositorio": "rencaldas/ideal-marketplace-project"
       },
       "timestamp": "2026-11-20T17:23:38.328Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola Edge 70 Fusion reaparece por menos da metade do preço na Black November",
+      "summary": "Edge 70 Fusion tem tela AMOLED 144 Hz e câmera frontal de 32 MP que o destacam entre os celulares abaixo dos R$ 2 mil; desconto é de 53% no Mercado Livre Motorola Edge 70 Fusion reaparece por menos da metade do preço na Black November",
+      "link": "https://tecnoblog.net/achados/motorola-edge-70-fusion-reaparece-por-menos-da-metade-do-preco-na-black-november/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Black November 2026",
+          "Mercado Livre",
+          "Motorola",
+          "Motorola Edge 70 Fusion",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-20T20:49:38.775Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Desativou o histórico do Gemini? O Google salva mesmo assim",
+      "summary": "Empresa atualizou tempo que suas conversas na IA ficam registradas de três dias para dois meses, independente da configuração de histórico. Desativou o histórico do Gemini? O Google salva mesmo assim",
+      "link": "https://tecnoblog.net/noticias/desativou-o-historico-do-gemini-o-google-salva-mesmo-assim/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Anthropic",
+          "Gemini",
+          "Google",
+          "Inteligência Artificial (IA)",
+          "OpenAI"
+        ]
+      },
+      "timestamp": "2026-11-20T20:49:39.122Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
+      "summary": "Famosa pelo Claude, empresa de inteligência artificial chega à bolsa dos EUA com ações cotadas a US$ 83, um valor notável. Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
+      "link": "https://tecnoblog.net/noticias/anthropic-dona-do-claude-estreia-na-bolsa-valendo-us-15-trilhao/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "Anthropic",
+          "Claude",
+          "Estados Unidos (EUA)",
+          "IPO"
+        ]
+      },
+      "timestamp": "2026-11-20T20:49:39.454Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "ANPD nega recurso do Discord e mantém lives suspensas no Brasil",
+      "summary": "Conselho rejeitou por unanimidade o recurso da plataforma. Discord terá de comprovar mecanismos de proteção a crianças para retomar transmissões ao vivo. ANPD nega recurso do Discord e mantém lives suspensas no Brasil",
+      "link": "https://tecnoblog.net/noticias/anpd-nega-recurso-do-discord-e-mantem-lives-suspensas-no-brasil/",
+      "meta": {
+        "categorias": [
+          "Governo e Legislação",
+          "Agência Nacional de Proteção de Dados (ANPD)",
+          "Brasil",
+          "Discord"
+        ]
+      },
+      "timestamp": "2026-11-20T20:49:39.712Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Galaxy S25 recebe o melhor preço atual e em até 12x na Black do AliExpress",
+      "summary": "Galaxy S25 (256 GB) tem 12 GB de RAM e chip Snapdragon; premium da Samsung fica abaixo da metade do preço original no prazo com cupom no mês da Black Friday 2026 Galaxy S25 recebe o melhor preço atual e em até 12x na Black do AliExpress",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-recebe-o-melhor-preco-atual-e-em-ate-12x-na-black-do-aliexpress/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AliExpress",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Galaxy S25",
+          "Magazine Luiza",
+          "Samsung",
+          "Snapdragon"
+        ]
+      },
+      "timestamp": "2026-11-20T20:49:40.262Z"
     }
   ]
 }
