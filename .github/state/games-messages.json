@@ -333,7 +333,7 @@
     "3850": {
       "title": "Knightica (Epic Games) Giveaway",
       "endDate": "2026-11-19 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-11-20T09:17:25.547Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -357,6 +357,21 @@
         {
           "chatId": "726946412",
           "messageId": 307
+        }
+      ]
+    },
+    "3853": {
+      "title": "Mark of the Deep (Epic Games) Giveaway",
+      "endDate": "2026-11-26 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 308
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 309
         }
       ]
     }
