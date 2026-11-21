@@ -2,117 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Meta leva multa de US$ 25 bilhões em processo do Cambridge Analytica",
-      "summary": "Processo na Justiça dos Estados Unidos aponta mais de 43 milhões de violações. Meta leva multa de US$ 25 bilhões em processo do Cambridge Analytica",
-      "link": "https://tecnoblog.net/noticias/meta-leva-multa-de-us-25-bilhoes-em-processo-do-cambridge-analytica/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Brexit",
-          "Cambridge Analytica",
-          "Donald Trump",
-          "Estados Unidos (EUA)",
-          "Facebook",
-          "Instagram",
-          "Jair Bolsonaro",
-          "Mark Zuckerberg",
-          "Meta",
-          "Novo México"
-        ]
-      },
-      "timestamp": "2026-10-22T10:37:07.208Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
-      "summary": "Claude Duet tem navegador próprio para acessar a internet. Novidade está em fase de teste. Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
-      "link": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Android",
-          "Anthropic",
-          "Claude",
-          "Claude Duet",
-          "Claude Opus 5.5",
-          "Inteligência Artificial (IA)",
-          "iOS",
-          "iPhone",
-          "Meta",
-          "Meta Muse",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-10-22T15:37:51.861Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Mais um estúdio de renome fecha as portas",
-      "summary": "EA dá adeus à BioWare. Reestruturação também prevê cerca de 400 demissões. Mais um estúdio de renome fecha as portas",
-      "link": "https://tecnoblog.net/noticias/mais-um-estudio-de-renome-fecha-as-portas/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Bioware",
-          "dragon age",
-          "EA (Electronic Arts)",
-          "Mass Effect"
-        ]
-      },
-      "timestamp": "2026-10-22T15:37:52.170Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Segundo bissexto será aposentado após alerta sobre riscos digitais",
-      "summary": "Conferência internacional aprovou mudança no horário mundial para reduzir riscos de sincronização em servidores, redes elétricas e dispositivos. Segundo bissexto será aposentado após alerta sobre riscos digitais",
-      "link": "https://tecnoblog.net/noticias/segundo-bissexto-sera-aposentado-apos-alerta-sobre-riscos-digitais/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "Conferência Geral de Pesos e Medidas",
-          "Sistema Internacional de Unidades"
-        ]
-      },
-      "timestamp": "2026-10-22T15:37:52.466Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone Duo: segunda geração pode receber Face ID sob a tela",
-      "summary": "Apple já testa protótipos com biometria facial. Primeiro modelo usa Touch ID e chegou ao Brasil por R$ 21.999. iPhone Duo: segunda geração pode receber Face ID sob a tela",
-      "link": "https://tecnoblog.net/noticias/iphone-duo-segunda-geracao-pode-receber-face-id-sob-a-tela/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "Brasil",
-          "celulares",
-          "Face ID",
-          "iPhone",
-          "iPhone Duo",
-          "rumor",
-          "Touch ID"
-        ]
-      },
-      "timestamp": "2026-10-22T15:37:52.764Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Spotify aperta cerco contra o compartilhamento e adota QR Code",
-      "summary": "Membros selecionados do plano Família têm prazo de sete dias e podem ficar um ano fora de outros planos compartilhados. Spotify aperta cerco contra o compartilhamento e adota QR Code",
-      "link": "https://tecnoblog.net/noticias/spotify-aperta-cerco-contra-o-compartilhamento-e-adota-qr-code/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "aplicativos",
-          "QR Code",
-          "Spotify",
-          "Spotify Premium"
-        ]
-      },
-      "timestamp": "2026-10-22T15:37:53.058Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Melhor TV OLED em 2026: 8 modelos para comprar em 2026",
       "summary": "Encontre a melhor Smart TV com painel OLED para maiores contrastes, cores realistas e amplo ângulo de visão; guia reúne modelos Samsung, LG e Toshiba Melhor TV OLED em 2026: 8 modelos para comprar em 2026",
       "link": "https://tecnoblog.net/guias/melhor-tv-oled/",
@@ -8176,6 +8065,54 @@
         ]
       },
       "timestamp": "2026-11-21T08:55:44.969Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: chromium-bidi (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 157.0.8090-0 → versão mais recente 160.0.8175-0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-21T16:28:21.983Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: undici (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 7.30.2 → versão mais recente 8.13.1 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-21T16:28:21.983Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/guzzle (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 7.15.5 → versão mais recente 8.5.4 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-21T16:28:21.983Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/promises (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 2.5.3 → versão mais recente 3.2.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-21T16:28:21.983Z"
     }
   ]
 }
