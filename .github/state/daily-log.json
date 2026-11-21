@@ -1,17 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Gamer",
-      "title": "Terraspace (Epic Games) Giveaway",
-      "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-10-27 23:59:00.",
-      "link": "https://www.gamerpower.com/open/terraspace-epic-games-giveaway",
-      "meta": {
-        "status": "Active",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6ad9256e3eef5.jpg"
-      },
-      "timestamp": "2026-10-22T06:43:45.116Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Meta leva multa de US$ 25 bilhões em processo do Cambridge Analytica",
       "summary": "Processo na Justiça dos Estados Unidos aponta mais de 43 milhões de violações. Meta leva multa de US$ 25 bilhões em processo do Cambridge Analytica",
@@ -8103,6 +8092,90 @@
         ]
       },
       "timestamp": "2026-11-21T01:51:21.634Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "To Do: Microsoft vai encerrar aplicativo de organização",
+      "summary": "Contas corporativas serão direcionadas ao Planner, enquanto usuários pessoais terão de procurar outra ferramenta a partir de junho de 2027. To Do: Microsoft vai encerrar aplicativo de organização",
+      "link": "https://tecnoblog.net/noticias/to-do-microsoft-vai-encerrar-aplicativo-de-organizacao/",
+      "meta": {
+        "categorias": [
+          "Produtividade",
+          "Microsoft",
+          "Microsoft Planner",
+          "Microsoft To Do",
+          "Windows"
+        ]
+      },
+      "timestamp": "2026-11-21T08:55:43.766Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Troféus e conquistas de GTA 6: veja lista de desafios para platinar o jogo",
+      "summary": "Conheça todos os desafios que devem ser realizados em GTA 6 para conquistar 100% do jogo no PS5 e Xbox Series X/S Troféus e conquistas de GTA 6: veja lista de desafios para platinar o jogo",
+      "link": "https://tecnoblog.net/responde/trofeus-e-conquistas-de-gta-6-veja-lista-de-desafios-para-platinar-o-jogo/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "GTA 6",
+          "PlayStation 5 (PS5)",
+          "Vice City",
+          "Xbox Series X e Series S"
+        ]
+      },
+      "timestamp": "2026-11-21T08:55:44.068Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "IA ajudou a descobrir falha crítica no Java",
+      "summary": "Brecha pode permitir invasões remotas em sistemas vulneráveis. Oracle já liberou uma correção. IA ajudou a descobrir falha crítica no Java",
+      "link": "https://tecnoblog.net/noticias/ia-ajudou-a-descobrir-falha-critica-no-java/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "cibersegurança",
+          "Hacker",
+          "inteligência artificial",
+          "Inteligência Artificial (IA)",
+          "Java",
+          "OpenAI",
+          "OpenJDK",
+          "Oracle",
+          "Vulnerabilidade"
+        ]
+      },
+      "timestamp": "2026-11-21T08:55:44.367Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "summary": "Modelo substitui Gemini 4 Argon e está disponível para assinantes dos planos AI Pro e Ultra do Google. Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/",
+      "meta": {
+        "categorias": [
+          "Inteligência Artificial",
+          "DeepMind",
+          "Gemini",
+          "Google"
+        ]
+      },
+      "timestamp": "2026-11-21T08:55:44.667Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lenovo Idea Tab com 8 GB de RAM reaparece mais barato na Black November",
+      "summary": "Lenovo Idea Tab com tela de 11 polegadas, caneta Tab Pen e som Dolby Atmos recebe desconto com pagamento via Pix na Amazon Lenovo Idea Tab com 8 GB de RAM reaparece mais barato na Black November",
+      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-com-8-gb-de-ram-reaparece-mais-barato-na-black-november/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Amazon",
+          "Lenovo",
+          "Lenovo Idea Tab",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-21T08:55:44.969Z"
     }
   ]
 }
