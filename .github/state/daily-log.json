@@ -1,127 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
-      "summary": "Demis Hassabis encurtou previsão anterior e afirma que a inteligência artificial geral vai acelerar descobertas científicas. Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
-      "link": "https://tecnoblog.net/noticias/chefe-do-google-deepmind-diz-que-agi-chegara-em-ate-3-anos/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "AGI",
-          "Alphabet",
-          "DeepMind",
-          "Demis Hassabis",
-          "Google",
-          "Google DeepMind",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Inteligência artificial geral"
-        ]
-      },
-      "timestamp": "2026-10-21T22:32:33.453Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S26 (256 GB) enfim volta a aparecer em promoção",
-      "summary": "Galaxy S26 (256 GB) filma em 8K e traz tela AMOLED de 120 Hz; celular premium da Samsung volta a entrar em oferta após meses, com desconto de 47% no Pix na Amazon Galaxy S26 (256 GB) enfim volta a aparecer em promoção",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-256-gb-enfim-volta-a-aparecer-em-promocao/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "8K",
-          "Amazon",
-          "AMOLED",
-          "Galaxy AI",
-          "Galaxy S26",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-21T22:32:33.762Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Z Fold 8 em formato passaporte já tem R$ 1.900 OFF com cupom",
-      "summary": "Galaxy Z Fold 8 com telas AMOLED, bateria de 26 horas e câmera de 50 MP tem desconto com cupom exclusivo do app Magalu Galaxy Z Fold 8 em formato passaporte já tem R$ 1.900 OFF com cupom",
-      "link": "https://tecnoblog.net/achados/galaxy-z-fold-8-em-formato-passaporte-ja-tem-r-1-900-off-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Galaxy",
-          "Galaxy AI",
-          "Galaxy Fold",
-          "Galaxy Z Fold 8",
-          "Magazine Luiza",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-21T22:32:34.075Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Falha grave no PHP fez sites e serviços públicos saírem do ar",
-      "summary": "Cloudflare ativou proteções, mas servidores precisam ser atualizados. Falha grave no PHP fez sites e serviços públicos saírem do ar",
-      "link": "https://tecnoblog.net/noticias/falha-grave-no-php-pode-tirar-sites-e-servicos-publicos-do-ar/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Cloudflare",
-          "PHP"
-        ]
-      },
-      "timestamp": "2026-10-21T22:32:34.392Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Claro proíbe vendas da quarta maior fabricante de celulares do mundo",
-      "summary": "Aparelhos da Oppo saíram das lojas físicas e do site da operadora. Comunicado interno determina a suspensão por tempo indeterminado. Claro proíbe vendas da quarta maior fabricante de celulares do mundo",
-      "link": "https://tecnoblog.net/noticias/claro-proibe-vendas-da-quarta-maior-fabricante-de-celulares-do-mundo/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Exclusivo"
-        ]
-      },
-      "timestamp": "2026-10-21T22:32:34.703Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Como instalar a Play Store: veja como ativar a loja de apps no celular ou tablet",
-      "summary": "A Play Store oferece acesso ao catálogo completo de aplicativos do ecossistema Android e outros serviços do Google Como instalar a Play Store: veja como ativar a loja de apps no celular ou tablet",
-      "link": "https://tecnoblog.net/responde/como-instalar-a-play-store-de-novo-reativar-o-aplicativo/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "Android",
-          "APK",
-          "Aplicativo móvel",
-          "Google",
-          "Google Play"
-        ]
-      },
-      "timestamp": "2026-10-22T00:52:36.279Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Moto G Max com câmera de 200 MP sai 42% mais barato na Amazon",
-      "summary": "Moto G Max tira fotos em alta resolução e conta com tela AMOLED de 120 Hz; preço do celular da Motorola despenca nesta promoção Moto G Max com câmera de 200 MP sai 42% mais barato na Amazon",
-      "link": "https://tecnoblog.net/achados/moto-g-max-com-camera-de-200-mp-sai-42-mais-barato-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "AMOLED",
-          "Moto G Max",
-          "Motorola",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-22T00:52:36.535Z"
-    },
-    {
       "agent": "Alfredo Gamer",
       "title": "Terraspace (Epic Games) Giveaway",
       "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-10-27 23:59:00.",
@@ -8135,6 +8014,95 @@
         ]
       },
       "timestamp": "2026-11-20T20:49:40.262Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nintendo Switch 2 com EA FC 27 entra em promoção de Black Friday na Amazon",
+      "summary": "Switch 2 tem proposta multiuso e vem com o game EA Esports FC 27 nesta oferta da Black November 2026; console da Nintendo recebe desconto de 22% no Pix Nintendo Switch 2 com EA FC 27 entra em promoção de Black Friday na Amazon",
+      "link": "https://tecnoblog.net/achados/nintendo-switch-2-com-ea-fc-27-entra-em-promocao-de-black-friday-na-amazon/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "Amazon",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "EA Sports FC 27",
+          "Nintendo",
+          "Nintendo Switch 2",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-21T01:51:20.099Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Grok Bot tentou acessar contas sem autorização e depois mentiu",
+      "summary": "Pesquisadores registraram 31 tentativas de acesso da IA a serviços como e-mail, Slack, calendário e GitHub, inclusive durante a madrugada. Grok Bot tentou acessar contas sem autorização e depois mentiu",
+      "link": "https://tecnoblog.net/noticias/grok-bot-tentou-acessar-contas-sem-autorizacao-e-depois-mentiu/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "GitHub",
+          "Grok",
+          "Inteligência Artificial (IA)",
+          "Slack",
+          "SpaceX"
+        ]
+      },
+      "timestamp": "2026-11-21T01:51:20.343Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Black Friday: Kindle atinge 42% OFF em até 10x",
+      "summary": "Kindle (Edição 2024) tem 16 GB e tela antirreflexo; e-reader recebe desconto de 42% na Black November 2026 Black Friday: Kindle atinge 42% OFF em até 10x",
+      "link": "https://tecnoblog.net/achados/black-friday-kindle-atinge-menor-preco-do-ano-com-cupom-exclusivo-em-ate-10x/",
+      "meta": {
+        "categorias": [
+          "Gadgets",
+          "Amazon",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Kindle"
+        ]
+      },
+      "timestamp": "2026-11-21T01:51:20.838Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Já há mais satélites visíveis a olho nu do que estrelas em várias regiões",
+      "summary": "Rastros de satélites já são muito visíveis em grande parte da Europa e nos Estados Unidos. Já há mais satélites visíveis a olho nu do que estrelas em várias regiões",
+      "link": "https://tecnoblog.net/noticias/ja-ha-mais-satelites-visiveis-a-olho-nu-do-que-estrelas-em-varias-regioes/",
+      "meta": {
+        "categorias": [
+          "Ciência e Saúde",
+          "Força Espacial dos Estados Unidos",
+          "Starlink"
+        ]
+      },
+      "timestamp": "2026-11-21T01:51:21.384Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Black November: iPhone 16e volta a cair com cupom em até 12x sem juros",
+      "summary": "iPhone 16e (128 GB) traz chip A18 e suporta Apple Intelligence; celular \"baratinho\" da maçã recebe desconto de 47% no prazo em oferta do Magalu no AliExpress Black November: iPhone 16e volta a cair com cupom em até 12x sem juros",
+      "link": "https://tecnoblog.net/achados/black-november-iphone-16e-volta-a-cair-com-cupom-em-ate-12x-sem-juros/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "AliExpress",
+          "Apple A18",
+          "Apple Intelligence",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "iPhone",
+          "iPhone 16e",
+          "Magazine Luiza"
+        ]
+      },
+      "timestamp": "2026-11-21T01:51:21.634Z"
     }
   ]
 }
