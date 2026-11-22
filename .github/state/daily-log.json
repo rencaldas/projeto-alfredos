@@ -1,173 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "O que é a Conta Meta no Instagram, WhatsApp e Facebook?",
-      "summary": "A Conta Meta pode unificar o login entre as plataformas por meio da chave de acesso, além de centralizar a gestão de privacidade e preferências em um único local O que é a Conta Meta no Instagram, WhatsApp e Facebook?",
-      "link": "https://tecnoblog.net/responde/o-que-e-a-conta-meta-no-instagram-whatsapp-e-facebook/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Instagram",
-          "Meta",
-          "Meta AI",
-          "Oculus Quest",
-          "WhatsApp"
-        ]
-      },
-      "timestamp": "2026-10-22T22:35:11.116Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S10 Lite para estudantes tem menor preço em meses",
-      "summary": "Galaxy Tab S10 Lite (128 GB) tem tela de 90 Hz e traz caneta S Pen na caixa; tablet da Samsung ideal para a sala de aula sai 31% mais em conta no Pix no Mercado Livre Galaxy Tab S10 Lite para estudantes tem menor preço em meses",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-para-estudantes-tem-menor-preco-em-meses/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Galaxy Tab S10 Lite",
-          "Mercado Livre",
-          "Pix",
-          "Samsung",
-          "Stylus"
-        ]
-      },
-      "timestamp": "2026-10-22T22:35:11.416Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 70 Pro com RAM de 12 GB fica mais em conta no Mercado Livre",
-      "summary": "Edge 70 Pro (256 GB) tem 12 GB de RAM e tela AMOLED de 144 Hz; celular da Motorola recebe desconto de 30% sobre o preço original em oferta no Pix Motorola Edge 70 Pro com RAM de 12 GB fica mais em conta no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-pro-com-ram-de-12-gb-fica-mais-em-conta-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Edge 70 Pro",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-22T22:35:11.697Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Xbox testa venda de horas para jogar na nuvem sem o Game Pass",
-      "summary": "Pacotes custam até US$ 11,99 para 50 horas de jogo. Microsoft ainda não informou os preços para o Brasil. Xbox testa venda de horas para jogar na nuvem sem o Game Pass",
-      "link": "https://tecnoblog.net/noticias/xbox-game-pass-testa-venda-de-horas-para-jogar-na-nuvem-sem-assinatura/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Microsoft",
-          "Xbox",
-          "Xbox Cloud Gaming",
-          "Xbox Game Pass",
-          "Xbox One"
-        ]
-      },
-      "timestamp": "2026-10-22T22:35:11.978Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Hackers tentaram explorar falhas no PHP antes do alerta",
-      "summary": "AWS detectou primeira tentativa quatro dias antes da divulgação oficial. Hackers tentaram explorar falhas no PHP antes do alerta",
-      "link": "https://tecnoblog.net/noticias/hackers-tentaram-explorar-falhas-no-php-antes-do-alerta/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Amazon Web Services (AWS)",
-          "AWS",
-          "cibersegurança",
-          "PHP",
-          "Segurança",
-          "Vulnerabilidade",
-          "WordPress"
-        ]
-      },
-      "timestamp": "2026-10-22T22:35:12.261Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "App Store ganha selo para apps adaptados ao iPhone Duo",
-      "summary": "Desenvolvedores têm de usar o kit de desenvolvimento mais recente para iOS para evitar bordas pretas. App Store ganha selo para apps adaptados ao iPhone Duo",
-      "link": "https://tecnoblog.net/noticias/app-store-ganha-selo-para-apps-adaptados-ao-iphone-duo/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "App Store",
-          "Apple",
-          "iOS",
-          "iPhone"
-        ]
-      },
-      "timestamp": "2026-10-23T00:55:23.821Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 15 tem uma das melhores ofertas recentes na Amazon",
-      "summary": "iPhone 15 com processador A16 e câmera traseira dupla ainda entrega performance para quem busca celular custo-benefício da Apple; desconto é de 42% em promoção iPhone 15 tem uma das melhores ofertas recentes na Amazon",
-      "link": "https://tecnoblog.net/achados/iphone-15-tem-uma-das-melhores-ofertas-recentes-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "iPhone",
-          "iPhone 15",
-          "iPhone 17",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-23T00:55:24.067Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft diz que IA superou médicos em testes de diagnóstico",
-      "summary": "Sistema acertou 83% dos casos mais complexos, mas ainda precisa passar por validação em hospitais. Microsoft diz que IA superou médicos em testes de diagnóstico",
-      "link": "https://tecnoblog.net/noticias/microsoft-diz-que-ia-superou-medicos-em-testes-de-diagnostico/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Copilot",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Microsoft",
-          "Microsoft AI",
-          "Saúde"
-        ]
-      },
-      "timestamp": "2026-10-23T00:55:24.321Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Lenovo Idea Tab Pro Gen 2 para jogos tem oferta em até 12x sem juros",
-      "summary": "Lenovo Idea Tab Pro Gen 2 traz Snapdragon 8s Gen 4 e tela de 144 Hz; tablet topo de linha pode ser parcelado em até 12x de R$ 275 na Amazon Lenovo Idea Tab Pro Gen 2 para jogos tem oferta em até 12x sem juros",
-      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-pro-gen-2-para-jogos-tem-oferta-em-ate-12x-sem-juros/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Amazon",
-          "Lenovo Idea Tab Pro Gen 2",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-10-23T00:55:24.637Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "TV Aiwa é boa? Conheça 5 modelos para comprar em 2026",
-      "summary": "Descubra os prós e contras das principais smart TVs Aiwa disponíveis no Brasil em 2026; guia inclui modelos Full HD e 4K com Android TV em diversos tamanhos TV Aiwa é boa? Conheça 5 modelos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-tv-aiwa/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Aiwa"
-        ]
-      },
-      "timestamp": "2026-10-23T00:55:24.882Z"
-    },
-    {
       "agent": "Alfredo Gamer",
       "title": "Home (Epic Games) Giveaway",
       "summary": "Plataformas: PC, Android, iOS, Epic Games Store. Termina em: 2026-10-29 23:59:59.",
@@ -8215,6 +8048,87 @@
         ]
       },
       "timestamp": "2026-11-21T21:47:19.531Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Kindle Colorsoft tem R$ 500 OFF em até 10x às vésperas da Black Friday",
+      "summary": "Kindle Colorsoft (16 GB) com tela colorida de 7\" e bateria de longa duração alcança o menor preço que já vimos, com desconto de 33% no prazo durante a Black November 2026 Kindle Colorsoft tem R$ 500 OFF em até 10x às vésperas da Black Friday",
+      "link": "https://tecnoblog.net/achados/kindle-colorsoft-tem-r-500-off-em-ate-10x-as-vesperas-da-black-friday/",
+      "meta": {
+        "categorias": [
+          "Gadgets",
+          "Amazon",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Kindle Colorsoft"
+        ]
+      },
+      "timestamp": "2026-11-22T01:44:09.149Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "WhatsApp aumenta limite de grupos para até 1.500 pessoas",
+      "summary": "Novo teto supera os 1.024 membros permitidos anteriormente. Plataforma também avança na solução de backup próprio WhatsApp aumenta limite de grupos para até 1.500 pessoas",
+      "link": "https://tecnoblog.net/noticias/whatsapp-aumenta-limite-de-grupos-para-ate-1-500-pessoas/",
+      "meta": {
+        "categorias": [
+          "Redes Sociais",
+          "Android",
+          "iOS",
+          "WhatsApp"
+        ]
+      },
+      "timestamp": "2026-11-22T01:44:09.422Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Desenvolvedores de GTA 6 temem demissões após lançamento",
+      "summary": "Funcionário da Rockstar diz que preocupação também existe entre colegas, apesar da estreia bem-sucedida do jogo. Desenvolvedores de GTA 6 temem demissões após lançamento",
+      "link": "https://tecnoblog.net/noticias/desenvolvedores-de-gta-6-temem-demissoes-apos-lancamento/",
+      "meta": {
+        "categorias": [
+          "Jogos",
+          "GTA 6",
+          "Rockstar Games"
+        ]
+      },
+      "timestamp": "2026-11-22T01:44:09.703Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Lenovo Ideapad Slim 3 com 16 GB de RAM fica mais barato no esquenta Black 2026",
+      "summary": "IdeaPad Slim 3 com 16 GB de RAM e processador AMD Ryzen 5 sai 29% mais em conta no Pix, em oferta da Amazon durante a Black November 2026 Lenovo Ideapad Slim 3 com 16 GB de RAM fica mais barato no esquenta Black 2026",
+      "link": "https://tecnoblog.net/achados/lenovo-ideapad-slim-3-com-16-gb-de-ram-fica-mais-barato-no-esquenta-black-2026/",
+      "meta": {
+        "categorias": [
+          "Computadores",
+          "Amazon",
+          "AMD",
+          "Black Friday",
+          "Black Friday 2026",
+          "Black November 2026",
+          "Lenovo",
+          "Lenovo IdeaPad Slim 3",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-22T01:44:09.975Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Samsung agora permite bloquear apps individualmente nos celulares",
+      "summary": "Recurso da One UI 9.5 protege aplicativos com biometria, PIN, senha ou padrão e começa a chegar aos Galaxy S26. Samsung agora permite bloquear apps individualmente nos celulares",
+      "link": "https://tecnoblog.net/noticias/samsung-agora-permite-bloquear-apps-individualmente-nos-celulares/",
+      "meta": {
+        "categorias": [
+          "Segurança e Privacidade",
+          "Galaxy S26",
+          "Número de identificação pessoal (PIN)",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-11-22T01:44:10.254Z"
     }
   ]
 }
