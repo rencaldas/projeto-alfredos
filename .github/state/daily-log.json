@@ -1,28 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Gamer",
-      "title": "Home (Epic Games) Giveaway",
-      "summary": "Plataformas: PC, Android, iOS, Epic Games Store. Termina em: 2026-10-29 23:59:59.",
-      "link": "https://www.gamerpower.com/open/home",
-      "meta": {
-        "status": "Active",
-        "thumbnail": "https://www.gamerpower.com/offers/1/home.jpg"
-      },
-      "timestamp": "2026-10-23T06:38:14.398Z"
-    },
-    {
-      "agent": "Alfredo Gamer",
-      "title": "Sker Ritual (Epic Games) Giveaway",
-      "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-10-29 23:59:59.",
-      "link": "https://www.gamerpower.com/open/sker-ritual",
-      "meta": {
-        "status": "Active",
-        "thumbnail": "https://www.gamerpower.com/offers/1/sker.jpg"
-      },
-      "timestamp": "2026-10-23T06:38:14.957Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Clientes do Airbnb não vão mais precisar lavar a louça",
       "summary": "Mudanças nas regras da casa colocam limites nas exigências dos anfitriões. Além da louça, quem aluga a casa não pode mais ser obrigado a retirar o lixo. Clientes do Airbnb não vão mais precisar lavar a louça",
@@ -8129,6 +8107,57 @@
         ]
       },
       "timestamp": "2026-11-22T01:44:10.254Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Motorola confirma mais celulares que receberão o Android 17",
+      "summary": "Atualização já começou a chegar a alguns modelos das linhas Edge, Razr e Moto G. Motorola confirma mais celulares que receberão o Android 17",
+      "link": "https://tecnoblog.net/noticias/motorola-confirma-mais-celulares-que-receberao-o-android-17/",
+      "meta": {
+        "categorias": [
+          "Sistemas Operacionais",
+          "Android 17",
+          "Moto G",
+          "Motorola",
+          "Motorola Edge",
+          "Motorola RAZR (linha)"
+        ]
+      },
+      "timestamp": "2026-11-22T08:50:57.776Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Black November: Galaxy Z Fold 8 (512 GB) tem melhor oferta desde lançamento",
+      "summary": "Galaxy Z Fold 8 tem formato passaporte e RAM de 12 GB; novo dobrável da Samsung recebe 26% de desconto às vésperas da Black Friday Black November: Galaxy Z Fold 8 (512 GB) tem melhor oferta desde lançamento",
+      "link": "https://tecnoblog.net/achados/black-november-galaxy-z-fold-8-512-gb-tem-melhor-oferta-desde-lancamento/",
+      "meta": {
+        "categorias": [
+          "Celulares",
+          "Amazon",
+          "Black Friday",
+          "Black November 2026",
+          "Galaxy Z Fold 8",
+          "Memória RAM",
+          "Pix",
+          "Samsung"
+        ]
+      },
+      "timestamp": "2026-11-22T08:50:58.021Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Black November: Lenovo Idea Tab Pro Gen 2 aparece com maior desconto registrado",
+      "summary": "Lenovo Idea Tab Pro Gen 2 roda Fortnite sem dificuldades e tem tela fluida de 144 Hz; tablet poderoso recebe 33% de desconto em oferta exclusiva Amazon Prime Black November: Lenovo Idea Tab Pro Gen 2 aparece com maior desconto registrado",
+      "link": "https://tecnoblog.net/achados/black-november-lenovo-idea-tab-pro-gen-2-para-jogos-tem-melhor-oferta-que-ja-vimos/",
+      "meta": {
+        "categorias": [
+          "Tablets",
+          "Black November 2026",
+          "Lenovo Idea Tab Pro Gen 2",
+          "Pix"
+        ]
+      },
+      "timestamp": "2026-11-22T08:50:58.266Z"
     }
   ]
 }
