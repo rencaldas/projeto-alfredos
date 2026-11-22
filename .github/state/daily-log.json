@@ -2,88 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Clientes do Airbnb não vão mais precisar lavar a louça",
-      "summary": "Mudanças nas regras da casa colocam limites nas exigências dos anfitriões. Além da louça, quem aluga a casa não pode mais ser obrigado a retirar o lixo. Clientes do Airbnb não vão mais precisar lavar a louça",
-      "link": "https://tecnoblog.net/noticias/clientes-do-airbnb-nao-vao-mais-precisar-lavar-a-louca/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Airbnb"
-        ]
-      },
-      "timestamp": "2026-10-23T15:20:58.299Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nintendo Switch 2 é desbloqueado via software pela primeira vez",
-      "summary": "Pesquisador identificou falha que permite rodar aplicativos não oficiais e modificar jogos no console. Nintendo Switch 2 é desbloqueado via software pela primeira vez",
-      "link": "https://tecnoblog.net/noticias/nintendo-switch-2-e-desbloqueado-via-software-pela-primeira-vez/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Games",
-          "Homebrew",
-          "Jailbreak",
-          "Nintendo",
-          "Nintendo Switch 2",
-          "Switch 2"
-        ]
-      },
-      "timestamp": "2026-10-23T15:20:58.566Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S26 FE filma em 8K e está em promoção no Magalu",
-      "summary": "Galaxy S26 FE com tela de 120 Hz, Galaxy AI e Android 17 fica mais barato apenas um mês após a chegada no Brasil Galaxy S26 FE filma em 8K e está em promoção no Magalu",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-fe-filma-em-8k-e-esta-em-promocao-no-magalu/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "1080p (Full HD)",
-          "AMOLED",
-          "Brasil",
-          "Galaxy AI",
-          "Magazine Luiza",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-23T15:20:58.839Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S25 Ultra (512 GB) com tela premium tem desconto generoso",
-      "summary": "Galaxy S25 Ultra traz display brilhante com ótimos ângulos de visão, alto desempenho e preço mais acessível comparado ao Galaxy S26 Ultra Galaxy S25 Ultra (512 GB) com tela premium tem desconto generoso",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-com-tela-premium-tem-desconto-generoso/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy S25 Ultra",
-          "Magazine Luiza",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-23T15:20:59.097Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Operadoras brasileiras vão liberar internet via satélite no celular",
-      "summary": "Brisanet, Unifique e Iez! Telecom assinaram com a AST SpaceMobile. Operadoras brasileiras vão liberar internet via satélite no celular",
-      "link": "https://tecnoblog.net/noticias/operadoras-brasileiras-vao-liberar-internet-via-satelite-no-celular/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "AST SpaceMobile",
-          "Brasil",
-          "Brisanet",
-          "Iez! Telecom",
-          "Unifique"
-        ]
-      },
-      "timestamp": "2026-10-23T15:20:59.362Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Huawei Watch Fit 5 Pro para treinos sai R$ 900 mais barato com cupom",
       "summary": "Huawei Watch Fit 5 Pro traz modo \"Mini Treino\", sensores de saúde avançados e GPS integrado; smartwatch da Huawei está com desconto de 45% no aplicativo Magalu Huawei Watch Fit 5 Pro para treinos sai R$ 900 mais barato com cupom",
       "link": "https://tecnoblog.net/achados/huawei-watch-fit-5-pro-para-treinos-sai-r-900-mais-barato-com-cupom/",
@@ -8158,6 +8076,42 @@
         ]
       },
       "timestamp": "2026-11-22T08:50:58.266Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: chromium-bidi (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 157.0.8090-0 → versão mais recente 160.0.8178-0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-22T16:45:08.121Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/guzzle (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 7.15.5 → versão mais recente 8.5.5 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-22T16:45:08.121Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: guzzlehttp/psr7 (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada 2.13.1 → versão mais recente 3.6.0 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-22T16:45:08.121Z"
     }
   ]
 }
