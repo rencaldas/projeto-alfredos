@@ -1,6 +1,6 @@
 # Projeto Alfredos
 
-Automações para enviar notícias de tecnologia, jogos grátis, alertas de segurança e um relatório executivo diário ao Telegram e por e-mail. O projeto nasceu em n8n self-hosted com Docker e foi migrado para GitHub Actions, sem servidor ligado 24/7.
+Automações que enviam ao Telegram notícias de tecnologia, jogos grátis, alertas de segurança e vagas de emprego com os textos da candidatura já prontos. O projeto nasceu em n8n self-hosted com Docker e foi migrado para GitHub Actions, sem servidor ligado 24/7.
    
 ## O que roda hoje  
 
@@ -12,7 +12,7 @@ Automações para enviar notícias de tecnologia, jogos grátis, alertas de segu
 1. **Alfredo Jornalista**: consulta o feed RSS do Tecnoblog a cada 15 minutos e envia as notícias inéditas para o Telegram.
 2. **Alfredo Gamer**: consulta diariamente a API da GamerPower para jogos gratuitos inéditos da Epic Games Store e envia imagem, link de resgate e detalhes ao Telegram. Quando a promoção de um jogo já enviado encerra, o bot volta na mensagem original e avisa que não está mais disponível (ver [detalhes abaixo](#alfredo-gamer--jogos-encerrados)).
 3. **Alfredo Sentinela**: audita periodicamente os repositórios do GitHub, detecta dependências por lockfiles/manifestos, consulta vulnerabilidades públicas e avisa sobre riscos ou atualizações relevantes.
-4. **Alfredo Secretário**: todos os dias às 23:59 (horário de Brasília), consolida tudo que os outros Alfredos enviaram no dia, pede para o Google Gemini gerar um relatório executivo e envia um resumo ao Telegram e o relatório completo por e-mail.
+4. **Alfredo Secretário**: de segunda a sexta às 08:40 (horário de Brasília), busca vagas na Gupy, usa o Google Gemini para avaliar a aderência de cada uma ao perfil do candidato e envia as melhores ao Telegram com resumo profissional, áreas de interesse e o texto "sobre você" prontos para colar (ver [detalhes abaixo](#alfredo-secretário--vagas-com-candidatura-pronta)).
 
 ## Estrutura
 
@@ -26,7 +26,8 @@ Automações para enviar notícias de tecnologia, jogos grátis, alertas de segu
 .github/state/games-messages.json
 .github/state/sentinela-history.json
 .github/state/daily-log.json
-.github/state/secretario-history.json
+.github/state/secretario-vagas-history.json
+config/vagas.json
 scripts/alfredo-jornalista.mjs
 scripts/alfredo-gamer.mjs
 scripts/alfredo-sentinela.mjs
@@ -36,16 +37,15 @@ scripts/games-messages.mjs
 scripts/daily-log.mjs
 scripts/telegram.mjs
 scripts/gemini.mjs
-scripts/mailer.mjs
+scripts/gupy.mjs
+scripts/vagas.mjs
 scripts/retry.mjs
+tests/vagas.test.mjs
 package.json
 package-lock.json
 .env.example
-docs/exemplo-relatorio-email.html
 imgs/
 ```
-
-> `docs/exemplo-relatorio-email.html` é um exemplo real (gerado localmente durante o desenvolvimento, com dados fictícios) do e-mail que o Alfredo Secretário envia. Abra esse arquivo em um navegador para ver o layout antes de configurar os secrets.
 
 ## Como configurar no GitHub
 
@@ -67,8 +67,7 @@ Crie estes Repository Secrets:
 | `ALFREDO_SECRETARIO_BOT_TOKEN` | Token do bot Alfredo Secretário no Telegram |
 | `ALFREDO_SECRETARIO_BOT_CHAT_ID` | Chat do Alfredo Secretário no Telegram |
 | `ALFREDO_SECRETARIO_GEMINI_API_KEY` | Chave da API oficial do Google Gemini |
-| `ALFREDO_SECRETARIO_GMAIL_USER` | Endereço Gmail usado para enviar o e-mail (remetente) |
-| `ALFREDO_SECRETARIO_GMAIL_APP_PASSWORD` | Senha de app do Gmail (não é a senha normal da conta) |
+| `ALFREDO_SECRETARIO_PERFIL` | Perfil do candidato em texto livre, usado pela IA para avaliar as vagas e escrever os textos (ver [O perfil do candidato](#o-perfil-do-candidato)) |
 
 Para repositórios privados, use um Personal Access Token com permissão de leitura nos repositórios que serão auditados. Em tokens fine-grained, conceda acesso aos repositórios desejados com permissão **Contents: Read**. Para auditar organizações, o token também precisa ter acesso aos repositórios da organização.
 
@@ -79,17 +78,6 @@ Os nomes `TELEGRAM_*` antigos continuam aceitos como fallback para os bots do Te
 1. Acesse [aistudio.google.com/apikey](https://aistudio.google.com/apikey) com a conta Google desejada.
 2. Clique em **Create API key** e copie o valor gerado.
 3. Cole esse valor no secret `ALFREDO_SECRETARIO_GEMINI_API_KEY`.
-
-#### Como gerar a senha de app do Gmail
-
-O envio de e-mail usa SMTP do Gmail, que exige uma **senha de app** (não a senha normal da conta), e só está disponível com a verificação em duas etapas ativada:
-
-1. Ative a verificação em duas etapas em [myaccount.google.com/security](https://myaccount.google.com/security).
-2. Acesse [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords).
-3. Crie uma senha de app (ex.: nome "Alfredo Secretario") e copie o valor gerado (16 caracteres, sem espaços).
-4. Use esse endereço de e-mail em `ALFREDO_SECRETARIO_GMAIL_USER` e a senha de app em `ALFREDO_SECRETARIO_GMAIL_APP_PASSWORD`.
-
-O e-mail é enviado **a partir** dessa conta Gmail (`ALFREDO_SECRETARIO_GMAIL_USER`) e recebido pelo destinatário configurado em `ALFREDO_SECRETARIO_EMAIL_TO` (por padrão, `renato.deacaldas@gmail.com`). Pode ser a mesma conta ou contas diferentes.
 
 ## Variáveis opcionais
 
@@ -107,9 +95,9 @@ Também em **Settings > Secrets and variables > Actions**, aba **Variables**, vo
 | `SENTINELA_MAX_DEPENDENCIES_PER_REPO` | `800` | Limite de dependências analisadas por repositório |
 | `SENTINELA_INCLUDE_ARCHIVED` | `false` | Inclui repositórios arquivados na auditoria |
 | `SENTINELA_UPDATE_MAJOR_GAP` | `1` | Quantos majors de diferença tornam uma atualização relevante |
-| `GEMINI_MODEL` | `gemini-2.5-flash` | Modelo do Gemini usado para gerar o relatório executivo |
-| `ALFREDO_SECRETARIO_EMAIL_TO` | `renato.deacaldas@gmail.com` | Destinatário do relatório diário por e-mail |
-| `FORCE_SECRETARIO_RESEND` | `false` | Se `true`, reenvia o relatório do dia mesmo se já tiver sido enviado (útil para testar via `workflow_dispatch`) |
+| `GEMINI_MODEL` | `gemini-3.5-flash` | Modelo do Gemini usado pelo Alfredo Secretário |
+
+Os termos de busca, a cidade, a nota mínima e os limites do Alfredo Secretário ficam em `config/vagas.json`, versionado junto com o código.
 
 Exemplo de `SENTINELA_TARGETS`:
 
@@ -127,14 +115,14 @@ Os bots registram automaticamente o que já foi enviado em arquivos versionados:
 .github/state/games-messages.json
 .github/state/sentinela-history.json
 .github/state/daily-log.json
-.github/state/secretario-history.json
+.github/state/secretario-vagas-history.json
 ```
 
 Nas próximas execuções, itens já registrados não são reenviados. Os workflows fazem commit e push desses arquivos somente quando houver alteração.
 
-- `daily-log.json`: log leve alimentado pelo Jornalista, Gamer e Sentinela sempre que enviam algo (título, resumo, link e data/hora). É a fonte de dados real que o Secretário usa para montar o relatório do dia. Entradas com mais de 30 dias são removidas automaticamente a cada gravação.
+- `daily-log.json`: log leve alimentado pelo Jornalista, Gamer e Sentinela sempre que enviam algo (título, resumo, link e data/hora). Era a fonte do antigo relatório diário do Secretário e hoje não tem consumidor; foi mantido para o dashboard público planejado. Entradas com mais de 30 dias são removidas automaticamente a cada gravação.
 - `games-messages.json`: guarda, por jogo já enviado pelo Alfredo Gamer, o `chatId`/`messageId` de cada mensagem no Telegram e o `end_date` da promoção — é o que permite ao bot voltar numa mensagem antiga quando o jogo deixa de estar disponível (ver [detalhes abaixo](#alfredo-gamer--jogos-encerrados)). Entradas já notificadas são removidas automaticamente 60 dias depois.
-- `secretario-history.json`: guarda as datas (`YYYY-MM-DD`, fuso America/Sao_Paulo) cujo relatório diário já foi enviado, para não duplicar o e-mail/Telegram em reexecuções manuais no mesmo dia (a menos que `FORCE_SECRETARIO_RESEND=true`).
+- `secretario-vagas-history.json`: guarda um hash (HMAC-SHA256) de cada vaga já avaliada ou enviada pelo Alfredo Secretário, para que ela não seja avaliada nem enviada de novo. O id da vaga nunca é gravado em texto puro (ver [Privacidade](#privacidade)).
 
 ## Agendamentos
 
@@ -143,15 +131,15 @@ Nas próximas execuções, itens já registrados não são reenviados. Os workfl
 | Alfredo Jornalista | `.github/workflows/alfredo-jornalista.yml` | `*/15 * * * *` | A cada 15 minutos |
 | Alfredo Gamer | `.github/workflows/alfredo-gamer.yml` | `0 2 * * *` | 23:00 em America/Sao_Paulo |
 | Alfredo Sentinela | `.github/workflows/alfredo-sentinela.yml` | `0 9 * * *` | 06:00 em America/Sao_Paulo |
-| Alfredo Secretário | `.github/workflows/alfredo-secretario.yml` | `59 2 * * *` | 23:59 em America/Sao_Paulo |
+| Alfredo Secretário | `.github/workflows/alfredo-secretario.yml` | `40 11 * * 1-5` | 08:40 em America/Sao_Paulo, de segunda a sexta |
 
-O cron do GitHub Actions usa UTC. Como Brasília está em UTC-3, `59 2 * * *` dispara às 23:59 do dia anterior no horário de Brasília (2:59 - 3:00 = 23:59 do dia anterior em UTC).
+O cron do GitHub Actions usa UTC. Como Brasília está em UTC-3, `40 11 * * 1-5` dispara às 08:40 no horário de Brasília (11:40 - 3:00 = 08:40).
 
 Observação: workflows agendados no GitHub Actions podem atrasar alguns minutos em horários de alta demanda. Isso é normal da plataforma.
 
 ### Como alterar o horário do Alfredo Secretário
 
-Edite a linha `cron` em `.github/workflows/alfredo-secretario.yml`. O valor é sempre em UTC; para converter de America/Sao_Paulo (UTC-3) para UTC, some 3 horas ao horário desejado. Exemplo: para rodar às 22:30 em Brasília, use `cron: '30 1 * * *'`.
+Edite a linha `cron` em `.github/workflows/alfredo-secretario.yml`. O valor é sempre em UTC; para converter de America/Sao_Paulo (UTC-3) para UTC, some 3 horas ao horário desejado. Exemplo: para rodar às 07:50 em Brasília de segunda a sexta, use `cron: '50 10 * * 1-5'`.
 
 ## Alfredo Gamer — jogos encerrados
 
@@ -168,45 +156,62 @@ Além de enviar jogos gratuitos inéditos, o Gamer avisa quando um jogo já envi
 - Se a GamerPower informar `end_date` como `N/A` ou em formato que o `Date` do Node não reconheça, esse jogo nunca é marcado como encerrado automaticamente.
 - Falha ao apagar/editar uma mensagem específica (por exemplo, se ela já tiver sido apagada manualmente) só gera um aviso no log; não interrompe a execução nem o envio dos jogos novos do dia.
 
-## Alfredo Secretário — como funciona
+## Alfredo Secretário — vagas com candidatura pronta
 
-O Secretário não duplica a lógica dos outros bots: ele **lê** o que eles já enviaram.
+De segunda a sexta, o Secretário procura vagas, faz uma triagem com IA e manda as melhores para o Telegram já com os textos da candidatura prontos para colar. A inscrição continua manual: o bot prepara tudo, e o clique em "enviar" fica com o candidato.
 
-1. **Coleta**: o Jornalista, o Gamer e o Sentinela, imediatamente após cada envio bem-sucedido ao Telegram, também registram uma entrada em `.github/state/daily-log.json` (via `scripts/daily-log.mjs`) com agente, título, resumo, link e timestamp. Isso reaproveita o mesmo padrão de persistência versionada já usado pelo `history.mjs`, só que guardando conteúdo em vez de apenas IDs de deduplicação.
-2. **Seleção do dia**: o Secretário filtra as entradas de `daily-log.json` cujo timestamp caia no dia atual (fuso America/Sao_Paulo) e agrupa por agente.
-3. **Estatísticas**: quantidade de itens por agente e total do dia são calculados diretamente em código (não pelo modelo de IA), para garantir que os números do relatório sejam sempre exatos.
-4. **Relatório executivo (Gemini)**: se houver itens no dia, o conteúdo agrupado é enviado à API oficial do Gemini (`generateContent`, endpoint `https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent`) pedindo saída estruturada em JSON (`responseMimeType: application/json` + `responseSchema`), com resumo geral, destaques, resumo por agente e conclusão. Isso evita depender de parsing de texto livre.
-5. **Envio**:
-   - **Telegram**: usa `sendTelegramMessage` (o mesmo módulo `telegram.mjs` dos outros bots), que já quebra automaticamente mensagens acima de 4096 caracteres em várias mensagens.
-   - **E-mail**: HTML profissional gerado localmente (sem depender do Gemini para formatação/HTML), enviado via Gmail SMTP (`scripts/mailer.mjs`, usando `nodemailer`).
-6. **Sem novidades**: se não houver nenhuma entrada no dia, o Secretário pula a chamada ao Gemini e envia diretamente um Telegram e um e-mail informando que não houve novidades.
-7. **Idempotência**: ao final, a data do relatório é marcada em `secretario-history.json` (reaproveitando `history.mjs`). Se o workflow rodar de novo no mesmo dia (ex.: `workflow_dispatch` manual), o Secretário não reenvia — a menos que `FORCE_SECRETARIO_RESEND=true`.
-8. **Resiliência**: chamadas ao Gemini, ao Telegram e ao Gmail passam por `scripts/retry.mjs` (retry com backoff exponencial + jitter). O cliente do Gemini trata especificamente respostas `429` (rate limit), respeitando o `retryDelay`/`Retry-After` informado pela API quando presente. Se, mesmo com as tentativas, o envio falhar, o histórico **não** é marcado como enviado, então a próxima execução tenta de novo.
+1. **Busca**: para cada termo de `config/vagas.json`, consulta a API pública do portal da Gupy (`portal.api.gupy.io/api/v1/jobs`) via `scripts/gupy.mjs`, que normaliza cada vaga (título, empresa, descrição em texto puro, cidade, modelo de trabalho, tipo de contrato e link).
+2. **Filtros sem IA** (`scripts/vagas.mjs`): vagas remotas valem de qualquer lugar; presenciais e híbridas só na cidade configurada. Também são descartados os tipos listados em `tiposExcluidos` (banco de talentos, jovem aprendiz), títulos com palavras de senioridade (`palavrasExcluidasNoTitulo`), vagas publicadas há mais de `diasMaximosDesdePublicacao` dias e as que já estão no histórico. Esses filtros rodam antes da IA para economizar cota do Gemini.
+3. **Triagem (Gemini)**: uma única chamada avalia até `maxVagasParaAvaliar` vagas e devolve, em JSON estruturado, uma nota de 0 a 10 e o motivo, comparando cada vaga com o perfil do candidato (requisitos obrigatórios, nível e relação com a carreira).
+4. **Textos (Gemini)**: para as `maxVagasComTextos` melhores vagas com nota maior ou igual a `notaMinima`, uma chamada por vaga gera o resumo profissional, as áreas de interesse, a resposta para "fale sobre você" (até 1.500 caracteres, o limite usual da Gupy) e até três pontos de atenção. O prompt proíbe inventar experiências: o que a vaga pede e o perfil não cobre vai para os pontos de atenção, nunca para os textos.
+5. **Envio**: uma mensagem de abertura com o resumo do dia e depois uma mensagem por vaga, com nota, motivo, link e cada texto num bloco `<pre>`, que o Telegram copia com um toque. Se a mensagem passar do limite do Telegram, cada seção vai separada, para nunca quebrar um bloco no meio. As vagas boas que excedem o limite diário chegam numa lista final, só com nota e link.
+6. **Histórico**: vagas descartadas entram no histórico logo após a triagem, para não serem reavaliadas. As boas só entram depois de enviadas ao Telegram. O passo que versiona o histórico roda mesmo se o script falhar no meio, para que as vagas já enviadas não cheguem de novo.
+
+### O perfil do candidato
+
+O perfil fica no secret `ALFREDO_SECRETARIO_PERFIL`, e não num arquivo, porque o repositório é público. É texto livre (Markdown funciona bem) e é a única fonte de fatos que a IA pode usar. Quanto mais completo, menos pontos de atenção aparecem e melhores ficam os textos. Vale incluir:
+
+- formação, período e turno;
+- cada experiência com o que você realmente fazia e resultados com número;
+- as ferramentas que você usa de verdade, com o nível;
+- projetos pessoais;
+- o que você **não** tem (para a IA não "cobrir" esses requisitos);
+- o objetivo de carreira.
+
+### Privacidade
+
+Como o repositório e os logs do Actions são públicos, o Secretário foi pensado para não expor a busca de emprego:
+
+- os logs mostram só contagens, nunca títulos, empresas ou textos gerados;
+- o histórico guarda um HMAC-SHA256 do id da vaga (chave: o token do bot), não o id;
+- o modo `ALFREDO_SECRETARIO_DRY_RUN`, que imprime as mensagens no terminal, deve ser usado só localmente.
 
 ### Limitações conhecidas
 
-- Se o Telegram falhar no meio do envio de uma mensagem já dividida em várias partes (por causa do limite de 4096 caracteres), o retry reenvia a mensagem inteira, podendo duplicar partes já entregues. Para o uso pessoal deste projeto isso é preferível a perder o relatório.
-- O prompt enviado ao Gemini limita a 40 itens detalhados por agente (contabilizando os demais apenas como "+N itens adicionais") para manter o tamanho do prompt sob controle em dias muito movimentados. As contagens exibidas no relatório continuam exatas, pois são calculadas em código.
+- A API da Gupy não é oficial nem documentada. Se o formato mudar, a execução falha com uma mensagem que lista as chaves recebidas, o que facilita ajustar `normalizeGupyJob`.
+- As perguntas específicas de cada formulário de inscrição não aparecem na API, então precisam ser respondidas na hora da candidatura.
+- Cada execução faz no máximo `1 + maxVagasComTextos` chamadas ao Gemini, para caber na cota gratuita.
+- Trocar o token do bot do Secretário muda a chave do hash: vagas já vistas nos últimos dias podem reaparecer uma vez.
 
 ## Como executar manualmente
 
 No GitHub, acesse **Actions**, escolha o workflow e clique em **Run workflow**.
 
-Mesmo em execuções manuais, os bots continuam enviando somente itens inéditos quando usam histórico. Para o Alfredo Secretário, se o relatório do dia já tiver sido enviado, a execução manual não reenvia a menos que a variável `FORCE_SECRETARIO_RESEND` esteja `true`.
+Mesmo em execuções manuais, os bots continuam enviando somente itens inéditos quando usam histórico. No Alfredo Secretário, uma execução manual logo depois da agendada normalmente responde que não há vagas novas, porque as do dia já foram avaliadas.
 
 ## Como testar localmente
 
 Com Node.js 24 ou superior:
 
 ```bash
-npm install
+npm test
 npm run alfredo:jornalista
 npm run alfredo:gamer
 npm run alfredo:sentinela
 npm run alfredo:secretario
 ```
 
-`npm install` só é necessário por causa do Alfredo Secretário (dependência `nodemailer`); os outros três bots continuam usando apenas `fetch` nativo, sem dependências.
+O projeto não tem dependências externas: todos os bots usam apenas `fetch` nativo e módulos do Node.js. `npm test` roda os testes unitários dos filtros de vagas com o test runner nativo (`node --test`).
 
 Antes de rodar localmente, exporte as variáveis de ambiente do bot desejado. Exemplo para o Sentinela:
 
@@ -222,10 +227,9 @@ Exemplo para o Secretário:
 export ALFREDO_SECRETARIO_BOT_TOKEN="seu-token-telegram"
 export ALFREDO_SECRETARIO_BOT_CHAT_ID="seu-chat-id"
 export ALFREDO_SECRETARIO_GEMINI_API_KEY="sua-chave-gemini"
-export ALFREDO_SECRETARIO_GMAIL_USER="seu-email@gmail.com"
-export ALFREDO_SECRETARIO_GMAIL_APP_PASSWORD="sua-senha-de-app"
-# Opcional, só se quiser forçar reenvio no mesmo dia:
-export FORCE_SECRETARIO_RESEND=true
+export ALFREDO_SECRETARIO_PERFIL="$(cat ~/perfil-candidato.md)"
+# Opcional: imprime as mensagens no terminal em vez de enviar e não grava histórico.
+export ALFREDO_SECRETARIO_DRY_RUN=true
 ```
 
 No PowerShell:
@@ -234,15 +238,11 @@ No PowerShell:
 $env:ALFREDO_SECRETARIO_BOT_TOKEN="seu-token-telegram"
 $env:ALFREDO_SECRETARIO_BOT_CHAT_ID="seu-chat-id"
 $env:ALFREDO_SECRETARIO_GEMINI_API_KEY="sua-chave-gemini"
-$env:ALFREDO_SECRETARIO_GMAIL_USER="seu-email@gmail.com"
-$env:ALFREDO_SECRETARIO_GMAIL_APP_PASSWORD="sua-senha-de-app"
+$env:ALFREDO_SECRETARIO_PERFIL = Get-Content "$HOME\perfil-candidato.md" -Raw
+$env:ALFREDO_SECRETARIO_DRY_RUN="true"
 ```
 
 Você também pode usar `.env.example` como referência para preencher as mesmas variáveis no seu terminal ou no GitHub Actions.
-
-### Como alterar o destinatário do e-mail
-
-Padrão: `renato.deacaldas@gmail.com`, definido em `DEFAULT_EMAIL_TO` dentro de `scripts/alfredo-secretario.mjs`. Para trocar sem editar código, defina a variável `ALFREDO_SECRETARIO_EMAIL_TO` (Settings > Secrets and variables > Actions > Variables, ou como variável de ambiente local). Para trocar o padrão definitivamente, edite a constante `DEFAULT_EMAIL_TO` no script.
 
 ### Como alterar o chat do Telegram
 
@@ -261,12 +261,12 @@ Basta atualizar o valor do secret correspondente em **Settings > Secrets and var
 - Os workflows ficam versionados junto com o código.
 - Os tokens ficam em GitHub Actions Secrets, não no JSON exportado do n8n.
 - Os Alfredos usam arquivos de histórico versionados para evitar repostagens mesmo em execuções efêmeras do GitHub Actions.
-- O Alfredo Secretário reaproveita essa mesma infraestrutura (histórico versionado + GitHub Actions) para gerar um relatório diário com IA, sem precisar de um servidor ou banco de dados externo.
+- O Alfredo Secretário reaproveita essa mesma infraestrutura (histórico versionado + GitHub Actions) para fazer triagem de vagas com IA, sem precisar de um servidor ou banco de dados externo.
 
 ## Segurança
 
-Tokens de bot, Personal Access Tokens, a chave da API do Gemini e a senha de app do Gmail nunca devem ser commitados no repositório. Configure-os apenas como GitHub Actions Secrets.
+Tokens de bot, Personal Access Tokens, a chave da API do Gemini e o perfil do candidato nunca devem ser commitados no repositório. Configure-os apenas como GitHub Actions Secrets.
 
-Se algum token/chave/senha for exposto fora do GitHub Secrets, gere um novo no BotFather, no GitHub, no Google AI Studio ou nas configurações de senhas de app do Google (conforme o caso) e atualize o secret correspondente.
+Se algum token/chave/senha for exposto fora do GitHub Secrets, gere um novo no BotFather, no GitHub ou no Google AI Studio (conforme o caso) e atualize o secret correspondente.
 
-As dependências do projeto (atualmente apenas `nodemailer`, usado pelo Alfredo Secretário) são auditadas com `npm audit` antes de cada atualização de versão neste README; nenhuma vulnerabilidade conhecida está presente na versão fixada em `package-lock.json`.
+O projeto não tem dependências de terceiros em produção, o que elimina essa superfície de ataque. Se alguma for adicionada no futuro, audite com `npm audit` antes de cada atualização.
