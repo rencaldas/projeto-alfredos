@@ -1,422 +1,363 @@
 import { loadHistory, markSent, saveHistory, wasSent } from './history.mjs';
-import { loadDailyLog, selectEntriesForDate, yesterdayKey } from './daily-log.mjs';
 import { optionalEnv, requireEnv, sendTelegramMessage } from './telegram.mjs';
 import { generateStructuredReport } from './gemini.mjs';
-import { sendReportEmail } from './mailer.mjs';
-import { withRetry } from './retry.mjs';
+import { searchGupyJobs } from './gupy.mjs';
+import { filterJobs, hashJobId, loadVagasConfig, trimAtSentence, workplaceLabel } from './vagas.mjs';
+import { sleep, withRetry } from './retry.mjs';
 
-const DAILY_LOG_PATH = '.github/state/daily-log.json';
-const SECRETARIO_HISTORY_PATH = '.github/state/secretario-history.json';
+const CONFIG_PATH = 'config/vagas.json';
+const HISTORY_PATH = '.github/state/secretario-vagas-history.json';
 const DEFAULT_GEMINI_MODEL = 'gemini-3.5-flash';
-const DEFAULT_EMAIL_TO = 'renato.deacaldas@gmail.com';
-const MAX_ITEMS_PER_AGENT_IN_PROMPT = 40;
 const TIMEZONE = 'America/Sao_Paulo';
+const TELEGRAM_SAFE_LIMIT = 3900;
+const SOBRE_VOCE_LIMIT = 1500;
+const DESCRIPTION_CHARS_FOR_SCORING = 1200;
+const DESCRIPTION_CHARS_FOR_TEXTS = 8000;
+const PAUSE_BETWEEN_GEMINI_CALLS_MS = 4000;
 
 const botToken = optionalEnv('ALFREDO_SECRETARIO_BOT_TOKEN', process.env.TELEGRAM_BOT_TOKEN);
 const chatId = optionalEnv('ALFREDO_SECRETARIO_BOT_CHAT_ID', process.env.TELEGRAM_CHAT_ID);
 const geminiApiKey = optionalEnv('ALFREDO_SECRETARIO_GEMINI_API_KEY', process.env.GEMINI_API_KEY);
 const geminiModel = optionalEnv('GEMINI_MODEL', DEFAULT_GEMINI_MODEL);
-const gmailUser = optionalEnv('ALFREDO_SECRETARIO_GMAIL_USER', '');
-const gmailAppPassword = optionalEnv('ALFREDO_SECRETARIO_GMAIL_APP_PASSWORD', '');
-const emailTo = optionalEnv('ALFREDO_SECRETARIO_EMAIL_TO', DEFAULT_EMAIL_TO);
-const forceResend = boolEnv('FORCE_SECRETARIO_RESEND', false);
-const repoUrl = `${optionalEnv('GITHUB_SERVER_URL', 'https://github.com')}/${optionalEnv(
-  'GITHUB_REPOSITORY',
-  'rencaldas/projeto-alfredos'
-)}`;
+const perfil = optionalEnv('ALFREDO_SECRETARIO_PERFIL', '');
+const dryRun = boolEnv('ALFREDO_SECRETARIO_DRY_RUN', false);
 
 if (!botToken) requireEnv('ALFREDO_SECRETARIO_BOT_TOKEN');
 if (!chatId) requireEnv('ALFREDO_SECRETARIO_BOT_CHAT_ID');
 if (!geminiApiKey) requireEnv('ALFREDO_SECRETARIO_GEMINI_API_KEY');
-if (!gmailUser) requireEnv('ALFREDO_SECRETARIO_GMAIL_USER');
-if (!gmailAppPassword) requireEnv('ALFREDO_SECRETARIO_GMAIL_APP_PASSWORD');
+if (!perfil) requireEnv('ALFREDO_SECRETARIO_PERFIL');
 
-console.log(`[Alfredo Secretário] Iniciando execução. Modelo Gemini: ${geminiModel}. Destinatário: ${emailTo}.`);
+// O repositório é público: os logs mostram só contagens, nunca títulos, empresas ou textos gerados.
+console.log(`[Alfredo Secretário] Iniciando busca de vagas. Modelo Gemini: ${geminiModel}.${dryRun ? ' (modo teste)' : ''}`);
 
-const secretarioHistory = await loadHistory(SECRETARIO_HISTORY_PATH);
-
-// Resume o dia que ACABOU DE TERMINAR ("ontem" em relação ao instante da execução),
-// e não "hoje". O job roda pouco depois da meia-noite de Brasília (ver cron do
-// workflow); usar "ontem" torna o relatório resiliente a atrasos de agendamento
-// do GitHub Actions, que só quebrariam essa lógica se o atraso chegasse perto de
-// 24 horas — o que não acontece na prática.
-const reportDateKey = yesterdayKey();
-
-if (!forceResend && wasSent(secretarioHistory, reportDateKey)) {
-  console.log(`[Alfredo Secretário] Relatório de ${reportDateKey} já foi enviado anteriormente nesta data. Encerrando sem reenviar.`);
-  console.log('[Alfredo Secretário] Defina a variável FORCE_SECRETARIO_RESEND=true para forçar um novo envio manual.');
-  process.exit(0);
-}
-
-const dailyLog = await loadDailyLog(DAILY_LOG_PATH);
-const entries = selectEntriesForDate(dailyLog, reportDateKey);
-const dateLabel = formatDateLabel(reportDateKey);
-
-console.log(`[Alfredo Secretário] ${entries.length} item(ns) encontrados no log diário para ${reportDateKey}.`);
+const config = await loadVagasConfig(CONFIG_PATH);
+const history = await loadHistory(HISTORY_PATH);
+const historyKey = (job) => hashJobId(job.id, botToken);
 
 try {
-  if (entries.length === 0) {
-    await sendNoNewsReport({ dateLabel });
-  } else {
-    await sendFullReport({ entries, dateLabel });
+  await run();
+} finally {
+  if (!dryRun) {
+    await saveHistory(history);
   }
-} catch (error) {
-  console.error(`[Alfredo Secretário] Falha ao gerar/enviar o relatório de ${reportDateKey}: ${error.message}`);
-  console.error('[Alfredo Secretário] O histórico não será marcado como enviado; a próxima execução tentará novamente.');
-  throw error;
 }
 
-markSent(secretarioHistory, reportDateKey);
-await saveHistory(secretarioHistory);
-console.log(`[Alfredo Secretário] Execução concluída com sucesso para ${reportDateKey}.`);
+// ---------- Fluxo principal ----------
 
-// ---------- Fluxos principais ----------
+async function run() {
+  const found = await collectJobs();
+  const unseen = filterJobs(found, config).filter((job) => !wasSent(history, historyKey(job)));
+  const toEvaluate = unseen.slice(0, config.maxVagasParaAvaliar ?? 40);
 
-async function sendNoNewsReport({ dateLabel }) {
-  console.log('[Alfredo Secretário] Nenhuma novidade hoje. Preparando envio informativo.');
+  console.log(
+    `[Alfredo Secretário] ${found.length} resultado(s) na busca, ${unseen.length} vaga(s) nova(s) após os filtros, ${toEvaluate.length} enviada(s) para avaliação.`
+  );
 
-  const telegramText = buildNoNewsTelegramMessage({ dateLabel });
-  const emailHtml = buildNoNewsEmailHtml({ dateLabel });
-
-  await sendTelegramWithRetry(telegramText);
-  await sendEmailWithRetry({
-    subject: `Alfredo Secretário — Nenhuma novidade em ${dateLabel}`,
-    html: emailHtml
-  });
-}
-
-async function sendFullReport({ entries, dateLabel }) {
-  const grouped = groupByAgent(entries);
-  const stats = buildStats(grouped, entries);
-
-  console.log(`[Alfredo Secretário] Agentes ativos hoje: ${stats.agentesAtivos}. Total de itens: ${stats.totalItens}.`);
-  for (const [agent, count] of Object.entries(stats.contagemPorAgente)) {
-    console.log(`[Alfredo Secretário]   - ${agent}: ${count} item(ns)`);
+  if (toEvaluate.length === 0) {
+    await sendTelegram(buildIntroMessage({ evaluated: 0, good: [], detailed: [] }));
+    return;
   }
 
-  console.log('[Alfredo Secretário] Consultando Gemini para gerar o relatório executivo...');
-  const report = await generateReportWithGemini(grouped);
-  console.log('[Alfredo Secretário] Relatório executivo recebido do Gemini.');
+  const scores = await scoreJobs(toEvaluate);
+  const notaMinima = config.notaMinima ?? 7;
+  const good = toEvaluate
+    .map((job) => ({ job, ...(scores.get(job.id) ?? { nota: 0, motivo: 'Sem avaliação.' }) }))
+    .filter((item) => item.nota >= notaMinima)
+    .sort((a, b) => b.nota - a.nota);
+  const detailed = good.slice(0, config.maxVagasComTextos ?? 5);
+  const extras = good.slice(detailed.length);
 
-  const telegramText = buildFullTelegramMessage({ dateLabel, stats, report });
-  const emailHtml = buildFullEmailHtml({ dateLabel, stats, report });
+  console.log(`[Alfredo Secretário] ${good.length} vaga(s) com nota >= ${notaMinima}. ${detailed.length} receberão textos.`);
 
-  await sendTelegramWithRetry(telegramText);
-  await sendEmailWithRetry({
-    subject: `Alfredo Secretário — Relatório de ${dateLabel} (${stats.totalItens} novidade${stats.totalItens === 1 ? '' : 's'})`,
-    html: emailHtml
-  });
-}
-
-// ---------- Integração com Gemini ----------
-
-async function generateReportWithGemini(grouped) {
-  const prompt = buildGeminiPrompt(grouped);
-  const schema = buildGeminiSchema();
-
-  return generateStructuredReport({
-    apiKey: geminiApiKey,
-    model: geminiModel,
-    prompt,
-    schema
-  });
-}
-
-function buildGeminiPrompt(grouped) {
-  const sections = Object.entries(grouped).map(([agent, items]) => {
-    const limited = items.slice(0, MAX_ITEMS_PER_AGENT_IN_PROMPT);
-    const omitted = items.length - limited.length;
-    const lines = limited.map((item, index) => {
-      const parts = [`${index + 1}. ${item.title}`];
-      if (item.summary) parts.push(`   Resumo: ${item.summary}`);
-      if (item.link) parts.push(`   Link: ${item.link}`);
-      return parts.join('\n');
-    });
-
-    if (omitted > 0) {
-      lines.push(`   (+ ${omitted} item(ns) adicionais não detalhados nesta lista)`);
+  // Vagas avaliadas e descartadas não precisam ser avaliadas de novo amanhã.
+  // As boas só entram no histórico depois que forem enviadas ao Telegram.
+  const goodIds = new Set(good.map((item) => item.job.id));
+  for (const job of toEvaluate) {
+    if (!goodIds.has(job.id)) {
+      markSent(history, historyKey(job));
     }
+  }
 
-    return `## ${agent} (${items.length} item(ns) no total)\n${lines.join('\n')}`;
-  });
+  await sendTelegram(buildIntroMessage({ evaluated: toEvaluate.length, good, detailed }));
 
-  return [
-    'Você é o assistente executivo do "Projeto Alfredos", um conjunto de bots que monitoram notícias de tecnologia, jogos gratuitos e vulnerabilidades/atualizações de dependências de software.',
-    'A seguir está a lista de tudo que os bots enviaram hoje, agrupada por agente. Produza um relatório executivo em português do Brasil, em tom profissional e direto, eliminando duplicações e destacando o que realmente importa.',
-    'Responda exclusivamente no formato JSON definido pelo schema fornecido, sem markdown, sem crases e sem nenhum texto fora do JSON.',
-    'Regras de conteúdo:',
-    '- "resumoGeral": 2 a 4 frases resumindo o dia como um todo.',
-    '- "destaques": lista com no máximo 6 acontecimentos mais importantes do dia, em frases curtas e objetivas.',
-    '- "porAgente": um item para cada agente listado abaixo, com um resumo qualitativo (2 a 3 frases) e uma lista "itens" com no máximo 8 frases curtas descrevendo os itens mais relevantes enviados por aquele agente.',
-    '- "conclusao": 1 a 2 frases de fechamento, mencionando riscos, tendências ou pontos de atenção quando fizer sentido (por exemplo, vulnerabilidades críticas do Alfredo Sentinela).',
-    '- Nunca invente dados que não estejam listados abaixo. Não inclua contagens numéricas de itens nas frases: as quantidades já são calculadas separadamente.',
-    '',
-    'Dados de hoje:',
-    sections.join('\n\n')
-  ].join('\n');
+  for (const item of detailed) {
+    const texts = await generateTextsSafely(item.job);
+    await sendJobMessages(buildJobSections({ ...item, texts }));
+    markSent(history, historyKey(item.job));
+  }
+
+  if (extras.length > 0) {
+    await sendTelegram(buildExtrasMessage(extras));
+    for (const item of extras) {
+      markSent(history, historyKey(item.job));
+    }
+  }
+
+  console.log('[Alfredo Secretário] Execução concluída.');
 }
 
-function buildGeminiSchema() {
-  return {
+async function collectJobs() {
+  const results = [];
+  let failures = 0;
+
+  for (const term of config.termosDeBusca) {
+    try {
+      results.push(...(await searchGupyJobs({ term, limit: config.resultadosPorTermo ?? 50 })));
+    } catch (error) {
+      failures += 1;
+      console.warn(`[Alfredo Secretário] Busca de um termo falhou: ${error.message}`);
+    }
+  }
+
+  if (failures === config.termosDeBusca.length) {
+    throw new Error('Todas as buscas na Gupy falharam. Verifique se a API mudou ou está fora do ar.');
+  }
+
+  return results;
+}
+
+// ---------- Gemini: triagem ----------
+
+async function scoreJobs(jobs) {
+  const listing = jobs
+    .map((job, index) =>
+      [
+        `### Vaga ${index + 1}`,
+        `id: ${job.id}`,
+        `Título: ${job.title}`,
+        `Empresa: ${job.company}`,
+        `Tipo: ${job.typeLabel}`,
+        `Modelo/local: ${workplaceLabel(job)}`,
+        `Descrição (trecho): ${job.description.slice(0, DESCRIPTION_CHARS_FOR_SCORING)}`
+      ].join('\n')
+    )
+    .join('\n\n');
+
+  const prompt = [
+    'Você é um recrutador técnico experiente ajudando o candidato abaixo a decidir em quais vagas vale a pena se candidatar.',
+    'Dê uma nota inteira de 0 a 10 de aderência para cada vaga, considerando nesta ordem:',
+    '1. Se o candidato cumpre os requisitos obrigatórios com experiência que ESTÁ no perfil. Ferramenta ou tecnologia exigida como central (ex.: em nível avançado) que o perfil não cita derruba a nota para 4 ou menos.',
+    '2. Se o nível é compatível com o momento do candidato. Vagas para profissionais experientes, pleno com muitos anos exigidos ou sênior recebem nota baixa.',
+    '3. Se a vaga tem relação com o trabalho atual do candidato e com o objetivo de carreira descrito no perfil.',
+    'Use apenas o que está escrito no perfil. Não presuma experiências que não estão lá.',
+    'O "motivo" deve ter uma frase curta e direta, citando o principal ponto a favor ou contra.',
+    'Responda exclusivamente no formato JSON do schema, avaliando todas as vagas, usando o mesmo "id" recebido.',
+    '',
+    '## Perfil do candidato',
+    perfil,
+    '',
+    '## Vagas',
+    listing
+  ].join('\n');
+
+  const schema = {
     type: 'OBJECT',
     properties: {
-      resumoGeral: { type: 'STRING' },
-      destaques: { type: 'ARRAY', items: { type: 'STRING' } },
-      porAgente: {
+      avaliacoes: {
         type: 'ARRAY',
         items: {
           type: 'OBJECT',
           properties: {
-            agente: { type: 'STRING' },
-            resumo: { type: 'STRING' },
-            itens: { type: 'ARRAY', items: { type: 'STRING' } }
+            id: { type: 'STRING' },
+            nota: { type: 'INTEGER' },
+            motivo: { type: 'STRING' }
           },
-          required: ['agente', 'resumo', 'itens']
+          required: ['id', 'nota', 'motivo']
         }
-      },
-      conclusao: { type: 'STRING' }
-    },
-    required: ['resumoGeral', 'destaques', 'porAgente', 'conclusao']
-  };
-}
-
-// ---------- Envio com retry ----------
-
-async function sendTelegramWithRetry(text) {
-  await withRetry(() => sendTelegramMessage({ botToken, chatId, text }), {
-    retries: 3,
-    baseDelayMs: 2000,
-    maxDelayMs: 15000,
-    onRetry: ({ error, attempt, delay }) => {
-      console.warn(
-        `[Alfredo Secretário] Telegram: tentativa ${attempt + 1} falhou (${error.message}). Nova tentativa em ${Math.round(delay / 1000)}s.`
-      );
-    }
-  });
-  console.log('[Alfredo Secretário] Mensagem enviada ao Telegram.');
-}
-
-async function sendEmailWithRetry({ subject, html }) {
-  await withRetry(
-    () => sendReportEmail({ user: gmailUser, appPassword: gmailAppPassword, to: emailTo, subject, html }),
-    {
-      retries: 3,
-      baseDelayMs: 3000,
-      maxDelayMs: 20000,
-      onRetry: ({ error, attempt, delay }) => {
-        console.warn(
-          `[Alfredo Secretário] E-mail: tentativa ${attempt + 1} falhou (${error.message}). Nova tentativa em ${Math.round(delay / 1000)}s.`
-        );
       }
-    }
-  );
-  console.log(`[Alfredo Secretário] E-mail enviado para ${emailTo}.`);
+    },
+    required: ['avaliacoes']
+  };
+
+  const result = await generateStructuredReport({ apiKey: geminiApiKey, model: geminiModel, prompt, schema });
+  const scores = new Map();
+
+  for (const avaliacao of result.avaliacoes ?? []) {
+    const nota = Math.max(0, Math.min(10, Number(avaliacao.nota) || 0));
+    scores.set(String(avaliacao.id), { nota, motivo: String(avaliacao.motivo || '').trim() });
+  }
+
+  return scores;
 }
 
-// ---------- Agrupamento e estatísticas ----------
+// ---------- Gemini: textos da candidatura ----------
 
-function groupByAgent(entries) {
-  const grouped = {};
-  for (const entry of entries) {
-    if (!grouped[entry.agent]) {
-      grouped[entry.agent] = [];
-    }
-    grouped[entry.agent].push(entry);
+async function generateTextsSafely(job) {
+  await sleep(PAUSE_BETWEEN_GEMINI_CALLS_MS);
+
+  try {
+    return await generateTexts(job);
+  } catch (error) {
+    console.warn(`[Alfredo Secretário] Não foi possível gerar os textos de uma vaga: ${error.message}`);
+    return null;
   }
-  return grouped;
 }
 
-function buildStats(grouped, entries) {
-  const contagemPorAgente = {};
-  for (const [agent, items] of Object.entries(grouped)) {
-    contagemPorAgente[agent] = items.length;
-  }
+async function generateTexts(job) {
+  const prompt = [
+    'Você escreve textos de candidatura para o candidato abaixo, prontos para colar no formulário da vaga.',
+    '',
+    'Regras obrigatórias:',
+    '- NUNCA invente. Use apenas fatos, ferramentas, números e experiências que estão no perfil. Não atribua ao candidato experiência com ferramentas que o perfil não cita, nem para "cobrir" um requisito da vaga.',
+    '- Requisitos da vaga que o perfil não cobre ficam FORA dos textos e entram em "pontosDeAtencao".',
+    '- Ajuste a ênfase à vaga: priorize as experiências do perfil que batem com as atribuições e omita o que não ajuda (ex.: detalhes de desenvolvimento numa vaga de suporte).',
+    '- Não mencione o desejo de mudar de área se isso destoar da vaga.',
+    '- Português do Brasil, registro profissional mas natural, sem clichês ("apaixonado por desafios", "sinergia") e sem exageros.',
+    '- Prefira verbos que mostrem iniciativa ("criei", "assumi", "resolvi") quando o perfil sustentar isso.',
+    '',
+    'Campos:',
+    '- "resumoProfissional": resumo para o currículo, entre 450 e 750 caracteres, em primeira pessoa sem usar "eu".',
+    '- "areasDeInteresse": de 4 a 6 áreas separadas por vírgula, usando os termos da vaga quando forem compatíveis com o perfil.',
+    `- "sobreVoce": resposta para "Fale sobre você e sua trajetória profissional, contando como pode ajudar a empresa no desafio descrito na vaga", em primeira pessoa, com no máximo 1400 caracteres contando espaços. Cite a empresa e o desafio da vaga e traga pelo menos um exemplo concreto do perfil, com número quando houver.`,
+    '- "pontosDeAtencao": até 3 frases curtas sobre requisitos da vaga que o perfil não cobre (para estudar antes da entrevista) ou trechos dos textos que dependem de confirmação do candidato. Lista vazia se não houver nada.',
+    '',
+    'Responda exclusivamente no formato JSON do schema.',
+    '',
+    '## Perfil do candidato',
+    perfil,
+    '',
+    '## Vaga',
+    `Título: ${job.title}`,
+    `Empresa: ${job.company}`,
+    `Tipo: ${job.typeLabel}`,
+    `Modelo/local: ${workplaceLabel(job)}`,
+    'Descrição:',
+    job.description.slice(0, DESCRIPTION_CHARS_FOR_TEXTS)
+  ].join('\n');
+
+  const schema = {
+    type: 'OBJECT',
+    properties: {
+      resumoProfissional: { type: 'STRING' },
+      areasDeInteresse: { type: 'STRING' },
+      sobreVoce: { type: 'STRING' },
+      pontosDeAtencao: { type: 'ARRAY', items: { type: 'STRING' } }
+    },
+    required: ['resumoProfissional', 'areasDeInteresse', 'sobreVoce', 'pontosDeAtencao']
+  };
+
+  const result = await generateStructuredReport({ apiKey: geminiApiKey, model: geminiModel, prompt, schema });
 
   return {
-    totalItens: entries.length,
-    agentesAtivos: Object.keys(grouped).length,
-    contagemPorAgente
+    resumoProfissional: String(result.resumoProfissional || '').trim(),
+    areasDeInteresse: String(result.areasDeInteresse || '').trim(),
+    sobreVoce: trimAtSentence(result.sobreVoce, SOBRE_VOCE_LIMIT),
+    pontosDeAtencao: (result.pontosDeAtencao ?? []).map((item) => String(item).trim()).filter(Boolean).slice(0, 3)
   };
 }
 
-// ---------- Formatação: Telegram ----------
+// ---------- Telegram ----------
 
-function buildNoNewsTelegramMessage({ dateLabel }) {
-  return [
-    '🗂️ <b>Alfredo Secretário</b>',
-    `<i>Relatório Diário — ${dateLabel}</i>`,
-    '',
-    'Nenhuma novidade foi enviada pelos Alfredos hoje. Nenhum item novo de notícias, jogos gratuitos ou alertas de segurança foi registrado no período.',
-    '',
-    `🔗 <a href="${repoUrl}">Repositório do projeto</a>`,
-    '📧 Um e-mail informativo também foi enviado.'
-  ].join('\n');
-}
+function buildIntroMessage({ evaluated, good, detailed }) {
+  const lines = ['🗂️ <b>Alfredo Secretário</b>', `<i>Vagas de ${formatDate(new Date())}</i>`, ''];
 
-function buildFullTelegramMessage({ dateLabel, stats, report }) {
-  const lines = [
-    '🗂️ <b>Alfredo Secretário</b>',
-    `<i>Relatório Diário — ${dateLabel}</i>`,
-    '',
-    report.resumoGeral,
-    '',
-    `📊 <b>Novidades de hoje:</b> ${stats.totalItens} item(ns) de ${stats.agentesAtivos} agente(s)`
-  ];
-
-  for (const [agent, count] of Object.entries(stats.contagemPorAgente)) {
-    lines.push(`   • ${agent}: ${count}`);
+  if (evaluated === 0) {
+    lines.push('Nenhuma vaga nova dentro dos filtros hoje.');
+  } else if (good.length === 0) {
+    lines.push(`Avaliei ${evaluated} vaga(s) nova(s), mas nenhuma atingiu a nota mínima de aderência hoje.`);
+  } else {
+    lines.push(
+      `Avaliei ${evaluated} vaga(s) nova(s) e ${good.length} têm boa aderência com o seu perfil.`,
+      `Seguem as ${detailed.length} melhores com os textos prontos. Toque no bloco para copiar.`
+    );
   }
-
-  if (report.destaques.length > 0) {
-    lines.push('', '✨ <b>Destaques do dia:</b>');
-    for (const destaque of report.destaques) {
-      lines.push(`- ${destaque}`);
-    }
-  }
-
-  lines.push('', `🔗 <a href="${repoUrl}">Repositório do projeto</a>`, '📧 O relatório completo foi enviado por e-mail.');
 
   return lines.join('\n');
 }
 
-// ---------- Formatação: E-mail ----------
+function buildJobSections({ job, nota, motivo, texts }) {
+  const header = [
+    `💼 <b>${escapeHtml(job.title)}</b>`,
+    `🏢 ${escapeHtml(job.company)}`,
+    `📍 ${escapeHtml(workplaceLabel(job))}`,
+    `🧾 ${escapeHtml(job.typeLabel)}${job.publishedAt ? ` · publicada em ${formatDate(new Date(job.publishedAt))}` : ''}`,
+    `⭐ Aderência ${nota}/10: ${escapeHtml(motivo)}`,
+    job.url ? `🔗 <a href="${escapeHtml(job.url)}">Abrir vaga</a>` : ''
+  ]
+    .filter(Boolean)
+    .join('\n');
 
-function buildNoNewsEmailHtml({ dateLabel }) {
-  return renderEmailShell({
-    title: 'Nenhuma novidade hoje',
-    dateLabel,
-    bodyHtml: `
-      <p style="font-size:15px;line-height:1.6;color:#333;">
-        Nenhuma novidade foi enviada pelos agentes do Projeto Alfredos em ${escapeHtml(dateLabel)}.
-        Nenhum item novo de notícias, jogos gratuitos ou alertas de segurança foi registrado no período.
-      </p>
-    `
+  if (!texts) {
+    return [`${header}\n\n⚠️ Não consegui gerar os textos desta vaga hoje. Me mande o link para ajustar manualmente.`];
+  }
+
+  const sections = [header];
+
+  if (texts.pontosDeAtencao.length > 0) {
+    sections.push(['⚠️ <b>Antes de enviar</b>', ...texts.pontosDeAtencao.map((item) => `- ${escapeHtml(item)}`)].join('\n'));
+  }
+
+  sections.push(
+    copyBlock('Resumo profissional', texts.resumoProfissional),
+    copyBlock('Áreas de interesse', texts.areasDeInteresse),
+    copyBlock(`Sobre você (${texts.sobreVoce.length} caracteres)`, texts.sobreVoce)
+  );
+
+  return sections;
+}
+
+function buildExtrasMessage(extras) {
+  const lines = ['📌 <b>Outras vagas com boa aderência</b> (sem textos, para não estourar a cota do Gemini):', ''];
+
+  for (const { job, nota } of extras) {
+    const title = `${escapeHtml(job.title)} · ${escapeHtml(job.company)}`;
+    lines.push(job.url ? `- ${nota}/10 <a href="${escapeHtml(job.url)}">${title}</a>` : `- ${nota}/10 ${title}`);
+  }
+
+  return lines.join('\n');
+}
+
+function copyBlock(title, text) {
+  return `<b>${escapeHtml(title)}</b>\n<pre>${escapeHtml(text)}</pre>`;
+}
+
+/**
+ * Manda a vaga numa mensagem só quando cabe; senão, uma mensagem por seção,
+ * para nunca quebrar um bloco <pre> no meio (o que invalidaria o HTML do Telegram).
+ */
+async function sendJobMessages(sections) {
+  const joined = sections.join('\n\n');
+
+  if (joined.length <= TELEGRAM_SAFE_LIMIT) {
+    await sendTelegram(joined);
+    return;
+  }
+
+  for (const section of sections) {
+    await sendTelegram(section);
+  }
+}
+
+async function sendTelegram(text) {
+  if (dryRun) {
+    console.log(`\n----- [modo teste] mensagem do Telegram -----\n${text}\n`);
+    return;
+  }
+
+  await withRetry(() => sendTelegramMessage({ botToken, chatId, text }), {
+    retries: 3,
+    baseDelayMs: 2000,
+    maxDelayMs: 15000,
+    // Token inválido, chat errado ou HTML malformado não se resolvem tentando de novo.
+    shouldRetry: (error) => !/unauthorized|forbidden|bad request|chat not found/i.test(error.message),
+    onRetry: ({ error, attempt, delay }) => {
+      console.warn(`[Alfredo Secretário] Telegram: tentativa ${attempt + 1} falhou (${error.message}). Nova tentativa em ${Math.round(delay / 1000)}s.`);
+    }
   });
 }
 
-function buildFullEmailHtml({ dateLabel, stats, report }) {
-  const statCards = [
-    { label: 'Total de novidades', value: stats.totalItens },
-    { label: 'Agentes ativos', value: stats.agentesAtivos }
-  ];
-
-  const statCardsHtml = statCards
-    .map(
-      (card) => `
-    <td style="padding:14px 22px;background:#f4f6fb;border-radius:10px;text-align:center;">
-      <div style="font-size:26px;font-weight:700;color:#1f2937;">${card.value}</div>
-      <div style="font-size:12px;color:#6b7280;text-transform:uppercase;letter-spacing:.04em;">${escapeHtml(card.label)}</div>
-    </td>`
-    )
-    .join('<td style="width:16px;"></td>');
-
-  const contagemHtml = Object.entries(stats.contagemPorAgente)
-    .map(
-      ([agent, count]) => `
-    <tr>
-      <td style="padding:8px 0;color:#374151;font-size:14px;border-bottom:1px solid #f1f2f6;">${escapeHtml(agent)}</td>
-      <td style="padding:8px 0;color:#111827;font-size:14px;font-weight:600;text-align:right;border-bottom:1px solid #f1f2f6;">${count}</td>
-    </tr>`
-    )
-    .join('');
-
-  const destaquesHtml = report.destaques
-    .map((item) => `<li style="margin-bottom:6px;color:#374151;">${escapeHtml(item)}</li>`)
-    .join('');
-
-  const porAgenteHtml = report.porAgente
-    .map(
-      (bloco) => `
-    <div style="margin-bottom:22px;padding:18px 20px;border:1px solid #e5e7eb;border-radius:10px;">
-      <h3 style="margin:0 0 8px;font-size:16px;color:#1f2937;">${escapeHtml(bloco.agente)}</h3>
-      <p style="margin:0 0 10px;font-size:14px;color:#4b5563;line-height:1.6;">${escapeHtml(bloco.resumo)}</p>
-      <ul style="margin:0;padding-left:18px;">
-        ${bloco.itens.map((item) => `<li style="margin-bottom:4px;font-size:13px;color:#4b5563;">${escapeHtml(item)}</li>`).join('')}
-      </ul>
-    </div>`
-    )
-    .join('');
-
-  const bodyHtml = `
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
-      <tr>${statCardsHtml}</tr>
-    </table>
-
-    <p style="font-size:15px;line-height:1.7;color:#333;margin:24px 0;">${escapeHtml(report.resumoGeral)}</p>
-
-    <h2 style="font-size:16px;color:#1f2937;border-bottom:2px solid #eef2ff;padding-bottom:8px;">Itens por agente</h2>
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:24px;">
-      ${contagemHtml}
-    </table>
-
-    <h2 style="font-size:16px;color:#1f2937;border-bottom:2px solid #eef2ff;padding-bottom:8px;">Principais acontecimentos</h2>
-    <ul style="padding-left:18px;margin-bottom:24px;">${destaquesHtml}</ul>
-
-    <h2 style="font-size:16px;color:#1f2937;border-bottom:2px solid #eef2ff;padding-bottom:8px;">Resumo por agente</h2>
-    ${porAgenteHtml}
-
-    <h2 style="font-size:16px;color:#1f2937;border-bottom:2px solid #eef2ff;padding-bottom:8px;">Conclusão</h2>
-    <p style="font-size:14px;line-height:1.7;color:#4b5563;">${escapeHtml(report.conclusao)}</p>
-  `;
-
-  return renderEmailShell({ title: `Relatório de ${dateLabel}`, dateLabel, bodyHtml });
-}
-
-function renderEmailShell({ title, dateLabel, bodyHtml }) {
-  return `<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>${escapeHtml(title)}</title>
-  </head>
-  <body style="margin:0;padding:0;background:#eef1f7;font-family:'Segoe UI', Arial, sans-serif;">
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#eef1f7;padding:32px 0;">
-      <tr>
-        <td align="center">
-          <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:14px;overflow:hidden;box-shadow:0 4px 18px rgba(15,23,42,.08);">
-            <tr>
-              <td style="background:linear-gradient(135deg,#1f2937,#111827);padding:28px 32px;">
-                <div style="color:#ffffff;font-size:20px;font-weight:700;">🗂️ Alfredo Secretário</div>
-                <div style="color:#cbd5f5;font-size:13px;margin-top:4px;">Relatório diário — ${escapeHtml(dateLabel)}</div>
-              </td>
-            </tr>
-            <tr>
-              <td style="padding:28px 32px;">
-                ${bodyHtml}
-              </td>
-            </tr>
-            <tr>
-              <td style="padding:20px 32px;background:#f9fafb;border-top:1px solid #eef2f7;">
-                <p style="margin:0;font-size:12px;color:#9ca3af;">
-                  Gerado automaticamente pelo Projeto Alfredos • <a href="${repoUrl}" style="color:#6366f1;">${repoUrl}</a>
-                </p>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </body>
-</html>`;
-}
+// ---------- Utilitários ----------
 
 function escapeHtml(value) {
   return String(value ?? '')
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#39;');
+    .replace(/"/g, '&quot;');
 }
 
-function formatDateLabel(dateKey) {
-  const [year, month, day] = dateKey.split('-').map(Number);
-  const date = new Date(Date.UTC(year, month - 1, day, 12));
-  return new Intl.DateTimeFormat('pt-BR', {
-    dateStyle: 'full',
-    timeZone: TIMEZONE
-  }).format(date);
+function formatDate(date) {
+  return new Intl.DateTimeFormat('pt-BR', { day: '2-digit', month: '2-digit', timeZone: TIMEZONE }).format(date);
 }
 
 function boolEnv(name, fallback) {
