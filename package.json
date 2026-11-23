@@ -13,8 +13,5 @@
   },
   "engines": {
     "node": ">=24"
-  },
-  "dependencies": {
-    "nodemailer": "^9.0.3"
   }
 }
