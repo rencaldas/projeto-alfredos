@@ -1,0 +1,49 @@
+{
+  "termosDeBusca": [
+    "estágio ti",
+    "estágio tecnologia",
+    "estágio desenvolvimento",
+    "estágio suporte",
+    "estágio infraestrutura",
+    "estágio dados",
+    "suporte técnico",
+    "suporte ti",
+    "analista de suporte",
+    "analista de sistemas",
+    "help desk",
+    "service desk",
+    "automação",
+    "desenvolvedor júnior",
+    "python"
+  ],
+  "resultadosPorTermo": 50,
+  "diasMaximosDesdePublicacao": 7,
+  "local": {
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro",
+    "siglaEstado": "RJ"
+  },
+  "tiposExcluidos": [
+    "vacancy_type_talent_pool",
+    "vacancy_type_apprentice",
+    "vacancy_type_volunteer"
+  ],
+  "palavrasExcluidasNoTitulo": [
+    "senior",
+    "sr",
+    "especialista",
+    "coordenador",
+    "coordenadora",
+    "gerente",
+    "supervisor",
+    "supervisora",
+    "head",
+    "diretor",
+    "diretora",
+    "tech lead",
+    "lider"
+  ],
+  "maxVagasParaAvaliar": 40,
+  "notaMinima": 7,
+  "maxVagasComTextos": 5
+}
