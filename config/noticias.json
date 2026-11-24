@@ -1,0 +1,37 @@
+{
+  "interesses": "Desenvolvedor em formação que quer se manter atualizado para se tornar um bom dev. Stack e temas de interesse: PHP e Laravel, JavaScript/TypeScript e Node.js, Python, desenvolvimento web, bancos de dados, Git e GitHub, Docker, Linux, cloud e DevOps, segurança de aplicações, e IA aplicada ao desenvolvimento (novos modelos, APIs, agentes, ferramentas de código com IA). Também interessa o que está mudando na profissão: tendências de mercado, práticas de engenharia e carreira em TI.",
+  "modelosReserva": ["gemini-3.5-flash-lite"],
+  "horasMaximasDesdePublicacao": 48,
+  "notaMinima": 7,
+  "maxNoticiasParaAvaliar": 40,
+  "maxItensPorFonte": 8,
+  "maxNoticiasPorExecucao": 5,
+  "palavrasExcluidas": [
+    "promoção",
+    "promocao",
+    "oferta",
+    "desconto",
+    "cupom",
+    "black friday",
+    "cyber monday",
+    "sponsored",
+    "patrocinado"
+  ],
+  "fontes": [
+    { "nome": "Hacker News", "tipo": "hackernews", "pontosMinimos": 150, "maxItens": 15 },
+    { "nome": "PHP.net", "tipo": "rss", "url": "https://www.php.net/feed.atom" },
+    { "nome": "Laravel News", "tipo": "rss", "url": "https://laravel-news.com/feed" },
+    { "nome": "Node.js", "tipo": "rss", "url": "https://nodejs.org/en/feed/blog.xml" },
+    { "nome": "TypeScript", "tipo": "rss", "url": "https://devblogs.microsoft.com/typescript/feed/" },
+    { "nome": "Python", "tipo": "rss", "url": "https://blog.python.org/feeds/posts/default" },
+    { "nome": "GitHub Changelog", "tipo": "rss", "url": "https://github.blog/changelog/feed/" },
+    { "nome": "OpenAI", "tipo": "rss", "url": "https://openai.com/news/rss.xml" },
+    { "nome": "Google AI", "tipo": "rss", "url": "https://blog.google/technology/ai/rss/" },
+    { "nome": "AWS News", "tipo": "rss", "url": "https://aws.amazon.com/blogs/aws/feed/" },
+    { "nome": "Docker", "tipo": "rss", "url": "https://www.docker.com/blog/feed/" },
+    { "nome": "Kubernetes", "tipo": "rss", "url": "https://kubernetes.io/feed.xml" },
+    { "nome": "InfoQ", "tipo": "rss", "url": "https://feed.infoq.com/" },
+    { "nome": "The New Stack", "tipo": "rss", "url": "https://thenewstack.io/feed/" },
+    { "nome": "Stack Overflow Blog", "tipo": "rss", "url": "https://stackoverflow.blog/feed/" }
+  ]
+}
