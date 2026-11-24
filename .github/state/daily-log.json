@@ -1,17 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Gamer",
-      "title": "MAFIA HOTEL (Epic Games) Giveaway",
-      "summary": "Plataformas: PC, Epic Games Store. Termina em: 2026-11-01 23:59:00.",
-      "link": "https://www.gamerpower.com/open/mafia-hotel-epic-games-giveaway",
-      "meta": {
-        "status": "Active",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6add376bc36a0.jpg"
-      },
-      "timestamp": "2026-10-25T07:02:16.214Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: guzzlehttp/guzzle (rencaldas/ideal-marketplace-project)",
       "summary": "Versão instalada 7.15.5 → versão mais recente 8.3.1 (Packagist).",
@@ -8082,6 +8071,30 @@
         ]
       },
       "timestamp": "2026-11-24T06:33:46.266Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: chromium-bidi (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 157.0.8090-0 → versão mais recente 160.0.8182-0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-24T19:45:42.276Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
+      "summary": "Versão instalada v12.69.2 → versão mais recente 13.44.1 (Packagist).",
+      "link": "https://github.com/rencaldas/ideal-marketplace-project",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/ideal-marketplace-project"
+      },
+      "timestamp": "2026-11-24T19:45:42.276Z"
     }
   ]
 }
