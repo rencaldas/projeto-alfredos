@@ -204,21 +204,31 @@ async function generateTextsSafely(job) {
 
 async function generateTexts(job) {
   const prompt = [
-    'Você escreve textos de candidatura para o candidato abaixo, prontos para colar no formulário da vaga.',
+    'Você é um especialista em recrutamento e escreve textos de candidatura para o candidato abaixo, prontos para colar no formulário da vaga na Gupy.',
+    '',
+    'Os textos têm dois leitores, e precisam funcionar para os dois:',
+    '- A triagem automática da plataforma, que compara os termos do candidato com os da vaga. Por isso, use os termos EXATOS da vaga (nome de ferramentas, atividades, área) sempre que o perfil sustentar aquela experiência.',
+    '- O recrutador, que lê dezenas de candidaturas e decide nas primeiras linhas. Por isso, a primeira frase de cada texto precisa mostrar de cara por que o candidato serve para ESTA vaga, e cada qualidade precisa vir com uma prova (um fato, uma ação, um número).',
+    '',
+    'Antes de escrever, preencha "analiseDaVaga": identifique o desafio principal da vaga, os requisitos que o perfil realmente atende e as palavras-chave da vaga que podem ser usadas com honestidade. Escreva os textos a partir dessa análise.',
     '',
     'Regras obrigatórias:',
     '- NUNCA invente. Use apenas fatos, ferramentas, números e experiências que estão no perfil. Não atribua ao candidato experiência com ferramentas que o perfil não cita, nem para "cobrir" um requisito da vaga.',
     '- Requisitos da vaga que o perfil não cobre ficam FORA dos textos e entram em "pontosDeAtencao".',
     '- Ajuste a ênfase à vaga: priorize as experiências do perfil que batem com as atribuições e omita o que não ajuda (ex.: detalhes de desenvolvimento numa vaga de suporte).',
     '- Não mencione o desejo de mudar de área se isso destoar da vaga.',
-    '- Português do Brasil, registro profissional mas natural, sem clichês ("apaixonado por desafios", "sinergia") e sem exageros.',
-    '- Prefira verbos que mostrem iniciativa ("criei", "assumi", "resolvi") quando o perfil sustentar isso.',
+    '- Português do Brasil impecável (ortografia, acentuação, concordância), registro profissional mas natural, frases curtas e diretas.',
+    '- Mostre, não declare: em vez de adjetivos soltos ("proativo", "comunicativo", "dedicado", "focado em resultados"), descreva o que o candidato fez. Prefira verbos de ação ("criei", "assumi", "automatizei", "resolvi", "reduzi") quando o perfil sustentar isso.',
+    '- Proibido: aberturas genéricas ("Olá, meu nome é", "Sou uma pessoa", "Venho por meio deste"), clichês ("apaixonado por desafios", "sinergia", "sair da zona de conforto", "agregar valor", "vestir a camisa"), bajulação da empresa, exageros, emojis, marcadores de lista e copiar frases inteiras da descrição da vaga.',
+    '- O resumo e o "sobre você" se complementam: não repita as mesmas frases nos dois.',
     '',
     'Campos:',
-    '- "resumoProfissional": resumo para o currículo, entre 450 e 750 caracteres, em primeira pessoa sem usar "eu".',
-    '- "areasDeInteresse": de 4 a 6 áreas separadas por vírgula, usando os termos da vaga quando forem compatíveis com o perfil.',
-    `- "sobreVoce": resposta para "Fale sobre você e sua trajetória profissional, contando como pode ajudar a empresa no desafio descrito na vaga", em primeira pessoa, com no máximo 1400 caracteres contando espaços. Cite a empresa e o desafio da vaga e traga pelo menos um exemplo concreto do perfil, com número quando houver.`,
-    '- "pontosDeAtencao": até 3 frases curtas sobre requisitos da vaga que o perfil não cobre (para estudar antes da entrevista) ou trechos dos textos que dependem de confirmação do candidato. Lista vazia se não houver nada.',
+    '- "resumoProfissional": resumo para o currículo, entre 450 e 750 caracteres, em um único parágrafo, em primeira pessoa sem usar "eu". Estrutura: (1) posicionamento: área de atuação e foco, usando o nome da área ou cargo da vaga quando for compatível; (2) principais competências e ferramentas do perfil que a vaga pede, com os termos da vaga; (3) uma conquista ou responsabilidade concreta, com número quando houver.',
+    '- "areasDeInteresse": de 4 a 6 áreas separadas por vírgula, usando os termos da vaga quando forem compatíveis com o perfil, da mais para a menos relevante para a vaga.',
+    `- "sobreVoce": resposta para "Fale sobre você e sua trajetória profissional, contando como pode ajudar a empresa no desafio descrito na vaga", em primeira pessoa, com no máximo 1400 caracteres contando espaços. Escreva em 3 parágrafos curtos separados por uma linha em branco: (1) quem o candidato é hoje profissionalmente, já conectado à vaga; (2) uma ou duas experiências concretas do perfil ligadas às atribuições da vaga, contando o que ele fez e o resultado, com número quando houver; (3) por que o candidato escolheu esta empresa e esta vaga, e como a bagagem dele ajuda no desafio, citando a empresa pelo nome, com um fechamento objetivo (sem frases feitas). O motivo da escolha deve ser específico e ligar algo concreto da descrição da vaga (o produto, o setor, o tipo de cliente, a missão ou o desafio descrito) ao objetivo de carreira do perfil. Nunca invente fatos sobre a empresa que não estejam na descrição. Se a descrição não trouxer nada específico sobre a empresa, baseie o motivo no desafio da vaga, sem elogios genéricos ("empresa referência no mercado", "sempre admirei a empresa").`,
+    '- "pontosDeAtencao": até 3 frases curtas sobre requisitos da vaga que o perfil não cobre (para estudar antes da entrevista) ou trechos dos textos que dependem de confirmação do candidato (por exemplo, se o motivo da escolha da empresa reflete o que ele realmente pensa). Lista vazia se não houver nada.',
+    '',
+    'Antes de responder, revise: toda afirmação está no perfil? A primeira frase de cada texto já conecta o candidato à vaga? O desafio da vaga e o nome da empresa aparecem no "sobre você"? Há pelo menos um exemplo concreto? Os limites de caracteres foram respeitados? O texto está livre de erros e clichês?',
     '',
     'Responda exclusivamente no formato JSON do schema.',
     '',
@@ -237,12 +247,24 @@ async function generateTexts(job) {
   const schema = {
     type: 'OBJECT',
     properties: {
+      // Gerada primeiro (propertyOrdering) para o modelo planejar antes de escrever. Não vai para o Telegram.
+      analiseDaVaga: {
+        type: 'OBJECT',
+        properties: {
+          desafioPrincipal: { type: 'STRING' },
+          requisitosAtendidos: { type: 'ARRAY', items: { type: 'STRING' } },
+          palavrasChave: { type: 'ARRAY', items: { type: 'STRING' } }
+        },
+        propertyOrdering: ['desafioPrincipal', 'requisitosAtendidos', 'palavrasChave'],
+        required: ['desafioPrincipal', 'requisitosAtendidos', 'palavrasChave']
+      },
       resumoProfissional: { type: 'STRING' },
       areasDeInteresse: { type: 'STRING' },
       sobreVoce: { type: 'STRING' },
       pontosDeAtencao: { type: 'ARRAY', items: { type: 'STRING' } }
     },
-    required: ['resumoProfissional', 'areasDeInteresse', 'sobreVoce', 'pontosDeAtencao']
+    propertyOrdering: ['analiseDaVaga', 'resumoProfissional', 'areasDeInteresse', 'sobreVoce', 'pontosDeAtencao'],
+    required: ['analiseDaVaga', 'resumoProfissional', 'areasDeInteresse', 'sobreVoce', 'pontosDeAtencao']
   };
 
   const result = await generateStructuredReport({ apiKey: geminiApiKey, model: geminiModel, prompt, schema });
