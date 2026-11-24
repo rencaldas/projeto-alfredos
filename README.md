@@ -9,7 +9,7 @@ Automações que enviam ao Telegram notícias de tecnologia, jogos grátis, aler
 [![Alfredo Sentinela](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-sentinela.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-sentinela.yml)
 [![Alfredo Secretario](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-secretario.yml/badge.svg)](https://github.com/rencaldas/projeto-alfredos/actions/workflows/alfredo-secretario.yml)
 
-1. **Alfredo Jornalista**: consulta o feed RSS do Tecnoblog a cada 15 minutos e envia as notícias inéditas para o Telegram.
+1. **Alfredo Jornalista**: de hora em hora, busca notícias para devs em fontes oficiais e técnicas (PHP.net, GitHub Changelog, Node.js, TypeScript, OpenAI, Google AI, AWS, Docker, Kubernetes, InfoQ, Hacker News e outras), usa o Google Gemini para descartar o que não importa e envia ao Telegram só as relevantes, resumidas em português e com o motivo pelo qual importam (ver [detalhes abaixo](#alfredo-jornalista--curadoria-de-notícias)).
 2. **Alfredo Gamer**: consulta diariamente a API da GamerPower para jogos gratuitos inéditos da Epic Games Store e envia imagem, link de resgate e detalhes ao Telegram. Quando a promoção de um jogo já enviado encerra, o bot volta na mensagem original e avisa que não está mais disponível (ver [detalhes abaixo](#alfredo-gamer--jogos-encerrados)).
 3. **Alfredo Sentinela**: audita periodicamente os repositórios do GitHub, detecta dependências por lockfiles/manifestos, consulta vulnerabilidades públicas e avisa sobre riscos ou atualizações relevantes.
 4. **Alfredo Secretário**: de segunda a sexta às 08:40 (horário de Brasília), busca vagas na Gupy, usa o Google Gemini para avaliar a aderência de cada uma ao perfil do candidato e envia as melhores ao Telegram com resumo profissional, áreas de interesse e o texto "sobre você" prontos para colar (ver [detalhes abaixo](#alfredo-secretário--vagas-com-candidatura-pronta)).
@@ -28,6 +28,7 @@ Automações que enviam ao Telegram notícias de tecnologia, jogos grátis, aler
 .github/state/daily-log.json
 .github/state/secretario-vagas-history.json
 config/vagas.json
+config/noticias.json
 scripts/alfredo-jornalista.mjs
 scripts/alfredo-gamer.mjs
 scripts/alfredo-sentinela.mjs
@@ -37,10 +38,13 @@ scripts/games-messages.mjs
 scripts/daily-log.mjs
 scripts/telegram.mjs
 scripts/gemini.mjs
+scripts/feeds.mjs
+scripts/noticias.mjs
 scripts/gupy.mjs
 scripts/vagas.mjs
 scripts/retry.mjs
 tests/vagas.test.mjs
+tests/noticias.test.mjs
 package.json
 package-lock.json
 .env.example
@@ -66,7 +70,7 @@ Crie estes Repository Secrets:
 | `ALFREDO_SENTINELA_GITHUB_TOKEN` | Personal Access Token para ler os repositórios auditados |
 | `ALFREDO_SECRETARIO_BOT_TOKEN` | Token do bot Alfredo Secretário no Telegram |
 | `ALFREDO_SECRETARIO_BOT_CHAT_ID` | Chat do Alfredo Secretário no Telegram |
-| `ALFREDO_SECRETARIO_GEMINI_API_KEY` | Chave da API oficial do Google Gemini |
+| `ALFREDO_SECRETARIO_GEMINI_API_KEY` | Chave da API oficial do Google Gemini. Também usada pelo Alfredo Jornalista quando `ALFREDO_NEWS_GEMINI_API_KEY` não existe |
 | `ALFREDO_SECRETARIO_PERFIL` | Perfil do candidato em texto livre, usado pela IA para avaliar as vagas e escrever os textos (ver [O perfil do candidato](#o-perfil-do-candidato)) |
 
 Para repositórios privados, use um Personal Access Token com permissão de leitura nos repositórios que serão auditados. Em tokens fine-grained, conceda acesso aos repositórios desejados com permissão **Contents: Read**. Para auditar organizações, o token também precisa ter acesso aos repositórios da organização.
@@ -85,8 +89,7 @@ Também em **Settings > Secrets and variables > Actions**, aba **Variables**, vo
 
 | Nome | Padrão | Uso |
 | --- | --- | --- |
-| `RSS_FEED_URL` | `https://tecnoblog.net/feed/` | Feed RSS do Alfredo Jornalista |
-| `NEWS_MAX_ITEMS` | `5` | Máximo de notícias inéditas por execução |
+| `NEWS_MAX_ITEMS` | `maxNoticiasPorExecucao` de `config/noticias.json` | Máximo de notícias enviadas por execução do Alfredo Jornalista |
 | `GAMERPOWER_URL` | API da GamerPower para Epic Games Store | Endpoint do Alfredo Gamer |
 | `GAMES_MAX_ITEMS` | `10` | Máximo de jogos inéditos por execução |
 | `SENTINELA_TARGETS` | vazio | Alvos do Sentinela. Vazio lista repositórios acessíveis pelo token. Aceita `org:minha-org`, `user:meu-user` ou `owner/repo`, separados por vírgula |
@@ -95,9 +98,9 @@ Também em **Settings > Secrets and variables > Actions**, aba **Variables**, vo
 | `SENTINELA_MAX_DEPENDENCIES_PER_REPO` | `800` | Limite de dependências analisadas por repositório |
 | `SENTINELA_INCLUDE_ARCHIVED` | `false` | Inclui repositórios arquivados na auditoria |
 | `SENTINELA_UPDATE_MAJOR_GAP` | `1` | Quantos majors de diferença tornam uma atualização relevante |
-| `GEMINI_MODEL` | `gemini-3.5-flash` | Modelo do Gemini usado pelo Alfredo Secretário |
+| `GEMINI_MODEL` | `gemini-3.5-flash` | Modelo do Gemini usado pelo Alfredo Secretário e pelo Alfredo Jornalista |
 
-Os termos de busca, a cidade, a nota mínima e os limites do Alfredo Secretário ficam em `config/vagas.json`, versionado junto com o código.
+Os termos de busca, a cidade, a nota mínima e os limites do Alfredo Secretário ficam em `config/vagas.json`, versionado junto com o código. As fontes, os interesses e a nota mínima do Alfredo Jornalista ficam em `config/noticias.json`.
 
 Exemplo de `SENTINELA_TARGETS`:
 
@@ -128,7 +131,7 @@ Nas próximas execuções, itens já registrados não são reenviados. Os workfl
 
 | Workflow | Arquivo | Cron | Horário esperado |
 | --- | --- | --- | --- |
-| Alfredo Jornalista | `.github/workflows/alfredo-jornalista.yml` | `*/15 * * * *` | A cada 15 minutos |
+| Alfredo Jornalista | `.github/workflows/alfredo-jornalista.yml` | `7 * * * *` | De hora em hora, no minuto 7 |
 | Alfredo Gamer | `.github/workflows/alfredo-gamer.yml` | `0 2 * * *` | 23:00 em America/Sao_Paulo |
 | Alfredo Sentinela | `.github/workflows/alfredo-sentinela.yml` | `0 9 * * *` | 06:00 em America/Sao_Paulo |
 | Alfredo Secretário | `.github/workflows/alfredo-secretario.yml` | `40 11 * * 1-5` | 08:40 em America/Sao_Paulo, de segunda a sexta |
@@ -140,6 +143,25 @@ Observação: workflows agendados no GitHub Actions podem atrasar alguns minutos
 ### Como alterar o horário do Alfredo Secretário
 
 Edite a linha `cron` em `.github/workflows/alfredo-secretario.yml`. O valor é sempre em UTC; para converter de America/Sao_Paulo (UTC-3) para UTC, some 3 horas ao horário desejado. Exemplo: para rodar às 07:50 em Brasília de segunda a sexta, use `cron: '50 10 * * 1-5'`.
+
+## Alfredo Jornalista — curadoria de notícias
+
+A cada execução, o Jornalista:
+
+1. Busca as notícias das últimas 48 horas em todas as fontes de `config/noticias.json`. Do Hacker News, só entram histórias com 150 pontos ou mais. Uma fonte fora do ar não impede as outras.
+2. Descarta as que já foram enviadas ou avaliadas antes e as que têm palavras de `palavrasExcluidas` no título ou no link (promoção, cupom etc.). A mesma matéria vinda de duas fontes conta uma vez só, porque o histórico usa o link normalizado.
+3. Manda as até 40 mais recentes ao Gemini numa única chamada. O Gemini dá uma nota de 0 a 10 de "o quanto um dev precisa saber disso", considerando o campo `interesses`, e escreve título, resumo e "por que importa" em português para as que passam de `notaMinima` (7).
+4. Envia as melhores ao Telegram (até `maxNoticiasPorExecucao`, 5), da maior nota para a menor. As reprovadas entram no histórico e não são avaliadas de novo. As aprovadas que passarem do limite ficam para a próxima execução.
+
+Para ajustar o que chega, edite `config/noticias.json`:
+
+- `interesses`: sua stack e seus temas, em texto livre. É o que mais muda o resultado.
+- `fontes`: adicione qualquer feed RSS ou Atom com `{ "nome": "...", "tipo": "rss", "url": "..." }`. Para desligar uma fonte sem apagá-la, use `"ativa": false`.
+- `notaMinima`: suba para 8 se chegar notícia demais; desça para 6 se chegar pouca.
+
+Sem chave do Gemini (`ALFREDO_NEWS_GEMINI_API_KEY` ou `ALFREDO_SECRETARIO_GEMINI_API_KEY`), o bot continua funcionando, mas sem curadoria: envia as mais recentes das fontes oficiais, sem o Hacker News, e avisa no log.
+
+Para testar localmente sem enviar nada nem gravar histórico, use `ALFREDO_NEWS_DRY_RUN=true npm run alfredo:jornalista`.
 
 ## Alfredo Gamer — jogos encerrados
 
@@ -211,7 +233,7 @@ npm run alfredo:sentinela
 npm run alfredo:secretario
 ```
 
-O projeto não tem dependências externas: todos os bots usam apenas `fetch` nativo e módulos do Node.js. `npm test` roda os testes unitários dos filtros de vagas com o test runner nativo (`node --test`).
+O projeto não tem dependências externas: todos os bots usam apenas `fetch` nativo e módulos do Node.js. `npm test` roda os testes unitários dos filtros de vagas e de notícias com o test runner nativo (`node --test`).
 
 Antes de rodar localmente, exporte as variáveis de ambiente do bot desejado. Exemplo para o Sentinela:
 
