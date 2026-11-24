@@ -96,13 +96,22 @@ async function run() {
   console.log('[Alfredo Secretário] Execução concluída.');
 }
 
+// A busca sem filtro devolve no máximo 100 vagas do Brasil inteiro, e as do Rio se perdem
+// no meio. Por isso cada termo é buscado duas vezes: no estado configurado (presencial e
+// híbrido, refinado por cidade nos filtros locais) e só remotas (qualquer lugar).
+function searchScopes() {
+  return [{ state: config.local.estado }, { workplaceType: 'remote' }];
+}
+
 async function collectJobs() {
   const results = [];
   let failures = 0;
 
   for (const term of config.termosDeBusca) {
     try {
-      results.push(...(await searchGupyJobs({ term, limit: config.resultadosPorTermo ?? 50 })));
+      for (const filters of searchScopes()) {
+        results.push(...(await searchGupyJobs({ term, limit: config.resultadosPorTermo ?? 50, filters })));
+      }
     } catch (error) {
       failures += 1;
       console.warn(`[Alfredo Secretário] Busca de um termo falhou: ${error.message}`);
