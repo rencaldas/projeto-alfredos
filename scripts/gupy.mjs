@@ -1,6 +1,6 @@
 import { withRetry } from './retry.mjs';
 
-const GUPY_JOBS_URL = 'https://portal.api.gupy.io/api/v1/jobs';
+const GUPY_JOBS_URL = 'https://portal.gupy.io/api/job-search/jobs';
 const DEFAULT_TIMEOUT_MS = 30000;
 
 const TYPE_LABELS = {
@@ -29,16 +29,21 @@ const WORKPLACE_MAP = {
 };
 
 /**
- * Busca vagas no portal público da Gupy (portal.gupy.io) para um termo.
+ * Busca vagas no portal público da Gupy (portal.gupy.io) para um termo, usando o mesmo
+ * endpoint da página de busca do portal. `filters` aceita os filtros do próprio portal
+ * (ex.: { state: 'Rio de Janeiro' } ou { workplaceType: 'remote' }).
  *
  * A API não é oficial nem documentada: se o formato da resposta mudar,
  * o erro abaixo mostra as chaves recebidas para facilitar o ajuste do parser.
  */
-export async function searchGupyJobs({ term, limit, timeoutMs = DEFAULT_TIMEOUT_MS }) {
+export async function searchGupyJobs({ term, limit, filters = {}, timeoutMs = DEFAULT_TIMEOUT_MS }) {
   const url = new URL(GUPY_JOBS_URL);
   url.searchParams.set('jobName', term);
   url.searchParams.set('limit', String(limit));
   url.searchParams.set('offset', '0');
+  for (const [key, value] of Object.entries(filters)) {
+    url.searchParams.set(key, value);
+  }
 
   const payload = await withRetry(
     async () => {
