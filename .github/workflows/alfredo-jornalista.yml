@@ -2,7 +2,8 @@ name: Alfredo Jornalista
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    # De hora em hora, no minuto 7 (fora do pico do Actions). Cada execucao faz uma chamada ao Gemini.
+    - cron: '7 * * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -55,7 +56,9 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_NEWS_BOT_TOKEN: ${{ secrets.TELEGRAM_NEWS_BOT_TOKEN }}
           TELEGRAM_NEWS_CHAT_ID: ${{ secrets.TELEGRAM_NEWS_CHAT_ID }}
-          RSS_FEED_URL: ${{ vars.RSS_FEED_URL }}
+          ALFREDO_NEWS_GEMINI_API_KEY: ${{ secrets.ALFREDO_NEWS_GEMINI_API_KEY }}
+          ALFREDO_SECRETARIO_GEMINI_API_KEY: ${{ secrets.ALFREDO_SECRETARIO_GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           NEWS_MAX_ITEMS: ${{ vars.NEWS_MAX_ITEMS }}
 
       - name: Versionar historico
