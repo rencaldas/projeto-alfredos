@@ -1,5 +1,6 @@
 {
   "interesses": "Desenvolvedor em formação que quer se manter atualizado para se tornar um bom dev. Stack e temas de interesse: PHP e Laravel, JavaScript/TypeScript e Node.js, Python, desenvolvimento web, bancos de dados, Git e GitHub, Docker, Linux, cloud e DevOps, segurança de aplicações, e IA aplicada ao desenvolvimento (novos modelos, APIs, agentes, ferramentas de código com IA). Também interessa o que está mudando na profissão: tendências de mercado, práticas de engenharia e carreira em TI.",
+  "modelosReserva": ["gemini-2.5-flash", "gemini-2.5-flash-lite"],
   "horasMaximasDesdePublicacao": 48,
   "notaMinima": 7,
   "maxNoticiasParaAvaliar": 40,

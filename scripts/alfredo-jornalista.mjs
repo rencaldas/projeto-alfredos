@@ -190,7 +190,7 @@ async function scoreNews(items) {
     required: ['avaliacoes']
   };
 
-  const result = await generateStructuredReport({ apiKey: geminiApiKey, model: geminiModel, prompt, schema });
+  const result = await generateWithFallback({ prompt, schema });
   const scores = new Map();
 
   for (const avaliacao of result.avaliacoes ?? []) {
@@ -204,6 +204,27 @@ async function scoreNews(items) {
   }
 
   return scores;
+}
+
+/**
+ * Tenta o modelo principal e, se ele estiver sobrecarregado, sem cota ou indisponivel,
+ * os modelos reserva de config/noticias.json, em ordem.
+ */
+async function generateWithFallback({ prompt, schema }) {
+  const models = [...new Set([geminiModel, ...(config.modelosReserva ?? [])])];
+  let lastError;
+
+  for (const model of models) {
+    try {
+      return await generateStructuredReport({ apiKey: geminiApiKey, model, prompt, schema, maxRetries: 2 });
+    } catch (error) {
+      lastError = error;
+      if (![404, 429, 500, 503].includes(error.status)) throw error;
+      console.warn(`[${AGENT_NAME}] Modelo ${model} indisponível (${error.status}); tentando o próximo.`);
+    }
+  }
+
+  throw lastError;
 }
 
 // ---------- Telegram ----------
