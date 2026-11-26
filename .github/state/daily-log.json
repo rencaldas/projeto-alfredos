@@ -1,112 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung deve cortar produção da linha Galaxy A em 20%",
-      "summary": "Crise no preço das memórias pressiona a rentabilidade de celulares mais baratos. Samsung deve cortar produção da linha Galaxy A em 20%",
-      "link": "https://tecnoblog.net/noticias/samsung-deve-cortar-producao-da-linha-galaxy-a-em-20/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Galaxy A",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-27T07:46:53.867Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Moto G77 5G (256 GB) com câmera de 108 MP cai 38% em promoção",
-      "summary": "Moto G77 (256 GB) câmera avançada e tela AMOLED de 120 Hz; lançamento da Motorola sai a preço mais baixo em oferta no Magalu Moto G77 5G (256 GB) com câmera de 108 MP cai 38% em promoção",
-      "link": "https://tecnoblog.net/achados/moto-g77-5g-256-gb-com-camera-de-108-mp-cai-38-em-promocao/",
-      "meta": {
-        "categorias": []
-      },
-      "timestamp": "2026-10-27T07:46:54.122Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Sky e Giga+ admitem conversas; negócio criaria gigante do mercado de fibra",
-      "summary": "Fusão de operações do grupo Waiken ILW e da Giga+ poderia superar base de assinantes da Brisanet. Sky e Giga+ admitem conversas; negócio criaria gigante do mercado de fibra",
-      "link": "https://tecnoblog.net/noticias/sky-e-giga-admitem-conversas-negocio-criaria-gigante-do-mercado-de-fibra/",
-      "meta": {
-        "categorias": [
-          "Telecomunicações",
-          "Brisanet",
-          "Sky",
-          "Waiken ILW"
-        ]
-      },
-      "timestamp": "2026-10-27T07:46:54.371Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Ex-CEO do GitHub lança Entire, plataforma rival feita para IA e humanos",
-      "summary": "Thomas Dohmke, ex-CEO do GitHub, lançou a plataforma Entire para competir com a sua antiga empresa. Ex-CEO do GitHub lança Entire, plataforma rival feita para IA e humanos",
-      "link": "https://tecnoblog.net/noticias/ex-ceo-do-github-lanca-entire-plataforma-rival-feita-para-ia-e-humanos/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "GitHub",
-          "Inteligência Artificial (IA)",
-          "Thomas Dohmke"
-        ]
-      },
-      "timestamp": "2026-10-27T13:41:59.509Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Edge 70 Pro com autonomia prolongada tem oferta com cupom",
-      "summary": "Motorola Edge 70 Pro (256 GB) com bateria que dura até 49 horas e câmeras de 50 MP sai 30% mais em conta que o preço original, em oferta do Mercado Livre no Pix com cupom Motorola Edge 70 Pro com autonomia prolongada tem oferta com cupom",
-      "link": "https://tecnoblog.net/achados/motorola-edge-70-pro-com-autonomia-prolongada-tem-oferta-com-cupom/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Edge 70 Pro",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-27T13:41:59.797Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Watch Ultra para esportistas alcança mais de R$ 3 mil OFF na Amazon",
-      "summary": "Galaxy Watch Ultra suporta diversos esportes e possui corpo de titânio; smartwatch da Samsung recebe desconto de 64% sobre o preço original em promoção no Pix Galaxy Watch Ultra para esportistas alcança mais de R$ 3 mil OFF na Amazon",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-para-esportistas-alcanca-mais-de-r-3-mil-off-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Amazon",
-          "Galaxy Watch Ultra",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-27T13:42:00.079Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Crise no iPhone Duo: fornecedora nega falha na dobradiça",
-      "summary": "A FineMTEC afirma que não há provas de defeito em seus componentes e considera medidas legais contra acusações. Crise no iPhone Duo: fornecedora nega falha na dobradiça",
-      "link": "https://tecnoblog.net/noticias/crise-no-iphone-duo-fornecedora-nega-falha-na-dobradica/",
-      "meta": {
-        "categorias": [
-          "Hardware e Componentes",
-          "Apple",
-          "celulares dobráveis",
-          "Dobradiça",
-          "FineMTEC",
-          "iPhone",
-          "iPhone Duo",
-          "smartphones",
-          "Tela"
-        ]
-      },
-      "timestamp": "2026-10-27T13:42:00.361Z"
-    },
-    {
       "agent": "Alfredo Sentinela",
       "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
       "summary": "Versão instalada v12.69.2 → versão mais recente 13.39.0 (Packagist).",
@@ -8082,6 +7976,66 @@
         "nota": 7
       },
       "timestamp": "2026-11-26T04:53:46.511Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "summary": "Foi divulgada uma vulnerabilidade crítica de execução remota de código pré-autenticada presente há 12 anos no servidor NFS do kernel Linux. A falha afeta diretamente a segurança de sistemas operacionais que utilizam o serviço.",
+      "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "meta": {
+        "fonte": "Hacker News",
+        "categoria": "Segurança",
+        "nota": 10
+      },
+      "timestamp": "2026-11-26T14:57:30.266Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload",
+      "summary": "A Microsoft lançou o .NET 11 com uma atualização do .NET MAUI que torna o CoreCLR o runtime padrão em todas as plataformas. A release também adiciona recarga a quente incremental para XAML, namespaces implícitos e suporte a passkeys.",
+      "link": "https://www.infoq.com/news/2026/11/dotnet-maui-11-coreclr-hotreload/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "Linguagens e frameworks",
+        "nota": 9
+      },
+      "timestamp": "2026-11-26T14:57:30.558Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Mock Service Worker Releases v3.0 with ESM-Only Build, Socket-Based Interception and GraphQL Subs",
+      "summary": "O Mock Service Worker 3.0 passou a ser exclusivo para ESM, exige Node.js 22 ou posterior e reduziu o tamanho do pacote. A nova versão adiciona suporte a subscrições GraphQL, pontos de entrada específicos de protocolo e interceptação no nível de TCP e TLS.",
+      "link": "https://www.infoq.com/news/2026/11/mock-service-worker-v3/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "Linguagens e frameworks",
+        "nota": 9
+      },
+      "timestamp": "2026-11-26T14:57:30.842Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell",
+      "summary": "Rachel Shalom explicou como a Dell resolveu falhas de recuperação em RAG corporativo ajustando modelos de embedding de código aberto. A discussão incluiu preparação de dados com negativos difíceis, treinamento de perda InfoNCE distribuído e avaliação usando LLM-as-a-judge.",
+      "link": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "IA",
+        "nota": 8
+      },
+      "timestamp": "2026-11-26T14:57:31.143Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Node.js 27.0.0-alpha.0.2.0 (Alpha)",
+      "summary": "Foi lançada uma nova versão alpha do Node.js 27 para testes e acompanhamento do desenvolvimento da plataforma.",
+      "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.2.0",
+      "meta": {
+        "fonte": "Node.js",
+        "categoria": "Linguagens e frameworks",
+        "nota": 8
+      },
+      "timestamp": "2026-11-26T14:57:31.426Z"
     }
   ]
 }
