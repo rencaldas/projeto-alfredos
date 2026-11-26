@@ -2,172 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Galaxy Tab S10 FE Plus para trabalhar fica 45% mais barato no Mercado Livre",
-      "summary": "Galaxy Tab S10 FE Plus Wi-Fi (128 GB) tem tela de 13,1\" e traz S Pen na caixa; tablet Samsung bom para multitarefas sai quase pela metade do preço original em oferta no Pix Galaxy Tab S10 FE Plus para trabalhar fica 45% mais barato no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-para-trabalhar-fica-46-mais-barato-no-magalu/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Galaxy AI",
-          "Galaxy Tab S10 FE Plus",
-          "Pix",
-          "Samsung",
-          "Stylus"
-        ]
-      },
-      "timestamp": "2026-10-27T18:58:03.516Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Motorola Razr 70 atinge 2º menor preço desde lançamento",
-      "summary": "Motorola Razr 70 (256 GB) com tela AMOLED flexível de 120 Hz e câmeras de 50 MP recebe desconto de 28% sobre o preço original, em oferta no Pix com cupom no Mercado Livre Motorola Razr 70 atinge 2º menor preço desde lançamento",
-      "link": "https://tecnoblog.net/achados/motorola-razr-70-atinge-2-o-menor-preco-desde-lancamento/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "AMOLED",
-          "Mercado Livre",
-          "Motorola",
-          "Motorola Razr 70",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-27T18:58:03.792Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple anuncia MacBook Pro e iMac de 24 polegadas com chip M6; veja preços",
-      "summary": "Novo MacBook Pro de 14 polegadas promete ainda até 24 horas de autonomia. Já novo iMac de 24 polegadas traz sete opções de cores. Apple anuncia MacBook Pro e iMac de 24 polegadas com chip M6; veja preços",
-      "link": "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-e-imac-de-24-polegadas-com-chip-m6-veja-precos/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Apple",
-          "Apple M6",
-          "Brasil",
-          "iMac",
-          "iPad Mini",
-          "MacBook Pro",
-          "OLED"
-        ]
-      },
-      "timestamp": "2026-10-27T18:58:04.146Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Instagram aposta na competição com o YouTube",
-      "summary": "Plataforma de Mark Zuckerberg ganha vídeos longos e na horizontal. Instagram aposta na competição com o YouTube",
-      "link": "https://tecnoblog.net/noticias/instagram-aposta-na-competicao-com-o-youtube/",
-      "meta": {
-        "categorias": [
-          "Redes Sociais",
-          "Instagram",
-          "YouTube"
-        ]
-      },
-      "timestamp": "2026-10-27T18:58:04.492Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Samsung leva multa por propaganda enganosa em celulares",
-      "summary": "Autoridade da Coreia do Sul diz que empresa omitiu limitações de desempenho em jogos no Galaxy S21, S22 e Tab S8. Samsung leva multa por propaganda enganosa em celulares",
-      "link": "https://tecnoblog.net/noticias/samsung-leva-multa-por-propaganda-enganosa-em-celulares/",
-      "meta": {
-        "categorias": [
-          "Governo e Legislação",
-          "celulares",
-          "Coreia do Sul",
-          "Galaxy",
-          "Galaxy S21",
-          "Galaxy S22",
-          "Galaxy Tab S8",
-          "GOS",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-27T18:58:04.872Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iOS 27.2 libera nova Siri em português no Brasil",
-      "summary": "Siri AI ganha acesso a mais informações pessoais. Atualização também traz novidades para Mensagens, Fotos e Apple Music. iOS 27.2 libera nova Siri em português no Brasil",
-      "link": "https://tecnoblog.net/noticias/ios-27-2-libera-nova-siri-em-portugues-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Apple",
-          "Apple Intelligence",
-          "Apple Music",
-          "Brasil",
-          "iOS",
-          "Português",
-          "Siri"
-        ]
-      },
-      "timestamp": "2026-10-27T22:49:57.193Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "PowerToys 0.102: “canivete suíço” do Windows agora facilita uso do mouse",
-      "summary": "Novo PowerToys para Windows permite manter um botão do mouse pressionado virtualmente e pode ocultar o cursor em certos momentos. PowerToys 0.102: “canivete suíço” do Windows agora facilita uso do mouse",
-      "link": "https://tecnoblog.net/noticias/powertoys-0-102-canivete-suico-do-windows-agora-facilita-uso-do-mouse/",
-      "meta": {
-        "categorias": [
-          "Software",
-          "Microsoft",
-          "Microsoft PowerToys",
-          "Windows"
-        ]
-      },
-      "timestamp": "2026-10-27T22:49:57.430Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Google Docs agora edita arquivos Markdown nativamente",
-      "summary": "Arquivos continuam no formato original e ganham colaboração em tempo real e histórico de versões. Google Docs agora edita arquivos Markdown nativamente",
-      "link": "https://tecnoblog.net/noticias/google-docs-agora-edita-arquivos-markdown-nativamente/",
-      "meta": {
-        "categorias": [
-          "Produtividade",
-          "Google",
-          "Google Docs",
-          "Markdown"
-        ]
-      },
-      "timestamp": "2026-10-27T22:49:57.670Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft Authenticator tem falha grave; correção já foi liberada",
-      "summary": "Vulnerabilidade no Microsoft Authenticator para Android permite que invasores obtenham credenciais de autenticação do usuário. Microsoft Authenticator tem falha grave; correção já foi liberada",
-      "link": "https://tecnoblog.net/noticias/microsoft-authenticator-tem-falha-grave-correcao-ja-foi-liberada/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Android",
-          "Microsoft",
-          "Microsoft Authenticator"
-        ]
-      },
-      "timestamp": "2026-10-27T22:49:57.911Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 18e deve manter tela de 60 Hz mesmo com novo chip",
-      "summary": "Celular de entrada da Apple é esperado com chip A20 de 2 nanômetros. Modelo deve trazer avanços em câmera frontal e desempenho. iPhone 18e deve manter tela de 60 Hz mesmo com novo chip",
-      "link": "https://tecnoblog.net/noticias/iphone-18e-deve-manter-tela-de-60-hz-mesmo-com-novo-chip/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Apple",
-          "iPhone",
-          "iPhone Air"
-        ]
-      },
-      "timestamp": "2026-10-27T22:49:58.242Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Baratinho: Galaxy Fit 3 para treinos fica abaixo dos R$ 200 em oferta",
       "summary": "Galaxy Fit monitora mais de 100 exercícios e tem resistência à água; pulseira inteligente da Samsung recebe 66% OFF no Mercado Livre Baratinho: Galaxy Fit 3 para treinos fica abaixo dos R$ 200 em oferta",
       "link": "https://tecnoblog.net/achados/baratinho-galaxy-fit-3-para-treinos-fica-abaixo-dos-r-200-em-oferta/",
@@ -8024,6 +7858,66 @@
         "repositorio": "rencaldas/hyperframes-jpix"
       },
       "timestamp": "2026-11-26T18:41:38.010Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Cloudflare lança busca para agentes de IA em sites com apenas um botão",
+      "summary": "A Cloudflare anunciou um novo recurso que facilita a busca e recuperação de informações relevantes por agentes de IA a partir de sites. O proprietário do site pode ativar a funcionalidade com um único botão e passa a arcar com os custos das consultas.",
+      "link": "https://thenewstack.io/cloudflare-agent-search-endpoint/",
+      "meta": {
+        "fonte": "The New Stack",
+        "categoria": "IA",
+        "nota": 7
+      },
+      "timestamp": "2026-11-26T23:41:23.173Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "QCon SF 2026: palestra propõe modelo para substituir o code review tradicional",
+      "summary": "Em palestra na QCon San Francisco 2026, Ankit Jain afirmou que a revisão de código linha por linha está em declínio, destacando que mais de 75% dos PRs já são mesclados sem revisão humana. Ele propôs uma abordagem em seis camadas para substituir o processo tradicional, resultando em maior volume de mesclagens e menos reversões.",
+      "link": "https://www.infoq.com/news/2026/11/qcon-sf-26-kill-code-review/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "Tendências",
+        "nota": 7
+      },
+      "timestamp": "2026-11-26T23:41:23.436Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Uso simultâneo de múltiplos agentes de IA impulsiona adoção de ambientes remotos",
+      "summary": "Desenvolvedores estão migrando da interação com agentes de IA individuais para a orquestração de dezenas de sessões concorrentes. Essa mudança tem transformado o hardware local em gargalo, impulsionando a adoção de ambientes de desenvolvimento remotos e isolados.",
+      "link": "https://thenewstack.io/ai-agents-remote-sandboxes/",
+      "meta": {
+        "fonte": "The New Stack",
+        "categoria": "IA",
+        "nota": 7
+      },
+      "timestamp": "2026-11-26T23:41:23.687Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Pun: ferramenta em Rust reúne formatação, linting e análise para PHP",
+      "summary": "O Pun é um binário único em Rust em beta público que formata, faz lint e analisa código PHP 8.3+. A ferramenta também instala pacotes do Composer e é configurada por meio de um único arquivo pun.toml.",
+      "link": "https://laravel-news.com/pun-php-toolchain",
+      "meta": {
+        "fonte": "Laravel News",
+        "categoria": "Linguagens e frameworks",
+        "nota": 7
+      },
+      "timestamp": "2026-11-26T23:41:23.947Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Engenheiros da Cognition passam a desenvolver software exclusivamente via Devin",
+      "summary": "Novos engenheiros contratados pela Cognition deixaram de configurar ambientes locais de desenvolvimento. Em vez disso, o agente de IA Devin tornou-se a interface primária para a construção e manutenção de software na empresa.",
+      "link": "https://thenewstack.io/cognition-devin-automated-engineering/",
+      "meta": {
+        "fonte": "The New Stack",
+        "categoria": "Tendências",
+        "nota": 7
+      },
+      "timestamp": "2026-11-26T23:41:25.142Z"
     }
   ]
 }
