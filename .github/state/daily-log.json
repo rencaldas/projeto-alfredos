@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: laravel/framework (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v12.69.2 → versão mais recente 13.39.0 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-27T15:03:44.683Z"
-    },
-    {
-      "agent": "Alfredo Sentinela",
-      "title": "Atualização major disponível: pestphp/pest (rencaldas/ideal-marketplace-project)",
-      "summary": "Versão instalada v4.7.8 → versão mais recente 5.3.4 (Packagist).",
-      "link": "https://github.com/rencaldas/ideal-marketplace-project",
-      "meta": {
-        "tipo": "atualizacao",
-        "tipoAtualizacao": "major",
-        "repositorio": "rencaldas/ideal-marketplace-project"
-      },
-      "timestamp": "2026-10-27T15:03:44.683Z"
-    },
-    {
       "agent": "Alfredo Jornalista",
       "title": "Galaxy Tab S10 FE Plus para trabalhar fica 45% mais barato no Mercado Livre",
       "summary": "Galaxy Tab S10 FE Plus Wi-Fi (128 GB) tem tela de 13,1\" e traz S Pen na caixa; tablet Samsung bom para multitarefas sai quase pela metade do preço original em oferta no Pix Galaxy Tab S10 FE Plus para trabalhar fica 45% mais barato no Mercado Livre",
@@ -8036,6 +8012,18 @@
         "nota": 8
       },
       "timestamp": "2026-11-26T14:57:31.426Z"
+    },
+    {
+      "agent": "Alfredo Sentinela",
+      "title": "Atualização major disponível: chromium-bidi (rencaldas/hyperframes-jpix)",
+      "summary": "Versão instalada 157.0.8090-0 → versão mais recente 160.0.8186-0 (npm).",
+      "link": "https://github.com/rencaldas/hyperframes-jpix",
+      "meta": {
+        "tipo": "atualizacao",
+        "tipoAtualizacao": "major",
+        "repositorio": "rencaldas/hyperframes-jpix"
+      },
+      "timestamp": "2026-11-26T18:41:38.010Z"
     }
   ]
 }
