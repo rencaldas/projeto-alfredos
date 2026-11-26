@@ -2,173 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Apple lança iPad Mini com tela OLED e chip A20 Pro; veja preços no Brasil",
-      "summary": "Novo iPad Mini traz tela ligeiramente maior, de 8,5 polegadas, e tem até 512 GB de armazenamento. Apple lança iPad Mini com tela OLED e chip A20 Pro; veja preços no Brasil",
-      "link": "https://tecnoblog.net/noticias/apple-lanca-ipad-mini-com-tela-oled-e-chip-a20-pro-veja-precos-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Apple",
-          "Brasil",
-          "iPad Mini",
-          "OLED"
-        ]
-      },
-      "timestamp": "2026-10-26T23:18:46.455Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "OpenAI desiste de treinar modelos de IA com acesso à internet",
-      "summary": "Restrição ocorre após modelos encontrarem formas de ultrapassar barreiras durante testes de segurança. OpenAI desiste de treinar modelos de IA com acesso à internet",
-      "link": "https://tecnoblog.net/noticias/openai-desiste-de-treinar-modelos-de-ia-com-acesso-a-internet/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Inteligência Artificial (IA)",
-          "OpenAI"
-        ]
-      },
-      "timestamp": "2026-10-26T23:18:46.716Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Itaú compra startup de IA por R$ 2,9 bilhões",
-      "summary": "Banco já tinha participação na NeoSpace; negócio ainda depende de aprovação do Cade e do Banco Central. Itaú compra startup de IA por R$ 2,9 bilhões",
-      "link": "https://tecnoblog.net/noticias/itau-compra-startup-de-ia-por-r-29-bilhoes/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Banco central",
-          "Bancos",
-          "Cade",
-          "IA Generativa",
-          "inteligência artificial",
-          "Inteligência Artificial (IA)",
-          "Itaú",
-          "NeoSpace",
-          "Serviços financeiros",
-          "Startups"
-        ]
-      },
-      "timestamp": "2026-10-26T23:18:46.995Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Microsoft prepara medidor de internet “real” no Windows 11",
-      "summary": "Teste de velocidade de conexão do Windows 11 atual é, na verdade, apenas um atalho para o Bing. Microsoft prepara medidor de internet “real” no Windows 11",
-      "link": "https://tecnoblog.net/noticias/microsoft-prepara-medidor-de-internet-real-no-windows-11/",
-      "meta": {
-        "categorias": [
-          "Sistemas Operacionais",
-          "Bing",
-          "Microsoft",
-          "Windows 11",
-          "Windows Insider"
-        ]
-      },
-      "timestamp": "2026-10-26T23:18:47.386Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "iPhone 16 (512 GB) chega ao menor preço desde julho na Amazon",
-      "summary": "iPhone 16 (512 GB) tem tela OLED de 2.000 nits e câmera wide de 48 MP; celular da Apple com espaço de sobra sai por menos da metade do preço original no Pix iPhone 16 (512 GB) chega ao menor preço desde julho na Amazon",
-      "link": "https://tecnoblog.net/achados/iphone-16-512-gb-chega-ao-menor-preco-desde-julho-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Amazon",
-          "Apple",
-          "Apple Intelligence",
-          "iPhone 16",
-          "Pix"
-        ]
-      },
-      "timestamp": "2026-10-26T23:18:47.756Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Oppo homologa powerbank de 100 W no Brasil",
-      "summary": "Modelo de 12.000 mAh oferece recarga poderosa. Lançamento no Brasil ainda não tem data. Oppo homologa powerbank de 100 W no Brasil",
-      "link": "https://tecnoblog.net/noticias/oppo-homologa-powerbank-de-100-w-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Periféricos",
-          "Brasil",
-          "OnePlus",
-          "Oppo",
-          "Realme"
-        ]
-      },
-      "timestamp": "2026-10-27T02:11:43.407Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Smart TV LG QNED Mini LED 65″ fica 28% mais barata em oferta",
-      "summary": "LG QNED70 de 65\" tem painel 4K com tecnologia avançada de cores e IA que recomenda conteúdos; smart TV da LG recebe desconto de 28% no Pix com cupom no Mercado Livre Smart TV LG QNED Mini LED 65″ fica 28% mais barata em oferta",
-      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-mini-led-65-fica-28-mais-barata-em-oferta/",
-      "meta": {
-        "categorias": [
-          "TVs",
-          "Inteligência Artificial (IA)",
-          "LG",
-          "Mercado Livre",
-          "Mini LED",
-          "Pix",
-          "QNED",
-          "Smart TV LG QNED Mini LED QNED70BSA"
-        ]
-      },
-      "timestamp": "2026-10-27T02:11:43.701Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Globo reformula planos do Globoplay: veja os novos recursos e preços",
-      "summary": "Planos com anúncios e Premium do Globoplay foram reajustados, mas agora incluem mais canais. Globo reformula planos do Globoplay: veja os novos recursos e preços",
-      "link": "https://tecnoblog.net/noticias/globoplay-reformula-planos-confira-os-novos-recursos-e-precos/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "Globoplay"
-        ]
-      },
-      "timestamp": "2026-10-27T02:11:43.983Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy S25 Plus com Snapdragon tem um dos melhores descontos recentes",
-      "summary": "Galaxy S25 Plus (256 GB) com processador de alto desempenho e tela AMOLED de 120 Hz volta a ficar abaixo da metade do preço original, em oferta do Magalu no Pix Galaxy S25 Plus com Snapdragon tem um dos melhores descontos recentes",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-com-snapdragon-tem-um-dos-melhores-descontos-recentes/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy AI",
-          "Galaxy S25 Plus",
-          "Magazine Luiza",
-          "Pix",
-          "Samsung",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-10-27T02:11:44.264Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Garmin Venu 4 para treinos tem mais de R$ 1.000 OFF em até 12x sem juros",
-      "summary": "Garmin Venu 4 (45 mm) tem recurso que avalia a evolução de carga e desempenho na academia; smartwatch sai 21% mais em conta na Amazon Garmin Venu 4 para treinos tem mais de R$ 1.000 OFF em até 12x sem juros",
-      "link": "https://tecnoblog.net/achados/garmin-venu-4-para-treinos-tem-mais-de-r-1-000-off-em-ate-12x-sem-juros/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Amazon",
-          "AMOLED",
-          "Garmin",
-          "Garmin Venu 4"
-        ]
-      },
-      "timestamp": "2026-10-27T02:11:44.628Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Samsung deve cortar produção da linha Galaxy A em 20%",
       "summary": "Crise no preço das memórias pressiona a rentabilidade de celulares mais baratos. Samsung deve cortar produção da linha Galaxy A em 20%",
       "link": "https://tecnoblog.net/noticias/samsung-deve-cortar-producao-da-linha-galaxy-a-em-20/",
@@ -8201,6 +8034,54 @@
         "nota": 7
       },
       "timestamp": "2026-11-25T22:25:08.944Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "1Password publica atualização sobre incidente de segurança ocorrido em novembro de 2026",
+      "summary": "A 1Password divulgou um comunicado sobre um incidente de segurança ocorrido em novembro de 2026. A empresa disponibilizou em seu blog uma atualização com os detalhes e o andamento das investigações sobre o caso.",
+      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "meta": {
+        "fonte": "Hacker News",
+        "categoria": "Segurança",
+        "nota": 9
+      },
+      "timestamp": "2026-11-26T04:53:45.661Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "DoorDash rearquiteta plataforma de despacho para suportar 10 vezes mais carga",
+      "summary": "A DoorDash reformulou sua plataforma de despacho em tempo real, substituindo um mecanismo monolítico por uma arquitetura distribuída que separa coordenação de computação. A nova estrutura alcançou 10 vezes mais vazão mantendo disponibilidade de 99,99% nos picos, além de utilizar aprendizado de máquina e aprendizado por reforço multiagente.",
+      "link": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "Cloud e DevOps",
+        "nota": 8
+      },
+      "timestamp": "2026-11-26T04:53:45.946Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "GitHub altera cobrança padrão do Copilot code review para organizações",
+      "summary": "O GitHub anunciou uma mudança na cobrança do recurso Copilot code review para membros com licença ativa do Copilot. A partir de 30 de dezembro de 2026, se uma opção diferente não tiver sido escolhida, as revisões serão faturadas diretamente para a organização.",
+      "link": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "meta": {
+        "fonte": "GitHub Changelog",
+        "categoria": "Ferramentas",
+        "nota": 7
+      },
+      "timestamp": "2026-11-26T04:53:46.230Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Docker apresenta recursos de governança de segurança para agentes de IA",
+      "summary": "A Docker destacou o uso do Docker AI Governance para aplicar controles de acesso e limites em agentes de código. A solução permite restringir e testar o acesso de agentes a redes, sistemas de arquivos, credenciais e MCP para garantir que não ultrapassem o escopo necessário.",
+      "link": "https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/",
+      "meta": {
+        "fonte": "Docker",
+        "categoria": "IA",
+        "nota": 7
+      },
+      "timestamp": "2026-11-26T04:53:46.511Z"
     }
   ]
 }
