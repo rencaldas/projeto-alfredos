@@ -2,103 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Amazon confirma “crediário” no Brasil; pagamento chega a 12 parcelas",
-      "summary": "Nova modalidade oferecida pelo e-commerce pode ser acessada pelo aplicativo. Usuários podem ativar diretamente no aplicativo. Amazon confirma “crediário” no Brasil; pagamento chega a 12 parcelas",
-      "link": "https://tecnoblog.net/noticias/amazon-confirma-crediario-no-brasil-pagamento-chega-a-12-parcelas/",
-      "meta": {
-        "categorias": [
-          "Serviços Financeiros",
-          "Amazon",
-          "Brasil",
-          "crediário",
-          "Crédito",
-          "Empréstimo",
-          "Mercado Livre",
-          "Shopee"
-        ]
-      },
-      "timestamp": "2026-10-28T14:28:45.264Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nova dona da Telecom Italia diz que Brasil não é prioritário",
-      "summary": "Poste Italiane afirma que operação brasileira é lucrativa e não está à venda, mas será usada \"taticamente\". Nova dona da Telecom Italia diz que Brasil não é prioritário",
-      "link": "https://tecnoblog.net/noticias/nova-dona-da-telecom-italia-diz-que-brasil-nao-e-prioritario/",
-      "meta": {
-        "categorias": [
-          "Negócios e Mercado",
-          "Alberto Griselli",
-          "Brasil",
-          "Gruppo TIM",
-          "Itália",
-          "Matteo Del Fante",
-          "Operadoras",
-          "Poste Italiane",
-          "Telecom Italia",
-          "telecomunicações",
-          "TIM",
-          "TIM Brasil"
-        ]
-      },
-      "timestamp": "2026-10-28T14:28:45.646Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Amazon anuncia os novos Echo Dot, Echo Time e Echo Studio; veja preços",
-      "summary": "Amazon Echo Time é destaque por funcionar como um despertador inteligente. Todos foram anunciados para o mercado brasileiro. Amazon anuncia os novos Echo Dot, Echo Time e Echo Studio; veja preços",
-      "link": "https://tecnoblog.net/noticias/amazon-anuncia-os-novos-echo-dot-echo-time-e-echo-studio-veja-precos/",
-      "meta": {
-        "categorias": [
-          "Casa Conectada e IoT",
-          "Amazon",
-          "Amazon Alexa",
-          "Amazon Echo",
-          "Echo Dot",
-          "Echo Studio",
-          "Echo Time"
-        ]
-      },
-      "timestamp": "2026-10-28T14:28:45.886Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Anatel ordena que clientes de telefonia móvel façam biometria",
-      "summary": "Reconhecimento facial será usado em ativações, troca de chip, portabilidade e mudanças contratuais. Linhas sem cadastro poderão ser suspensas em 2029. Anatel ordena que clientes de telefonia móvel façam biometria",
-      "link": "https://tecnoblog.net/noticias/anatel-ordena-que-clientes-de-telefonia-movel-facam-biometria/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Anatel",
-          "biometria",
-          "Claro",
-          "LGPD",
-          "Reconhecimento facial",
-          "Telefonia móvel",
-          "TIM",
-          "Vivo"
-        ]
-      },
-      "timestamp": "2026-10-28T14:28:46.150Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Robôs de limpeza fazem bonito durante feira em São Paulo",
-      "summary": "Redroad enfatiza que clientes podem contar com equipamentos de ponta e pós-venda completo. Robôs de limpeza fazem bonito durante feira em São Paulo",
-      "link": "https://tecnoblog.net/publieditoriais/robos-de-limpeza-fazem-bonito-durante-feira-em-sao-paulo/",
-      "meta": {
-        "categorias": [
-          "Robótica",
-          "Redroad",
-          "Robô",
-          "robô aspirador",
-          "São Paulo",
-          "Sparkoz"
-        ]
-      },
-      "timestamp": "2026-10-28T14:28:46.394Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Criminosos falsificam até sinais de GPS para roubar cargas de data centers",
       "summary": "Quadrilhas roubaram mais de R$ 534 milhões em equipamentos de tecnologia desde junho. Criminosos falsificam até sinais de GPS para roubar cargas de data centers",
       "link": "https://tecnoblog.net/noticias/criminosos-falsificam-ate-sinais-de-gps-para-roubar-cargas-de-data-centers/",
@@ -7867,6 +7770,66 @@
         "thumbnail": "https://www.gamerpower.com/offers/1/6b0857f437cbd.jpg"
       },
       "timestamp": "2026-11-27T10:12:57.126Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Cognition announces SWE-2.1 coding model",
+      "summary": "A Cognition anunciou o SWE-2.1, seu novo modelo de programação treinado com aprendizado por reforço no modelo de pesos abertos da Moonshot AI.",
+      "link": "https://thenewstack.io/cognition-swe21-coding-model/",
+      "meta": {
+        "fonte": "The New Stack",
+        "categoria": "IA",
+        "nota": 8
+      },
+      "timestamp": "2026-11-27T18:04:19.267Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight",
+      "summary": "O PyTorch agora permite que um revisor de IA aprove pull requests de seus próprios mantenedores através do GreenLight, versão open-source do sistema da Meta para auto-aprovar alterações de baixo risco.",
+      "link": "https://www.infoq.com/news/2026/11/uber-agent-spend-steady/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "IA",
+        "nota": 8
+      },
+      "timestamp": "2026-11-27T18:04:19.540Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Netflix Builds Quasar to Measure the Blast Radius of Library API Changes",
+      "summary": "A Netflix desenvolveu o Quasar, uma ferramenta interna que combina indexação semântica de código e comparações de API para identificar consumidores afetados por mudanças em bibliotecas.",
+      "link": "https://www.infoq.com/news/2026/11/netflix-quasar-api-impact/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "Ferramentas",
+        "nota": 8
+      },
+      "timestamp": "2026-11-27T18:04:19.809Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "US Air Force's cloud computing platform hacked",
+      "summary": "A plataforma de computação em nuvem da Força Aérea dos EUA sofreu uma violação de segurança.",
+      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "meta": {
+        "fonte": "Hacker News",
+        "categoria": "Segurança",
+        "nota": 8
+      },
+      "timestamp": "2026-11-27T18:04:20.085Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Vercel’s CEO thinks the next big AI speedup won’t come from smarter models",
+      "summary": "O CEO da Vercel aponta que os maiores ganhos de desempenho em IA estão vindo de melhorias na estrutura de suporte (harness) e não apenas de modelos mais inteligentes.",
+      "link": "https://thenewstack.io/vercel-workflow-sdk-harness/",
+      "meta": {
+        "fonte": "The New Stack",
+        "categoria": "IA",
+        "nota": 7
+      },
+      "timestamp": "2026-11-27T18:04:20.395Z"
     }
   ]
 }
