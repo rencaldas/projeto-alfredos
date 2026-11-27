@@ -2,92 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Baratinho: Galaxy Fit 3 para treinos fica abaixo dos R$ 200 em oferta",
-      "summary": "Galaxy Fit monitora mais de 100 exercícios e tem resistência à água; pulseira inteligente da Samsung recebe 66% OFF no Mercado Livre Baratinho: Galaxy Fit 3 para treinos fica abaixo dos R$ 200 em oferta",
-      "link": "https://tecnoblog.net/achados/baratinho-galaxy-fit-3-para-treinos-fica-abaixo-dos-r-200-em-oferta/",
-      "meta": {
-        "categorias": [
-          "Smartwatches",
-          "Galaxy Fit 3",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-28T01:52:43.160Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Soundbar LG com 300 W RMS de potência despenca 39% na Amazon",
-      "summary": "LG S40T entrega volume suficiente para salas grandes e acompanha subwoofer e dois alto-falantes; soundbar sai pelo menor preço que vimos nesta promoção Soundbar LG com 300 W RMS de potência despenca 39% na Amazon",
-      "link": "https://tecnoblog.net/achados/soundbar-lg-com-300-w-rms-de-potencia-despenca-39-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Periféricos",
-          "Amazon",
-          "LG",
-          "Pix",
-          "Soundbar LG S40T"
-        ]
-      },
-      "timestamp": "2026-10-28T01:52:43.388Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Claude recusa tarefas de engenharia reversa em TVs e jogos",
-      "summary": "Usuários relatam restrições no Opus 5.5; Anthropic não confirmou mudança nos filtros de segurança. Claude recusa tarefas de engenharia reversa em TVs e jogos",
-      "link": "https://tecnoblog.net/noticias/claude-recusa-tarefas-de-engenharia-reversa-em-tvs-e-jogos/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Anthropic",
-          "cibersegurança",
-          "Claude",
-          "Claude Opus 5.5",
-          "Engenharia Reversa",
-          "Games",
-          "inteligência artificial",
-          "smart TVs",
-          "TV (televisor)"
-        ]
-      },
-      "timestamp": "2026-10-28T01:52:43.628Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Só 3% das empresas viram ganhos com IA, mostra estudo",
-      "summary": "Gartner diz que 77% dos conselhos esperam mais produtividade e menos custos; 38% das companhias já estouraram o orçamento. Só 3% das empresas viram ganhos com IA, mostra estudo",
-      "link": "https://tecnoblog.net/noticias/so-3-das-empresas-viram-ganhos-com-ia-mostra-estudo/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Empresas",
-          "Gartner",
-          "IA Generativa",
-          "inteligência artificial",
-          "Produtividade",
-          "Trabalho"
-        ]
-      },
-      "timestamp": "2026-10-28T01:52:43.887Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Imagem do Disney+ fica pior no Brasil, mas preço segue intacto",
-      "summary": "Assinatura mais cara perde qualidade de imagem, agora sem 4K e HDR. Imagem do Disney+ fica pior no Brasil, mas preço segue intacto",
-      "link": "https://tecnoblog.net/noticias/imagem-do-disney-fica-pior-no-brasil-mas-preco-segue-intacto/",
-      "meta": {
-        "categorias": [
-          "Streaming",
-          "4K",
-          "Disney",
-          "Disney+ (Disney Plus)"
-        ]
-      },
-      "timestamp": "2026-10-28T01:52:44.141Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Amazon confirma “crediário” no Brasil; pagamento chega a 12 parcelas",
       "summary": "Nova modalidade oferecida pelo e-commerce pode ser acessada pelo aplicativo. Usuários podem ativar diretamente no aplicativo. Amazon confirma “crediário” no Brasil; pagamento chega a 12 parcelas",
       "link": "https://tecnoblog.net/noticias/amazon-confirma-crediario-no-brasil-pagamento-chega-a-12-parcelas/",
@@ -7918,6 +7832,30 @@
         "nota": 7
       },
       "timestamp": "2026-11-26T23:41:25.142Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google adota servidores MCP para conectar agentes de IA no Workspace",
+      "summary": "O Google anunciou que seus agentes de IA passarão a utilizar o padrão MCP (Model Context Protocol) para integração com o Workspace. Por questões de segurança, a implementação inicial do servidor MCP para o Gmail não permitirá o envio direto de e-mails.",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "meta": {
+        "fonte": "Hacker News",
+        "categoria": "IA",
+        "nota": 8
+      },
+      "timestamp": "2026-11-27T08:02:55.752Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Mozilla integra modelo open-weight da Mistral no assistente do Firefox",
+      "summary": "A Mozilla fez uma parceria com a Mistral AI para disponibilizar o modelo open-weight Mistral Small 4 no assistente Smart Window do Firefox, atualmente em versão beta. A integração permite escolher entre diferentes modelos e possui garantia de zero retenção de dados.",
+      "link": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "IA",
+        "nota": 7
+      },
+      "timestamp": "2026-11-27T08:02:55.988Z"
     }
   ]
 }
