@@ -363,7 +363,7 @@
     "3853": {
       "title": "Mark of the Deep (Epic Games) Giveaway",
       "endDate": "2026-11-26 23:59:00",
-      "expiredNotifiedAt": null,
+      "expiredNotifiedAt": "2026-11-27T10:12:56.432Z",
       "messages": [
         {
           "chatId": "7829764630",
@@ -372,6 +372,21 @@
         {
           "chatId": "726946412",
           "messageId": 309
+        }
+      ]
+    },
+    "3857": {
+      "title": "Bread and Fred (Epic Games) Giveaway",
+      "endDate": "2026-12-03 23:59:00",
+      "expiredNotifiedAt": null,
+      "messages": [
+        {
+          "chatId": "7829764630",
+          "messageId": 310
+        },
+        {
+          "chatId": "726946412",
+          "messageId": 311
         }
       ]
     }
