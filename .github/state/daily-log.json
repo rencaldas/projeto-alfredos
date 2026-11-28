@@ -2,175 +2,6 @@
   "entries": [
     {
       "agent": "Alfredo Jornalista",
-      "title": "Criminosos falsificam até sinais de GPS para roubar cargas de data centers",
-      "summary": "Quadrilhas roubaram mais de R$ 534 milhões em equipamentos de tecnologia desde junho. Criminosos falsificam até sinais de GPS para roubar cargas de data centers",
-      "link": "https://tecnoblog.net/noticias/criminosos-falsificam-ate-sinais-de-gps-para-roubar-cargas-de-data-centers/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "Estados Unidos (EUA)"
-        ]
-      },
-      "timestamp": "2026-10-28T19:44:23.664Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Gemini Notebook agora tem gravador de áudio para palestras e reuniões",
-      "summary": "Novo recurso do Gemini Notebook (antigo NotebookLM) permite gravar até uma hora de áudio e transcrever o conteúdo resultante. Gemini Notebook agora tem gravador de áudio para palestras e reuniões",
-      "link": "https://tecnoblog.net/noticias/gemini-notebook-agora-tem-gravador-de-audio-para-palestras-e-reunioes/",
-      "meta": {
-        "categorias": [
-          "Inteligência Artificial",
-          "Gemini Notebook",
-          "Google",
-          "NotebookLM"
-        ]
-      },
-      "timestamp": "2026-10-28T19:44:23.933Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy A55 entra na lista de celulares com One UI 9 no Brasil",
-      "summary": "Samsung liberou a atualização baseada no Android 17 para o modelo de 2024. Galaxy A37 também recebeu o update. Galaxy A55 entra na lista de celulares com One UI 9 no Brasil",
-      "link": "https://tecnoblog.net/noticias/galaxy-a55-entra-na-lista-de-celulares-com-one-ui-9-no-brasil/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Android",
-          "Android 17",
-          "Atualizações",
-          "Brasil",
-          "Galaxy A",
-          "Galaxy A37",
-          "Galaxy A55",
-          "Galaxy AI",
-          "One UI",
-          "One UI 9",
-          "Samsung",
-          "Samsung Galaxy A55 5G"
-        ]
-      },
-      "timestamp": "2026-10-28T19:44:24.204Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Nintendo Switch Lite fica mais barato com cupom no Mercado Livre",
-      "summary": "Nintendo Switch Lite com tela LCD de 5,5\" e experiência 100% portátil atinge desconto de 31% no Pix com cupom Nintendo Switch Lite fica mais barato com cupom no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/nintendo-switch-lite-fica-mais-barato-com-cupom-no-mercado-livre/",
-      "meta": {
-        "categorias": [
-          "Jogos",
-          "Mercado Livre",
-          "Nintendo",
-          "Nintendo Switch Lite",
-          "Nintendo Switch Online",
-          "Nintendo Switch Pro Controller",
-          "Pix",
-          "Switch"
-        ]
-      },
-      "timestamp": "2026-10-28T19:44:24.475Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy Buds 4 com ANC cai para quase metade do preço em oferta",
-      "summary": "Galaxy Buds 4 trazem cancelamento ativo de ruído e áudio Hi-Fi de 24 bits; fones sem fio da Samsung recebem desconto de 47% no Pix com cupom no Mercado Livre Galaxy Buds 4 com ANC cai para quase metade do preço em oferta",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-com-anc-cai-para-metade-do-preco-em-oferta-historica/",
-      "meta": {
-        "categorias": [
-          "Fones de ouvido",
-          "Controle ativo de ruído",
-          "Galaxy",
-          "Galaxy AI",
-          "Galaxy Buds",
-          "Galaxy Buds 4",
-          "High fidelity",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-28T19:44:24.746Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Após vazamento, Smart Sampa terá reconhecimento facial para acessar sistema",
-      "summary": "Prefeitura de São Paulo anunciou nova camada de autenticação após exposição de credenciais. Após vazamento, Smart Sampa terá reconhecimento facial para acessar sistema",
-      "link": "https://tecnoblog.net/noticias/apos-vazamento-smart-sampa-tera-reconhecimento-facial-para-acessar-sistema/",
-      "meta": {
-        "categorias": [
-          "Segurança e Privacidade",
-          "São Paulo"
-        ]
-      },
-      "timestamp": "2026-10-28T23:34:05.690Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Galaxy A57 despenca 58% para quem busca custo-benefício",
-      "summary": "Galaxy A57 (128 GB) tem tela Super AMOLED+ e câmera wide de 50 MP; celular acessível da Samsung sai muito mais em conta no Pix com cupom no Mercado Livre Galaxy A57 despenca 58% para quem busca custo-benefício",
-      "link": "https://tecnoblog.net/achados/galaxy-a57-despenca-58-para-quem-busca-custo-beneficio/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy A57",
-          "Mercado Livre",
-          "Pix",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-28T23:34:05.937Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Apple anuncia MacBook Pro com tela OLED sensível a toques; veja preços",
-      "summary": "MacBooks Pro de 14 e 16 polegadas agora podem ser equipados com a nova tela ProLED XDR, com painel \"touch\". Apple anuncia MacBook Pro com tela OLED sensível a toques; veja preços",
-      "link": "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-com-tela-oled-sensivel-a-toques/",
-      "meta": {
-        "categorias": [
-          "Computadores",
-          "Apple",
-          "iMac",
-          "iPad Mini",
-          "MacBook Pro",
-          "OLED"
-        ]
-      },
-      "timestamp": "2026-10-28T23:34:06.180Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Lenovo Idea Tab Pro Gen 2 tem R$ 1.500 OFF em até 12x na Amazon",
-      "summary": "Idea Tab Pro Gen 2 vem com caneta Tab Pen Plus e tem tela de 13\" com taxa de 144 Hz; tablet para jogos da Lenovo sai 32% mais barato no prazo Lenovo Idea Tab Pro Gen 2 tem R$ 1.500 OFF em até 12x na Amazon",
-      "link": "https://tecnoblog.net/achados/lenovo-idea-tab-pro-gen-2-tem-r-1-500-off-em-ate-12x-na-amazon/",
-      "meta": {
-        "categorias": [
-          "Tablets",
-          "Amazon",
-          "Lenovo",
-          "Lenovo Idea Tab Pro Gen 2",
-          "Snapdragon"
-        ]
-      },
-      "timestamp": "2026-10-28T23:34:06.421Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
-      "title": "Topo de linha: Galaxy S26 Ultra com Snapdragon tem desconto competitivo",
-      "summary": "Galaxy S26 Ultra (256 GB) tem 43% OFF no Mercado Livre e é opção certeira para quem busca um celular ultra premium equilibrado Topo de linha: Galaxy S26 Ultra com Snapdragon tem desconto competitivo",
-      "link": "https://tecnoblog.net/achados/topo-de-linha-galaxy-s26-ultra-com-snapdragon-tem-desconto-competitivo/",
-      "meta": {
-        "categorias": [
-          "Celulares",
-          "Galaxy S26 Ultra",
-          "Mercado Livre",
-          "Samsung"
-        ]
-      },
-      "timestamp": "2026-10-28T23:34:06.661Z"
-    },
-    {
-      "agent": "Alfredo Jornalista",
       "title": "Uber Moto agora tem viagens com preço fixo de R$ 4,98",
       "summary": "Modalidade Preço Fixo do Uber Moto chega a 38 cidades brasileiras, incluindo algumas capitais. Uber Moto agora tem viagens com preço fixo de R$ 4,98",
       "link": "https://tecnoblog.net/noticias/uber-moto-agora-tem-viagens-com-preco-fixo-de-r-498/",
@@ -7842,6 +7673,66 @@
         "repositorio": "rencaldas/hyperframes-jpix"
       },
       "timestamp": "2026-11-27T18:32:06.770Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "AWS lança Nitro Sandboxes para execução segura de agentes de IA",
+      "summary": "A AWS apresentou os Nitro Sandboxes, um ambiente isolado para executar scripts gerados por agentes de código. O recurso busca solucionar o risco de segurança ao permitir que agentes executem scripts de forma autônoma.",
+      "link": "https://thenewstack.io/aws-nitro-sandboxes-agents/",
+      "meta": {
+        "fonte": "The New Stack",
+        "categoria": "Cloud e DevOps",
+        "nota": 8
+      },
+      "timestamp": "2026-11-28T01:22:38.999Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Scripts de skimming usam WebRTC para roubar cartões em sites de e-commerce",
+      "summary": "Pesquisadores identificaram scripts maliciosos em e-commerces que utilizam WebRTC para exfiltrar dados de cartão de crédito. A técnica permite ocultar o roubo de dados burlando mecanismos tradicionais de detecção do navegador.",
+      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "meta": {
+        "fonte": "Hacker News",
+        "categoria": "Segurança",
+        "nota": 8
+      },
+      "timestamp": "2026-11-28T01:22:39.278Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Palestra detalha arquitetura para APIs distribuídas com latência abaixo de 100ms",
+      "summary": "Uma apresentação técnica explica como projetar APIs distribuídas resilientes mantendo baixa latência com base em práticas do eBay. O conteúdo abrange orçamentos de latência, fanout assíncrono, pools de threads, cache e circuit breakers.",
+      "link": "https://www.infoq.com/presentations/sub-100ms-latency-distributed-systems/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "Tendências",
+        "nota": 8
+      },
+      "timestamp": "2026-11-28T01:22:39.559Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Grafana inicia maior reformulação de interface desde a versão 7",
+      "summary": "A Grafana Labs apresentou a primeira fase da maior atualização visual da sua plataforma em anos. A mudança traz temas atualizados, componentes de interface padronizados e melhor hierarquia visual.",
+      "link": "https://www.infoq.com/news/2026/11/grfana-ui-refresh/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "Cloud e DevOps",
+        "nota": 7
+      },
+      "timestamp": "2026-11-28T01:22:39.973Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Laravel AutoBuilder adiciona editor visual de workflows ao framework",
+      "summary": "O pacote Laravel AutoBuilder introduz um editor visual de automação para aplicações Laravel. Ele permite conectar eventos do Eloquent, condições e ações, além de ser expansível com blocos customizados em PHP.",
+      "link": "https://laravel-news.com/laravel-autobuilder",
+      "meta": {
+        "fonte": "Laravel News",
+        "categoria": "Linguagens e frameworks",
+        "nota": 7
+      },
+      "timestamp": "2026-11-28T01:22:40.265Z"
     }
   ]
 }
