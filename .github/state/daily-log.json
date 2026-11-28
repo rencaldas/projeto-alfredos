@@ -7565,6 +7565,54 @@
         "repositorio": "rencaldas/hyperframes-jpix"
       },
       "timestamp": "2026-11-28T17:14:25.128Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Anthropic lança Claude Ship para revisar e aprovar Pull Requests no GitHub",
+      "summary": "A Anthropic anunciou o Claude Ship, um conjunto de agentes focados em analisar pull requests do GitHub, aplicar correções e aprovar alterações de acordo com regras configuradas. A novidade está disponível para assinantes dos planos Claude Team e Enterprise.",
+      "link": "https://www.infoq.com/news/2026/11/anthropic-claude-ship/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "IA",
+        "nota": 9
+      },
+      "timestamp": "2026-11-28T18:48:41.053Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Modelos GGUF infectados com malware no Hugging Face afetam milhares de usuários",
+      "summary": "Pesquisadores identificaram modelos LLM no formato GGUF hospedados no Hugging Face contendo malware oculto. A ameaça já atingiu cerca de 2.400 vítimas que baixaram os arquivos comprometidos.",
+      "link": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "meta": {
+        "fonte": "Hacker News",
+        "categoria": "Segurança",
+        "nota": 8
+      },
+      "timestamp": "2026-11-28T18:48:41.305Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Google atualiza MaxText com suporte a treinamento de longo contexto em LLMs",
+      "summary": "O Google integrou quatro estratégias de paralelismo de contexto ao MaxText, seu framework open-source em JAX. O recurso permite treinar modelos de linguagem com janelas de contexto de até 14 milhões de tokens em Cloud TPUs.",
+      "link": "https://www.infoq.com/news/2026/11/google-long-context-training/",
+      "meta": {
+        "fonte": "InfoQ",
+        "categoria": "IA",
+        "nota": 7
+      },
+      "timestamp": "2026-11-28T18:48:41.553Z"
+    },
+    {
+      "agent": "Alfredo Jornalista",
+      "title": "Andrej Karpathy realiza teste de 7 horas com o Claude Code",
+      "summary": "O especialista Andrej Karpathy utilizou o Claude Code para preencher um mapa de jogo no estilo Civilization com dados reais dos EUA. A ferramenta operou por sete horas e gerou aproximadamente 45.000 linhas de código durante a tarefa.",
+      "link": "https://thenewstack.io/karpathy-claude-code-map/",
+      "meta": {
+        "fonte": "The New Stack",
+        "categoria": "IA",
+        "nota": 7
+      },
+      "timestamp": "2026-11-28T18:48:41.803Z"
     }
   ]
 }
