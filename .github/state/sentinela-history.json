@@ -258,6 +258,8 @@
     "update|rencaldas/hyperframes-jpix|npm|chromium-bidi|157.0.8090-0|160.0.8184-0",
     "update|rencaldas/hyperframes-jpix|npm|ignore|5.3.2|7.0.17",
     "update|rencaldas/hyperframes-jpix|npm|chromium-bidi|157.0.8090-0|160.0.8186-0",
-    "update|rencaldas/hyperframes-jpix|npm|chromium-bidi|157.0.8090-0|160.0.8188-0"
+    "update|rencaldas/hyperframes-jpix|npm|chromium-bidi|157.0.8090-0|160.0.8188-0",
+    "update|rencaldas/hyperframes-jpix|npm|chromium-bidi|157.0.8090-0|160.0.8190-0",
+    "update|rencaldas/hyperframes-jpix|npm|undici|7.30.2|8.14.0"
   ]
 }
